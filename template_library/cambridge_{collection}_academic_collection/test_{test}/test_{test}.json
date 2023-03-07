@@ -1,0 +1,6 @@
+{
+    "name": "Cambridge IELTS {collection} Academic Test {test}",
+    "image": "C_{collection}_A_{test}",
+    "id": "C_{collection}_A_{test}",
+    "collection_id": "C_{collection}_A"
+}

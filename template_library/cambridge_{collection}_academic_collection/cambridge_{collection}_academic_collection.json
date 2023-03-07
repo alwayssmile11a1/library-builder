@@ -1,0 +1,8 @@
+{
+    "title": "Cambridge IELTS {collection} Academic",
+    "description": "Cambridge IELTS {collection} Academic",
+    "image": "C_{collection}_A",
+    "test_type": "academic",
+    "id": "C_{collection}_A",
+    "library_id": "C_L"
+}

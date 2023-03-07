@@ -1,0 +1,20 @@
+{
+    "name": "Cambridge IELTS 17 Academic Writing Task 1",
+    "id": "C_17_A_1_W",
+    "ielts_test_id": "C_17_A_1",
+    "type": "writing",
+    "image": "C_17_A_1_W",
+    "passages": [
+        {
+            "image": "C_17_A_1_W_1",
+            "question": "<span>The maps below show an industrial area in the town of Norbiton, and planned future development of the site.</span><br><span>Summarise the information by selecting and reporting the main features, and make comparisons where relevant.</span>",
+            "start": 1,
+            "end": 1
+        },
+        {
+            "question": "<span>It is important for people to take risks, both in their professional lives and their personal lives.</span><br><span>Do you think the advantages of taking risks outweigh the disadvantages?</span>",
+            "start": 2,
+            "end": 2
+        }
+    ]
+}
