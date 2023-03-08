@@ -1,4 +1,6 @@
 const fs = require('fs-extra');
+const os = require('os');
+const path = require('path');
 
 const allTestsFolderPath = "./all_tests";
 
@@ -40,7 +42,7 @@ const minSkillTestNumber = 1;
 
 
 // create the library folder
-let libraryFolderPath = "./" + libraryFolderName
+let libraryFolderPath = path.join(os.homedir(), 'Desktop') + "/" + libraryFolderName;
 fs.mkdir(libraryFolderPath, function(err) {
 
   // create the JSON library file
