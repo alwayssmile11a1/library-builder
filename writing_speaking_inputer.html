@@ -1,0 +1,549 @@
+<!-- wp:html -->
+<html>
+<head>
+<meta charset="UTF-8">
+<title>IELTS Form Input</title>
+<script src="https://cdn.tiny.cloud/1/y8t4dei7p7x6q1x2whb46vc3ywnqy88zqaen71nezamhivcb/tinymce/6/tinymce.min.js" referrerpolicy="origin"></script>
+<style>
+@import url('https://fonts.googleapis.com/css?family=Source+Code+Pro');
+ .json {
+	 font-family: 'Source Code Pro', monospace;
+	 font-size: 16px;
+}
+ .json > .json__item {
+	 display: block;
+}
+ .json__item {
+	 display: none;
+	 margin-top: 10px;
+	 padding-left: 20px;
+	 user-select: none;
+}
+ .json__item--collapsible {
+	 cursor: pointer;
+	 overflow: hidden;
+	 position: relative;
+}
+ .json__item--collapsible::before {
+	 content: '+';
+	 position: absolute;
+	 left: 5px;
+}
+ .json__item--collapsible::after {
+	 background-color: lightgrey;
+	 content: '';
+	 height: 100%;
+	 left: 9px;
+	 position: absolute;
+	 top: 26px;
+	 width: 1px;
+}
+ .json__item--collapsible:hover > .json__key, .json__item--collapsible:hover > .json__value {
+	 text-decoration: underline;
+}
+ .json__toggle {
+	 display: none;
+}
+ .json__toggle:checked ~ .json__item {
+	 display: block;
+}
+ .json__key {
+	 color: darkblue;
+	 display: inline;
+}
+ .json__key::after {
+	 content: ': ';
+}
+ .json__value {
+	 display: inline;
+}
+ .json__value--string {
+	 color: green;
+}
+ .json__value--number {
+	 color: blue;
+}
+ .json__value--boolean {
+	 color: red;
+}
+ 
+</style>
+</head>
+<body>
+<br>
+<br>
+<label>If you have an IELTS test file to load </label>
+<input type="file" id="file-selector">
+<div id="load_file_container"></div>
+<br>
+<br>
+<h2>IELTS Form Input</h2>
+<form action="#" method="post">
+<label>Skill Test Name</label>
+<input type="text" id="skillTestName" value="Cambridge IELTS {17} Academic {Speaking} Test {1}">
+<label>Skill Test ID</label>
+<input type="text" id="skillTestID" value="C_{17}_A_{1}_{S}">
+<!--<label>IELTS Test ID</label>
+<input type="text" id="ieltsTestID" value="C_{17}_A_{1}">-->
+<br>
+<br>
+<label>Skill Test type</label>
+<select id="skillTestType">
+	<option value="speaking">Speaking</option>
+	<option value="writing">Writing</option>
+</select>
+<br>
+<br>
+<hr>
+<h3>Tasks</h3>
+<div id="tasks-container">
+</div>
+<button type="button" id = "add_task" onclick="addTask()">Add Task</button>
+<button type="button" id = "remove_task" onclick="removeTask()">Remove Task</button>
+<br>
+<br>
+<hr>
+<h3>Questions</h3>
+<div id="questions-container">
+</div>
+<button type="button" onclick="addQuestion()">Add Question</button>
+<button type="button" onclick="removeQuestion()">Remove Question</button>
+<br>
+<br>
+<br>
+<button type="button" id="submitButton" style = "font-size: 25px !important; position: fixed !important; top: 200px !important; right: 40px !important;" onclick="saveToJSON()">Save To JSON</button>
+<button type="button" id="submitButton" style = "font-size: 18px !important; position: fixed !important; bottom: 100px !important; left: 20px !important;" onclick="loadAutosave()">Load From Autosave</button>
+</form>
+<br>
+<br>
+<br>
+<hr>
+<h3>JSON Result</h3>
+<div id="json_result"></div>
+<script>
+function jsonViewer(json, collapsible=false) {
+    var TEMPLATES = {
+        item: '<div class="json__item"><div class="json__key">%KEY%</div><div class="json__value json__value--%TYPE%">%VALUE%</div></div>',
+        itemCollapsible: '<label class="json__item json__item--collapsible"><input type="checkbox" class="json__toggle"/><div class="json__key">%KEY%</div><div class="json__value json__value--type-%TYPE%">%VALUE%</div>%CHILDREN%</label>',
+        itemCollapsibleOpen: '<label class="json__item json__item--collapsible"><input type="checkbox" checked class="json__toggle"/><div class="json__key">%KEY%</div><div class="json__value json__value--type-%TYPE%">%VALUE%</div>%CHILDREN%</label>'
+    };
+    function createItem(key, value, type){
+        var element = TEMPLATES.item.replace('%KEY%', key);
+        if(type == 'string') {
+            element = element.replace('%VALUE%', '"' + value + '"');
+        } else {
+            element = element.replace('%VALUE%', value);
+        }
+        element = element.replace('%TYPE%', type);
+        return element;
+    }
+    function createCollapsibleItem(key, value, type, children){
+        var tpl = 'itemCollapsible';
+        
+        if(collapsible) {
+            tpl = 'itemCollapsibleOpen';
+        }
+        
+        var element = TEMPLATES[tpl].replace('%KEY%', key);
+        element = element.replace('%VALUE%', type);
+        element = element.replace('%TYPE%', type);
+        element = element.replace('%CHILDREN%', children);
+        return element;
+    }
+    function handleChildren(key, value, type) {
+        var html = '';
+        for(var item in value) { 
+            var _key = item,
+                _val = value[item];
+            html += handleItem(_key, _val);
+        }
+        return createCollapsibleItem(key, value, type, html);
+    }
+    function handleItem(key, value) {
+        var type = typeof value;
+        if(typeof value === 'object') {        
+            return handleChildren(key, value, type);
+        }
+        return createItem(key, value, type);
+    }
+    function parseObject(obj) {
+        _result = '<div class="json">';
+        for(var item in obj) { 
+            var key = item,
+                value = obj[item];
+            _result += handleItem(key, value);
+        }
+        _result += '</div>';
+        return _result;
+    }
+    
+    return parseObject(json);
+};
+</script>
+<script>
+        function breakLine (container_name, elementID)
+        {
+            let elementContainer = document.getElementById(container_name);
+            let breakLineElement = document.createElement("br");
+            breakLineElement.id = "break_line_" + elementID;
+            elementContainer.appendChild(breakLineElement);
+        }
+        
+        function destroyBreakLine (elementID)
+        {
+            document.getElementById("break_line_" + elementID).remove();
+        }
+ 
+        function constructElement (element_html_name, element_type, container_name, elementID, elementValue)
+        {
+            let elementContainer = document.getElementById(container_name);
+            
+            let element = document.createElement(element_html_name);
+            element.type = element_type;
+            element.id = elementID;
+            element.value = (elementValue != undefined) ? elementValue : "";
+            let element_label = document.createElement("Label");
+            element_label.id = "label_" + element.id;
+            element_label.htmlFor = element.id;
+            element_label.innerHTML = element.id + " ";
+            
+            elementContainer.appendChild(element_label);
+            elementContainer.appendChild(element);
+            breakLine(container_name, elementID);
+            
+            return element;
+        }
+        function destroyElement (elementID)
+        {
+            document.getElementById("label_" + elementID).remove();
+			if(tinymce.get(elementID))
+			{
+				tinymce.get(elementID).remove();
+			}
+            document.getElementById(elementID).remove();
+            destroyBreakLine(elementID);
+        }
+		
+		document.getElementById("skillTestType").addEventListener('change', (event) => {
+				
+			switch(event.target.value)
+			{
+				case "writing":
+				{
+					document.getElementById("tasks-container").innerHTML = '';
+					taskCount = 0;
+					addTask(1);
+					addTask(1);
+					
+					document.getElementById("add_task").style.display = "none";
+					document.getElementById("remove_task").style.display = "none";
+					break;
+				}
+				default:
+				{
+					document.getElementById("tasks-container").innerHTML = '';
+					taskCount = 0;
+					document.getElementById("add_task").style.display = "inline-block";
+					document.getElementById("remove_task").style.display = "inline-block";
+				}
+			}
+		});
+    
+        taskCount = 0;
+        // Function to add new tasks
+        function addTask(taskQuestionCount, title) {
+            taskCount++;
+			
+			let taskElement = constructElement("input", "number", "tasks-container", "task_question_count_" + taskCount, taskQuestionCount == null ? 1 : taskQuestionCount);
+			
+			constructElement("input", "text", "tasks-container", "task_title_" + taskCount, title);
+			
+			if(document.getElementById("skillTestType").value == "writing")
+			{
+				document.getElementById("task_question_count_" + taskCount).style.display = "none";
+				document.getElementById("label_task_question_count_" + taskCount).style.display = "none";
+				document.getElementById("task_title_" + taskCount).style.display = "none";
+				document.getElementById("label_task_title_" + taskCount).style.display = "none";
+			}
+			
+			autoSave();
+        }
+        function removeTask() {
+            destroyElement("task_question_count_" + passageCount);
+			destroyElement("task_title_" + passageCount);
+            taskCount--;
+			
+			autoSave();
+        }
+        
+        questionCount = 0;
+        // Function to add new questions
+        function addQuestion(question, imageLink) {
+            questionCount++;
+            
+			if(document.getElementById("skillTestType").value == "writing" && questionCount == 1)
+			{
+				//constructElement("input", "text", "questions-container", "image_" + questionCount, imageLink);
+			}
+			
+            let questionContent = constructElement("textarea", "text", "questions-container", "question_" + questionCount, question);
+			tinymce.init({
+			  selector:'textarea#' + "question_" + questionCount,
+			  height:300,
+			  plugins: 'code autoresize table nonbreaking',
+			  toolbar: 'undo redo | blocks | bold italic underline strikethrough | align | removeformat | table tabledelete | tableprops tablerowprops tablecellprops | tableinsertrowbefore tableinsertrowafter tabledeleterow | tableinsertcolbefore tableinsertcolafter tabledeletecol | code',
+			  nonbreaking_force_tab: true,
+			  nonbreaking_wrap: false,
+			});
+			
+			let spanLabel = document.createElement("span");
+			spanLabel.id = "span_label_question_" + questionCount;
+			spanLabel.innerHTML = " task " + getQuestionTaskIndex(questionCount);
+			document.getElementById("label_question_" + questionCount).after(spanLabel);
+			
+			autoSave();
+        }
+        
+        function removeQuestion() {
+            
+			if(document.getElementById("skillTestType").value == "writing" && questionCount == 1)
+			{
+				//destroyElement("image_" + questionCount);
+			}
+			
+			document.getElementById("span_label_question_" + questionCount).remove();
+            destroyElement("question_" + questionCount);
+            questionCount--;
+			
+			autoSave();
+		}		
+        
+		function getQuestionTaskIndex(questionNumber)
+		{
+			let totalNumberOfQuestion = 0;
+			let questionTaskIndex = 1;
+			while(questionTaskIndex <= taskCount)
+			{				
+				totalNumberOfQuestion += parseInt(document.getElementById("task_question_count_" + questionTaskIndex).value);
+				if(questionNumber <= totalNumberOfQuestion)
+				{
+					break;
+				}
+				questionTaskIndex++;
+			}
+			return questionTaskIndex;
+		}
+		
+		function convertToRenderableFormat(htmlText)
+		{
+			if(htmlText == null) return "";
+		
+			htmlText = htmlText.replaceAll("<p>", "<span>");
+			htmlText = htmlText.replaceAll("</p>\n", "</span><br>");
+			htmlText = htmlText.replaceAll("\n", "<br>");
+			htmlText = htmlText.replaceAll("</p>", "</span>");
+			
+			if(htmlText.includes("&lt;input&gt;"))
+			{
+				htmlText = htmlText.split("&lt;input&gt;");
+				for(let i = 0; i < htmlText.length - 1; i++)
+				{
+					htmlText[i] = htmlText[i] + "</span>";
+					htmlText[i+1] = "<span>" + htmlText[i + 1];							
+				}
+			}
+			
+			return htmlText;
+		}
+		
+		function unconvertToRenderableFormat(htmlText)
+		{
+			if(htmlText == null) return "";
+		
+			if(Array.isArray(htmlText))
+			{
+				for(let i = 0; i < htmlText.length - 1; i++)
+				{
+					htmlText[i] = htmlText[i].slice(0, "</span>".length * -1);
+					htmlText[i+1] = htmlText[i+1].slice("<span>".length);
+				}
+				
+				htmlText = htmlText.join("&lt;input&gt;")
+			}
+		
+			htmlText = htmlText.replaceAll("<span>", "<p>");
+			htmlText = htmlText.replaceAll("</span><br>", "</p>\n");
+			htmlText = htmlText.replaceAll("<br>", "\n");
+			htmlText = htmlText.replaceAll("</span>", "</p>");
+			
+			return htmlText;
+		}
+		
+		function getJSONData()
+		{
+			//store data in JavaScript object
+            let jsonData = {};
+            jsonData.name = document.getElementById("skillTestName").value;
+			jsonData.id = document.getElementById("skillTestID").value;
+            jsonData.ielts_test_id = jsonData.id.slice(0, -2);
+			jsonData.type = document.getElementById("skillTestType").value;
+			jsonData.image = document.getElementById("skillTestID").value;
+            
+            //questions
+            for (let i = 1; i <= questionCount; i++) {
+				
+				if(jsonData.type == "writing")
+				{
+					if(jsonData.passages == null)
+					{
+						jsonData.passages = [];
+					}	
+					if (jsonData.passages[getQuestionTaskIndex(i)-1] == null)
+					{
+						jsonData.passages[getQuestionTaskIndex(i)-1] = {};
+					}
+					if(i == 1)
+					{				
+						jsonData.passages[getQuestionTaskIndex(i)-1].image = jsonData.id + "_1";
+					}
+					jsonData.passages[getQuestionTaskIndex(i)-1].question = convertToRenderableFormat(tinymce.get("question_" + i).getContent());
+					jsonData.passages[getQuestionTaskIndex(i)-1].start = getQuestionTaskIndex(i);
+					jsonData.passages[getQuestionTaskIndex(i)-1].end = getQuestionTaskIndex(i);
+				}
+				else
+				{
+					//reading
+					if(jsonData.passages == null)
+					{
+						jsonData.passages = [];
+					}
+					if (jsonData.passages[getQuestionTaskIndex(i)-1] == null)
+					{
+						jsonData.passages[getQuestionTaskIndex(i)-1] = {};
+						jsonData.passages[getQuestionTaskIndex(i)-1].title = document.getElementById("task_title_" + getQuestionTaskIndex(i)).value;
+						jsonData.passages[getQuestionTaskIndex(i)-1].questions = [];
+					}
+					jsonData.passages[getQuestionTaskIndex(i)-1].questions.push(convertToRenderableFormat(tinymce.get("question_" + i).getContent()));
+					jsonData.passages[getQuestionTaskIndex(i)-1].start = getQuestionTaskIndex(i);
+					jsonData.passages[getQuestionTaskIndex(i)-1].end = getQuestionTaskIndex(i);
+				}
+            }
+			
+			return jsonData;
+		}
+		
+        function saveToJSON(){
+                    
+            //convert JavaScript object to JSON
+			document.getElementById("json_result").innerHTML = jsonViewer(getJSONData(), true);
+            
+            var bb = new Blob([JSON.stringify(getJSONData())], { type: 'application/json' });
+            var a = document.createElement('a');
+            a.download = document.getElementById("skillTestName").value + '.json';
+            a.href = window.URL.createObjectURL(bb);
+            a.click();
+			
+			autoSave();
+        }
+        
+		function loadJSONData(jsonData)
+		{
+			document.getElementById("json_result").innerHTML = jsonViewer(jsonData, true);
+			document.getElementById("tasks-container").innerHTML = '';
+			document.getElementById("questions-container").innerHTML = '';					
+			tinymce.remove();
+			document.getElementById("skillTestName").value = jsonData.name;
+			document.getElementById("skillTestID").value = jsonData.id;
+			//document.getElementById("ieltsTestID").value = jsonData.ielts_test_id;
+			document.getElementById("skillTestType").value = jsonData.type;
+			
+			switch(jsonData.type)
+			{
+				case "writing":
+				{		
+					document.getElementById("add_task").style.display = "none";
+					document.getElementById("remove_task").style.display = "none";
+					break;
+				}
+				default:
+				{
+					document.getElementById("add_task").style.display = "inline-block";
+					document.getElementById("remove_task").style.display = "inline-block";
+				}
+			}
+			
+			taskCount = 0;
+			questionCount = 0;
+									
+			if(jsonData.type == "writing")
+			{
+				for (let i = 0; i < jsonData.passages.length; i++)
+				{
+					addTask(1);
+					if(i==0)
+					{
+						addQuestion(unconvertToRenderableFormat(jsonData.passages[i].question), jsonData.passages[i].image);
+					}
+					else
+					{
+						addQuestion(unconvertToRenderableFormat(jsonData.passages[i].question));
+					}
+				}
+			}
+			else
+			{
+				for (let i = 0; i < jsonData.passages.length; i++) {
+					addTask(jsonData.passages[i].questions.length, jsonData.passages[i].title);
+					for (let j = 0; j < jsonData.passages[i].questions.length; j++) {
+						addQuestion(unconvertToRenderableFormat(jsonData.passages[i].questions[j]));
+					}			
+				}
+			}
+		}
+		
+        document.getElementById('file-selector').addEventListener('change', (event) => {
+            
+            //load test file
+            const fileList = event.target.files;
+            var fr=new FileReader();
+            fr.onload=function(){
+				let jsonData = JSON.parse(fr.result);
+				let loadFileButton = document.createElement("button");
+				loadFileButton.innerHTML = "Load File";
+				document.getElementById("load_file_container").innerHTML = '';
+				document.getElementById("load_file_container").appendChild(loadFileButton);
+				loadFileButton.onclick=function(){
+					canAutoSave = false;
+					loadJSONData(jsonData);
+					canAutoSave = true;
+				}
+            }
+            fr.readAsText(fileList[0]);
+        });
+        
+		document.addEventListener('keydown', (event) => {
+		  if (event.ctrlKey && event.key == "s") {
+			  saveToJSON();
+		  }
+		}, false);
+		
+		canAutoSave = true;
+		
+		function autoSave(){
+			
+			if(canAutoSave)
+			{
+				localStorage['ielts-inputer'] = JSON.stringify(getJSONData());
+				//console.log(localStorage['ielts-inputer']);
+			}
+		}
+		
+		function loadAutosave()
+		{
+			loadJSONData(JSON.parse(localStorage['ielts-inputer']));
+		}
+		
+    </script>
+</body>
+</html>
+<!-- /wp:html -->

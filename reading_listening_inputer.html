@@ -1,0 +1,1021 @@
+<!-- wp:html -->
+<html>
+<head>
+<meta charset="UTF-8">
+<title>IELTS Form Input</title>
+<script src="https://cdn.tiny.cloud/1/5l45rqnleoaruwc4ibrpc5ygbp36k2512ova0rgs0q890a5g/tinymce/6/tinymce.min.js" referrerpolicy="origin"></script>
+<style>
+@import url('https://fonts.googleapis.com/css?family=Source+Code+Pro');
+ .json {
+	 font-family: 'Source Code Pro', monospace;
+	 font-size: 16px;
+}
+ .json > .json__item {
+	 display: block;
+}
+ .json__item {
+	 display: none;
+	 margin-top: 10px;
+	 padding-left: 20px;
+	 user-select: none;
+}
+ .json__item--collapsible {
+	 cursor: pointer;
+	 overflow: hidden;
+	 position: relative;
+}
+ .json__item--collapsible::before {
+	 content: '+';
+	 position: absolute;
+	 left: 5px;
+}
+ .json__item--collapsible::after {
+	 background-color: lightgrey;
+	 content: '';
+	 height: 100%;
+	 left: 9px;
+	 position: absolute;
+	 top: 26px;
+	 width: 1px;
+}
+ .json__item--collapsible:hover > .json__key, .json__item--collapsible:hover > .json__value {
+	 text-decoration: underline;
+}
+ .json__toggle {
+	 display: none;
+}
+ .json__toggle:checked ~ .json__item {
+	 display: block;
+}
+ .json__key {
+	 color: darkblue;
+	 display: inline;
+}
+ .json__key::after {
+	 content: ': ';
+}
+ .json__value {
+	 display: inline;
+}
+ .json__value--string {
+	 color: green;
+}
+ .json__value--number {
+	 color: blue;
+}
+ .json__value--boolean {
+	 color: red;
+}
+ 
+</style>
+</head>
+<body>
+<br>
+<br>
+<label>If you have an IELTS test file to load </label>
+<input type="file" id="file-selector">
+<div id="load_file_container"></div>
+<br>
+<br>
+<h2>IELTS Form Input</h2>
+<form action="#" method="post">
+<label>Skill Test Name</label>
+<input type="text" id="skillTestName" value="Cambridge IELTS {17} Academic {Reading} Test {1}">
+<label>Skill Test ID</label>
+<input type="text" id="skillTestID" value="C_{17}_A_{1}_{R}">
+<!--<label>IELTS Test ID</label>
+<input type="text" id="ieltsTestID" value="C_{17}_A_{1}">-->
+<br>
+<br>
+<label>Skill Test type</label>
+<select id="skillTestType">
+  <option value="reading">Reading</option>
+  <option value="listening">Listening</option>
+</select>
+<br>
+<br>
+<hr>
+<h3>Passages</h3>
+<div id="passages-container">
+</div>
+<button type="button" onclick="addPassage()">Add Passage</button>
+<button type="button" onclick="removePassage()">Remove Passage</button>
+<br>
+<br>
+<hr>
+<h3>Question sections</h3>
+<div id="question-sections-container">
+</div>
+<button type="button" onclick="addQuestionSection()">Add Question Section</button>
+<button type="button" onclick="removeQuestionSection()">Remove Question Section</button>
+<br>
+<br>
+<hr>
+<h3>Questions</h3>
+<div id="questions-container">
+</div>
+<button type="button" onclick="addQuestion()">Add Question</button>
+<button type="button" onclick="removeQuestion()">Remove Question</button>
+<br>
+<br>
+<br>
+<hr>
+<h3>Answers</h3>
+<div id="answers-container">
+</div>
+<button type="button" onclick="addAnswer()">Add Answer</button>
+<button type="button" onclick="removeAnswer()">Remove Answer</button>
+<br>
+<br>
+<br>
+<button type="button" id="submitButton" style = "font-size: 25px !important; position: fixed !important; top: 200px !important; right: 40px !important;" onclick="saveToJSON()">Save To JSON</button>
+<button type="button" id="submitButton" style = "font-size: 18px !important; position: fixed !important; bottom: 50px !important; left: 20px !important;" onclick="loadAutosave()">Load From Autosave</button>
+</form>
+<br>
+<br>
+<hr>
+<h3>Errors</h3>
+<div id="errors-container">
+</div>
+<button type="button" onclick="clearErrors()">Clear Errors</button>
+<br>
+<br>
+<hr>
+<h3>JSON Result</h3>
+<div id="json_result"></div>
+<script>
+function jsonViewer(json, collapsible=false) {
+    var TEMPLATES = {
+        item: '<div class="json__item"><div class="json__key">%KEY%</div><div class="json__value json__value--%TYPE%">%VALUE%</div></div>',
+        itemCollapsible: '<label class="json__item json__item--collapsible"><input type="checkbox" class="json__toggle"/><div class="json__key">%KEY%</div><div class="json__value json__value--type-%TYPE%">%VALUE%</div>%CHILDREN%</label>',
+        itemCollapsibleOpen: '<label class="json__item json__item--collapsible"><input type="checkbox" checked class="json__toggle"/><div class="json__key">%KEY%</div><div class="json__value json__value--type-%TYPE%">%VALUE%</div>%CHILDREN%</label>'
+    };
+    function createItem(key, value, type){
+        var element = TEMPLATES.item.replace('%KEY%', key);
+        if(type == 'string') {
+            element = element.replace('%VALUE%', '"' + value + '"');
+        } else {
+            element = element.replace('%VALUE%', value);
+        }
+        element = element.replace('%TYPE%', type);
+        return element;
+    }
+    function createCollapsibleItem(key, value, type, children){
+        var tpl = 'itemCollapsible';
+        
+        if(collapsible) {
+            tpl = 'itemCollapsibleOpen';
+        }
+        
+        var element = TEMPLATES[tpl].replace('%KEY%', key);
+        element = element.replace('%VALUE%', type);
+        element = element.replace('%TYPE%', type);
+        element = element.replace('%CHILDREN%', children);
+        return element;
+    }
+    function handleChildren(key, value, type) {
+        var html = '';
+        for(var item in value) { 
+            var _key = item,
+                _val = value[item];
+            html += handleItem(_key, _val);
+        }
+        return createCollapsibleItem(key, value, type, html);
+    }
+    function handleItem(key, value) {
+        var type = typeof value;
+        if(typeof value === 'object') {        
+            return handleChildren(key, value, type);
+        }
+        return createItem(key, value, type);
+    }
+    function parseObject(obj) {
+        _result = '<div class="json">';
+        for(var item in obj) { 
+            var key = item,
+                value = obj[item];
+            _result += handleItem(key, value);
+        }
+        _result += '</div>';
+        return _result;
+    }
+    
+    return parseObject(json);
+};
+</script>
+<script>
+        function breakLine (container_name, elementID)
+        {
+            let elementContainer = document.getElementById(container_name);
+            let breakLineElement = document.createElement("br");
+            breakLineElement.id = "break_line_" + elementID;
+            elementContainer.appendChild(breakLineElement);
+        }
+        
+        function destroyBreakLine (elementID)
+        {
+            document.getElementById("break_line_" + elementID).remove();
+        }
+ 
+        function constructElement (element_html_name, element_type, container_name, elementID, elementValue)
+        {
+            let elementContainer = document.getElementById(container_name);
+            
+            let element = document.createElement(element_html_name);
+            element.type = element_type;
+            element.id = elementID;
+            element.value = (elementValue != undefined) ? elementValue : "";
+            let element_label = document.createElement("Label");
+            element_label.id = "label_" + element.id;
+            element_label.htmlFor = element.id;
+            element_label.innerHTML = element.id + " ";
+            
+            elementContainer.appendChild(element_label);
+            elementContainer.appendChild(element);
+            breakLine(container_name, elementID);
+            
+            return element;
+        }
+        function destroyElement (elementID)
+        {
+            document.getElementById("label_" + elementID).remove();
+			if(tinymce.get(elementID))
+			{
+				tinymce.get(elementID).remove();
+			}
+            document.getElementById(elementID).remove();
+            destroyBreakLine(elementID);
+        }
+    
+        passageCount = 0;
+        // Function to add new passages
+        function addPassage(title, passageInfo, imageLink, start_index, end_index) {
+            passageCount++;
+			
+			constructElement("input", "text", "passages-container", "passage_title_" + passageCount, title);
+			
+			//if(document.getElementById("skillTestType").value == "reading")
+			{
+				constructElement("textarea", "text", "passages-container", "passage_" + passageCount, passageInfo);
+				tinymce.init({
+				  selector:'textarea#' + "passage_" + passageCount,
+				  plugins: 'code autoresize table nonbreaking',
+				  toolbar: 'undo redo | blocks | bold italic underline strikethrough | align | removeformat | code | table tabledelete | tableprops tablerowprops tablecellprops | tableinsertrowbefore tableinsertrowafter tabledeleterow | tableinsertcolbefore tableinsertcolafter tabledeletecol',
+				  nonbreaking_force_tab: true,
+				  nonbreaking_wrap: false,
+				});
+			}
+			
+			if(document.getElementById("skillTestType").value == "listening")
+			{
+				//listening
+				constructElement("input", "text", "passages-container", "passage_audio_" + passageCount, document.getElementById("skillTestID").value + "_" + passageCount);
+			}
+			
+			constructElement("input", "text", "passages-container", "passage_image_" + passageCount, imageLink);
+			constructElement("input", "number", "passages-container", "passage_start_index_" + passageCount, start_index);
+			constructElement("input", "number", "passages-container", "passage_end_index_" + passageCount, end_index);
+            
+            breakLine("passages-container", "additional_" + "passage_" + passageCount);
+			
+			autoSave();
+        }
+        function removePassage() {
+            destroyElement("passage_title_" + passageCount);
+			//if(document.getElementById("skillTestType").value == "reading")
+			{
+				destroyElement("passage_" + passageCount);
+			}
+			if(document.getElementById("skillTestType").value == "listening")
+			{
+				destroyElement("passage_audio_" + passageCount);
+			}
+			destroyElement("passage_image_" + passageCount);
+            destroyElement("passage_start_index_" + passageCount);
+            destroyElement("passage_end_index_" + passageCount);
+            destroyBreakLine("additional_" + "passage_" + passageCount);
+            passageCount--;
+			
+			autoSave();
+        }
+        
+        questionSectionCount = 0;
+        // Function to add new question sections
+        function addQuestionSection(instruction, sectionType, start_index, end_index) {
+            
+            questionSectionCount++;
+            
+			let section_type = constructElement("select", "text", "question-sections-container", "section_type_" + questionSectionCount, sectionType);
+            //Create array of options to be added
+            let array = ["label_completion","yes_no_notgiven","true_false_notgiven","matching_features","matching_headings","matching_information", "drop_information", "one_choice", "multiple_choices", "sentence_completion", "table_completion", "short_answer"];
+            //Create and append the options
+            for (var i = 0; i < array.length; i++) {
+                var option = document.createElement("option");
+                option.value = array[i];
+                option.text = array[i];
+                section_type.appendChild(option);
+            }		
+			section_type.value = sectionType;
+			
+            let customInstruction = constructElement("input", "text", "question-sections-container", "custom_instruction_" + questionSectionCount, instruction);
+			
+			section_type.addEventListener('change', (event) => {
+				
+				switch(event.target.value)
+				{
+					case "true_false_notgiven":
+					case "yes_no_notgiven":
+					case "label_completion":
+					case "matching_information":
+					case "matching_headings":
+					case "one_choice":
+					case "drop_information":
+					{
+						customInstruction.style.display = "none";
+						break;
+					}
+					default:
+					{
+						customInstruction.style.display = "inline-block";
+					}
+				}
+			});
+			
+			//call event to trigger refesh on customInstruction element
+			const e = new Event("change");
+			section_type.dispatchEvent(e);
+            
+            constructElement("input", "number", "question-sections-container", "question_section_start_index_" + questionSectionCount, start_index);
+            constructElement("input", "number", "question-sections-container", "question_section_end_index_" + questionSectionCount, end_index);
+            
+            breakLine("question-sections-container", "additional_" + "question_section_" + questionSectionCount);
+			
+			autoSave();
+        }
+		
+        function removeQuestionSection() {
+            
+            destroyElement("custom_instruction_" + questionSectionCount);
+            destroyElement("section_type_" + questionSectionCount);
+            destroyElement("question_section_start_index_" + questionSectionCount)
+            destroyElement("question_section_end_index_" + questionSectionCount)
+            destroyBreakLine("additional_" + "question_section_" + questionSectionCount)
+            questionSectionCount--;
+			
+			autoSave();
+        }
+        questionCount = 0;
+        // Function to add new questions
+        function addQuestion(question, question_options) {
+            questionCount++;
+            
+            let questionContent = constructElement("textarea", "text", "questions-container", "question_" + questionCount, question);
+			tinymce.init({
+			  	selector:'textarea#' + "question_" + questionCount,
+			  	height:300,
+				plugins: 'code autoresize table nonbreaking',
+				toolbar: 'undo redo | blocks | bold italic underline strikethrough | align | removeformat | code | table tabledelete | tableprops tablerowprops tablecellprops | tableinsertrowbefore tableinsertrowafter tabledeleterow | tableinsertcolbefore tableinsertcolafter tabledeletecol',
+				nonbreaking_force_tab: true,
+				nonbreaking_wrap: false,
+			});
+			
+			let spanLabel = document.createElement("span");
+			spanLabel.id = "span_label_question_" + questionCount;
+			spanLabel.innerHTML = " " + document.getElementById("section_type_" + getQuestionSectionIndex(questionCount)).value;
+			document.getElementById("label_question_" + questionCount).after(spanLabel);
+			
+            let options = constructElement("textarea", "text", "questions-container", "question_options_" + questionCount, question_options);
+				
+			if(document.getElementById("section_type_" + getQuestionSectionIndex(questionCount)))
+			{
+				switch(document.getElementById("section_type_" + getQuestionSectionIndex(questionCount)).value)
+				{
+					case "true_false_notgiven":
+					case "yes_no_notgiven":
+					case "short_answer":
+					{
+						options.value = "";
+						document.getElementById("question_options_" + questionCount).style.display = "none";
+						document.getElementById("label_question_options_" + questionCount).style.display = "none";
+						break;
+					}
+					case "sentence_completion":
+					case "table_completion":
+					{
+						options.value = "";
+						document.getElementById("question_options_" + questionCount).style.display = "none";
+						document.getElementById("label_question_options_" + questionCount).style.display = "none";
+						if(questionCount < document.getElementById("question_section_end_index_" + getQuestionSectionIndex(questionCount)).value)
+						{
+							document.getElementById("question_" + questionCount).style.display = "none";
+						}
+						break;
+					}
+					case "matching_headings":
+					case "drop_information":
+					{
+						if(questionCount < document.getElementById("question_section_end_index_" + getQuestionSectionIndex(questionCount)).value)
+						{
+							options.value = "";
+							document.getElementById("question_" + questionCount).style.display = "none";
+							document.getElementById("question_options_" + questionCount).style.display = "none";
+							document.getElementById("label_question_options_" + questionCount).style.display = "none";
+						}
+						break;
+					}
+					case "matching_features":
+					case "matching_information":
+					case "label_completion":
+					{
+						if(questionCount < document.getElementById("question_section_end_index_" + getQuestionSectionIndex(questionCount)).value)
+						{
+							options.value = "";
+							document.getElementById("question_options_" + questionCount).style.display = "none";
+							document.getElementById("label_question_options_" + questionCount).style.display = "none";
+						}
+						else
+						{
+							//document.getElementById("question_options_" + questionCount).style.display = "none";
+							//document.getElementById("label_question_options_" + questionCount).style.display = "none";
+						}
+						break;
+					}
+					case "multiple_choices":
+					{
+						if((questionCount - document.getElementById("question_section_start_index_" + getQuestionSectionIndex(questionCount)).value) % 2 == 0)
+						{
+							document.getElementById("question_" + questionCount).style.display = "none";
+							document.getElementById("question_options_" + questionCount).style.display = "none";
+							document.getElementById("label_question_options_" + questionCount).style.display = "none";
+						}
+						break;
+					}
+				}
+				
+			}
+			
+			breakLine("questions-container", "additional_" + "question_" + questionCount);		
+			
+			autoSave();
+        }
+        
+        function removeQuestion() {
+            
+			document.getElementById("span_label_question_" + questionCount).remove();
+            destroyElement("question_" + questionCount);
+            destroyElement("question_options_" + questionCount)
+            destroyBreakLine("additional_" + "question_" + questionCount);
+            questionCount--;
+			
+			autoSave();
+		}
+		
+		answerCount = 0; 
+		function addAnswer(answer, explanation) {
+			answerCount++;
+			
+			constructElement("textarea", "text", "answers-container", "answer_" + answerCount, answer);
+			constructElement("textarea", "text", "answers-container", "explanation_" + answerCount, explanation);
+			
+			let spanLabel = document.createElement("span");
+			spanLabel.id = "span_label_answer_" + answerCount;
+			spanLabel.innerHTML = " " + document.getElementById("section_type_" + getQuestionSectionIndex(answerCount)).value;
+			document.getElementById("label_answer_" + answerCount).after(spanLabel);
+			
+			breakLine("answers-container", "additional_" + "answer_" + answerCount);
+			
+			autoSave();
+		}
+		
+		function removeAnswer() {
+			document.getElementById("span_label_answer_" + answerCount).remove();
+			destroyElement("answer_" + answerCount);
+			destroyElement("explanation_" + answerCount);
+			destroyBreakLine("additional_" + "answer_" + answerCount);
+			answerCount--;
+			
+			autoSave();
+		}
+        
+		function getQuestionSectionIndex(questionNumber)
+		{
+			let questionSectionIndex = 1;
+			while(questionSectionIndex < questionSectionCount)
+			{	
+				if(questionNumber >= document.getElementById("question_section_start_index_" + questionSectionIndex).value && 
+				questionNumber <= document.getElementById("question_section_end_index_" + questionSectionIndex).value)
+				{
+					break;
+				}
+				questionSectionIndex++;
+			}
+			return questionSectionIndex;
+		}
+		
+		function convertToRenderableFormat(htmlText)
+		{
+			if(htmlText == null) return "";
+		
+			htmlText = htmlText.replaceAll("<p>", "<span>");
+			htmlText = htmlText.replaceAll("</p>\n", "</span><br>");
+			htmlText = htmlText.replaceAll("\n", "<br>");
+			htmlText = htmlText.replaceAll("</p>", "</span>");
+			
+			if(htmlText.includes("&lt;input&gt;"))
+			{
+				htmlText = htmlText.split("&lt;input&gt;");
+				for(let i = 0; i < htmlText.length - 1; i++)
+				{
+					htmlText[i] = htmlText[i] + "</span>";
+					htmlText[i+1] = "<span>" + htmlText[i + 1];							
+				}
+			}
+			
+			return htmlText;
+		}
+		
+		function unconvertToRenderableFormat(htmlText)
+		{
+			if(htmlText == null) return "";
+			
+			if(Array.isArray(htmlText))
+			{
+				for(let i = 0; i < htmlText.length - 1; i++)
+				{
+					htmlText[i] = htmlText[i].slice(0, "</span>".length * -1);
+					htmlText[i+1] = htmlText[i+1].slice("<span>".length);
+				}
+				
+				htmlText = htmlText.join("&lt;input&gt;")
+			}
+		
+			htmlText = htmlText.replaceAll("<span>", "<p>");
+			htmlText = htmlText.replaceAll("</span><br>", "</p>\n");
+			htmlText = htmlText.replaceAll("<br>", "\n");
+			htmlText = htmlText.replaceAll("</span>", "</p>");
+			
+			return htmlText;
+		}
+		
+		function clearErrors()
+		{
+			document.getElementById("errors-container").innerHTML = '';
+		}
+		
+		function checkForErrors()
+		{
+			clearErrors();
+			
+			for(let i = 1; i <= Math.min(questionCount, answerCount); i++)
+			{
+				let question_options = document.getElementById("question_options_" + i).value.trim().length > 0? document.getElementById("question_options_" + i).value.trim().split('\n') : [];
+				let answer_options = document.getElementById("answer_" + i).value.trim().split('\n');
+				let end_question_options = document.getElementById("question_options_" + document.getElementById("question_section_end_index_" + getQuestionSectionIndex(i)).value).value.trim().split('\n');
+				
+				switch(document.getElementById("section_type_" + getQuestionSectionIndex(i)).value)
+				{
+					case "yes_no_notgiven":
+					{
+						question_options = ["YES", "NO", "NOT GIVEN"];
+						break;
+					}
+					case "true_false_notgiven":
+					{
+						question_options = ["TRUE", "FALSE", "NOT GIVEN"];
+						break;
+					}
+					case "label_completion":
+					{
+						question_options = [];
+						break;
+					}
+					case "matching_features":
+					case "matching_headings":
+					case "matching_information":
+					case "drop_information":
+					case "multiple_choices":
+					{
+						question_options = end_question_options;
+						break;
+					}
+				}
+				let hasError = true;
+				for(let j = 0; j < answer_options.length; j++)
+				{	
+					if(question_options.length == 0 || question_options.includes(answer_options[j]))
+					{
+						hasError = false;
+						break;
+					}
+				}
+				if(hasError)
+				{
+					let errorP = document.createElement("p");
+					errorP.innerHTML = "Error at question & answer " + i;
+					document.getElementById("errors-container").append(errorP);
+				}
+			}
+					
+			for(let i = 1; i <= answerCount; i++)
+			{
+				if(document.getElementById("explanation_" + i).value.length > 0)
+				{
+					let hasError = true;
+					//check if explanation exists in passages
+					for(let j = 1; j <= passageCount; j++)
+					{
+						if(tinymce.get("passage_" + j).getContent({format : "text"}).length > 0)
+						{
+							if(tinymce.get("passage_" + j).getContent({format : "text"}).includes(document.getElementById("explanation_" + i).value))
+							{
+								hasError = false;
+								break;
+							}
+						}
+						else
+						{
+							hasError = false;
+						}
+						
+					}
+					if(hasError)
+					{
+						let errorP = document.createElement("p");
+						errorP.innerHTML = "Error at explanation " + i;
+						document.getElementById("errors-container").append(errorP);
+					}
+				}
+			}
+		}
+		
+		function getTinyMCEContent(id)
+		{
+			return tinymce.get(id) ? tinymce.get(id).getContent() : null;
+		}
+		
+		function getJSONData()
+		{
+			//store data in JavaScript object
+            let jsonData = {};
+            jsonData.name = document.getElementById("skillTestName").value;
+			jsonData.id = document.getElementById("skillTestID").value;
+            jsonData.ielts_test_id = jsonData.id.slice(0, -2);
+			jsonData.type = document.getElementById("skillTestType").value;
+			jsonData.image = document.getElementById("skillTestID").value;
+            //passages
+            jsonData.passages = [];
+            for (let i = 1; i <= passageCount; i++) {
+				
+				let passageData = {};
+				if(jsonData.type == "reading")
+				{
+					passageData = {
+						"title": document.getElementById("passage_title_" + i).value.trim(),
+						"passage": convertToRenderableFormat(getTinyMCEContent("passage_" + i)),
+						"image": document.getElementById("passage_image_" + i).value.trim(),
+						"start": parseInt(document.getElementById("passage_start_index_" + i).value),
+						"end": parseInt(document.getElementById("passage_end_index_" + i).value)
+					};
+				}
+				else
+				{
+					passageData = {
+						"title": document.getElementById("passage_title_" + i).value.trim(),
+						"audio": document.getElementById("passage_audio_" + i).value.trim(),
+						"image": document.getElementById("passage_image_" + i).value.trim(),
+						"start": parseInt(document.getElementById("passage_start_index_" + i).value),
+						"end": parseInt(document.getElementById("passage_end_index_" + i).value)
+					};
+				}
+                
+                jsonData.passages.push(passageData);
+            }
+            
+            //question sections
+            jsonData.question_sections = [];
+            for (let i = 1; i <= questionSectionCount; i++) {
+				
+				let question_section_data = {};
+				
+				if(document.getElementById("custom_instruction_" + i).value.trim().length > 0)
+				{
+					question_section_data = {
+						"custom_instruction": document.getElementById("custom_instruction_" + i).value.trim(),
+						"type": document.getElementById("section_type_" + i).value,
+						"start": parseInt(document.getElementById("question_section_start_index_" + i).value),
+						"end": parseInt(document.getElementById("question_section_end_index_" + i).value)
+					}
+				}
+				else
+				{
+					question_section_data = {
+						"type": document.getElementById("section_type_" + i).value,
+						"start": parseInt(document.getElementById("question_section_start_index_" + i).value),
+						"end": parseInt(document.getElementById("question_section_end_index_" + i).value)
+					}
+				}
+                
+                jsonData.question_sections.push(question_section_data);
+            }
+            
+            //questions
+            jsonData.questions = {};
+            for (let i = 1; i <= questionCount; i++) {
+				
+				let questionContent = "";
+				
+				switch(document.getElementById("section_type_" + getQuestionSectionIndex(i)).value)
+				{
+					case "drop_information":
+					case "sentence_completion":
+					case "matching_headings":
+					{
+						let startQuestionIndex = document.getElementById("question_section_start_index_" + getQuestionSectionIndex(i)).value;
+						let endQuestionIndex = document.getElementById("question_section_end_index_" + getQuestionSectionIndex(i)).value;
+						let endQuestionContent = convertToRenderableFormat(getTinyMCEContent("question_" + endQuestionIndex));
+						if(i < endQuestionIndex)
+						{
+							questionContent = [endQuestionContent[i - startQuestionIndex]];
+						}
+						else
+						{
+							questionContent = [endQuestionContent[i - startQuestionIndex], endQuestionContent[endQuestionContent.length -1] != null? endQuestionContent[endQuestionContent.length -1] : ""];
+						}
+						
+						//console.log(i);
+						//console.log(questionContent);
+						
+						break;
+					}
+					case "table_completion":
+					{
+						let endQuestionIndex = document.getElementById("question_section_end_index_" + getQuestionSectionIndex(i)).value;
+						//let endQuestionContent = tinymce.get("question_" + endQuestionIndex).getContent();
+						
+						questionContent = [];
+						
+						if(i == endQuestionIndex)
+						{
+							tinymce.get("question_" + i).dom.select("tr").forEach(tr => {
+								
+								let trContent = [];
+								
+								tr.querySelectorAll("td").forEach(td => {
+									
+									let cellContent = {};
+									
+									if(td.getAttribute("colspan"))
+									{
+										cellContent.colspan = td.getAttribute("colspan");
+									}
+									if(td.getAttribute("rowspan"))
+									{
+										cellContent.rowspan = td.getAttribute("rowspan");
+									}									
+									cellContent.content = convertToRenderableFormat(td.innerHTML.replace("</p><p>", "</p><br><p>"));
+									
+									//console.log(td.innerHTML);
+									
+									trContent.push(cellContent);
+								});
+								
+								questionContent.push(trContent);
+							 });
+							 
+							 //console.log(questionContent);
+						}
+						
+						
+						break;
+					}
+					default:
+					{
+						questionContent = convertToRenderableFormat(getTinyMCEContent("question_" + i));
+					}
+				}
+				
+				let question_data = {};
+				
+				if(document.getElementById("question_options_" + i).value.trim().length > 0)
+				{
+					question_data = {
+						"question": questionContent,
+						"options": document.getElementById("question_options_" + i).value.trim().split('\n')
+					}
+				}
+				else
+				{
+					question_data = {
+						"question": questionContent
+					}
+				}
+				
+                jsonData.questions[i] = question_data;
+            }
+			
+			//answers		
+			jsonData.answers = {};
+			if(jsonData.type == "listening")
+			{
+				jsonData.answers.transcripts = {};
+				for (let i = 1; i <= passageCount; i++) {			
+					jsonData.answers.transcripts[i] = convertToRenderableFormat(getTinyMCEContent("passage_" + i));
+				}					
+			}
+			
+			jsonData.answers.answer_sheet = {};
+            for (let i = 1; i <= answerCount; i++) {
+                let answer_data = {
+                    "answer": document.getElementById("answer_" + i).value.trim().length > 0? document.getElementById("answer_" + i).value.trim().split('\n') : [],
+					"explanation": document.getElementById("explanation_" + i).value.trim()
+                }
+                
+                jsonData.answers.answer_sheet[i] = answer_data;
+            }
+			
+			return jsonData;
+		}
+		
+        function saveToJSON(){
+            
+			checkForErrors();
+            
+            //convert JavaScript object to JSON
+			document.getElementById("json_result").innerHTML = jsonViewer(getJSONData(), true);
+            
+            var bb = new Blob([JSON.stringify(getJSONData())], { type: 'application/json' });
+            var a = document.createElement('a');
+            a.download = document.getElementById("skillTestName").value + '.json';
+            a.href = window.URL.createObjectURL(bb);
+            a.click();
+			
+			autoSave();
+        }
+		
+		function loadJSONData(jsonData)
+		{
+			document.getElementById("json_result").innerHTML = jsonViewer(jsonData, true);
+			document.getElementById("passages-container").innerHTML = '';
+			document.getElementById("question-sections-container").innerHTML = '';
+			document.getElementById("questions-container").innerHTML = '';
+			document.getElementById("answers-container").innerHTML = '';
+			tinymce.remove();
+			document.getElementById("skillTestName").value = jsonData.name;
+			document.getElementById("skillTestID").value = jsonData.id;
+			//document.getElementById("ieltsTestID").value = jsonData.ielts_test_id;
+			document.getElementById("skillTestType").value = jsonData.type;
+			passageCount = 0;
+			questionSectionCount = 0;
+			questionCount = 0;
+			answerCount = 0;
+			//passages
+			for (let i = 0; i < jsonData.passages.length; i++) {
+				//console.log(jsonData.passages[i].passage);
+				addPassage(jsonData.passages[i].title, jsonData.type == "reading"? unconvertToRenderableFormat(jsonData.passages[i].passage) : unconvertToRenderableFormat(jsonData.answers.transcripts != null ? jsonData.answers.transcripts[i+1] : null), jsonData.passages[i].image, jsonData.passages[i].start, jsonData.passages[i].end);				
+			}
+			//question_sections
+			for (let i = 0; i < jsonData.question_sections.length; i++) {
+				addQuestionSection(jsonData.question_sections[i].custom_instruction != null ? jsonData.question_sections[i].custom_instruction : "", jsonData.question_sections[i].type, jsonData.question_sections[i].start, jsonData.question_sections[i].end);
+			}
+			//questions
+			for (let i = 1; i <= Object.keys(jsonData.questions).length; i++) {
+				let questionContent = "";
+				switch(document.getElementById("section_type_" + getQuestionSectionIndex(i)).value)
+				{
+					case "drop_information":
+					case "sentence_completion":
+					case "matching_headings":
+						{
+							let startQuestionIndex = document.getElementById("question_section_start_index_" + getQuestionSectionIndex(i)).value;
+							let endQuestionIndex = document.getElementById("question_section_end_index_" + getQuestionSectionIndex(i)).value;
+							if(i < endQuestionIndex)
+							{
+								jsonData.questions[i+1].question = jsonData.questions[i].question.concat(jsonData.questions[i+1].question);
+							}
+							else
+							{
+								questionContent = unconvertToRenderableFormat(jsonData.questions[i].question);
+							}
+							//console.log(i);
+							//console.log(questionContent);
+							break;
+						}
+					case "table_completion":
+						{
+							let endQuestionIndex = document.getElementById("question_section_end_index_" + getQuestionSectionIndex(i)).value;
+							if(i < endQuestionIndex)
+							{
+								questionContent = "";
+							}
+							else
+							{
+								let htmlTable = '<table><tbody>';
+								
+								jsonData.questions[i].question.forEach(trContent => {
+									htmlTable += "<tr>";
+									
+									trContent.forEach(tdContent => {
+										
+										if(tdContent.colspan != null)
+										{
+											htmlTable += '<td colspan = "' + tdContent.colspan + '">';
+										}
+										else
+										{		
+											if(tdContent.rowspan != null)
+											{
+												htmlTable += '<td rowspan = "' + tdContent.rowspan + '">';
+											}
+											else
+											{
+												htmlTable += "<td>";	
+											}
+										}
+										
+										htmlTable += unconvertToRenderableFormat(tdContent.content);
+									
+										htmlTable += "</td>";
+									});
+									
+									htmlTable += "</tr>";
+								});
+								
+								htmlTable += "</tbody></table>";
+								
+								questionContent = htmlTable;
+							}
+							break;
+						}
+					default:
+						{
+							questionContent = unconvertToRenderableFormat(jsonData.questions[i].question);
+						}
+				}
+				addQuestion(questionContent, jsonData.questions[i].options != null ? jsonData.questions[i].options.join("\n") : "");
+			}
+			//answers
+			if(jsonData.answers.answer_sheet == null)
+			{
+				for (let i = 1; i <= Object.keys(jsonData.answers).length; i++) {
+					addAnswer(jsonData.answers[i].answer.join("\n"), jsonData.answers[i].explanation);
+				}
+			}
+			else
+			{
+				for (let i = 1; i <= Object.keys(jsonData.answers.answer_sheet).length; i++) {
+					addAnswer(jsonData.answers.answer_sheet[i].answer.join("\n"), jsonData.answers.answer_sheet[i].explanation);
+				}
+			}
+		}
+        
+        document.getElementById('file-selector').addEventListener('change', (event) => {
+            
+            //load test file
+            const fileList = event.target.files;
+            var fr=new FileReader();
+            fr.onload=function(){
+                let jsonData = JSON.parse(fr.result);
+                let loadFileButton = document.createElement("button");
+                loadFileButton.innerHTML = "Load File";
+                document.getElementById("load_file_container").innerHTML = '';
+                document.getElementById("load_file_container").appendChild(loadFileButton);
+                
+                loadFileButton.onclick=function(){
+					canAutoSave = false;
+                    loadJSONData(jsonData);	
+					checkForErrors();
+					canAutoSave = true;
+					//autoSave();
+                 }
+            }
+            fr.readAsText(fileList[0]);
+        });
+        
+		document.addEventListener('keydown', (event) => {
+		  if (event.ctrlKey && event.key == "s") {
+			  saveToJSON();
+		  }
+		}, false);
+					
+		canAutoSave = true;
+		
+		function autoSave(){
+			
+			if(canAutoSave)
+			{
+				localStorage['ielts-inputer'] = JSON.stringify(getJSONData());
+			}
+		}
+		
+		function loadAutosave()
+		{
+			canAutoSave = false;
+			//console.log(localStorage['ielts-inputer']);
+			loadJSONData(JSON.parse(localStorage['ielts-inputer']));
+			canAutoSave = true;
+		}
+		
+    </script>
+</body>
+</html>
+<!-- /wp:html -->

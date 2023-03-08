@@ -1,0 +1,313 @@
+<!-- wp:html -->
+<html>
+<head>
+<meta charset="UTF-8">
+<title>IELTS Form Input</title>
+<script src="https://cdn.tiny.cloud/1/y8t4dei7p7x6q1x2whb46vc3ywnqy88zqaen71nezamhivcb/tinymce/6/tinymce.min.js" referrerpolicy="origin"></script>
+<style>
+@import url('https://fonts.googleapis.com/css?family=Source+Code+Pro');
+ .json {
+	 font-family: 'Source Code Pro', monospace;
+	 font-size: 16px;
+}
+ .json > .json__item {
+	 display: block;
+}
+ .json__item {
+	 display: none;
+	 margin-top: 10px;
+	 padding-left: 20px;
+	 user-select: none;
+}
+ .json__item--collapsible {
+	 cursor: pointer;
+	 overflow: hidden;
+	 position: relative;
+}
+ .json__item--collapsible::before {
+	 content: '+';
+	 position: absolute;
+	 left: 5px;
+}
+ .json__item--collapsible::after {
+	 background-color: lightgrey;
+	 content: '';
+	 height: 100%;
+	 left: 9px;
+	 position: absolute;
+	 top: 26px;
+	 width: 1px;
+}
+ .json__item--collapsible:hover > .json__key, .json__item--collapsible:hover > .json__value {
+	 text-decoration: underline;
+}
+ .json__toggle {
+	 display: none;
+}
+ .json__toggle:checked ~ .json__item {
+	 display: block;
+}
+ .json__key {
+	 color: darkblue;
+	 display: inline;
+}
+ .json__key::after {
+	 content: ': ';
+}
+ .json__value {
+	 display: inline;
+}
+ .json__value--string {
+	 color: green;
+}
+ .json__value--number {
+	 color: blue;
+}
+ .json__value--boolean {
+	 color: red;
+}
+	textarea {
+		color: black;
+		display: block;
+		width: 100%;
+		padding: 10px;
+		font-size: 1.5em;
+		font-family: Arial, sans-serif;
+		border: 2px solid #ccc;
+		border-radius: 2px;
+		background-color: white;
+		transition: border-color 0.2s ease-in-out;
+	}
+	textarea:focus {
+		outline: none;
+		border-color: #5b9dd9;
+	}
+ 
+</style>
+</head>
+<body>
+<br>
+<br>
+<form action="#" method="post">
+<label>temperature (0 to 2) </label>
+<input type="number" id="temperature" value="1">
+<br>
+<label>max_tokens (0 to infinity) </label>
+<input type="number" id="max_tokens" value="2000">
+<br>
+<label>top_p (0 to 1) </label>
+<input type="number" id="top_p" value="1">
+<br>
+<label>n (1 to infinity) </label>
+<input type="number" id="n" value="1">
+<br>
+<label>presence_penalty (-2 to 2) </label>
+<input type="number" id="presence_penalty" value="0">
+<br>
+<label>frequency_penalty (-2 to 2) </label>
+<input type="number" id="frequency_penalty" value="0">
+<br>
+<label>stop sequences (Up to 4 sequences. One line each) </label>
+<textarea type="text" id="stop_sequences"></textarea>
+<br>
+<br>
+<br>
+<div id="messages-container">
+</div>
+<button type="button" id = "add_message" onclick="addMessage()">Add Message</button>
+<button type="button" id = "remove_message" onclick="removeMessage()">Remove Message</button>
+<br>
+<br>
+<br>
+<button type="button" id="submitButton" onclick="callAPI()">Call API</button>
+<br>
+<br>
+</form>
+<textarea style="width:100%; height: 500px;" id="result_text" readonly></textarea>
+<br>
+<br>
+<h3>JSON Result</h3>
+<div id="result"></div>
+<script>
+function jsonViewer(json, collapsible=false) {
+    var TEMPLATES = {
+        item: '<div class="json__item"><div class="json__key">%KEY%</div><div class="json__value json__value--%TYPE%">%VALUE%</div></div>',
+        itemCollapsible: '<label class="json__item json__item--collapsible"><input type="checkbox" class="json__toggle"/><div class="json__key">%KEY%</div><div class="json__value json__value--type-%TYPE%">%VALUE%</div>%CHILDREN%</label>',
+        itemCollapsibleOpen: '<label class="json__item json__item--collapsible"><input type="checkbox" checked class="json__toggle"/><div class="json__key">%KEY%</div><div class="json__value json__value--type-%TYPE%">%VALUE%</div>%CHILDREN%</label>'
+    };
+    function createItem(key, value, type){
+        var element = TEMPLATES.item.replace('%KEY%', key);
+        if(type == 'string') {
+            element = element.replace('%VALUE%', '"' + value + '"');
+        } else {
+            element = element.replace('%VALUE%', value);
+        }
+        element = element.replace('%TYPE%', type);
+        return element;
+    }
+    function createCollapsibleItem(key, value, type, children){
+        var tpl = 'itemCollapsible';
+        
+        if(collapsible) {
+            tpl = 'itemCollapsibleOpen';
+        }
+        
+        var element = TEMPLATES[tpl].replace('%KEY%', key);
+        element = element.replace('%VALUE%', type);
+        element = element.replace('%TYPE%', type);
+        element = element.replace('%CHILDREN%', children);
+        return element;
+    }
+    function handleChildren(key, value, type) {
+        var html = '';
+        for(var item in value) { 
+            var _key = item,
+                _val = value[item];
+            html += handleItem(_key, _val);
+        }
+        return createCollapsibleItem(key, value, type, html);
+    }
+    function handleItem(key, value) {
+        var type = typeof value;
+        if(typeof value === 'object') {        
+            return handleChildren(key, value, type);
+        }
+        return createItem(key, value, type);
+    }
+    function parseObject(obj) {
+        _result = '<div class="json">';
+        for(var item in obj) { 
+            var key = item,
+                value = obj[item];
+            _result += handleItem(key, value);
+        }
+        _result += '</div>';
+        return _result;
+    }
+    
+    return parseObject(json);
+};
+</script>
+<script>
+        function breakLine (container_name, elementID)
+        {
+            let elementContainer = document.getElementById(container_name);
+            let breakLineElement = document.createElement("br");
+            breakLineElement.id = "break_line_" + elementID;
+            elementContainer.appendChild(breakLineElement);
+        }
+        
+        function destroyBreakLine (elementID)
+        {
+            document.getElementById("break_line_" + elementID).remove();
+        }
+ 
+        function constructElement (element_html_name, element_type, container_name, elementID, elementValue)
+        {
+            let elementContainer = document.getElementById(container_name);
+            
+            let element = document.createElement(element_html_name);
+            element.type = element_type;
+            element.id = elementID;
+            element.value = (elementValue != undefined) ? elementValue : "";
+            let element_label = document.createElement("Label");
+            element_label.id = "label_" + element.id;
+            element_label.htmlFor = element.id;
+            element_label.innerHTML = element.id + " ";
+            
+            elementContainer.appendChild(element_label);
+            elementContainer.appendChild(element);
+            breakLine(container_name, elementID);
+            
+            return element;
+        }
+        function destroyElement (elementID)
+        {
+            document.getElementById("label_" + elementID).remove();
+			if(tinymce.get(elementID))
+			{
+				tinymce.get(elementID).remove();
+			}
+            document.getElementById(elementID).remove();
+            destroyBreakLine(elementID);
+        }
+    
+        messageCount = 0;
+        // Function to add new tasks
+        function addMessage() {
+            messageCount++;
+			
+			constructElement("input", "text", "messages-container", "message_role_" + messageCount);
+			constructElement("textarea", "text", "messages-container", "message_content_" + messageCount);
+        }
+        function removeMessage() {
+            destroyElement("message_role_" + messageCount);
+			destroyElement("message_content_" + messageCount);
+            messageCount--;
+        }
+        
+		function callAPI() {
+			let url = "https://api.openai.com/v1/chat/completions";
+			let xhr = new XMLHttpRequest();
+			xhr.open("POST", url);
+			xhr.setRequestHeader("Authorization", "Bearer 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");
+			xhr.setRequestHeader("Content-Type", "application/json");
+			xhr.onreadystatechange = function () {
+				if (xhr.readyState === 4) {
+					console.log(xhr.status);
+					//console.log(xhr.responseText);
+					document.getElementById("result").innerHTML = jsonViewer(JSON.parse(xhr.responseText), true);
+					
+					let responseText = JSON.parse(xhr.responseText);
+					if(responseText.choices != null)
+					{
+						if(responseText.choices[0] != null)
+						{
+							document.getElementById("result_text").innerHTML = responseText.choices[0].message.content;
+						}
+						else
+						{
+							document.getElementById("result_text").innerHTML = "server error";
+						}
+					}
+					else
+					{
+						document.getElementById("result_text").innerHTML = "server error";
+					}
+			}};
+			document.getElementById("result").innerHTML = "waiting...";
+			document.getElementById("result_text").innerHTML = "waiting...";
+			data = {};
+			data.model = "gpt-3.5-turbo";
+			data.messages = [];
+			for(let i = 1; i <= messageCount; i++)
+			{
+				var message = {};
+				
+				message.role = document.getElementById("message_role_" + i).value;
+				message.content = document.getElementById("message_content_" + i).value;
+				
+				data.messages.push(message);
+			}
+			
+			
+			data.temperature = parseFloat(document.getElementById("temperature").value);
+			//data.max_tokens = parseInt(document.getElementById("max_tokens").value);
+			//data.top_p = parseFloat(document.getElementById("top_p").value);
+			//data.n = parseInt(document.getElementById("n").value);
+			//data.presence_penalty = parseFloat(document.getElementById("presence_penalty").value);
+			//data.frequency_penalty = parseFloat(document.getElementById("frequency_penalty").value);
+			if(document.getElementById("stop_sequences").value.trim().length >0)
+			{
+				data.stop = document.getElementById("stop_sequences").value.split("\n");
+			}
+			
+			xhr.send(JSON.stringify(data));		
+			console.log(JSON.stringify(data));
+		}
+        
+		
+    </script>
+</body>
+</html>
+<!-- /wp:html -->
