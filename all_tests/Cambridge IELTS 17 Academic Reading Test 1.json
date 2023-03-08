@@ -301,245 +301,247 @@
         }
     },
     "answers": {
-        "1": {
-            "answer": [
-                "population"
-            ],
-            "explanation": "In the first half of the 1800s, London’s population grew at an astonishing rate, and the central area became increasingly congested."
-        },
-        "2": {
-            "answer": [
-                "suburbs"
-            ],
-            "explanation": "His idea was to relocate the poor workers who lived in the inner-city slums to newly constructed suburbs, and to provide cheap rail travel for them to get to work."
-        },
-        "3": {
-            "answer": [
-                "businessmen"
-            ],
-            "explanation": "Pearson’s ideas gained support amongst some businessmen and in 1851 he submitted a plan to Parliament."
-        },
-        "4": {
-            "answer": [
-                "funding"
-            ],
-            "explanation": "The organisation had difficulty in raising the funding for such a radical and expensive scheme"
-        },
-        "5": {
-            "answer": [
-                "press"
-            ],
-            "explanation": "not least because of the critical articles printed by the press."
-        },
-        "6": {
-            "answer": [
-                "soil"
-            ],
-            "explanation": "A two-metre-deep layer of soil was laid on top of the tunnel and the road above rebuilt."
-        },
-        "7": {
-            "answer": [
-                "FALSE"
-            ],
-            "explanation": "The Metropolitan line, which opened on 10 January 1863, was the world’s first underground railway."
-        },
-        "8": {
-            "answer": [
-                "NOT GIVEN"
-            ],
-            "explanation": "On its first day, almost 40,000 passengers were carried between Paddington and Farringdon, the journey taking about 18 minutes."
-        },
-        "9": {
-            "answer": [
-                "TRUE"
-            ],
-            "explanation": "However, smoke and fumes remained a problem, even though ventilation shafts were added to the tunnels."
-        },
-        "10": {
-            "answer": [
-                "TRUE"
-            ],
-            "explanation": "The problem was partly that the existing underground lines formed a circuit around the centre of London and extended to the suburbs, but did not cross the capital’s centre. The ‘cut and cover’ method of construction was not an option in this part of the capital. The only alternative was to tunnel deep underground."
-        },
-        "11": {
-            "answer": [
-                "FALSE"
-            ],
-            "explanation": "The carriages were narrow and had tiny windows just below the roof because it was thought that passengers would not want to look out at the tunnel walls."
-        },
-        "12": {
-            "answer": [
-                "FALSE"
-            ],
-            "explanation": "Although the City & South London Railway was a great technical achievement, it did not make a profit."
-        },
-        "13": {
-            "answer": [
-                "NOT GIVEN"
-            ],
-            "explanation": "Then, in 1900, the Central London Railway, known as the ‘Tuppenny Tube’, began operation using new electric locomotives. It was very popular and soon afterwards new railways and extensions were added to the growing tube network."
-        },
-        "14": {
-            "answer": [
-                "A"
-            ],
-            "explanation": "Today, however, stadiums are regarded with growing scepticism."
-        },
-        "15": {
-            "answer": [
-                "F"
-            ],
-            "explanation": "This reduces the annual output of carbon dioxide by 660 tons and supplies up to 80 percent of the surrounding area when the stadium is not in use. This is proof that a stadium can serve its city, and have a decidedly positive impact in terms of reduction of CO2 emissions."
-        },
-        "16": {
-            "answer": [
-                "E"
-            ],
-            "explanation": "There have been many examples of this in the UK: the mixed-use facilities at Wembley and Old Trafford have become a blueprint for many other stadiums in the world."
-        },
-        "17": {
-            "answer": [
-                "D"
-            ],
-            "explanation": "But some of the flexibility was lost at the beginning of the 20th century, as stadiums were developed using new products such as steel and reinforced concrete, and made use of bright lights for night-time matches."
-        },
-        "18": {
-            "answer": [
-                "fortress"
-            ],
-            "explanation": "Built by the Romans in 90 AD, it became a fortress with four towers after the fifth century, and was then transformed into a village containing more than 200 houses."
-        },
-        "19": {
-            "answer": [
-                "bullfights"
-            ],
-            "explanation": "With the growing interest in conservation during the 19th century, it was converted back into an arena for the staging of bullfights, thereby returning the structure to its original use as a venue for public spectacles."
-        },
-        "20": {
-            "answer": [
-                "opera"
-            ],
-            "explanation": "Another example is the imposing arena of Verona in northern Italy, with space for 30,000 spectators, which was built 60 years before the Arles amphitheatre and 40 years before Rome’s famous Colosseum. It has endured the centuries and is currently considered one of the world’s prime sites for opera, thanks to its outstanding acoustics."
-        },
-        "21": {
-            "answer": [
-                "salt"
-            ],
-            "explanation": "The site evolved in a similar way to Arles and was progressively filled with buildings from the Middle Ages until the 19th century, variously used as houses, a salt depot and a prison"
-        },
-        "22": {
-            "answer": [
-                "shops"
-            ],
-            "explanation": "Today, the ruins of the amphitheatre remain embedded in the various shops and residences surrounding the public square."
-        },
-        "23": {
-            "answer": [
-                "They are in less convenient locations"
-            ],
-            "explanation": "These factors mean that they may not be as accessible to the general public, require more energy to run and contribute to urban heat."
-        },
-        "24": {
-            "answer": [
-                "They are less versatile"
-            ],
-            "explanation": "But some of the flexibility was lost at the beginning of the 20th century, as stadiums were developed using new products such as steel and reinforced concrete, and made use of bright lights for night-time matches."
-        },
-        "25": {
-            "answer": [
-                "bringing community life back into the city environment"
-            ],
-            "explanation": "This opens the space up to families and a wider cross-section of society, instead of catering only to sportspeople and supporters."
-        },
-        "26": {
-            "answer": [
-                "providing a suitable site for the installation of renewable power generators"
-            ],
-            "explanation": "The phenomenon of stadium as power stations has arisen from the idea that energy problems can be overcome by integrating interconnected buildings by means of a smart grid, which is an electricity supply network that uses digital communications technology to detect and react to local changes in usage, without significant energy losses."
-        },
-        "27": {
-            "answer": [
-                "strategic alliance"
-            ],
-            "explanation": "did a deal with Scots"
-        },
-        "28": {
-            "answer": [
-                "religious conviction"
-            ],
-            "explanation": "the young Charles II sacrificed one of the very principles his father had died for"
-        },
-        "29": {
-            "answer": [
-                "decisive victory"
-            ],
-            "explanation": "After being comprehensively defeated on the meadows outside the city by the Parliamentarian army"
-        },
-        "30": {
-            "answer": [
-                "large reward"
-            ],
-            "explanation": "the 21-year-old king found himself the subject of a national manhunt, with a huge sum offered for his capture"
-        },
-        "31": {
-            "answer": [
-                "relative safety"
-            ],
-            "explanation": "through a series of heart-poundingly close escapes, to evade the Parliamentarians before seeking refuge in France."
-        },
-        "32": {
-            "answer": [
-                "NOT GIVEN"
-            ],
-            "explanation": "His intention when asking Pepys to commit his story to paper was to ensure that this most extraordinary episode was never forgotten."
-        },
-        "33": {
-            "answer": [
-                "NO"
-            ],
-            "explanation": "Over two three-hour sittings, the king related to him in great detail his personal recollections of the six weeks he had spent as a fugitive."
-        },
-        "34": {
-            "answer": [
-                "NO"
-            ],
-            "explanation": "Charles commenced his story: ‘After the battle was so absolutely lost as to be beyond hope of recovery, I began to think of the best way of saving myself.’"
-        },
-        "35": {
-            "answer": [
-                "YES"
-            ],
-            "explanation": "One of the joys of Spencer’s book, a result not least of its use of Charles II’s own narrative as well as those of his supporters, is just how close the reader gets to the action."
-        },
-        "36": {
-            "answer": [
-                "to give an account of the circumstances leading to Charles II’s escape"
-            ],
-            "explanation": "For the next nine years, the penniless and defeated Charles wandered around Europe with only a small group of loyal supporters."
-        },
-        "37": {
-            "answer": [
-                "to illustrate how the events of the six weeks are brought to life"
-            ],
-            "explanation": "The day-by-day retelling of the fugitives’ doings provides delicious details: the cutting of the king’s long hair with agricultural shears, the use of walnut leaves to dye his pale skin, and the day Charles spent lying on a branch of the great oak tree in Boscobel Wood as the Parliamentary soldiers scoured the forest floor below."
-        },
-        "38": {
-            "answer": [
-                "He chose to celebrate what was essentially a defeat"
-            ],
-            "explanation": "This makes it all the more interesting that Charles II himself loved the story so much ever after."
-        },
-        "39": {
-            "answer": [
-                "He takes an unbiased approach to the subject matter"
-            ],
-            "explanation": "He has even-handed sympathy for both the fugitive king and the fierce republican regime that hunted him, and he succeeds in his desire to explore far more of the background of the story than previous books on the subject have done."
-        },
-        "40": {
-            "answer": [
-                "it fails to address whether Charles II’s experiences had a lasting influence on him"
-            ],
-            "explanation": "Did the need to assume disguises, to survive on wit and charm alone, to use trickery and subterfuge to escape from tight corners help form him? This is the one area where the book doesn’t quite hit the mark."
+        "answer_sheet": {
+            "1": {
+                "answer": [
+                    "population"
+                ],
+                "explanation": "In the first half of the 1800s, London’s population grew at an astonishing rate, and the central area became increasingly congested."
+            },
+            "2": {
+                "answer": [
+                    "suburbs"
+                ],
+                "explanation": "His idea was to relocate the poor workers who lived in the inner-city slums to newly constructed suburbs, and to provide cheap rail travel for them to get to work."
+            },
+            "3": {
+                "answer": [
+                    "businessmen"
+                ],
+                "explanation": "Pearson’s ideas gained support amongst some businessmen and in 1851 he submitted a plan to Parliament."
+            },
+            "4": {
+                "answer": [
+                    "funding"
+                ],
+                "explanation": "The organisation had difficulty in raising the funding for such a radical and expensive scheme"
+            },
+            "5": {
+                "answer": [
+                    "press"
+                ],
+                "explanation": "not least because of the critical articles printed by the press."
+            },
+            "6": {
+                "answer": [
+                    "soil"
+                ],
+                "explanation": "A two-metre-deep layer of soil was laid on top of the tunnel and the road above rebuilt."
+            },
+            "7": {
+                "answer": [
+                    "FALSE"
+                ],
+                "explanation": "The Metropolitan line, which opened on 10 January 1863, was the world’s first underground railway."
+            },
+            "8": {
+                "answer": [
+                    "NOT GIVEN"
+                ],
+                "explanation": "On its first day, almost 40,000 passengers were carried between Paddington and Farringdon, the journey taking about 18 minutes."
+            },
+            "9": {
+                "answer": [
+                    "TRUE"
+                ],
+                "explanation": "However, smoke and fumes remained a problem, even though ventilation shafts were added to the tunnels."
+            },
+            "10": {
+                "answer": [
+                    "TRUE"
+                ],
+                "explanation": "The problem was partly that the existing underground lines formed a circuit around the centre of London and extended to the suburbs, but did not cross the capital’s centre. The ‘cut and cover’ method of construction was not an option in this part of the capital. The only alternative was to tunnel deep underground."
+            },
+            "11": {
+                "answer": [
+                    "FALSE"
+                ],
+                "explanation": "The carriages were narrow and had tiny windows just below the roof because it was thought that passengers would not want to look out at the tunnel walls."
+            },
+            "12": {
+                "answer": [
+                    "FALSE"
+                ],
+                "explanation": "Although the City & South London Railway was a great technical achievement, it did not make a profit."
+            },
+            "13": {
+                "answer": [
+                    "NOT GIVEN"
+                ],
+                "explanation": "Then, in 1900, the Central London Railway, known as the ‘Tuppenny Tube’, began operation using new electric locomotives. It was very popular and soon afterwards new railways and extensions were added to the growing tube network."
+            },
+            "14": {
+                "answer": [
+                    "A"
+                ],
+                "explanation": "Today, however, stadiums are regarded with growing scepticism."
+            },
+            "15": {
+                "answer": [
+                    "F"
+                ],
+                "explanation": "This reduces the annual output of carbon dioxide by 660 tons and supplies up to 80 percent of the surrounding area when the stadium is not in use. This is proof that a stadium can serve its city, and have a decidedly positive impact in terms of reduction of CO2 emissions."
+            },
+            "16": {
+                "answer": [
+                    "E"
+                ],
+                "explanation": "There have been many examples of this in the UK: the mixed-use facilities at Wembley and Old Trafford have become a blueprint for many other stadiums in the world."
+            },
+            "17": {
+                "answer": [
+                    "D"
+                ],
+                "explanation": "But some of the flexibility was lost at the beginning of the 20th century, as stadiums were developed using new products such as steel and reinforced concrete, and made use of bright lights for night-time matches."
+            },
+            "18": {
+                "answer": [
+                    "fortress"
+                ],
+                "explanation": "Built by the Romans in 90 AD, it became a fortress with four towers after the fifth century, and was then transformed into a village containing more than 200 houses."
+            },
+            "19": {
+                "answer": [
+                    "bullfights"
+                ],
+                "explanation": "With the growing interest in conservation during the 19th century, it was converted back into an arena for the staging of bullfights, thereby returning the structure to its original use as a venue for public spectacles."
+            },
+            "20": {
+                "answer": [
+                    "opera"
+                ],
+                "explanation": "Another example is the imposing arena of Verona in northern Italy, with space for 30,000 spectators, which was built 60 years before the Arles amphitheatre and 40 years before Rome’s famous Colosseum. It has endured the centuries and is currently considered one of the world’s prime sites for opera, thanks to its outstanding acoustics."
+            },
+            "21": {
+                "answer": [
+                    "salt"
+                ],
+                "explanation": "The site evolved in a similar way to Arles and was progressively filled with buildings from the Middle Ages until the 19th century, variously used as houses, a salt depot and a prison"
+            },
+            "22": {
+                "answer": [
+                    "shops"
+                ],
+                "explanation": "Today, the ruins of the amphitheatre remain embedded in the various shops and residences surrounding the public square."
+            },
+            "23": {
+                "answer": [
+                    "They are in less convenient locations"
+                ],
+                "explanation": "These factors mean that they may not be as accessible to the general public, require more energy to run and contribute to urban heat."
+            },
+            "24": {
+                "answer": [
+                    "They are less versatile"
+                ],
+                "explanation": "But some of the flexibility was lost at the beginning of the 20th century, as stadiums were developed using new products such as steel and reinforced concrete, and made use of bright lights for night-time matches."
+            },
+            "25": {
+                "answer": [
+                    "bringing community life back into the city environment"
+                ],
+                "explanation": "This opens the space up to families and a wider cross-section of society, instead of catering only to sportspeople and supporters."
+            },
+            "26": {
+                "answer": [
+                    "providing a suitable site for the installation of renewable power generators"
+                ],
+                "explanation": "The phenomenon of stadium as power stations has arisen from the idea that energy problems can be overcome by integrating interconnected buildings by means of a smart grid, which is an electricity supply network that uses digital communications technology to detect and react to local changes in usage, without significant energy losses."
+            },
+            "27": {
+                "answer": [
+                    "strategic alliance"
+                ],
+                "explanation": "did a deal with Scots"
+            },
+            "28": {
+                "answer": [
+                    "religious conviction"
+                ],
+                "explanation": "the young Charles II sacrificed one of the very principles his father had died for"
+            },
+            "29": {
+                "answer": [
+                    "decisive victory"
+                ],
+                "explanation": "After being comprehensively defeated on the meadows outside the city by the Parliamentarian army"
+            },
+            "30": {
+                "answer": [
+                    "large reward"
+                ],
+                "explanation": "the 21-year-old king found himself the subject of a national manhunt, with a huge sum offered for his capture"
+            },
+            "31": {
+                "answer": [
+                    "relative safety"
+                ],
+                "explanation": "through a series of heart-poundingly close escapes, to evade the Parliamentarians before seeking refuge in France."
+            },
+            "32": {
+                "answer": [
+                    "NOT GIVEN"
+                ],
+                "explanation": "His intention when asking Pepys to commit his story to paper was to ensure that this most extraordinary episode was never forgotten."
+            },
+            "33": {
+                "answer": [
+                    "NO"
+                ],
+                "explanation": "Over two three-hour sittings, the king related to him in great detail his personal recollections of the six weeks he had spent as a fugitive."
+            },
+            "34": {
+                "answer": [
+                    "NO"
+                ],
+                "explanation": "Charles commenced his story: ‘After the battle was so absolutely lost as to be beyond hope of recovery, I began to think of the best way of saving myself.’"
+            },
+            "35": {
+                "answer": [
+                    "YES"
+                ],
+                "explanation": "One of the joys of Spencer’s book, a result not least of its use of Charles II’s own narrative as well as those of his supporters, is just how close the reader gets to the action."
+            },
+            "36": {
+                "answer": [
+                    "to give an account of the circumstances leading to Charles II’s escape"
+                ],
+                "explanation": "For the next nine years, the penniless and defeated Charles wandered around Europe with only a small group of loyal supporters."
+            },
+            "37": {
+                "answer": [
+                    "to illustrate how the events of the six weeks are brought to life"
+                ],
+                "explanation": "The day-by-day retelling of the fugitives’ doings provides delicious details: the cutting of the king’s long hair with agricultural shears, the use of walnut leaves to dye his pale skin, and the day Charles spent lying on a branch of the great oak tree in Boscobel Wood as the Parliamentary soldiers scoured the forest floor below."
+            },
+            "38": {
+                "answer": [
+                    "He chose to celebrate what was essentially a defeat"
+                ],
+                "explanation": "This makes it all the more interesting that Charles II himself loved the story so much ever after."
+            },
+            "39": {
+                "answer": [
+                    "He takes an unbiased approach to the subject matter"
+                ],
+                "explanation": "He has even-handed sympathy for both the fugitive king and the fierce republican regime that hunted him, and he succeeds in his desire to explore far more of the background of the story than previous books on the subject have done."
+            },
+            "40": {
+                "answer": [
+                    "it fails to address whether Charles II’s experiences had a lasting influence on him"
+                ],
+                "explanation": "Did the need to assume disguises, to survive on wit and charm alone, to use trickery and subterfuge to escape from tight corners help form him? This is the one area where the book doesn’t quite hit the mark."
+            }
         }
     }
 }

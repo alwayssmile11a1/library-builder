@@ -305,253 +305,255 @@
         }
     },
     "answers": {
-        "1": {
-            "answer": [
-                "posts"
-            ],
-            "explanation": ""
-        },
-        "2": {
-            "answer": [
-                "canal"
-            ],
-            "explanation": ""
-        },
-        "3": {
-            "answer": [
-                "ventilation"
-            ],
-            "explanation": ""
-        },
-        "4": {
-            "answer": [
-                "lid"
-            ],
-            "explanation": ""
-        },
-        "5": {
-            "answer": [
-                "weight"
-            ],
-            "explanation": ""
-        },
-        "6": {
-            "answer": [
-                "climbing"
-            ],
-            "explanation": ""
-        },
-        "7": {
-            "answer": [
-                "FALSE"
-            ],
-            "explanation": ""
-        },
-        "8": {
-            "answer": [
-                "NOT GIVEN"
-            ],
-            "explanation": ""
-        },
-        "9": {
-            "answer": [
-                "FALSE"
-            ],
-            "explanation": ""
-        },
-        "10": {
-            "answer": [
-                "TRUE"
-            ],
-            "explanation": ""
-        },
-        "11": {
-            "answer": [
-                "gold"
-            ],
-            "explanation": ""
-        },
-        "12": {
-            "answer": [
-                "architect",
-                "architect‘s",
-                "architect‘s name",
-                "the architect",
-                "the architect‘s",
-                "the architect‘s name"
-            ],
-            "explanation": ""
-        },
-        "13": {
-            "answer": [
-                "harbour",
-                "harbor",
-                "the harbour",
-                "the harbor"
-            ],
-            "explanation": ""
-        },
-        "14": {
-            "answer": [
-                "Our use of technology is having a hidden effect on us"
-            ],
-            "explanation": ""
-        },
-        "15": {
-            "answer": [
-                "We should pay attention to what might be lost when innovation occurs"
-            ],
-            "explanation": ""
-        },
-        "16": {
-            "answer": [
-                "Some brain circuits adjust to whatever is required of them"
-            ],
-            "explanation": ""
-        },
-        "17": {
-            "answer": [
-                "has influenced what they select to read"
-            ],
-            "explanation": ""
-        },
-        "18": {
-            "answer": [
-                "worrying"
-            ],
-            "explanation": ""
-        },
-        "19": {
-            "answer": [
-                "thorough"
-            ],
-            "explanation": ""
-        },
-        "20": {
-            "answer": [
-                "hard"
-            ],
-            "explanation": ""
-        },
-        "21": {
-            "answer": [
-                "isolated"
-            ],
-            "explanation": ""
-        },
-        "22": {
-            "answer": [
-                "emotional"
-            ],
-            "explanation": ""
-        },
-        "23": {
-            "answer": [
-                "YES"
-            ],
-            "explanation": ""
-        },
-        "24": {
-            "answer": [
-                "NO"
-            ],
-            "explanation": ""
-        },
-        "25": {
-            "answer": [
-                "NOT GIVEN"
-            ],
-            "explanation": ""
-        },
-        "26": {
-            "answer": [
-                "YES"
-            ],
-            "explanation": ""
-        },
-        "27": {
-            "answer": [
-                "The superiority of AI projections over those made by humans"
-            ],
-            "explanation": ""
-        },
-        "28": {
-            "answer": [
-                "Widespread distrust of an AI innovation"
-            ],
-            "explanation": ""
-        },
-        "29": {
-            "answer": [
-                "Reasons why we have more faith in human judgement than in AI"
-            ],
-            "explanation": ""
-        },
-        "30": {
-            "answer": [
-                "An increasing divergence of attitudes towards AI"
-            ],
-            "explanation": ""
-        },
-        "31": {
-            "answer": [
-                "Encouraging openness about how AI functions"
-            ],
-            "explanation": ""
-        },
-        "32": {
-            "answer": [
-                "The advantages of involving users in AI processes"
-            ],
-            "explanation": ""
-        },
-        "33": {
-            "answer": [
-                "highlighting the existence of a problem"
-            ],
-            "explanation": ""
-        },
-        "34": {
-            "answer": [
-                "Its complexity makes them feel that they are at a disadvantage"
-            ],
-            "explanation": ""
-        },
-        "35": {
-            "answer": [
-                "It leads the public to be mistrustful of AI"
-            ],
-            "explanation": ""
-        },
-        "36": {
-            "answer": [
-                "NO"
-            ],
-            "explanation": ""
-        },
-        "37": {
-            "answer": [
-                "NOT GIVEN"
-            ],
-            "explanation": ""
-        },
-        "38": {
-            "answer": [
-                "YES"
-            ],
-            "explanation": ""
-        },
-        "39": {
-            "answer": [
-                "NO"
-            ],
-            "explanation": ""
-        },
-        "40": {
-            "answer": [
-                "YES"
-            ],
-            "explanation": ""
+        "answer_sheet": {
+            "1": {
+                "answer": [
+                    "posts"
+                ],
+                "explanation": ""
+            },
+            "2": {
+                "answer": [
+                    "canal"
+                ],
+                "explanation": ""
+            },
+            "3": {
+                "answer": [
+                    "ventilation"
+                ],
+                "explanation": ""
+            },
+            "4": {
+                "answer": [
+                    "lid"
+                ],
+                "explanation": ""
+            },
+            "5": {
+                "answer": [
+                    "weight"
+                ],
+                "explanation": ""
+            },
+            "6": {
+                "answer": [
+                    "climbing"
+                ],
+                "explanation": ""
+            },
+            "7": {
+                "answer": [
+                    "FALSE"
+                ],
+                "explanation": ""
+            },
+            "8": {
+                "answer": [
+                    "NOT GIVEN"
+                ],
+                "explanation": ""
+            },
+            "9": {
+                "answer": [
+                    "FALSE"
+                ],
+                "explanation": ""
+            },
+            "10": {
+                "answer": [
+                    "TRUE"
+                ],
+                "explanation": ""
+            },
+            "11": {
+                "answer": [
+                    "gold"
+                ],
+                "explanation": ""
+            },
+            "12": {
+                "answer": [
+                    "architect",
+                    "architect‘s",
+                    "architect‘s name",
+                    "the architect",
+                    "the architect‘s",
+                    "the architect‘s name"
+                ],
+                "explanation": ""
+            },
+            "13": {
+                "answer": [
+                    "harbour",
+                    "harbor",
+                    "the harbour",
+                    "the harbor"
+                ],
+                "explanation": ""
+            },
+            "14": {
+                "answer": [
+                    "Our use of technology is having a hidden effect on us"
+                ],
+                "explanation": ""
+            },
+            "15": {
+                "answer": [
+                    "We should pay attention to what might be lost when innovation occurs"
+                ],
+                "explanation": ""
+            },
+            "16": {
+                "answer": [
+                    "Some brain circuits adjust to whatever is required of them"
+                ],
+                "explanation": ""
+            },
+            "17": {
+                "answer": [
+                    "has influenced what they select to read"
+                ],
+                "explanation": ""
+            },
+            "18": {
+                "answer": [
+                    "worrying"
+                ],
+                "explanation": ""
+            },
+            "19": {
+                "answer": [
+                    "thorough"
+                ],
+                "explanation": ""
+            },
+            "20": {
+                "answer": [
+                    "hard"
+                ],
+                "explanation": ""
+            },
+            "21": {
+                "answer": [
+                    "isolated"
+                ],
+                "explanation": ""
+            },
+            "22": {
+                "answer": [
+                    "emotional"
+                ],
+                "explanation": ""
+            },
+            "23": {
+                "answer": [
+                    "YES"
+                ],
+                "explanation": ""
+            },
+            "24": {
+                "answer": [
+                    "NO"
+                ],
+                "explanation": ""
+            },
+            "25": {
+                "answer": [
+                    "NOT GIVEN"
+                ],
+                "explanation": ""
+            },
+            "26": {
+                "answer": [
+                    "YES"
+                ],
+                "explanation": ""
+            },
+            "27": {
+                "answer": [
+                    "The superiority of AI projections over those made by humans"
+                ],
+                "explanation": ""
+            },
+            "28": {
+                "answer": [
+                    "Widespread distrust of an AI innovation"
+                ],
+                "explanation": ""
+            },
+            "29": {
+                "answer": [
+                    "Reasons why we have more faith in human judgement than in AI"
+                ],
+                "explanation": ""
+            },
+            "30": {
+                "answer": [
+                    "An increasing divergence of attitudes towards AI"
+                ],
+                "explanation": ""
+            },
+            "31": {
+                "answer": [
+                    "Encouraging openness about how AI functions"
+                ],
+                "explanation": ""
+            },
+            "32": {
+                "answer": [
+                    "The advantages of involving users in AI processes"
+                ],
+                "explanation": ""
+            },
+            "33": {
+                "answer": [
+                    "highlighting the existence of a problem"
+                ],
+                "explanation": ""
+            },
+            "34": {
+                "answer": [
+                    "Its complexity makes them feel that they are at a disadvantage"
+                ],
+                "explanation": ""
+            },
+            "35": {
+                "answer": [
+                    "It leads the public to be mistrustful of AI"
+                ],
+                "explanation": ""
+            },
+            "36": {
+                "answer": [
+                    "NO"
+                ],
+                "explanation": ""
+            },
+            "37": {
+                "answer": [
+                    "NOT GIVEN"
+                ],
+                "explanation": ""
+            },
+            "38": {
+                "answer": [
+                    "YES"
+                ],
+                "explanation": ""
+            },
+            "39": {
+                "answer": [
+                    "NO"
+                ],
+                "explanation": ""
+            },
+            "40": {
+                "answer": [
+                    "YES"
+                ],
+                "explanation": ""
+            }
         }
     }
 }

@@ -35,7 +35,7 @@
         },
         {
             "custom_instruction": "ONE WORD ONLY",
-            "type": "sentence_completion",
+            "type": "table_completion",
             "start": 7,
             "end": 13
         },
@@ -99,39 +99,76 @@
             "question": "<span>Bats may feed on paddy swarming caterpillars and grass webworms.</span>"
         },
         "7": {
-            "question": [
-                "<span>The study carried out by Rocha&rsquo;s team</span><br><span>Aim</span><br><span>&nbsp; &nbsp;&bull; &nbsp;to investigate the feeding habits of bats in farmland near the Ranomafana National Park</span><br><span>Method&nbsp;</span><br><span>&nbsp; &nbsp;&bull; &nbsp;ultrasonic recording to identify favourite feeding spots</span><br><span>&nbsp; &nbsp;&bull; &nbsp;DNA analysis of bat </span>"
-            ]
+            "question": []
         },
         "8": {
-            "question": [
-                "<span></span><br><span><strong>Findings</strong></span><br><span>&nbsp; &nbsp;&bull; the bats</span><br><span>&nbsp; &nbsp; &nbsp; &ndash; were most active in rice fields located on hills</span><br><span>&nbsp; &nbsp; &nbsp; &ndash; ate pests of rice, </span>"
-            ]
+            "question": []
         },
         "9": {
-            "question": [
-                "<span>, sugarcane, nuts and fruit</span><br><span>&nbsp; &nbsp; &nbsp; &ndash;&nbsp; prevent the spread of disease by eating </span>"
-            ]
+            "question": []
         },
         "10": {
-            "question": [
-                "<span> and blackflies</span><br><span>&nbsp; &nbsp;&bull; local attitudes to bats are mixed:</span><br><span>&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&ndash;&nbsp; they provide food rich in </span>"
-            ]
+            "question": []
         },
         "11": {
-            "question": [
-                "<span></span><br><span>&nbsp; &nbsp; &nbsp; &ndash;&nbsp; the buildings where they roost become </span>"
-            ]
+            "question": []
         },
         "12": {
-            "question": [
-                "<span></span><br><span>&nbsp; &nbsp; &nbsp; &ndash;&nbsp; they play an important role in local </span>"
-            ]
+            "question": []
         },
         "13": {
             "question": [
-                "<span></span><br><span>&nbsp;<strong>Recommendation</strong></span><br><span>&nbsp; &nbsp;&bull; &nbsp; farmers should provide special </span>",
-                "<span>&nbsp;to support the bat population</span>"
+                [
+                    {
+                        "colspan": "2",
+                        "content": "<h3><strong>The study carried out by Rocha’s team</strong></h3>"
+                    }
+                ],
+                [
+                    {
+                        "content": "<span><strong>Aim</strong></span>"
+                    },
+                    {
+                        "content": "<span>&nbsp; &nbsp;• &nbsp; to investigate the feeding habits of bats in farmland near the Ranomafana National Park</span>"
+                    }
+                ],
+                [
+                    {
+                        "content": "<span><strong>Method</strong></span>"
+                    },
+                    {
+                        "content": [
+                            "<span>&nbsp; &nbsp;• &nbsp; ultrasonic recording to identify favourite feeding spots</span><br><span>&nbsp; &nbsp;• &nbsp; DNA analysis of bat </span>",
+                            "<span></span>"
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "content": "<span><strong>Findings</strong></span>"
+                    },
+                    {
+                        "content": [
+                            "<span>&nbsp; &nbsp;• &nbsp; the bats</span><br><span>&nbsp;&nbsp;&nbsp;&nbsp; –&nbsp; were most active in rice fields located on hills</span><span>&nbsp;&nbsp;&nbsp;&nbsp; –&nbsp; ate pests of rice, </span>",
+                            "<span>, sugarcane, nuts and fruit</span><span>&nbsp;&nbsp;&nbsp;&nbsp; –&nbsp; prevent the spread of disease by eating </span>",
+                            "<span>&nbsp;and blackflies</span><span>&nbsp; &nbsp;• &nbsp; local attitudes to bats are mixed:</span><span>&nbsp;&nbsp;&nbsp;&nbsp; –&nbsp; they provide food rich in&nbsp;</span>",
+                            "<span></span><span>&nbsp;&nbsp;&nbsp;&nbsp; –&nbsp; the buildings where they roost become </span>",
+                            "<span></span><span>&nbsp;&nbsp;&nbsp;&nbsp; –&nbsp; they play an important role in local </span>",
+                            "<span></span>"
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "content": "<span><strong>Recommendation</strong></span>"
+                    },
+                    {
+                        "content": [
+                            "<span>&nbsp; &nbsp;• &nbsp; farmers should provide special </span>",
+                            "<span> to support the bat population</span>"
+                        ]
+                    }
+                ]
             ]
         },
         "14": {
@@ -267,245 +304,247 @@
         }
     },
     "answers": {
-        "1": {
-            "answer": [
-                "FALSE"
-            ],
-            "explanation": ""
-        },
-        "2": {
-            "answer": [
-                "FALSE"
-            ],
-            "explanation": ""
-        },
-        "3": {
-            "answer": [
-                "NOT GIVEN"
-            ],
-            "explanation": ""
-        },
-        "4": {
-            "answer": [
-                "TRUE"
-            ],
-            "explanation": ""
-        },
-        "5": {
-            "answer": [
-                "NOT GIVEN"
-            ],
-            "explanation": ""
-        },
-        "6": {
-            "answer": [
-                "TRUE"
-            ],
-            "explanation": ""
-        },
-        "7": {
-            "answer": [
-                "droppings"
-            ],
-            "explanation": ""
-        },
-        "8": {
-            "answer": [
-                "coffee"
-            ],
-            "explanation": ""
-        },
-        "9": {
-            "answer": [
-                "mosquitoes"
-            ],
-            "explanation": ""
-        },
-        "10": {
-            "answer": [
-                "protein"
-            ],
-            "explanation": ""
-        },
-        "11": {
-            "answer": [
-                "unclean"
-            ],
-            "explanation": ""
-        },
-        "12": {
-            "answer": [
-                "culture"
-            ],
-            "explanation": ""
-        },
-        "13": {
-            "answer": [
-                "houses"
-            ],
-            "explanation": ""
-        },
-        "14": {
-            "answer": [
-                "E"
-            ],
-            "explanation": ""
-        },
-        "15": {
-            "answer": [
-                "A"
-            ],
-            "explanation": ""
-        },
-        "16": {
-            "answer": [
-                "D"
-            ],
-            "explanation": ""
-        },
-        "17": {
-            "answer": [
-                "F"
-            ],
-            "explanation": ""
-        },
-        "18": {
-            "answer": [
-                "C"
-            ],
-            "explanation": ""
-        },
-        "19": {
-            "answer": [
-                "descendants"
-            ],
-            "explanation": ""
-        },
-        "20": {
-            "answer": [
-                "sermon"
-            ],
-            "explanation": ""
-        },
-        "21": {
-            "answer": [
-                "fine"
-            ],
-            "explanation": ""
-        },
-        "22": {
-            "answer": [
-                "innovation"
-            ],
-            "explanation": ""
-        },
-        "23": {
-            "answer": [
-                "Literacy rates in Germany between 1600 and 1900 were very good"
-            ],
-            "explanation": ""
-        },
-        "24": {
-            "answer": [
-                "Economic growth can help to improve literacy rates"
-            ],
-            "explanation": ""
-        },
-        "25": {
-            "answer": [
-                "They were opposed to people moving to an area for work"
-            ],
-            "explanation": ""
-        },
-        "26": {
-            "answer": [
-                "They opposed practices that threatened their control over a trade"
-            ],
-            "explanation": ""
-        },
-        "27": {
-            "answer": [
-                "D"
-            ],
-            "explanation": ""
-        },
-        "28": {
-            "answer": [
-                "E"
-            ],
-            "explanation": ""
-        },
-        "29": {
-            "answer": [
-                "F"
-            ],
-            "explanation": ""
-        },
-        "30": {
-            "answer": [
-                "B"
-            ],
-            "explanation": ""
-        },
-        "31": {
-            "answer": [
-                "H"
-            ],
-            "explanation": ""
-        },
-        "32": {
-            "answer": [
-                "E"
-            ],
-            "explanation": ""
-        },
-        "33": {
-            "answer": [
-                "FALSE"
-            ],
-            "explanation": ""
-        },
-        "34": {
-            "answer": [
-                "NOT GIVEN"
-            ],
-            "explanation": ""
-        },
-        "35": {
-            "answer": [
-                "NOT GIVEN"
-            ],
-            "explanation": ""
-        },
-        "36": {
-            "answer": [
-                "TRUE"
-            ],
-            "explanation": ""
-        },
-        "37": {
-            "answer": [
-                "memory"
-            ],
-            "explanation": ""
-        },
-        "38": {
-            "answer": [
-                "numbers"
-            ],
-            "explanation": ""
-        },
-        "39": {
-            "answer": [
-                "communication"
-            ],
-            "explanation": ""
-        },
-        "40": {
-            "answer": [
-                "visual"
-            ],
-            "explanation": ""
+        "answer_sheet": {
+            "1": {
+                "answer": [
+                    "FALSE"
+                ],
+                "explanation": ""
+            },
+            "2": {
+                "answer": [
+                    "FALSE"
+                ],
+                "explanation": ""
+            },
+            "3": {
+                "answer": [
+                    "NOT GIVEN"
+                ],
+                "explanation": ""
+            },
+            "4": {
+                "answer": [
+                    "TRUE"
+                ],
+                "explanation": ""
+            },
+            "5": {
+                "answer": [
+                    "NOT GIVEN"
+                ],
+                "explanation": ""
+            },
+            "6": {
+                "answer": [
+                    "TRUE"
+                ],
+                "explanation": ""
+            },
+            "7": {
+                "answer": [
+                    "droppings"
+                ],
+                "explanation": ""
+            },
+            "8": {
+                "answer": [
+                    "coffee"
+                ],
+                "explanation": ""
+            },
+            "9": {
+                "answer": [
+                    "mosquitoes"
+                ],
+                "explanation": ""
+            },
+            "10": {
+                "answer": [
+                    "protein"
+                ],
+                "explanation": ""
+            },
+            "11": {
+                "answer": [
+                    "unclean"
+                ],
+                "explanation": ""
+            },
+            "12": {
+                "answer": [
+                    "culture"
+                ],
+                "explanation": ""
+            },
+            "13": {
+                "answer": [
+                    "houses"
+                ],
+                "explanation": ""
+            },
+            "14": {
+                "answer": [
+                    "E"
+                ],
+                "explanation": ""
+            },
+            "15": {
+                "answer": [
+                    "A"
+                ],
+                "explanation": ""
+            },
+            "16": {
+                "answer": [
+                    "D"
+                ],
+                "explanation": ""
+            },
+            "17": {
+                "answer": [
+                    "F"
+                ],
+                "explanation": ""
+            },
+            "18": {
+                "answer": [
+                    "C"
+                ],
+                "explanation": ""
+            },
+            "19": {
+                "answer": [
+                    "descendants"
+                ],
+                "explanation": ""
+            },
+            "20": {
+                "answer": [
+                    "sermon"
+                ],
+                "explanation": ""
+            },
+            "21": {
+                "answer": [
+                    "fine"
+                ],
+                "explanation": ""
+            },
+            "22": {
+                "answer": [
+                    "innovation"
+                ],
+                "explanation": ""
+            },
+            "23": {
+                "answer": [
+                    "Literacy rates in Germany between 1600 and 1900 were very good"
+                ],
+                "explanation": ""
+            },
+            "24": {
+                "answer": [
+                    "Economic growth can help to improve literacy rates"
+                ],
+                "explanation": ""
+            },
+            "25": {
+                "answer": [
+                    "They were opposed to people moving to an area for work"
+                ],
+                "explanation": ""
+            },
+            "26": {
+                "answer": [
+                    "They opposed practices that threatened their control over a trade"
+                ],
+                "explanation": ""
+            },
+            "27": {
+                "answer": [
+                    "D"
+                ],
+                "explanation": ""
+            },
+            "28": {
+                "answer": [
+                    "E"
+                ],
+                "explanation": ""
+            },
+            "29": {
+                "answer": [
+                    "F"
+                ],
+                "explanation": ""
+            },
+            "30": {
+                "answer": [
+                    "B"
+                ],
+                "explanation": ""
+            },
+            "31": {
+                "answer": [
+                    "H"
+                ],
+                "explanation": ""
+            },
+            "32": {
+                "answer": [
+                    "E"
+                ],
+                "explanation": ""
+            },
+            "33": {
+                "answer": [
+                    "FALSE"
+                ],
+                "explanation": ""
+            },
+            "34": {
+                "answer": [
+                    "NOT GIVEN"
+                ],
+                "explanation": ""
+            },
+            "35": {
+                "answer": [
+                    "NOT GIVEN"
+                ],
+                "explanation": ""
+            },
+            "36": {
+                "answer": [
+                    "TRUE"
+                ],
+                "explanation": ""
+            },
+            "37": {
+                "answer": [
+                    "memory"
+                ],
+                "explanation": ""
+            },
+            "38": {
+                "answer": [
+                    "numbers"
+                ],
+                "explanation": ""
+            },
+            "39": {
+                "answer": [
+                    "communication"
+                ],
+                "explanation": ""
+            },
+            "40": {
+                "answer": [
+                    "visual"
+                ],
+                "explanation": ""
+            }
         }
     }
 }
