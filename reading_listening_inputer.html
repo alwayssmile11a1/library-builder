@@ -325,7 +325,6 @@ function jsonViewer(json, collapsible=false) {
 				{
 					case "true_false_notgiven":
 					case "yes_no_notgiven":
-					case "label_completion":
 					case "matching_information":
 					case "matching_headings":
 					case "one_choice":
@@ -393,6 +392,7 @@ function jsonViewer(json, collapsible=false) {
 					case "true_false_notgiven":
 					case "yes_no_notgiven":
 					case "short_answer":
+					case "label_completion":
 					{
 						options.value = "";
 						document.getElementById("question_options_" + questionCount).style.display = "none";
@@ -425,7 +425,6 @@ function jsonViewer(json, collapsible=false) {
 					}
 					case "matching_features":
 					case "matching_information":
-					case "label_completion":
 					{
 						if(questionCount < document.getElementById("question_section_end_index_" + getQuestionSectionIndex(questionCount)).value)
 						{
@@ -634,10 +633,21 @@ function jsonViewer(json, collapsible=false) {
 						}
 						else
 						{
-							hasError = false;
+							for(let k = 1; k <= questionCount; k++)
+							{
+								if(tinymce.get("question_" + k).getContent({format : "text"}).length > 0)
+								{
+									if(tinymce.get("question_" + k).getContent({format : "text"}).includes(document.getElementById("explanation_" + i).value))
+									{
+										hasError = false;
+										break;
+									}
+								}
+							}
 						}
 						
 					}
+					
 					if(hasError)
 					{
 						let errorP = document.createElement("p");
@@ -699,11 +709,23 @@ function jsonViewer(json, collapsible=false) {
 				
 				if(document.getElementById("custom_instruction_" + i).value.trim().length > 0)
 				{
-					question_section_data = {
-						"custom_instruction": document.getElementById("custom_instruction_" + i).value.trim(),
-						"type": document.getElementById("section_type_" + i).value,
-						"start": parseInt(document.getElementById("question_section_start_index_" + i).value),
-						"end": parseInt(document.getElementById("question_section_end_index_" + i).value)
+					if(document.getElementById("section_type_" + i).value == "label_completion")
+					{
+						question_section_data = {
+							"image": document.getElementById("custom_instruction_" + i).value.trim(),
+							"type": document.getElementById("section_type_" + i).value,
+							"start": parseInt(document.getElementById("question_section_start_index_" + i).value),
+							"end": parseInt(document.getElementById("question_section_end_index_" + i).value)
+						}
+					}
+					else
+					{
+						question_section_data = {
+							"custom_instruction": document.getElementById("custom_instruction_" + i).value.trim(),
+							"type": document.getElementById("section_type_" + i).value,
+							"start": parseInt(document.getElementById("question_section_start_index_" + i).value),
+							"end": parseInt(document.getElementById("question_section_end_index_" + i).value)
+						}
 					}
 				}
 				else
@@ -874,8 +896,15 @@ function jsonViewer(json, collapsible=false) {
 				addPassage(jsonData.passages[i].title, jsonData.type == "reading"? unconvertToRenderableFormat(jsonData.passages[i].passage) : unconvertToRenderableFormat(jsonData.answers.transcripts != null ? jsonData.answers.transcripts[i+1] : null), jsonData.passages[i].image, jsonData.passages[i].start, jsonData.passages[i].end);				
 			}
 			//question_sections
-			for (let i = 0; i < jsonData.question_sections.length; i++) {
-				addQuestionSection(jsonData.question_sections[i].custom_instruction != null ? jsonData.question_sections[i].custom_instruction : "", jsonData.question_sections[i].type, jsonData.question_sections[i].start, jsonData.question_sections[i].end);
+			for (let i = 0; i < jsonData.question_sections.length; i++) {			
+				if(jsonData.question_sections[i].image != null)
+				{
+					addQuestionSection(jsonData.question_sections[i].image, jsonData.question_sections[i].type, jsonData.question_sections[i].start, jsonData.question_sections[i].end);
+				}
+				else
+				{
+					addQuestionSection(jsonData.question_sections[i].custom_instruction != null ? jsonData.question_sections[i].custom_instruction : "", jsonData.question_sections[i].type, jsonData.question_sections[i].start, jsonData.question_sections[i].end);
+				}
 			}
 			//questions
 			for (let i = 1; i <= Object.keys(jsonData.questions).length; i++) {
@@ -983,7 +1012,7 @@ function jsonViewer(json, collapsible=false) {
                 loadFileButton.onclick=function(){
 					canAutoSave = false;
                     loadJSONData(jsonData);	
-					checkForErrors();
+					//checkForErrors();
 					canAutoSave = true;
 					//autoSave();
                  }
