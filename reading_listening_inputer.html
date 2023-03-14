@@ -712,7 +712,8 @@ function jsonViewer(json, collapsible=false) {
 					if(document.getElementById("section_type_" + i).value == "label_completion")
 					{
 						question_section_data = {
-							"image": document.getElementById("custom_instruction_" + i).value.trim(),
+							"custom_instruction": document.getElementById("custom_instruction_" + i).value.trim(),
+							"image": jsonData.id + "_" + document.getElementById("question_section_start_index_" + i).value + "_" + document.getElementById("question_section_end_index_" + i).value,
 							"type": document.getElementById("section_type_" + i).value,
 							"start": parseInt(document.getElementById("question_section_start_index_" + i).value),
 							"end": parseInt(document.getElementById("question_section_end_index_" + i).value)
@@ -897,14 +898,7 @@ function jsonViewer(json, collapsible=false) {
 			}
 			//question_sections
 			for (let i = 0; i < jsonData.question_sections.length; i++) {			
-				if(jsonData.question_sections[i].image != null)
-				{
-					addQuestionSection(jsonData.question_sections[i].image, jsonData.question_sections[i].type, jsonData.question_sections[i].start, jsonData.question_sections[i].end);
-				}
-				else
-				{
-					addQuestionSection(jsonData.question_sections[i].custom_instruction != null ? jsonData.question_sections[i].custom_instruction : "", jsonData.question_sections[i].type, jsonData.question_sections[i].start, jsonData.question_sections[i].end);
-				}
+				addQuestionSection(jsonData.question_sections[i].custom_instruction != null ? jsonData.question_sections[i].custom_instruction : "", jsonData.question_sections[i].type, jsonData.question_sections[i].start, jsonData.question_sections[i].end);
 			}
 			//questions
 			for (let i = 1; i <= Object.keys(jsonData.questions).length; i++) {
