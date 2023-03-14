@@ -31,11 +31,11 @@ const testJSON = {
 }
 
 const skillTestName = "Cambridge IELTS {collection} Academic {skill} Test {test}";
-
 const skills = ["Reading", "Listening", "Writing", "Speaking"];
+const skillTestNameTrimer = "Cambridge IELTS {collection} Academic";
 
 const maxCollectionNumber = 17;
-const minCollectionNumber = 13;
+const minCollectionNumber = 10;
 
 const maxSkillTestNumber = 4;
 const minSkillTestNumber = 1;
@@ -101,6 +101,10 @@ fs.mkdir(libraryFolderPath, function(err) {
                         
                       }
                     });
+                    
+                    skillData = JSON.parse(skillData);
+                    skillData.name = skillData.name.replace(skillTestNameTrimer.replaceAll("{collection}", i),"").trim(); 
+                    skillData = JSON.stringify(skillData);
 
                     //write skill content
                     fs.writeFile(currentTestFolderPath + "/" + skill.toLowerCase() + ".json", skillData, function(err) {
