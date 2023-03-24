@@ -33,6 +33,7 @@ const testJSON = {
 const skillTestName = "Cambridge IELTS {collection} Academic {skill} Test {test}";
 const skills = ["Reading", "Listening", "Writing", "Speaking"];
 const skillTestNameTrimer = "Cambridge IELTS {collection} Academic";
+//const skillTestNameTrimer = "";
 
 const maxCollectionNumber = 17;
 const minCollectionNumber = 10;
