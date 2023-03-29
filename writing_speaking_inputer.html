@@ -111,6 +111,14 @@
 <br>
 <br>
 <br>
+<h3>Answers</h3>
+<div id="answers-container">
+</div>
+<button type="button" onclick="addAnswer()">Add Answer</button>
+<button type="button" onclick="removeAnswer()">Remove Answer</button>
+<br>
+<br>
+<br>
 <button type="button" id="submitButton" style = "font-size: 25px !important; position: fixed !important; top: 200px !important; right: 40px !important;" onclick="saveToJSON()">Save To JSON</button>
 <button type="button" id="submitButton" style = "font-size: 18px !important; position: fixed !important; bottom: 100px !important; left: 20px !important;" onclick="loadAutosave()">Load From Autosave</button>
 </form>
@@ -269,8 +277,8 @@ function jsonViewer(json, collapsible=false) {
 			autoSave();
         }
         function removeTask() {
-            destroyElement("task_question_count_" + passageCount);
-			destroyElement("task_title_" + passageCount);
+            destroyElement("task_question_count_" + taskCount);
+			destroyElement("task_title_" + taskCount);
             taskCount--;
 			
 			autoSave();
@@ -320,6 +328,7 @@ function jsonViewer(json, collapsible=false) {
         
 		function getQuestionTaskIndex(questionNumber)
 		{
+			if(questionNumber <= 0) return 0;
 			let totalNumberOfQuestion = 0;
 			let questionTaskIndex = 1;
 			while(questionTaskIndex <= taskCount)
@@ -332,6 +341,48 @@ function jsonViewer(json, collapsible=false) {
 				questionTaskIndex++;
 			}
 			return questionTaskIndex;
+		}
+		
+		function getQuestionIndexInQuestionTask(questionNumber)
+		{
+			let currentQuestionTaskIndex = getQuestionTaskIndex(questionNumber);
+			for(let i = 1; i < currentQuestionTaskIndex; i++)
+			{
+				questionNumber -= parseInt(document.getElementById("task_question_count_" + i).value);
+			}
+			return questionNumber;
+		}
+		
+		answerCount = 0; 
+		function addAnswer(answer) {
+			answerCount++;
+			
+			constructElement("textarea", "text", "answers-container", "answer_" + answerCount, answer);
+			tinymce.init({
+			  selector:'textarea#' + "answer_" + answerCount,
+			  height:300,
+			  plugins: 'code autoresize table nonbreaking',
+			  toolbar: 'undo redo | blocks | bold italic underline strikethrough | align | removeformat | table tabledelete | tableprops tablerowprops tablecellprops | tableinsertrowbefore tableinsertrowafter tabledeleterow | tableinsertcolbefore tableinsertcolafter tabledeletecol | code',
+			  nonbreaking_force_tab: true,
+			  nonbreaking_wrap: false,
+			});
+			
+			//constructElement("input", "text", "answers-container", "slug_" + answerCount, slug);
+			
+			let spanLabel = document.createElement("span");
+			spanLabel.id = "span_label_answer_" + answerCount;
+			spanLabel.innerHTML = " task " + getQuestionTaskIndex(answerCount);
+			document.getElementById("label_answer_" + answerCount).after(spanLabel);
+					
+			breakLine("answers-container", "additional_" + "answer_" + answerCount);
+		}
+		
+		function removeAnswer() {
+			document.getElementById("span_label_answer_" + answerCount).remove();
+			destroyElement("answer_" + answerCount);
+			//destroyElement("slug_" + answerCount);
+			destroyBreakLine("additional_" + "answer_" + answerCount);
+			answerCount--;
 		}
 		
 		function convertToRenderableFormat(htmlText)
@@ -422,11 +473,43 @@ function jsonViewer(json, collapsible=false) {
 						jsonData.passages[getQuestionTaskIndex(i)-1] = {};
 						jsonData.passages[getQuestionTaskIndex(i)-1].title = document.getElementById("task_title_" + getQuestionTaskIndex(i)).value;
 						jsonData.passages[getQuestionTaskIndex(i)-1].questions = [];
+						
+						
+						jsonData.passages[getQuestionTaskIndex(i)-1].start = jsonData.passages[getQuestionTaskIndex(i)-2] != null? jsonData.passages[getQuestionTaskIndex(i)-2].end + 1 : 1;
+						jsonData.passages[getQuestionTaskIndex(i)-1].end = jsonData.passages[getQuestionTaskIndex(i)-1].start + parseInt(document.getElementById("task_question_count_" + getQuestionTaskIndex(i)).value) - 1;
 					}
 					jsonData.passages[getQuestionTaskIndex(i)-1].questions.push(convertToRenderableFormat(tinymce.get("question_" + i).getContent()));
-					jsonData.passages[getQuestionTaskIndex(i)-1].start = getQuestionTaskIndex(i);
-					jsonData.passages[getQuestionTaskIndex(i)-1].end = getQuestionTaskIndex(i);
 				}
+            }
+			
+			//answers		
+			jsonData.answers = {};
+			jsonData.answers.answer_sheet = {};
+            for (let i = 1; i <= answerCount; i++) {
+				
+				let slug = jsonData.name.trim().toLowerCase().replaceAll(" ", "-") + "-";
+				if(jsonData.type == "speaking")
+				{
+					if(getQuestionTaskIndex(i) != 2)
+					{
+						slug += "part-" + getQuestionTaskIndex(i) + "-question-" + getQuestionIndexInQuestionTask(i);
+					}
+					else
+					{
+						slug += "part-" + getQuestionTaskIndex(i);
+					}
+				}
+				else
+				{
+					slug += "task-" + getQuestionTaskIndex(i);
+				}
+				
+				let answer_data = {
+					"answer": convertToRenderableFormat(tinymce.get("answer_" + i).getContent()),
+					"slug": slug
+				}
+                
+                jsonData.answers.answer_sheet[i] = answer_data;
             }
 			
 			return jsonData;
@@ -450,7 +533,8 @@ function jsonViewer(json, collapsible=false) {
 		{
 			document.getElementById("json_result").innerHTML = jsonViewer(jsonData, true);
 			document.getElementById("tasks-container").innerHTML = '';
-			document.getElementById("questions-container").innerHTML = '';					
+			document.getElementById("questions-container").innerHTML = '';		
+			document.getElementById("answers-container").innerHTML = '';		
 			tinymce.remove();
 			document.getElementById("skillTestName").value = jsonData.name;
 			document.getElementById("skillTestID").value = jsonData.id;
@@ -474,6 +558,7 @@ function jsonViewer(json, collapsible=false) {
 			
 			taskCount = 0;
 			questionCount = 0;
+			answerCount = 0;
 									
 			if(jsonData.type == "writing")
 			{
@@ -499,6 +584,14 @@ function jsonViewer(json, collapsible=false) {
 					}			
 				}
 			}
+			
+			if(jsonData.answers != null)
+			{
+				for (let i = 0; i < jsonData.answers.answer_sheet.length; i++) {
+					addAnswer(unconvertToRenderableFormat(jsonData.answers.answer_sheet[i].answer), jsonData.answers.answer_sheet[i].slug);	
+				}
+			}
+			
 		}
 		
         document.getElementById('file-selector').addEventListener('change', (event) => {

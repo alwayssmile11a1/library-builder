@@ -328,9 +328,20 @@ function jsonViewer(json, collapsible=false) {
 					case "matching_information":
 					case "matching_headings":
 					case "one_choice":
-					case "drop_information":
 					{
 						customInstruction.style.display = "none";
+						break;
+					}
+					case "drop_information":
+					{
+						if(document.getElementById("skillTestType").value == "listening")
+						{
+							customInstruction.style.display = "inline-block";
+						}
+						else
+						{
+							customInstruction.style.display = "none";
+						}
 						break;
 					}
 					default:
@@ -541,12 +552,29 @@ function jsonViewer(json, collapsible=false) {
 			{
 				for(let i = 0; i < htmlText.length - 1; i++)
 				{
-					htmlText[i] = htmlText[i].slice(0, "</span>".length * -1);
-					htmlText[i+1] = htmlText[i+1].slice("<span>".length);
+					if(htmlText[i] != null)
+					{
+						htmlText[i] = htmlText[i].slice(0, "</span>".length * -1);
+					}
+					else
+					{
+						htmlText[i] = "";
+					}
+					
+					if(htmlText[i+1] != null)
+					{
+						htmlText[i+1] = htmlText[i+1].slice("<span>".length);
+					}
+					else
+					{
+						htmlText[i+1] = "";
+					}
 				}
 				
 				htmlText = htmlText.join("&lt;input&gt;")
 			}
+			
+			if(htmlText == null) return "";
 		
 			htmlText = htmlText.replaceAll("<span>", "<p>");
 			htmlText = htmlText.replaceAll("</span><br>", "</p>\n");
@@ -625,7 +653,9 @@ function jsonViewer(json, collapsible=false) {
 					{
 						if(tinymce.get("passage_" + j).getContent({format : "text"}).length > 0)
 						{
-							if(tinymce.get("passage_" + j).getContent({format : "text"}).includes(document.getElementById("explanation_" + i).value))
+							//console.log(tinymce.get("passage_" + j).getContent({format : "text"}).replaceAll(/\u00A0/g, ' '));
+							//console.log(document.getElementById("explanation_" + i).value);
+							if(tinymce.get("passage_" + j).getContent({format : "text"}).replaceAll(/\u00A0/g, ' ').includes(document.getElementById("explanation_" + i).value.replaceAll(/\u00A0/g, ' ')))
 							{
 								hasError = false;
 								break;
@@ -637,7 +667,8 @@ function jsonViewer(json, collapsible=false) {
 							{
 								if(tinymce.get("question_" + k).getContent({format : "text"}).length > 0)
 								{
-									if(tinymce.get("question_" + k).getContent({format : "text"}).includes(document.getElementById("explanation_" + i).value))
+									//console.log(tinymce.get("passage_" + j).getContent({format : "raw"}));
+									if(tinymce.get("question_" + k).getContent({format : "text"}).replaceAll(/\u00A0/g, ' ').includes(document.getElementById("explanation_" + i).value.replaceAll(/\u00A0/g, ' ')))
 									{
 										hasError = false;
 										break;
