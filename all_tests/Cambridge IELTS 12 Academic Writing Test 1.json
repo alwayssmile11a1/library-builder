@@ -1,1 +1,20 @@
-{"name":"Cambridge IELTS 12 Academic Writing Test 1","id":"C_12_A_1_W","ielts_test_id":"C_12_A_1","type":"writing","image":"C_12_A_1_W","passages":[{"image":"C_12_A_1_W_1","question":"<span>The bar chart below shows the percentage of Australian men and women in different age groups who did regular physical activity in 2010.</span><br><span>Summarise the information by selecting and reporting the main features, and make comparisons where relevant.</span>","start":1,"end":1},{"question":"<span>Some people believe that it is good to share as much information as possible in scientific research, business and the academic world. Others believe that some information is too important or too valuable to be shared freely.</span><br><span>Discuss both these view and give your own opinion.</span>","start":2,"end":2}]}
+{
+    "name": "Cambridge IELTS 12 Academic Writing Test 1",
+    "id": "C_12_A_1_W",
+    "ielts_test_id": "C_12_A_1",
+    "type": "writing",
+    "image": "C_12_A_1_W",
+    "passages": [
+        {
+            "image": "C_12_A_1_W_1",
+            "question": "<span>The bar chart below shows the percentage of Australian men and women in different age groups who did regular physical activity in 2010.</span><br><span>Summarise the information by selecting and reporting the main features, and make comparisons where relevant.</span>",
+            "start": 1,
+            "end": 1
+        },
+        {
+            "question": "<span>Some people believe that it is good to share as much information as possible in scientific research, business and the academic world. Others believe that some information is too important or too valuable to be shared freely.</span><br><span>Discuss both these view and give your own opinion.</span>",
+            "start": 2,
+            "end": 2
+        }
+    ]
+}

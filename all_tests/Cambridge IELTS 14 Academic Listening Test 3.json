@@ -1,1 +1,561 @@
-{"name":"Cambridge IELTS 14 Academic Listening Test 3","id":"C_14_A_3_L","ielts_test_id":"C_14_A_3","type":"listening","image":"C_14_A_3_L","passages":[{"title":"Flanders Conference Hotel","audio":"C_14_A_3_L_1","image":"","start":1,"end":10},{"title":"","audio":"C_14_A_3_L_2","image":"","start":11,"end":20},{"title":"Background on school marching band","audio":"C_14_A_3_L_3","image":"","start":21,"end":30},{"title":"Concerts in university arts festival","audio":"C_14_A_3_L_4","image":"","start":31,"end":40}],"question_sections":[{"custom_instruction":"ONE WORD AND/OR A NUMBER","type":"sentence_completion","start":1,"end":10},{"custom_instruction":"TWO","type":"multiple_choices","start":11,"end":12},{"custom_instruction":"TWO","type":"multiple_choices","start":13,"end":14},{"custom_instruction":"What has each of the following volunteers helped someone to do?","type":"drop_information","start":15,"end":20},{"custom_instruction":"ONE WORD AND/OR A NUMBER","type":"sentence_completion","start":21,"end":26},{"custom_instruction":"What problem does Joe mention in connection with each of the following band members?","type":"drop_information","start":27,"end":30},{"custom_instruction":"ONE WORD AND/OR A NUMBER","type":"sentence_completion","start":31,"end":40}],"questions":{"1":{"question":["<span><em>Example</em></span><br><span>Customer Services Manager: &hellip;&hellip;&hellip;&hellip;<em>Angela&hellip;&hellip;&hellip;..</em></span><br><span><strong>Date available</strong></span><br><span>&nbsp; &nbsp;&bull; weekend beginning February 4th</span><br><span><strong>Conference facilities</strong></span><br><span>&nbsp; &nbsp;&bull; the </span>"]},"2":{"question":["<span>&nbsp;room for talks</span><br><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (projector and </span>"]},"3":{"question":["<span>&nbsp;available)</span><br><span>&nbsp; &nbsp;&bull; area for coffee and an </span>"]},"4":{"question":["<span></span><br><span>&nbsp; &nbsp;&bull; free </span>"]},"5":{"question":["<span>&nbsp;throughout</span><br><span>&nbsp; &nbsp;&bull; a standard buffet lunch costs $</span>"]},"6":{"question":["<span> per head</span><br><span><strong>Accommodation</strong></span><br><span>&nbsp; &nbsp;&bull; Rooms will cost $</span>"]},"7":{"question":["<span> including breakfast.</span><br><span><strong>Other facilities</strong></span><br><span>&nbsp; &nbsp;&bull; The hotel also has a spa and rooftop </span>"]},"8":{"question":["<span></span><br><span>&nbsp; &nbsp;&bull; There&rsquo;s a free shuttle service to the </span>"]},"9":{"question":["<span></span><br><span><strong>Location</strong></span><br><span>&nbsp; &nbsp;&bull; Wilby Street (quite near the </span>"]},"10":{"question":["<span>)</span><br><span>&nbsp; &nbsp;&bull; near to restaurants and many </span>","<span></span>"]},"11":{"question":""},"12":{"question":"<span>Which&nbsp;<strong>TWO</strong>&nbsp;activities that volunteers do are mentioned?</span>","options":["decorating","cleaning","delivering meals","shopping","childcare"]},"13":{"question":""},"14":{"question":"<span>Which&nbsp;<strong>TWO</strong>&nbsp;ways that volunteers can benefit from volunteering are mentioned?</span>","options":["learning how to be part of a team","having a sense of purpose","realising how lucky they are","improved ability at time management","boosting their employment prospects"]},"15":{"question":["<span><strong>Volunteers</strong></span><br><span>&nbsp; &nbsp;&bull; Habib </span>"]},"16":{"question":["<span></span><br><span>&nbsp; &nbsp;&bull; Consuela </span>"]},"17":{"question":["<span></span><br><span>&nbsp; &nbsp;&bull; Minh </span>"]},"18":{"question":["<span></span><br><span>&nbsp; &nbsp;&bull; Tanya </span>"]},"19":{"question":["<span></span><br><span>&nbsp; &nbsp;&bull; Alexei </span>"]},"20":{"question":["<span></span><br><span>&nbsp; &nbsp;&bull; Juba </span>","<span></span>"],"options":["overcome physical difficulties","rediscover skills not used for a long time","improve their communication skills","solve problems independently","escape isolation","remember past times","start a new hobby"]},"21":{"question":["<span>It consists of around&nbsp; </span>"]},"22":{"question":["<span> students.</span><br><span>It is due to play in a </span>"]},"23":{"question":["<span>&nbsp;band competition.</span><br><span>It has been invited to play in the town&rsquo;s </span>"]},"24":{"question":["<span></span><br><span>They have listened to a talk by a </span>"]},"25":{"question":["<span></span><br><span>Joe will discuss a </span>"]},"26":{"question":["<span>&nbsp;with the band.</span><br><span>Joe hopes the band will attend a </span>","<span>&nbsp;next month.</span>"]},"27":{"question":["<span><strong>Band members</strong></span><br><span>&nbsp; &nbsp;&bull; flautist </span>"]},"28":{"question":["<span></span><br><span>&nbsp; &nbsp;&bull; trumpeter </span>"]},"29":{"question":["<span></span><br><span>&nbsp; &nbsp;&bull; trombonist </span>"]},"30":{"question":["<span></span><br><span>&nbsp; &nbsp;&bull; percussionist </span>","<span></span>"],"options":["makes a lot of mistakes in rehearsals","keeps making unhelpful suggestions","has difficulty with rhythm","misses too many rehearsals","has a health problem","doesn’t mix with other students"]},"31":{"question":["<span><strong>Concert 1</strong></span><br><ul><br><li>Australian composer: Liza Lim</li><br><li>studied piano and </span>"]},"32":{"question":["<span>&nbsp;before turning to composition</li><br><li>performers and festivals around the world have given her a lot of commissions</li><br><li>compositions show a great deal of </span>"]},"33":{"question":["<span>&nbsp;and are drawn from various cultural sources</li><br><li>her music is very expressive and also </span>"]},"34":{"question":["<span></li><br><li>festival will include her </span>"]},"35":{"question":["<span>&nbsp;called&nbsp;<em>The Oresteia</em></li><br><li>Lim described the sounds in&nbsp;<em>The Oresteia&nbsp;</em>as </span>"]},"36":{"question":["<span></li><br><li>British composers: Ralph Vaughan Williams, Frederick Delius</li><br></ul><br><span><strong>Concert</strong>&nbsp;<strong>2</strong></span><br><ul><br><li>British composers: Benjamin Britten, Judith Weir</li><br><li>Australian composer: Ross Edwards</li><br><li>festival will include&nbsp;<em>The Tower of Remoteness</em>, inspired by nature</li><br><li><em>The Tower of Remoteness&nbsp;</em>is performed by piano and </span>"]},"37":{"question":["<span></li><br><li>compositions include music for children</li><br><li>celebrates Australia&rsquo;s cultural </span>"]},"38":{"question":["<span></li><br></ul><br><span><strong>Concert 3</strong></span><br><ul><br><li>Australian composer: Carl Vine</li><br><li>played cornet then piano</li><br><li>studied </span>"]},"39":{"question":["<span> before studying music</li><br><li>worked in Sydney as a pianist and composer</li><br><li>became well known as composer of music for </span>"]},"40":{"question":["<span></li><br><li>festival will include his music for the 1996 </span>","<span></li><br><li>British composers: Edward Elgar, Thomas Ad&egrave;s</li><br></ul>"]}},"answers":{"transcripts":{"1":"<div class=\"et_pb_row et_pb_row_1\"><br><div class=\"et_pb_column et_pb_column_4_4 et_pb_column_1  et_pb_css_mix_blend_mode_passthrough et-last-child\"><br><div class=\"et_pb_module et_pb_text et_pb_text_0  et_pb_text_align_left et_pb_bg_layout_light\"><br><div class=\"et_pb_text_inner\"><br><span>ANGELA:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hello, Flanders conference hotel.</span><br><span>MAN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Oh, hi. I wanted to ask about conference facilities at the hotel. Have I come through to the right person?</span><br><span>ANGELA:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; You have. I&rsquo;m the customer services manager. My name&rsquo;s (<em>Example</em>)&nbsp;Angela. So how can I help you?</span><br><span>MAN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Well, I&rsquo;m calling from Barrett and Stansons, we&rsquo;re a medical company based in Perth.</span><br><span>ANGELA:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Oh yes.</span><br><span>MAN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; And we&rsquo;re organising a conference for our clients to be held in Sydney. It&rsquo;ll be held over two days and we&rsquo;re expecting about fifty or sixty people.</span><br><span>ANGELA:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; When were you thinking of having it?</span><br><span>MAN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Some time early next year, like the end of January? It&rsquo;d have to be a weekend.</span><br><span>ANGELA:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Let me see &hellip; our conference facilities are already booked for the weekend beginning January 28th. We could do the first weekend in February?</span><br><span>MAN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; How about January 21st?</span><br><span>ANGELA:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I&rsquo;m afraid that&rsquo;s booked too.</span><br><span>MAN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Well, let&rsquo;s go for the February date then.</span><br><span>ANGELA:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; So that&rsquo;s the weekend beginning the 4th.</span><br><span>MAN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; OK. Now can you tell me a bit about what conference facilities you have?</span><br><span>ANGELA:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sure. So for talks and presentations we have the Tesla room.</span><br><span>MAN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sorry?</span><br><span>ANGELA:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Tesla&nbsp;&ndash; that&rsquo;s spelled T-E-S-L-A. it holds up to a hundred people, and it&rsquo;s fully equipped with a projector and so on.</span><br><span>MAN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; How about a microphone?</span><br><span>ANGELA:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Yes, that&rsquo;ll be all set up ready for you, and there&rsquo;ll be one that members of the audience can use too, for questions, if necessary.</span><br><span>MAN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Fine. And we&rsquo;ll also need some sort of open area where people can sit and have a cup of coffee, and we&rsquo;d like to have an exhibition&nbsp;of our products and services there as well, so that&rsquo;ll need to be quite a big space.</span><br><span>ANGELA:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; That&rsquo;s fine, there&rsquo;s a central atrium with all those facilities, and you can come before the conference starts if you want to set everything up.</span><br><span>MAN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Great. And I presume there&rsquo;s wifi?</span><br><span>ANGELA:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Oh yes, that&rsquo;s free and available throughout the hotel.</span><br><span>MAN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; OK.</span><br><span>ANGELA:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Would you also like us to provide a buffet lunch? We can do a two-course meal with a number of different options.</span><br><span>MAN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; What sort of price are we looking at for that?</span><br><span>ANGELA:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Well, I can send you a copy of the standard menu. That&rsquo;s $45&nbsp;per person. Or you can have the special for $25 more.</span><br><span>MAN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I think the standard should be OK, but yes, send me the menu.</span><br><span>________________________</span><br><span>MAN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Now we&rsquo;re also going to need accommodation on the Saturday night for some of the participants &hellip; I&rsquo;m not sure how many, but probably about 25. So what do you change for a room?</span><br><span>ANGELA:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Well, for conference attendees we have a 25% reduction, so we can offer you rooms at $135. Normally a standard room&rsquo;s $180.</span><br><span>MAN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; And does that include breakfast?</span><br><span>ANGELA:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sure. And of course, guests can also make use of all the other facilities at the hotel. So we&rsquo;ve got a spa where you can get massages and facials and so on, and there&rsquo;s a pool&nbsp;up on the roof for the use of guests.</span><br><span>MAN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Great. Now what about transport links? The hotel&rsquo;s downtown, isn&rsquo;t it?</span><br><span>ANGELA: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Yes, it&rsquo;s about 12 kilometres from the airport, but there&rsquo;s a complimentary shuttle bus for guests. And it&rsquo;s only about ten minutes&rsquo; walk from the central railway station.</span><br><span>MAN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; OK. Now, I don&rsquo;t know Sydney very well, can you just give me an idea of the location of the hotel?</span><br><span>ANGELA:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Well, it&rsquo;s downtown on Wilby Street, that&rsquo;s quite a small street, and it&rsquo;s not very far from the sea. And of course if the conference attendees want to go out on the Saturday evening there&rsquo;s a huge choice of places to eat. Then if they want to make a night of it, they can go on to one of the&nbsp;clubs&nbsp;in the area &ndash; there are a great many to choose from.</span><br><span>MAN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; OK. So if we go ahead with this, can you give me some information about how much &hellip;</span><br></div><br></div><br></div><br></div>","2":"<span>Good morning. My name&rsquo;s Lucy Crittenden, and I&rsquo;m the Director of Operations for an organisation that arranges volunteering in this part of the country. I&rsquo;m hoping I can persuade one or two of you to become volunteers yourselves. Let me start by briefly explaining what we mean by volunteering.</span><br><span>Volunteers are teenagers and adults who choose to spend some time, unpaid, helping other people in some way. Most volunteers devote two or three hours to this every week, while a few do much more. The people they help may have physical or behavioural difficulties, for example.</span><br><span>Volunteers can do all sorts of things, depending on their own abilities and interests. If they&rsquo;re supporting a family that&rsquo;s struggling, for example, they may be able to give them tips on cooking, or recommend how to plan their budget or how to shop sensibly on their income. They might even do&nbsp;some painting or wallpapering, perhaps alongside any members of the family who are able to do it. Or even do&nbsp;some babysitting&nbsp;so that parents can go out for a while.</span><br><span>The benefit from volunteering isn&rsquo;t only for the people being helped. Volunteers also gain from it: they&rsquo;re using their skills to cope with somebody&rsquo;s mental or physical ill health, and&nbsp;volunteering may be a valuable element of their CV when they&rsquo;re applying for jobs: employers usually look favourably on someone who&rsquo;s given up time to help others. Significantly, most volunteers&nbsp;feel that what they&rsquo;re doing gives them a purpose in their lives. And in my opinion, they&rsquo;re lucky in that respect, as many people don&rsquo;t have that feeling.</span><br><span>____________________</span><br><span>Now I&rsquo;d like to tell you what some of our volunteers have said about what they do, to give you an idea of the range of ways in which they can help people.</span><br><span>Habib supports an elderly lady who&rsquo;s beginning to show signs of dementia. Once a week they, along with other elderly people, go to the local community centre, where a group of people come in and sing. The songs&nbsp;take the listeners back to their youth, and for a little while they can forget the difficulties that they face now.</span><br><span>Our volunteer Consuela is an amazing woman.&nbsp;She has difficulty walking herself, but she doesn&rsquo;t let that stop her. She helps a couple of people with similar difficulties, who had almost stopped walking altogether.&nbsp;By using herself as an example, Consuela encourages them to walk more and more.</span><br><span>Minh visits a young man who lives alone and can&rsquo;t leave his home on his own, so he hardly ever saw anyone. But together&nbsp;they go out to the cinema, or to see friends&nbsp;the young man hadn&rsquo;t been able to visit for a long time.</span><br><span>Tanya visits an elderly woman once a week. When the woman found out that Tanya is a professional dressmaker, she got interested. Tanya showed her some soft toys she&rsquo;d made, and&nbsp;the woman decided to try it herself. And now she really enjoys it, and spends hours making toys. They&rsquo;re not perhaps up to Tanya&rsquo;s standard yet, but she gains a lot of pleasure from doing it.</span><br><span>Alexei is a volunteer with a family that faces a number of difficulties. By calmly talking over possible solutions with family members, he&rsquo;s helping them to realise that they aren&rsquo;t helpless, and that&nbsp;they can do something themselves to improve their situation. This has been great for their self-esteem.</span><br><span>And the last volunteer I&rsquo;ll mention, though there are plenty more, is Juba. She volunteers with a teenage girl with learning difficulties, who wasn&rsquo;t very good at talking to other people. Juba&rsquo;s worked very patiently with her,&nbsp;and now the girl is far better at expressing herself, and at understanding other people.</span><br><span>OK, I hope that&rsquo;s given you an idea of what volunteering is all about. Now I&rsquo;d like &hellip;</span>","3":"<span>LIZZIE:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; So how are you getting on with your teaching practice at the High School, Joe?</span><br><span>JOE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Well I&rsquo;ve been put in charge of the school marching band, and it&rsquo;s quite a responsibility. I&rsquo;d like to talk it over with you.</span><br><span>LIZZIE:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Go ahead. You&rsquo;d better start by giving me a bit of background.</span><br><span>JOE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; OK. Well the band has students in it from all years, so they&rsquo;re aged 11 to 18, and there are about 50&nbsp;of them altogether. It&rsquo;s quite a popular activity within the school. I&rsquo;ve never worked with a band of more than 20 before, and this is very different.</span><br><span>LIZZIE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I can imagine.</span><br><span>JOE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; They aren&rsquo;t really good enough to enter national band competitions, but they&rsquo;re in a regional&nbsp;one later in the term. Even if they don&rsquo;t win, and I don&rsquo;t expect them to, hopefully it&rsquo;ll be an incentive for them to try and improve.</span><br><span>LIZZIE:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Yes, hopefully.</span><br><span>JOE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Well, now the town council&rsquo;s organising a carnival&nbsp;in the summer, and the band has been asked to perform. If you ask me, they aren&rsquo;t really up to it yet, and I need to get them functioning better as a band, and in a very short time.</span><br><span>LIZZIE:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Have you been doing anything with them? Apart from practising the music, I mean.</span><br><span>JOE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I played a recording I came across, of a drummer&nbsp;talking about how playing in a band had changed his life. I think it was an after-dinner speech. I thought it was pretty inspiring, because being in the band had stopped him from getting involved in crime. The students seemed to find it interesting, too.</span><br><span>LIZZIE:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;That&rsquo;s good.</span><br><span>JOE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I&rsquo;m planning to show them that old film&nbsp;from the 1940s &lsquo;Strike Up the Band&rsquo;, and talk about it with the students. What do you think?</span><br><span>LIZZIE:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Good idea. As it&rsquo;s about a school band, it might make the students realise how much they can achieve if they work together.</span><br><span>JOE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; That&rsquo;s what I&rsquo;ve got in mind. I&rsquo;m hoping I can take some of the band to a parade&nbsp;that&rsquo;s going to take place next month. A couple of marching bands will be performing, and the atmosphere should be quite exciting. It depends on whether I can persuade the school to hire a coach or two to take us there.</span><br><span>LIZZIE:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Mmm. They sound like good ideas to me.</span><br><span>JOE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Thanks.</span><br><span>_______________________</span><br><span>JOE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Can I tell you about a few people in the band who I&rsquo;m finding it quite difficult to cope with? I&rsquo;m sure you&rsquo;ll have some ideas about what I can do.</span><br><span>LIZZIE:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Go ahead.</span><br><span>JOE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; There&rsquo;s a flautist who says she loves playing in the band. We rehearse twice a week after school, but she&rsquo;s hardly ever there. Then she looks for me the next day and gives me a very plausible reason &ndash; she says she had to help her mother, or she&rsquo;s been ill, but to be honest, I don&rsquo;t believe her.</span><br><span>LIZZIE:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Oh dear! Any more students with difficulties?</span><br><span>JOE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Plenty! There&rsquo;s a trumpeter who thinks she&rsquo;s the best musician in the band, though she certainly isn&rsquo;t. She&rsquo;s always saying what she thinks other people should do, which makes my job pretty difficult.</span><br><span>LIZZIE:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;She sounds a bit of a nightmare!</span><br><span>JOE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; You can say that again. One of the trombonists has got an impressive sense of rhythm, and could be an excellent musician &ndash; except that he has breathing difficulties, and he doesn&rsquo;t really have enough breath for the trombone. He&rsquo;d be much better of playing percussion, for instance, but he refuses to give up. So he ends up only playing half the notes.</span><br><span>LIZZIE:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;I suppose you have to admire his determination.</span><br><span>JOE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Maybe. One of the percussionists isn&rsquo;t too bad, but he never seems to interact with other people, and he always rushes off as soon as the rehearsal ends. I don&rsquo;t know if there are family reasons, or what. But it isn&rsquo;t good in a band, where people really need to feel they&rsquo;re part of a group.</span><br><span>LIZZIE:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Hmm.</span><br><span>JOE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; There are others too, but at least that gives you an idea of what I&rsquo;m up against. Do you have any thoughts about what I can do, Lizzie?</span>","4":"<span>As you all know, the university is planning an arts festival for later this year, and here in the music department we&rsquo;ve planned three concerts. These will be public performances, and the programme has just been finalised. The theme of the festival is links between the UK and Australia, and this is reflected in the music: each concert will feature both British and Australian composers. I&rsquo;ll tell you briefly about the Australian music, as you probably won&rsquo;t be familiar with that.</span><br><span>The first concert will include music by Liza Lim, who was born in Perth, Western Australia, in 1966. As a child, Lim originally learned to play the piano &ndash; like so many children &ndash; and also the&nbsp;violin. But when she was 11 her teachers encouraged her to start composing. She found this was her real strength, and she studied and later taught composition, both in Australia and in other countries. As a composer, she has received commissions from numerous orchestras, other performers and festivals in several countries.</span><br><span>Liza Lim&rsquo;s compositions are vibrant and full of&nbsp;energy, and she often explores Asian and Australian Aboriginal cultural sources, including the native instrument, the didgeridoo: this is featured in a work called&nbsp;<em>The Compass</em>. Her music is very expressive, so although it is&nbsp;complex, it has the power of connecting with audiences and performers alike.</span><br><span>In the festival we&rsquo;re going to give a semi-staged performance of&nbsp;<em>The Oresteia</em>. This is an&nbsp;opera in seven parts, based on the trilogy of ancient Greek tragedies by Aeschylus. Lim composed this when she was in her mid-20s, and she also wrote the text, along with Barrie Kosky. It&rsquo;s performed by six singers, a dancer, and an orchestra that, as well as standard orchestral instruments, includes electric guitar, and a traditional Turkish stringed instrument. Lim wrote that because the stories in the tragedies are not easy to tell, the sounds she creates are also disturbing, and they include breathing, sobbing, laughing and whistling. The work lasts around 75 minutes, and the rest of the concert will consist of orchestral works by the British composers Ralph Vaughan Williams and Frederick Delius.</span><br><span>_____________________</span><br><span>Moving on now to our second concert, this will begin with instrumental music by British composers &ndash; Benjamin Britten and Judith Weir. After the interval we&rsquo;ll go to Australia for a piece by Ross Edwards:&nbsp;<em>The Tower of Remoteness</em>. According to Edwards, the inspiration for this piece came from nature, when he was sitting alone in the dry bed of a creek, overshadowed by the leaves of palm trees, listening to the birds and insects.&nbsp;<em>The Tower of Remoteness</em> is scored for piano and clarinet. Edwards says he realised years after writing the piece that he had subconsciously modelled its opening phrase on a bird call.</span><br><span>Ross Edwards was born in 1943 in Sydney, Australia, and studied at the Sydney Conservatorium of Music and the universities of Adelaide and Sydney. He&rsquo;s well known in Australia, and in fact he&rsquo;s one of the country&rsquo;s most performed composers. He&rsquo;s written a wide range of music, from symphonies and concertos to some composed specifically for children. Edward&rsquo;s music has been described as being &lsquo;deeply connected to Australia&rsquo;, and it can be regarded as a celebration of the&nbsp;diversity&nbsp;of cultures that Australia can be proud of.</span><br><span>The last of the three Australian composers to be represented in our festival is Carl Vine. Born in 1954, Vine, like Liza Lim, comes from Perth, Western Australia. He took up the cornet at the age of five, switching to the piano five years later. However, he went to university to study&nbsp;physics, before changing to composition. After graduating he moved to Sydney and worked as a freelance pianist and composer. Before long he had become prominent in Australia as a composer for&nbsp;dance, and in fact has written 25 scores of that type.</span><br><span>In our third concert, Vine will be represented by his music for the flag hand-over ceremony of the&nbsp;Olympics&nbsp;held in 1996. This seven-minute orchestral piece was of course heard by millions of people worldwide, and we&rsquo;ll hear it alongside works written by British composers Edward Elgar and, more recently, Thomas Ad&egrave;s.</span>"},"answer_sheet":{"1":{"answer":["Tesla"],"explanation":"Tesla – that’s spelled T-E-S-L-A"},"2":{"answer":["microphone"],"explanation":"How about a microphone?"},"3":{"answer":["exhibition"],"explanation":"we’d like to have an exhibition of our products and services there as well, so that’ll need to be quite a big space"},"4":{"answer":["wifi"],"explanation":"I presume there’s wifi?"},"5":{"answer":["45"],"explanation":"That’s $45 per person. Or you can have the special for $25 more."},"6":{"answer":["135"],"explanation":"Well, for conference attendees we have a 25% reduction, so we can offer you rooms at $135"},"7":{"answer":["pool"],"explanation":"So we’ve got a spa where you can get massages and facials and so on, and there’s a pool up on the roof for the use of guests."},"8":{"answer":["airport"],"explanation":"it’s about 12 kilometres from the airport, but there’s a complimentary shuttle bus for guests"},"9":{"answer":["sea"],"explanation":"it’s downtown on Wilby Street, that’s quite a small street, and it’s not very far from the sea"},"10":{"answer":["clubs"],"explanation":"Then if they want to make a night of it, they can go on to one of the clubs in the area"},"11":{"answer":["decorating"],"explanation":"They might even do some painting or wallpapering, perhaps alongside any members of the family who are able to do it"},"12":{"answer":["childcare"],"explanation":"Or even do some babysitting so that parents can go out for a while."},"13":{"answer":["having a sense of purpose"],"explanation":"volunteering may be a valuable element of their CV when they’re applying for jobs: employers usually look favourably on someone who’s given up time to help others"},"14":{"answer":["boosting their employment prospects"],"explanation":"Significantly, most volunteers feel that what they’re doing gives them a purpose in their lives"},"15":{"answer":["remember past times"],"explanation":"The songs take the listeners back to their youth, and for a little while they can forget the difficulties that they face now."},"16":{"answer":["overcome physical difficulties"],"explanation":"She has difficulty walking herself, but she doesn’t let that stop her"},"17":{"answer":["escape isolation"],"explanation":"But together they go out to the cinema, or to see friends the young man hadn’t been able to visit for a long time"},"18":{"answer":["start a new hobby"],"explanation":"the woman decided to try it herself"},"19":{"answer":["solve problems independently"],"explanation":"that they can do something themselves to improve their situation"},"20":{"answer":["improve their communication skills"],"explanation":"Juba’s worked very patiently with her, and now the girl is far better at expressing herself, and at understanding other people."},"21":{"answer":["50"],"explanation":"there are about 50 of them altogether"},"22":{"answer":["regional"],"explanation":"they’re in a regional one later in the term"},"23":{"answer":["carnival"],"explanation":"now the town council’s organising a carnival in the summer, and the band has been asked to perform"},"24":{"answer":["drummer"],"explanation":"I played a recording I came across, of a drummer talking about how playing in a band had changed his life"},"25":{"answer":["film"],"explanation":"I’m planning to show them that old film from the 1940s ‘Strike Up the Band’, and talk about it with the students"},"26":{"answer":["parade"],"explanation":"I’m hoping I can take some of the band to a parade that’s going to take place next month"},"27":{"answer":["misses too many rehearsals"],"explanation":"she’s hardly ever there"},"28":{"answer":["keeps making unhelpful suggestions"],"explanation":"She’s always saying what she thinks other people should do, which makes my job pretty difficult"},"29":{"answer":["has a health problem"],"explanation":"he has breathing difficulties, and he doesn’t really have enough breath for the trombone"},"30":{"answer":["doesn’t mix with other students"],"explanation":"he never seems to interact with other people, and he always rushes off as soon as the rehearsal ends"},"31":{"answer":["violin"],"explanation":"also the violin"},"32":{"answer":["energy"],"explanation":"Liza Lim’s compositions are vibrant and full of energy"},"33":{"answer":["complex"],"explanation":"Her music is very expressive, so although it is complex, it has the power of connecting with audiences and performers alike."},"34":{"answer":["opera"],"explanation":"This is an opera in seven parts, based on the trilogy of ancient Greek tragedies by Aeschylus"},"35":{"answer":["disturbing"],"explanation":"the sounds she creates are also disturbing"},"36":{"answer":["clarinet"],"explanation":"The Tower of Remoteness is scored for piano and clarinet"},"37":{"answer":["diversity"],"explanation":"it can be regarded as a celebration of the diversity of cultures that Australia can be proud of"},"38":{"answer":["physics"],"explanation":"However, he went to university to study physics, before changing to composition"},"39":{"answer":["dance"],"explanation":"Before long he had become prominent in Australia as a composer for dance, and in fact has written 25 scores of that type"},"40":{"answer":["Olympics"],"explanation":"In our third concert, Vine will be represented by his music for the flag hand-over ceremony of the Olympics held in 1996"}}}}
+{
+    "name": "Cambridge IELTS 14 Academic Listening Test 3",
+    "id": "C_14_A_3_L",
+    "ielts_test_id": "C_14_A_3",
+    "type": "listening",
+    "image": "C_14_A_3_L",
+    "passages": [
+        {
+            "title": "Flanders Conference Hotel",
+            "audio": "C_14_A_3_L_1",
+            "image": "",
+            "start": 1,
+            "end": 10
+        },
+        {
+            "title": "",
+            "audio": "C_14_A_3_L_2",
+            "image": "",
+            "start": 11,
+            "end": 20
+        },
+        {
+            "title": "Background on school marching band",
+            "audio": "C_14_A_3_L_3",
+            "image": "",
+            "start": 21,
+            "end": 30
+        },
+        {
+            "title": "Concerts in university arts festival",
+            "audio": "C_14_A_3_L_4",
+            "image": "",
+            "start": 31,
+            "end": 40
+        }
+    ],
+    "question_sections": [
+        {
+            "custom_instruction": "ONE WORD AND/OR A NUMBER",
+            "type": "sentence_completion",
+            "start": 1,
+            "end": 10
+        },
+        {
+            "custom_instruction": "TWO",
+            "type": "multiple_choices",
+            "start": 11,
+            "end": 12
+        },
+        {
+            "custom_instruction": "TWO",
+            "type": "multiple_choices",
+            "start": 13,
+            "end": 14
+        },
+        {
+            "custom_instruction": "What has each of the following volunteers helped someone to do?",
+            "type": "drop_information",
+            "start": 15,
+            "end": 20
+        },
+        {
+            "custom_instruction": "ONE WORD AND/OR A NUMBER",
+            "type": "sentence_completion",
+            "start": 21,
+            "end": 26
+        },
+        {
+            "custom_instruction": "What problem does Joe mention in connection with each of the following band members?",
+            "type": "drop_information",
+            "start": 27,
+            "end": 30
+        },
+        {
+            "custom_instruction": "ONE WORD AND/OR A NUMBER",
+            "type": "sentence_completion",
+            "start": 31,
+            "end": 40
+        }
+    ],
+    "questions": {
+        "1": {
+            "question": [
+                "<span><em>Example</em></span><br><span>Customer Services Manager: &hellip;&hellip;&hellip;&hellip;<em>Angela&hellip;&hellip;&hellip;..</em></span><br><span><strong>Date available</strong></span><br><span>&nbsp; &nbsp;&bull; weekend beginning February 4th</span><br><span><strong>Conference facilities</strong></span><br><span>&nbsp; &nbsp;&bull; the </span>"
+            ]
+        },
+        "2": {
+            "question": [
+                "<span>&nbsp;room for talks</span><br><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (projector and </span>"
+            ]
+        },
+        "3": {
+            "question": [
+                "<span>&nbsp;available)</span><br><span>&nbsp; &nbsp;&bull; area for coffee and an </span>"
+            ]
+        },
+        "4": {
+            "question": [
+                "<span></span><br><span>&nbsp; &nbsp;&bull; free </span>"
+            ]
+        },
+        "5": {
+            "question": [
+                "<span>&nbsp;throughout</span><br><span>&nbsp; &nbsp;&bull; a standard buffet lunch costs $</span>"
+            ]
+        },
+        "6": {
+            "question": [
+                "<span> per head</span><br><span><strong>Accommodation</strong></span><br><span>&nbsp; &nbsp;&bull; Rooms will cost $</span>"
+            ]
+        },
+        "7": {
+            "question": [
+                "<span> including breakfast.</span><br><span><strong>Other facilities</strong></span><br><span>&nbsp; &nbsp;&bull; The hotel also has a spa and rooftop </span>"
+            ]
+        },
+        "8": {
+            "question": [
+                "<span></span><br><span>&nbsp; &nbsp;&bull; There&rsquo;s a free shuttle service to the </span>"
+            ]
+        },
+        "9": {
+            "question": [
+                "<span></span><br><span><strong>Location</strong></span><br><span>&nbsp; &nbsp;&bull; Wilby Street (quite near the </span>"
+            ]
+        },
+        "10": {
+            "question": [
+                "<span>)</span><br><span>&nbsp; &nbsp;&bull; near to restaurants and many </span>",
+                "<span></span>"
+            ]
+        },
+        "11": {
+            "question": ""
+        },
+        "12": {
+            "question": "<span>Which&nbsp;<strong>TWO</strong>&nbsp;activities that volunteers do are mentioned?</span>",
+            "options": [
+                "decorating",
+                "cleaning",
+                "delivering meals",
+                "shopping",
+                "childcare"
+            ]
+        },
+        "13": {
+            "question": ""
+        },
+        "14": {
+            "question": "<span>Which&nbsp;<strong>TWO</strong>&nbsp;ways that volunteers can benefit from volunteering are mentioned?</span>",
+            "options": [
+                "learning how to be part of a team",
+                "having a sense of purpose",
+                "realising how lucky they are",
+                "improved ability at time management",
+                "boosting their employment prospects"
+            ]
+        },
+        "15": {
+            "question": [
+                "<span><strong>Volunteers</strong></span><br><span>&nbsp; &nbsp;&bull; Habib </span>"
+            ]
+        },
+        "16": {
+            "question": [
+                "<span></span><br><span>&nbsp; &nbsp;&bull; Consuela </span>"
+            ]
+        },
+        "17": {
+            "question": [
+                "<span></span><br><span>&nbsp; &nbsp;&bull; Minh </span>"
+            ]
+        },
+        "18": {
+            "question": [
+                "<span></span><br><span>&nbsp; &nbsp;&bull; Tanya </span>"
+            ]
+        },
+        "19": {
+            "question": [
+                "<span></span><br><span>&nbsp; &nbsp;&bull; Alexei </span>"
+            ]
+        },
+        "20": {
+            "question": [
+                "<span></span><br><span>&nbsp; &nbsp;&bull; Juba </span>",
+                "<span></span>"
+            ],
+            "options": [
+                "overcome physical difficulties",
+                "rediscover skills not used for a long time",
+                "improve their communication skills",
+                "solve problems independently",
+                "escape isolation",
+                "remember past times",
+                "start a new hobby"
+            ]
+        },
+        "21": {
+            "question": [
+                "<span>It consists of around&nbsp; </span>"
+            ]
+        },
+        "22": {
+            "question": [
+                "<span> students.</span><br><span>It is due to play in a </span>"
+            ]
+        },
+        "23": {
+            "question": [
+                "<span>&nbsp;band competition.</span><br><span>It has been invited to play in the town&rsquo;s </span>"
+            ]
+        },
+        "24": {
+            "question": [
+                "<span></span><br><span>They have listened to a talk by a </span>"
+            ]
+        },
+        "25": {
+            "question": [
+                "<span></span><br><span>Joe will discuss a </span>"
+            ]
+        },
+        "26": {
+            "question": [
+                "<span>&nbsp;with the band.</span><br><span>Joe hopes the band will attend a </span>",
+                "<span>&nbsp;next month.</span>"
+            ]
+        },
+        "27": {
+            "question": [
+                "<span><strong>Band members</strong></span><br><span>&nbsp; &nbsp;&bull; flautist </span>"
+            ]
+        },
+        "28": {
+            "question": [
+                "<span></span><br><span>&nbsp; &nbsp;&bull; trumpeter </span>"
+            ]
+        },
+        "29": {
+            "question": [
+                "<span></span><br><span>&nbsp; &nbsp;&bull; trombonist </span>"
+            ]
+        },
+        "30": {
+            "question": [
+                "<span></span><br><span>&nbsp; &nbsp;&bull; percussionist </span>",
+                "<span></span>"
+            ],
+            "options": [
+                "makes a lot of mistakes in rehearsals",
+                "keeps making unhelpful suggestions",
+                "has difficulty with rhythm",
+                "misses too many rehearsals",
+                "has a health problem",
+                "doesn’t mix with other students"
+            ]
+        },
+        "31": {
+            "question": [
+                "<span><strong>Concert 1</strong></span><br><ul><br><li>Australian composer: Liza Lim</li><br><li>studied piano and </span>"
+            ]
+        },
+        "32": {
+            "question": [
+                "<span>&nbsp;before turning to composition</li><br><li>performers and festivals around the world have given her a lot of commissions</li><br><li>compositions show a great deal of </span>"
+            ]
+        },
+        "33": {
+            "question": [
+                "<span>&nbsp;and are drawn from various cultural sources</li><br><li>her music is very expressive and also </span>"
+            ]
+        },
+        "34": {
+            "question": [
+                "<span></li><br><li>festival will include her </span>"
+            ]
+        },
+        "35": {
+            "question": [
+                "<span>&nbsp;called&nbsp;<em>The Oresteia</em></li><br><li>Lim described the sounds in&nbsp;<em>The Oresteia&nbsp;</em>as </span>"
+            ]
+        },
+        "36": {
+            "question": [
+                "<span></li><br><li>British composers: Ralph Vaughan Williams, Frederick Delius</li><br></ul><br><span><strong>Concert</strong>&nbsp;<strong>2</strong></span><br><ul><br><li>British composers: Benjamin Britten, Judith Weir</li><br><li>Australian composer: Ross Edwards</li><br><li>festival will include&nbsp;<em>The Tower of Remoteness</em>, inspired by nature</li><br><li><em>The Tower of Remoteness&nbsp;</em>is performed by piano and </span>"
+            ]
+        },
+        "37": {
+            "question": [
+                "<span></li><br><li>compositions include music for children</li><br><li>celebrates Australia&rsquo;s cultural </span>"
+            ]
+        },
+        "38": {
+            "question": [
+                "<span></li><br></ul><br><span><strong>Concert 3</strong></span><br><ul><br><li>Australian composer: Carl Vine</li><br><li>played cornet then piano</li><br><li>studied </span>"
+            ]
+        },
+        "39": {
+            "question": [
+                "<span> before studying music</li><br><li>worked in Sydney as a pianist and composer</li><br><li>became well known as composer of music for </span>"
+            ]
+        },
+        "40": {
+            "question": [
+                "<span></li><br><li>festival will include his music for the 1996 </span>",
+                "<span></li><br><li>British composers: Edward Elgar, Thomas Ad&egrave;s</li><br></ul>"
+            ]
+        }
+    },
+    "answers": {
+        "transcripts": {
+            "1": "<div class=\"et_pb_row et_pb_row_1\"><br><div class=\"et_pb_column et_pb_column_4_4 et_pb_column_1  et_pb_css_mix_blend_mode_passthrough et-last-child\"><br><div class=\"et_pb_module et_pb_text et_pb_text_0  et_pb_text_align_left et_pb_bg_layout_light\"><br><div class=\"et_pb_text_inner\"><br><span>ANGELA:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hello, Flanders conference hotel.</span><br><span>MAN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Oh, hi. I wanted to ask about conference facilities at the hotel. Have I come through to the right person?</span><br><span>ANGELA:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; You have. I&rsquo;m the customer services manager. My name&rsquo;s (<em>Example</em>)&nbsp;Angela. So how can I help you?</span><br><span>MAN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Well, I&rsquo;m calling from Barrett and Stansons, we&rsquo;re a medical company based in Perth.</span><br><span>ANGELA:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Oh yes.</span><br><span>MAN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; And we&rsquo;re organising a conference for our clients to be held in Sydney. It&rsquo;ll be held over two days and we&rsquo;re expecting about fifty or sixty people.</span><br><span>ANGELA:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; When were you thinking of having it?</span><br><span>MAN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Some time early next year, like the end of January? It&rsquo;d have to be a weekend.</span><br><span>ANGELA:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Let me see &hellip; our conference facilities are already booked for the weekend beginning January 28th. We could do the first weekend in February?</span><br><span>MAN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; How about January 21st?</span><br><span>ANGELA:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I&rsquo;m afraid that&rsquo;s booked too.</span><br><span>MAN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Well, let&rsquo;s go for the February date then.</span><br><span>ANGELA:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; So that&rsquo;s the weekend beginning the 4th.</span><br><span>MAN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; OK. Now can you tell me a bit about what conference facilities you have?</span><br><span>ANGELA:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sure. So for talks and presentations we have the Tesla room.</span><br><span>MAN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sorry?</span><br><span>ANGELA:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Tesla&nbsp;&ndash; that&rsquo;s spelled T-E-S-L-A. it holds up to a hundred people, and it&rsquo;s fully equipped with a projector and so on.</span><br><span>MAN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; How about a microphone?</span><br><span>ANGELA:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Yes, that&rsquo;ll be all set up ready for you, and there&rsquo;ll be one that members of the audience can use too, for questions, if necessary.</span><br><span>MAN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Fine. And we&rsquo;ll also need some sort of open area where people can sit and have a cup of coffee, and we&rsquo;d like to have an exhibition&nbsp;of our products and services there as well, so that&rsquo;ll need to be quite a big space.</span><br><span>ANGELA:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; That&rsquo;s fine, there&rsquo;s a central atrium with all those facilities, and you can come before the conference starts if you want to set everything up.</span><br><span>MAN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Great. And I presume there&rsquo;s wifi?</span><br><span>ANGELA:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Oh yes, that&rsquo;s free and available throughout the hotel.</span><br><span>MAN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; OK.</span><br><span>ANGELA:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Would you also like us to provide a buffet lunch? We can do a two-course meal with a number of different options.</span><br><span>MAN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; What sort of price are we looking at for that?</span><br><span>ANGELA:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Well, I can send you a copy of the standard menu. That&rsquo;s $45&nbsp;per person. Or you can have the special for $25 more.</span><br><span>MAN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I think the standard should be OK, but yes, send me the menu.</span><br><span>________________________</span><br><span>MAN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Now we&rsquo;re also going to need accommodation on the Saturday night for some of the participants &hellip; I&rsquo;m not sure how many, but probably about 25. So what do you change for a room?</span><br><span>ANGELA:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Well, for conference attendees we have a 25% reduction, so we can offer you rooms at $135. Normally a standard room&rsquo;s $180.</span><br><span>MAN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; And does that include breakfast?</span><br><span>ANGELA:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sure. And of course, guests can also make use of all the other facilities at the hotel. So we&rsquo;ve got a spa where you can get massages and facials and so on, and there&rsquo;s a pool&nbsp;up on the roof for the use of guests.</span><br><span>MAN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Great. Now what about transport links? The hotel&rsquo;s downtown, isn&rsquo;t it?</span><br><span>ANGELA: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Yes, it&rsquo;s about 12 kilometres from the airport, but there&rsquo;s a complimentary shuttle bus for guests. And it&rsquo;s only about ten minutes&rsquo; walk from the central railway station.</span><br><span>MAN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; OK. Now, I don&rsquo;t know Sydney very well, can you just give me an idea of the location of the hotel?</span><br><span>ANGELA:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Well, it&rsquo;s downtown on Wilby Street, that&rsquo;s quite a small street, and it&rsquo;s not very far from the sea. And of course if the conference attendees want to go out on the Saturday evening there&rsquo;s a huge choice of places to eat. Then if they want to make a night of it, they can go on to one of the&nbsp;clubs&nbsp;in the area &ndash; there are a great many to choose from.</span><br><span>MAN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; OK. So if we go ahead with this, can you give me some information about how much &hellip;</span><br></div><br></div><br></div><br></div>",
+            "2": "<span>Good morning. My name&rsquo;s Lucy Crittenden, and I&rsquo;m the Director of Operations for an organisation that arranges volunteering in this part of the country. I&rsquo;m hoping I can persuade one or two of you to become volunteers yourselves. Let me start by briefly explaining what we mean by volunteering.</span><br><span>Volunteers are teenagers and adults who choose to spend some time, unpaid, helping other people in some way. Most volunteers devote two or three hours to this every week, while a few do much more. The people they help may have physical or behavioural difficulties, for example.</span><br><span>Volunteers can do all sorts of things, depending on their own abilities and interests. If they&rsquo;re supporting a family that&rsquo;s struggling, for example, they may be able to give them tips on cooking, or recommend how to plan their budget or how to shop sensibly on their income. They might even do&nbsp;some painting or wallpapering, perhaps alongside any members of the family who are able to do it. Or even do&nbsp;some babysitting&nbsp;so that parents can go out for a while.</span><br><span>The benefit from volunteering isn&rsquo;t only for the people being helped. Volunteers also gain from it: they&rsquo;re using their skills to cope with somebody&rsquo;s mental or physical ill health, and&nbsp;volunteering may be a valuable element of their CV when they&rsquo;re applying for jobs: employers usually look favourably on someone who&rsquo;s given up time to help others. Significantly, most volunteers&nbsp;feel that what they&rsquo;re doing gives them a purpose in their lives. And in my opinion, they&rsquo;re lucky in that respect, as many people don&rsquo;t have that feeling.</span><br><span>____________________</span><br><span>Now I&rsquo;d like to tell you what some of our volunteers have said about what they do, to give you an idea of the range of ways in which they can help people.</span><br><span>Habib supports an elderly lady who&rsquo;s beginning to show signs of dementia. Once a week they, along with other elderly people, go to the local community centre, where a group of people come in and sing. The songs&nbsp;take the listeners back to their youth, and for a little while they can forget the difficulties that they face now.</span><br><span>Our volunteer Consuela is an amazing woman.&nbsp;She has difficulty walking herself, but she doesn&rsquo;t let that stop her. She helps a couple of people with similar difficulties, who had almost stopped walking altogether.&nbsp;By using herself as an example, Consuela encourages them to walk more and more.</span><br><span>Minh visits a young man who lives alone and can&rsquo;t leave his home on his own, so he hardly ever saw anyone. But together&nbsp;they go out to the cinema, or to see friends&nbsp;the young man hadn&rsquo;t been able to visit for a long time.</span><br><span>Tanya visits an elderly woman once a week. When the woman found out that Tanya is a professional dressmaker, she got interested. Tanya showed her some soft toys she&rsquo;d made, and&nbsp;the woman decided to try it herself. And now she really enjoys it, and spends hours making toys. They&rsquo;re not perhaps up to Tanya&rsquo;s standard yet, but she gains a lot of pleasure from doing it.</span><br><span>Alexei is a volunteer with a family that faces a number of difficulties. By calmly talking over possible solutions with family members, he&rsquo;s helping them to realise that they aren&rsquo;t helpless, and that&nbsp;they can do something themselves to improve their situation. This has been great for their self-esteem.</span><br><span>And the last volunteer I&rsquo;ll mention, though there are plenty more, is Juba. She volunteers with a teenage girl with learning difficulties, who wasn&rsquo;t very good at talking to other people. Juba&rsquo;s worked very patiently with her,&nbsp;and now the girl is far better at expressing herself, and at understanding other people.</span><br><span>OK, I hope that&rsquo;s given you an idea of what volunteering is all about. Now I&rsquo;d like &hellip;</span>",
+            "3": "<span>LIZZIE:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; So how are you getting on with your teaching practice at the High School, Joe?</span><br><span>JOE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Well I&rsquo;ve been put in charge of the school marching band, and it&rsquo;s quite a responsibility. I&rsquo;d like to talk it over with you.</span><br><span>LIZZIE:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Go ahead. You&rsquo;d better start by giving me a bit of background.</span><br><span>JOE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; OK. Well the band has students in it from all years, so they&rsquo;re aged 11 to 18, and there are about 50&nbsp;of them altogether. It&rsquo;s quite a popular activity within the school. I&rsquo;ve never worked with a band of more than 20 before, and this is very different.</span><br><span>LIZZIE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I can imagine.</span><br><span>JOE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; They aren&rsquo;t really good enough to enter national band competitions, but they&rsquo;re in a regional&nbsp;one later in the term. Even if they don&rsquo;t win, and I don&rsquo;t expect them to, hopefully it&rsquo;ll be an incentive for them to try and improve.</span><br><span>LIZZIE:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Yes, hopefully.</span><br><span>JOE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Well, now the town council&rsquo;s organising a carnival&nbsp;in the summer, and the band has been asked to perform. If you ask me, they aren&rsquo;t really up to it yet, and I need to get them functioning better as a band, and in a very short time.</span><br><span>LIZZIE:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Have you been doing anything with them? Apart from practising the music, I mean.</span><br><span>JOE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I played a recording I came across, of a drummer&nbsp;talking about how playing in a band had changed his life. I think it was an after-dinner speech. I thought it was pretty inspiring, because being in the band had stopped him from getting involved in crime. The students seemed to find it interesting, too.</span><br><span>LIZZIE:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;That&rsquo;s good.</span><br><span>JOE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I&rsquo;m planning to show them that old film&nbsp;from the 1940s &lsquo;Strike Up the Band&rsquo;, and talk about it with the students. What do you think?</span><br><span>LIZZIE:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Good idea. As it&rsquo;s about a school band, it might make the students realise how much they can achieve if they work together.</span><br><span>JOE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; That&rsquo;s what I&rsquo;ve got in mind. I&rsquo;m hoping I can take some of the band to a parade&nbsp;that&rsquo;s going to take place next month. A couple of marching bands will be performing, and the atmosphere should be quite exciting. It depends on whether I can persuade the school to hire a coach or two to take us there.</span><br><span>LIZZIE:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Mmm. They sound like good ideas to me.</span><br><span>JOE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Thanks.</span><br><span>_______________________</span><br><span>JOE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Can I tell you about a few people in the band who I&rsquo;m finding it quite difficult to cope with? I&rsquo;m sure you&rsquo;ll have some ideas about what I can do.</span><br><span>LIZZIE:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Go ahead.</span><br><span>JOE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; There&rsquo;s a flautist who says she loves playing in the band. We rehearse twice a week after school, but she&rsquo;s hardly ever there. Then she looks for me the next day and gives me a very plausible reason &ndash; she says she had to help her mother, or she&rsquo;s been ill, but to be honest, I don&rsquo;t believe her.</span><br><span>LIZZIE:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Oh dear! Any more students with difficulties?</span><br><span>JOE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Plenty! There&rsquo;s a trumpeter who thinks she&rsquo;s the best musician in the band, though she certainly isn&rsquo;t. She&rsquo;s always saying what she thinks other people should do, which makes my job pretty difficult.</span><br><span>LIZZIE:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;She sounds a bit of a nightmare!</span><br><span>JOE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; You can say that again. One of the trombonists has got an impressive sense of rhythm, and could be an excellent musician &ndash; except that he has breathing difficulties, and he doesn&rsquo;t really have enough breath for the trombone. He&rsquo;d be much better of playing percussion, for instance, but he refuses to give up. So he ends up only playing half the notes.</span><br><span>LIZZIE:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;I suppose you have to admire his determination.</span><br><span>JOE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Maybe. One of the percussionists isn&rsquo;t too bad, but he never seems to interact with other people, and he always rushes off as soon as the rehearsal ends. I don&rsquo;t know if there are family reasons, or what. But it isn&rsquo;t good in a band, where people really need to feel they&rsquo;re part of a group.</span><br><span>LIZZIE:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Hmm.</span><br><span>JOE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; There are others too, but at least that gives you an idea of what I&rsquo;m up against. Do you have any thoughts about what I can do, Lizzie?</span>",
+            "4": "<span>As you all know, the university is planning an arts festival for later this year, and here in the music department we&rsquo;ve planned three concerts. These will be public performances, and the programme has just been finalised. The theme of the festival is links between the UK and Australia, and this is reflected in the music: each concert will feature both British and Australian composers. I&rsquo;ll tell you briefly about the Australian music, as you probably won&rsquo;t be familiar with that.</span><br><span>The first concert will include music by Liza Lim, who was born in Perth, Western Australia, in 1966. As a child, Lim originally learned to play the piano &ndash; like so many children &ndash; and also the&nbsp;violin. But when she was 11 her teachers encouraged her to start composing. She found this was her real strength, and she studied and later taught composition, both in Australia and in other countries. As a composer, she has received commissions from numerous orchestras, other performers and festivals in several countries.</span><br><span>Liza Lim&rsquo;s compositions are vibrant and full of&nbsp;energy, and she often explores Asian and Australian Aboriginal cultural sources, including the native instrument, the didgeridoo: this is featured in a work called&nbsp;<em>The Compass</em>. Her music is very expressive, so although it is&nbsp;complex, it has the power of connecting with audiences and performers alike.</span><br><span>In the festival we&rsquo;re going to give a semi-staged performance of&nbsp;<em>The Oresteia</em>. This is an&nbsp;opera in seven parts, based on the trilogy of ancient Greek tragedies by Aeschylus. Lim composed this when she was in her mid-20s, and she also wrote the text, along with Barrie Kosky. It&rsquo;s performed by six singers, a dancer, and an orchestra that, as well as standard orchestral instruments, includes electric guitar, and a traditional Turkish stringed instrument. Lim wrote that because the stories in the tragedies are not easy to tell, the sounds she creates are also disturbing, and they include breathing, sobbing, laughing and whistling. The work lasts around 75 minutes, and the rest of the concert will consist of orchestral works by the British composers Ralph Vaughan Williams and Frederick Delius.</span><br><span>_____________________</span><br><span>Moving on now to our second concert, this will begin with instrumental music by British composers &ndash; Benjamin Britten and Judith Weir. After the interval we&rsquo;ll go to Australia for a piece by Ross Edwards:&nbsp;<em>The Tower of Remoteness</em>. According to Edwards, the inspiration for this piece came from nature, when he was sitting alone in the dry bed of a creek, overshadowed by the leaves of palm trees, listening to the birds and insects.&nbsp;<em>The Tower of Remoteness</em> is scored for piano and clarinet. Edwards says he realised years after writing the piece that he had subconsciously modelled its opening phrase on a bird call.</span><br><span>Ross Edwards was born in 1943 in Sydney, Australia, and studied at the Sydney Conservatorium of Music and the universities of Adelaide and Sydney. He&rsquo;s well known in Australia, and in fact he&rsquo;s one of the country&rsquo;s most performed composers. He&rsquo;s written a wide range of music, from symphonies and concertos to some composed specifically for children. Edward&rsquo;s music has been described as being &lsquo;deeply connected to Australia&rsquo;, and it can be regarded as a celebration of the&nbsp;diversity&nbsp;of cultures that Australia can be proud of.</span><br><span>The last of the three Australian composers to be represented in our festival is Carl Vine. Born in 1954, Vine, like Liza Lim, comes from Perth, Western Australia. He took up the cornet at the age of five, switching to the piano five years later. However, he went to university to study&nbsp;physics, before changing to composition. After graduating he moved to Sydney and worked as a freelance pianist and composer. Before long he had become prominent in Australia as a composer for&nbsp;dance, and in fact has written 25 scores of that type.</span><br><span>In our third concert, Vine will be represented by his music for the flag hand-over ceremony of the&nbsp;Olympics&nbsp;held in 1996. This seven-minute orchestral piece was of course heard by millions of people worldwide, and we&rsquo;ll hear it alongside works written by British composers Edward Elgar and, more recently, Thomas Ad&egrave;s.</span>"
+        },
+        "answer_sheet": {
+            "1": {
+                "answer": [
+                    "Tesla"
+                ],
+                "explanation": "Tesla – that’s spelled T-E-S-L-A"
+            },
+            "2": {
+                "answer": [
+                    "microphone"
+                ],
+                "explanation": "How about a microphone?"
+            },
+            "3": {
+                "answer": [
+                    "exhibition"
+                ],
+                "explanation": "we’d like to have an exhibition of our products and services there as well, so that’ll need to be quite a big space"
+            },
+            "4": {
+                "answer": [
+                    "wifi"
+                ],
+                "explanation": "I presume there’s wifi?"
+            },
+            "5": {
+                "answer": [
+                    "45"
+                ],
+                "explanation": "That’s $45 per person. Or you can have the special for $25 more."
+            },
+            "6": {
+                "answer": [
+                    "135"
+                ],
+                "explanation": "Well, for conference attendees we have a 25% reduction, so we can offer you rooms at $135"
+            },
+            "7": {
+                "answer": [
+                    "pool"
+                ],
+                "explanation": "So we’ve got a spa where you can get massages and facials and so on, and there’s a pool up on the roof for the use of guests."
+            },
+            "8": {
+                "answer": [
+                    "airport"
+                ],
+                "explanation": "it’s about 12 kilometres from the airport, but there’s a complimentary shuttle bus for guests"
+            },
+            "9": {
+                "answer": [
+                    "sea"
+                ],
+                "explanation": "it’s downtown on Wilby Street, that’s quite a small street, and it’s not very far from the sea"
+            },
+            "10": {
+                "answer": [
+                    "clubs"
+                ],
+                "explanation": "Then if they want to make a night of it, they can go on to one of the clubs in the area"
+            },
+            "11": {
+                "answer": [
+                    "decorating"
+                ],
+                "explanation": "They might even do some painting or wallpapering, perhaps alongside any members of the family who are able to do it"
+            },
+            "12": {
+                "answer": [
+                    "childcare"
+                ],
+                "explanation": "Or even do some babysitting so that parents can go out for a while."
+            },
+            "13": {
+                "answer": [
+                    "having a sense of purpose"
+                ],
+                "explanation": "volunteering may be a valuable element of their CV when they’re applying for jobs: employers usually look favourably on someone who’s given up time to help others"
+            },
+            "14": {
+                "answer": [
+                    "boosting their employment prospects"
+                ],
+                "explanation": "Significantly, most volunteers feel that what they’re doing gives them a purpose in their lives"
+            },
+            "15": {
+                "answer": [
+                    "remember past times"
+                ],
+                "explanation": "The songs take the listeners back to their youth, and for a little while they can forget the difficulties that they face now."
+            },
+            "16": {
+                "answer": [
+                    "overcome physical difficulties"
+                ],
+                "explanation": "She has difficulty walking herself, but she doesn’t let that stop her"
+            },
+            "17": {
+                "answer": [
+                    "escape isolation"
+                ],
+                "explanation": "But together they go out to the cinema, or to see friends the young man hadn’t been able to visit for a long time"
+            },
+            "18": {
+                "answer": [
+                    "start a new hobby"
+                ],
+                "explanation": "the woman decided to try it herself"
+            },
+            "19": {
+                "answer": [
+                    "solve problems independently"
+                ],
+                "explanation": "that they can do something themselves to improve their situation"
+            },
+            "20": {
+                "answer": [
+                    "improve their communication skills"
+                ],
+                "explanation": "Juba’s worked very patiently with her, and now the girl is far better at expressing herself, and at understanding other people."
+            },
+            "21": {
+                "answer": [
+                    "50"
+                ],
+                "explanation": "there are about 50 of them altogether"
+            },
+            "22": {
+                "answer": [
+                    "regional"
+                ],
+                "explanation": "they’re in a regional one later in the term"
+            },
+            "23": {
+                "answer": [
+                    "carnival"
+                ],
+                "explanation": "now the town council’s organising a carnival in the summer, and the band has been asked to perform"
+            },
+            "24": {
+                "answer": [
+                    "drummer"
+                ],
+                "explanation": "I played a recording I came across, of a drummer talking about how playing in a band had changed his life"
+            },
+            "25": {
+                "answer": [
+                    "film"
+                ],
+                "explanation": "I’m planning to show them that old film from the 1940s ‘Strike Up the Band’, and talk about it with the students"
+            },
+            "26": {
+                "answer": [
+                    "parade"
+                ],
+                "explanation": "I’m hoping I can take some of the band to a parade that’s going to take place next month"
+            },
+            "27": {
+                "answer": [
+                    "misses too many rehearsals"
+                ],
+                "explanation": "she’s hardly ever there"
+            },
+            "28": {
+                "answer": [
+                    "keeps making unhelpful suggestions"
+                ],
+                "explanation": "She’s always saying what she thinks other people should do, which makes my job pretty difficult"
+            },
+            "29": {
+                "answer": [
+                    "has a health problem"
+                ],
+                "explanation": "he has breathing difficulties, and he doesn’t really have enough breath for the trombone"
+            },
+            "30": {
+                "answer": [
+                    "doesn’t mix with other students"
+                ],
+                "explanation": "he never seems to interact with other people, and he always rushes off as soon as the rehearsal ends"
+            },
+            "31": {
+                "answer": [
+                    "violin"
+                ],
+                "explanation": "also the violin"
+            },
+            "32": {
+                "answer": [
+                    "energy"
+                ],
+                "explanation": "Liza Lim’s compositions are vibrant and full of energy"
+            },
+            "33": {
+                "answer": [
+                    "complex"
+                ],
+                "explanation": "Her music is very expressive, so although it is complex, it has the power of connecting with audiences and performers alike."
+            },
+            "34": {
+                "answer": [
+                    "opera"
+                ],
+                "explanation": "This is an opera in seven parts, based on the trilogy of ancient Greek tragedies by Aeschylus"
+            },
+            "35": {
+                "answer": [
+                    "disturbing"
+                ],
+                "explanation": "the sounds she creates are also disturbing"
+            },
+            "36": {
+                "answer": [
+                    "clarinet"
+                ],
+                "explanation": "The Tower of Remoteness is scored for piano and clarinet"
+            },
+            "37": {
+                "answer": [
+                    "diversity"
+                ],
+                "explanation": "it can be regarded as a celebration of the diversity of cultures that Australia can be proud of"
+            },
+            "38": {
+                "answer": [
+                    "physics"
+                ],
+                "explanation": "However, he went to university to study physics, before changing to composition"
+            },
+            "39": {
+                "answer": [
+                    "dance"
+                ],
+                "explanation": "Before long he had become prominent in Australia as a composer for dance, and in fact has written 25 scores of that type"
+            },
+            "40": {
+                "answer": [
+                    "Olympics"
+                ],
+                "explanation": "In our third concert, Vine will be represented by his music for the flag hand-over ceremony of the Olympics held in 1996"
+            }
+        }
+    }
+}

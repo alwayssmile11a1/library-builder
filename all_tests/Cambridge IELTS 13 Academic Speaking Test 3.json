@@ -1,1 +1,41 @@
-{"name":"Cambridge IELTS 13 Academic Speaking Test 3","id":"C_13_A_3_S","ielts_test_id":"C_13_A_3","type":"speaking","image":"C_13_A_3_S","passages":[{"title":"Money","questions":["<span>When you go shopping, do you prefer to pay for things in cash or by card? [Why?]</span>","<span>Do you ever save money to buy special things? [Why/why not?]</span>","<span>Would you ever take a job which had low pay? [Why/why not?]</span>","<span>Would winning a lot of money make a big difference to your life? [Why/why not?]</span>"],"start":1,"end":1},{"title":"Describe an interesting discussion","questions":["<span>Describe an interesting discussion you had as part of your work or studies.</span><br><span>You should say:</span><br><span>&nbsp; &nbsp;what the subject of the discussion was</span><br><span>&nbsp; &nbsp;who you discussed the subject with</span><br><span>&nbsp; &nbsp;what opinions were expressed</span><br><span>and explain why you found the discussion interesting.</span>"],"start":2,"end":2},{"title":"Discussing problems with others & Communication skills at work","questions":["<span>Why is it good to discuss problems with other people?</span>","<span>Do you think that it's better to talk to friends and not family about problems?</span>","<span>Is it always a good idea to tell lots of people about a problem?</span>","<span>Which communication skills are most important when taking part in meetings with colleagues?</span>","<span>What are the possible effects of poor written communication skills at work?</span>","<span>What do you think will be the future impact of technology on communication in the workplace?</span>"],"start":3,"end":3}]}
+{
+    "name": "Cambridge IELTS 13 Academic Speaking Test 3",
+    "id": "C_13_A_3_S",
+    "ielts_test_id": "C_13_A_3",
+    "type": "speaking",
+    "image": "C_13_A_3_S",
+    "passages": [
+        {
+            "title": "Money",
+            "questions": [
+                "<span>When you go shopping, do you prefer to pay for things in cash or by card? [Why?]</span>",
+                "<span>Do you ever save money to buy special things? [Why/why not?]</span>",
+                "<span>Would you ever take a job which had low pay? [Why/why not?]</span>",
+                "<span>Would winning a lot of money make a big difference to your life? [Why/why not?]</span>"
+            ],
+            "start": 1,
+            "end": 1
+        },
+        {
+            "title": "Describe an interesting discussion",
+            "questions": [
+                "<span>Describe an interesting discussion you had as part of your work or studies.</span><br><span>You should say:</span><br><span>&nbsp; &nbsp;what the subject of the discussion was</span><br><span>&nbsp; &nbsp;who you discussed the subject with</span><br><span>&nbsp; &nbsp;what opinions were expressed</span><br><span>and explain why you found the discussion interesting.</span>"
+            ],
+            "start": 2,
+            "end": 2
+        },
+        {
+            "title": "Discussing problems with others & Communication skills at work",
+            "questions": [
+                "<span>Why is it good to discuss problems with other people?</span>",
+                "<span>Do you think that it's better to talk to friends and not family about problems?</span>",
+                "<span>Is it always a good idea to tell lots of people about a problem?</span>",
+                "<span>Which communication skills are most important when taking part in meetings with colleagues?</span>",
+                "<span>What are the possible effects of poor written communication skills at work?</span>",
+                "<span>What do you think will be the future impact of technology on communication in the workplace?</span>"
+            ],
+            "start": 3,
+            "end": 3
+        }
+    ]
+}

@@ -1,1 +1,20 @@
-{"name":"Cambridge IELTS 10 Academic Writing Test 2","id":"C_10_A_2_W","ielts_test_id":"C_10_A_2","type":"writing","image":"C_10_A_2_W","passages":[{"image":"C_10_A_2_W_1","question":"<span>The tables below give information about sales of Fairtrade-labelled coffee and bananas in 1999 and 2004 in five European countries.</span><br><span>Summarise the information by selecting and reporting the main features, and make comparisons where relevant.</span>","start":1,"end":1},{"question":"<span>Some people think that all university students should study whatever they like. Others believe that they should only be allowed to study subjects that will be useful in the future, such as those related to science and technology.</span><br><span>Discuss both these views and give your own opinion.</span>","start":2,"end":2}]}
+{
+    "name": "Cambridge IELTS 10 Academic Writing Test 2",
+    "id": "C_10_A_2_W",
+    "ielts_test_id": "C_10_A_2",
+    "type": "writing",
+    "image": "C_10_A_2_W",
+    "passages": [
+        {
+            "image": "C_10_A_2_W_1",
+            "question": "<span>The tables below give information about sales of Fairtrade-labelled coffee and bananas in 1999 and 2004 in five European countries.</span><br><span>Summarise the information by selecting and reporting the main features, and make comparisons where relevant.</span>",
+            "start": 1,
+            "end": 1
+        },
+        {
+            "question": "<span>Some people think that all university students should study whatever they like. Others believe that they should only be allowed to study subjects that will be useful in the future, such as those related to science and technology.</span><br><span>Discuss both these views and give your own opinion.</span>",
+            "start": 2,
+            "end": 2
+        }
+    ]
+}

@@ -1,1 +1,572 @@
-{"name":"Cambridge IELTS 17 Academic Listening Test 4","id":"C_17_A_4_L","ielts_test_id":"C_17_A_4","type":"listening","image":"C_17_A_4_L","passages":[{"title":"Easy Life Cleaning Services","audio":"C_17_A_4_L_1","image":"","start":1,"end":10},{"title":"","audio":"C_17_A_4_L_2","image":"","start":11,"end":20},{"title":"","audio":"C_17_A_4_L_3","image":"","start":21,"end":30},{"title":"Maple syrup","audio":"C_17_A_4_L_4","image":"","start":31,"end":40}],"question_sections":[{"custom_instruction":"ONE WORD","type":"sentence_completion","start":1,"end":10},{"type":"one_choice","start":11,"end":14},{"custom_instruction":"Which way of reducing staff turnover was used in each of the following hotels?","type":"drop_information","start":15,"end":20},{"custom_instruction":"TWO","type":"multiple_choices","start":21,"end":22},{"custom_instruction":"TWO","type":"multiple_choices","start":23,"end":24},{"custom_instruction":"What comment do the students make about the development of each of the following items of sporting equipment?","type":"drop_information","start":25,"end":30},{"custom_instruction":"ONE WORD ONLY","type":"sentence_completion","start":31,"end":40}],"questions":{"1":{"question":["<span><strong>Basic cleaning package offered</strong></span><br><span>&nbsp; &nbsp;&bull; Cleaning all surfaces</span><br><span>&nbsp; &nbsp;&bull; Cleaning the </span>"]},"2":{"question":["<span>&nbsp;throughout the apartment</span><br><span>&nbsp; &nbsp;&bull; Cleaning shower, sinks, toilet etc.</span><br><span><strong>Additional services agreed</strong></span><br><span>&nbsp; &nbsp;&bull; Every week</span><br><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &ndash;&nbsp; Cleaning the </span>"]},"3":{"question":["<span></span><br><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &ndash;&nbsp; Ironing clothes &ndash; </span>"]},"4":{"question":["<span>&nbsp;only</span><br><span>&nbsp; &nbsp;&bull; Every month</span><br><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &ndash;&nbsp; Cleaning all the </span>"]},"5":{"question":["<span>&nbsp;from the inside</span><br><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &ndash;&nbsp; Washing down the </span>"]},"6":{"question":["<span></span><br><span><strong>Other possibilities</strong></span><br><span>&nbsp; &nbsp;&bull; They can organise a plumber or an </span>"]},"7":{"question":["<span>&nbsp;if necessary.</span><br><span>&nbsp; &nbsp;&bull; A special cleaning service is available for customers who are allergic to </span>"]},"8":{"question":["<span></span><br><span><strong>Information on the cleaners</strong></span><br><span>&nbsp; &nbsp;&bull; Before being hired, all cleaners have a background check carried out by the </span>"]},"9":{"question":["<span></span><br><span>&nbsp; &nbsp;&bull; References are required.</span><br><span>&nbsp; &nbsp;&bull; All cleaners are given </span>"]},"10":{"question":["<span>&nbsp;for two weeks.</span><br><span>&nbsp; &nbsp;&bull; Customers send a </span>","<span>&nbsp;after each visit.</span><br><span>&nbsp; &nbsp;&bull; Usually, each customer has one regular cleaner.</span>"]},"11":{"question":"<span>Many hotel managers are unaware that their staff often leave because of</span>","options":["a lack of training","long hours","low pay"]},"12":{"question":"<span>What is the impact of high staff turnover on managers?</span>","options":["an increased workload","low morale","an inability to meet targets"]},"13":{"question":"<span>What mistake should managers always avoid?</span>","options":["failing to treat staff equally","reorganising shifts without warning","neglecting to have enough staff during busy periods"]},"14":{"question":"<span>What unexpected benefit did Dunwich Hotel notice after improving staff retention rates?</span>","options":["a fall in customer complaints","an increase in loyalty club membership","a rise in spending per customer"]},"15":{"question":["<span><strong>Hotels</strong></span><br><span>&nbsp; &nbsp;&bull; The Sun Club </span>"]},"16":{"question":["<span></span><br><span>&nbsp; &nbsp;&bull; The Portland </span>"]},"17":{"question":["<span></span><br><span>&nbsp; &nbsp;&bull; Bluewater Hotels </span>"]},"18":{"question":["<span></span><br><span>&nbsp; &nbsp;&bull; Pentlow Hotels </span>"]},"19":{"question":["<span></span><br><span>&nbsp; &nbsp;&bull; Green Planet </span>"]},"20":{"question":["<span></span><br><span>&nbsp; &nbsp;&bull; The Amesbury </span>","<span></span>"],"options":["improving relationships and teamwork","offering incentives and financial benefits","providing career opportunities"]},"21":{"question":""},"22":{"question":"<span>Which&nbsp;<strong>TWO</strong>&nbsp;points do Thomas and Jeanne make about Thomas&rsquo;s sporting activities at school?</span>","options":["He should have felt more positive about them","The training was too challenging for him","He could have worked harder at them","His parents were disappointed in him","His fellow students admired him"]},"23":{"question":""},"24":{"question":"<span>Which&nbsp;<strong>TWO</strong>&nbsp;feelings did Thomas experience when he was in Kenya?</span>","options":["disbelief","relief","stress","gratitude","homesickness"]},"25":{"question":["<span>&nbsp; &nbsp;&bull; the table tennis bat </span>"]},"26":{"question":["<span></span><br><span>&nbsp; &nbsp;&bull; the cricket helmet </span>"]},"27":{"question":["<span></span><br><span>&nbsp; &nbsp;&bull; the cycle helmet </span>"]},"28":{"question":["<span></span><br><span>&nbsp; &nbsp;&bull; the golf club </span>"]},"29":{"question":["<span></span><br><span>&nbsp; &nbsp;&bull; the hockey stick </span>"]},"30":{"question":["<span></span><br><span>&nbsp; &nbsp;&bull; the football </span>","<span></span>"],"options":["It could cause excessive sweating","The material was being mass produced for another purpose","People often needed to make their own","It often had to be replaced","The material was expensive","It was unpopular among spectators","It caused injuries","No one ring it liked it at first"]},"31":{"question":["<span><strong>What is maple syrup?</strong></span><br><span>&nbsp; &nbsp;&bull; made from the sap of the maple tree</span><br><span>&nbsp; &nbsp;&bull; added to food or used in cooking</span><br><span>&nbsp; &nbsp;&bull; colour described as </span>"]},"32":{"question":["<span></span><br><span>&nbsp; &nbsp;&bull; very </span>"]},"33":{"question":["<span>&nbsp;compared to refined sugar</span><br><span><strong>The maple tree</strong></span><br><span>&nbsp; &nbsp;&bull; has many species</span><br><span>&nbsp; &nbsp;&bull; needs sunny days and cool nights</span><br><span>&nbsp; &nbsp;&bull; maple leaf has been on the Canadian flag since 1964</span><br><span>&nbsp; &nbsp;&bull; needs moist soil but does not need fertiliser as well</span><br><span>&nbsp; &nbsp;&bull; best growing conditions and </span>"]},"34":{"question":["<span>&nbsp;are in Canada and North America</span><br><span><strong>Early maple sugar producers</strong></span><br><span>&nbsp; &nbsp;&bull; made holes in the tree trunks</span><br><span>&nbsp; &nbsp;&bull; used hot </span>"]},"35":{"question":["<span> to heat the sap</span><br><span>&nbsp; &nbsp;&bull; used tree bark to make containers for collection</span><br><span>&nbsp; &nbsp;&bull; sweetened food and drink with sugar</span><br><span><strong>Today&rsquo;s maple syrup</strong></span><br><span><em>The trees</em></span><br><span>&nbsp; &nbsp;&bull; Tree trunks may not have the correct </span>"]},"36":{"question":["<span>&nbsp;until they have been growing for 40 years.</span><br><span>&nbsp; &nbsp;&bull; The changing temperature and movement of water within the tree produces the sap.</span><br><span><em>The production</em></span><br><span>&nbsp; &nbsp;&bull; A tap drilled into the trunk and a </span>"]},"37":{"question":["<span>&nbsp;carries the sap into a bucket.</span><br><span>&nbsp; &nbsp;&bull; Large pans of sap called evaporators are heated by means of a </span>"]},"38":{"question":["<span>.</span><br><span>&nbsp; &nbsp;&bull; A lot of </span>"]},"39":{"question":["<span>&nbsp;is produced during the evaporation process.</span><br><span>&nbsp; &nbsp;&bull; &lsquo;Sugar sand&rsquo; is removed because it makes the syrup look </span>"]},"40":{"question":["<span>&nbsp;and affects the taste.</span><br><span>&nbsp; &nbsp;&bull; The syrup is ready for use.</span><br><span>&nbsp; &nbsp;&bull; A huge quantity of sap is needed to make a </span>","<span>&nbsp;of maple syrup.</span>"]}},"answers":{"transcripts":{"1":"<p class=\"MsoNormal\">JACINTA:&nbsp;&nbsp;&nbsp; Hello, Easy Life Cleaning Services, Jacinta speaking.&nbsp;</span><br><p class=\"MsoNormal\">CLIENT:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Oh hello. I&rsquo;m looking for a cleaning service for my apartment &ndash; do you do domestic cleaning?</span><br><p class=\"MsoNormal\">JACINTA:&nbsp;&nbsp;&nbsp; Sure.</span><br><p class=\"MsoNormal\">CLIENT:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Well, it&rsquo;s just a one-bedroom flat. Do you have a basic cleaning package?</span><br><p class=\"MsoNormal\">JACINTA:&nbsp;&nbsp;&nbsp; Yes. For a one-bedroom flat we&rsquo;re probably looking at about two hours for a clean. So we&rsquo;d do a thorough clean of all surfaces in each room, and polish them where necessary. Does your apartment have carpets?</span><br><p class=\"MsoNormal\">CLIENT:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; No, I don&rsquo;t have any, but&nbsp;the floor would need cleaning.</span><br><p class=\"MsoNormal\">JACINTA:&nbsp;&nbsp;&nbsp; Of course &ndash;&nbsp;we&rsquo;d do that in every room. And we&rsquo;d do a thorough clean of the kitchen and bathroom.</span><br><p class=\"MsoNormal\">CLIENT:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; OK.</span><br><p class=\"MsoNormal\">JACINTA:&nbsp;&nbsp;&nbsp; Then we have some additional services which you can request if you want &ndash; so for example, we can clean your oven for you every week.</span><br><p class=\"MsoNormal\">CLIENT:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Actually, I hardly ever use that, but&nbsp;can you do the fridge?</span><br><p class=\"MsoNormal\">JACINTA:&nbsp;&nbsp;&nbsp; Sure. Would you like that done every week?</span><br><p class=\"MsoNormal\">CLIENT:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Yes, definitely. And would ironing clothes be an additional service you can do?</span><br><p class=\"MsoNormal\">JACINTA:&nbsp;&nbsp;&nbsp; Yes, of course.</span><br><p class=\"MsoNormal\">CLIENT:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; It wouldn&rsquo;t be much,&nbsp;just my shirts for work that week.</span><br><p class=\"MsoNormal\">JACINTA:&nbsp;&nbsp;&nbsp; That&rsquo;s fine. And we could also clean your microwave if you want.</span><br><p class=\"MsoNormal\">CLIENT:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; No, I wipe that out pretty regularly so there&rsquo;s no need for that.</span><br><p class=\"MsoNormal\">JACINTA:&nbsp;&nbsp;&nbsp; We also offer additional services that you might want a bit less often, say every month. So for example, if&nbsp;the inside of your windows need cleaning, we could do that.</span><br><p class=\"MsoNormal\">CLIENT:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Yes, that&rsquo;d be good. I&rsquo;m on the fifteenth floor, so the outside gets done regularly by specialists, but the inside goes get a bit grubby.</span><br><p class=\"MsoNormal\">JACINTA:&nbsp;&nbsp;&nbsp; And we could arrange for your curtains to get cleaned if necessary.</span><br><p class=\"MsoNormal\">CLIENT:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; No, they&rsquo;re OK. But&nbsp;would you be able to do something about the balcony? It&rsquo;s quite small and I don&rsquo;t use it much, but it could do with a wash every month or so.</span><br><p class=\"MsoNormal\">JACINTA:&nbsp;&nbsp;&nbsp; Yes, we can get the pressure washer onto that.</span><br><p class=\"MsoNormal\">___________________________</span><br><p class=\"MsoNormal\">JACINTA:&nbsp;&nbsp;&nbsp; Now if you&rsquo;re interested, we do offer some other possibilities to do with general maintenance. For example, if you have a problem with water and you need a plumber in a hurry, we can put you in touch with a reliable one who can come out straightaway.&nbsp;And the same thing if you need an electrician.</span><br><p class=\"MsoNormal\">CLIENT:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Right. That&rsquo;s good to know. I&rsquo;ve only just moved here so I don&rsquo;t have any of those sorts of contacts.</span><br><p class=\"MsoNormal\">JACINTA:&nbsp;&nbsp;&nbsp; And I don&rsquo;t know if this is of interest to you, but we also offer a special vacuum cleaning system which can improve the indoor air quality of your home by&nbsp;capturing up to 99% of all the dust in the air. So if you&rsquo;re troubled by allergies, this can make a big difference.</span><br><p class=\"MsoNormal\">CLIENT:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Right. In fact, I don&rsquo;t have that sort of problem, but I&rsquo;ll bear it in mind. Now can you tell me a bit about your cleaning staff?</span><br><p class=\"MsoNormal\">JACINTA:&nbsp;&nbsp;&nbsp; Of course. So all our cleaners are very carefully selected. When they apply to us, they have to&nbsp;undergo a security check with the police&nbsp;to make sure they don&rsquo;t have any sort of criminal background, and, of course, they have to provide references as well. Then if we think they might be suitable for the job,&nbsp;we give them training for it. That lasts for two weeks&nbsp;so it&rsquo;s very thorough, and at the end of it, they have a test. If they pass that, we take them on, but we monitor them very carefully &ndash; we ask&nbsp;all our clients to complete a review of their performance after every visit and to email it to us. So we can pick up any problems straightaway and deal with them.</span><br><p class=\"MsoNormal\">CLIENT:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; OK, well that all sounds good. And will I always have the same cleaner?</span><br><p class=\"MsoNormal\">JACINTA:&nbsp;&nbsp;&nbsp; Yes, we do our best to organise it that way, and we usually manage it.</span><br><p class=\"MsoNormal\">CLIENT:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Good. That&rsquo;s fine. Right, so I&rsquo;d like to go ahead and &hellip;</span>","2":"<p class=\"MsoNormal\">As many of you here today have worked in the hotel industry for some time, I&rsquo;m sure you have experienced the problem of high staff turnover in your hotels. Every hotel relies on having loyal and experienced members of staff who make sure that everything runs smoothly. If staff are constantly changing, it can make life difficult for everyone. But why do staff leave frequently in many hotels? Of course, many hotel jobs, such as cleaning, are low-skilled and are not well-paid. A lot of managers think it&rsquo;s this and the long hours that are the main causes of high staff turnover &ndash; but what they don&rsquo;t realise is that&nbsp;it&rsquo;s the lack of training in many hotel jobs which is a huge factor.</span><br><p class=\"MsoNormal\">So, what kind of problems does a high turnover of staff cause? Well,&nbsp;having to recruit new staff all the time can be very time-consuming, and managers may have to cover some duties while waiting for new staff to arrive. This means they don&rsquo;t have time to think about less immediate problems such as how to improve their service. When staff leave, it can also severely affect the colleagues they leave behind. It has a negative effect on remaining staff, who may start to feel that they too should be thinking about leaving.</span><br><p class=\"MsoNormal\">So, what can be done to change this situation? Firstly, managers should stop making basic errors which leave their staff feeling upset and resentful. When organising shifts, for example,&nbsp;make sure you never give certain staff preferential treatment. All staff should be given some choice about when they work, and everyone should have to work some evening and weekend shifts. If you treat staff fairly, they&rsquo;ll be more likely to step in and help when extra staff are needed.</span><br><p class=\"MsoNormal\">Keeping staff happy has other tangible benefits for the business. Take the Dunwich Hotel as an example. It had been experiencing a problem with staff complaints and in order to deal with this, invested in staff training and improved staff conditions. Not only did the level of complaints fall, but&nbsp;they also noticed a significant increase in the amount each customer spent during their stay. They have now introduced a customer loyalty scheme which is going really well.</span><br><p class=\"MsoNormal\">____________________________</span><br><p class=\"MsoNormal\">Now I&rsquo;d like to look at some ways you can reduce staff turnover in your hotels, and I&rsquo;ll do this by giving some examples of hotels where I&rsquo;ve done some training recently.</span><br><p class=\"MsoNormal\">The Sun Club received feedback which showed that staff thought managers didn&rsquo;t value their opinions. They weren&rsquo;t&nbsp;made to feel they were partners who were contributing to the success of the business as a whole. This situation has changed. Junior staff at all levels are regularly invited to meetings where their ideas are welcomed.</span><br><p class=\"MsoNormal\">A year ago, The Portland recognised the need to invest in staff retention.&nbsp;Their first step was to introduce a scheme for recognising talent amongst their employees. The hope is that&nbsp;organising training for individuals with management potential&nbsp;will encourage them to stay with the business.</span><br><p class=\"MsoNormal\">At Bluewater, managers decided to recognise 50 high achievers from across the company&rsquo;s huge hotel chain.&nbsp;As a reward, they&rsquo;re sent on an all-expenses-paid trip abroad&nbsp;every year. Fun is an important element in the trips, but there&rsquo;s also the opportunity to learn something useful. This year&rsquo;s trip included a visit to a brewery, where staff learned about the new beer that would be served in the hotel.</span><br><p class=\"MsoNormal\">Pentlow Hotels identified that retention of junior reception staff was an issue.&nbsp;In order to encourage them to see that working in a hotel could be worthwhile and rewarding, with good prospects, they introduced a management programme. These staff were given additional responsibilities and the chance to work in various roles in the hotel.</span><br><p class=\"MsoNormal\">Green Planet wanted to be seen as a caring employer. To make life easier for staff, many of whom had childcare responsibilities, the hotel began&nbsp;issuing vouchers to help cover the cost of childcare.</span><br><p class=\"MsoNormal\">Louise Marsh at The Amesbury has one of the best staff retention rates in the business. Since she joined the company, she has made a huge effort to achieve this by&nbsp;creating a co-operative and supportive environment. For her, the staff are part of a large family where everyone is valued.</span><br><p class=\"MsoNormal\">OK, now I&rsquo;d like to &hellip;</span>","3":"<p class=\"MsoNormal\">JEANNE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hi Thomas, how are you enjoying the course so far?</span><br><p class=\"MsoNormal\">THOMAS:&nbsp;&nbsp;&nbsp;&nbsp; Yeah, I think it&rsquo;s good.</span><br><p class=\"MsoNormal\">JEANNE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Remind me &ndash; why did you decide to study sports science? Didn&rsquo;t you want to be a professional athlete when you were at school?</span><br><p class=\"MsoNormal\">THOMAS:&nbsp;&nbsp;&nbsp;&nbsp; Yeah &ndash; that was my goal, and&nbsp;all my classmates assumed I would achieve it; they thought I was brilliant.</span><br><p class=\"MsoNormal\">JEANNE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; That must have been a nice feeling.</span><br><p class=\"MsoNormal\">THOMAS:&nbsp;&nbsp;&nbsp;&nbsp; Mm, I thought I could win anything. There was no one who could run faster than me.</span><br><p class=\"MsoNormal\">JEANNE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Exactly &ndash; so what happened? Did your mum and dad want you to be more &lsquo;academic&rsquo;?</span><br><p class=\"MsoNormal\">THOMAS:&nbsp;&nbsp;&nbsp;&nbsp; Not at all.&nbsp;Perhaps they should have pushed me harder, though.</span><br><p class=\"MsoNormal\">JEANNE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; What do you mean?</span><br><p class=\"MsoNormal\">THOMAS:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I think I should have practised more.</span><br><p class=\"MsoNormal\">JEANNE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; What makes you say that?</span><br><p class=\"MsoNormal\">THOMAS:&nbsp;&nbsp;&nbsp;&nbsp; Well, I went out to Kenya for a couple of weeks to train &hellip;</span><br><p class=\"MsoNormal\">JEANNE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Really! I didn&rsquo;t know that.</span><br><p class=\"MsoNormal\">THOMAS:&nbsp;&nbsp;&nbsp;&nbsp; I was chosen to go there out of loads of kids and run with some of the top teenage athletes in the world. And &hellip; I was so calm about it.&nbsp;I just kept thinking how fortunate I was. What a great chance this was! Everyone back home was so proud of me. But once we started competing, I very quickly realised I wasn&rsquo;t good enough.</span><br><p class=\"MsoNormal\">JEANNE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; That must have been a huge shock.</span><br><p class=\"MsoNormal\">THOMAS:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I thought &lsquo;this can&rsquo;t be happening&rsquo;! I was used to winning.</span><br><p class=\"MsoNormal\">JEANNE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I&rsquo;m sorry to hear that.</span><br><p class=\"MsoNormal\">THOMAS:&nbsp;&nbsp;&nbsp;&nbsp; It&rsquo;s OK. I&rsquo;m over it now and I think it&rsquo;s much better to do a university course and this one has such a variety of sports-related areas. It&rsquo;s going to be good.</span><br><p class=\"MsoNormal\">JEANNE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Oh, I agree &ndash; I chose it because of that.</span><br><p class=\"MsoNormal\">___________________________</span><br><p class=\"MsoNormal\">THOMAS:&nbsp;&nbsp;&nbsp;&nbsp; So Jeanne &ndash; have you thought of any ideas for the discussion session next week on technology and sport?</span><br><p class=\"MsoNormal\">JEANNE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; We have to cover more than one sport, don&rsquo;t we?</span><br><p class=\"MsoNormal\">THOMAS:&nbsp;&nbsp;&nbsp;&nbsp; Yeah.</span><br><p class=\"MsoNormal\">JEANNE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; You know &ndash; we always think technology is about the future, but we could gather some ideas about past developments in sport.</span><br><p class=\"MsoNormal\">THOMAS:&nbsp;&nbsp;&nbsp;&nbsp; Look at early types of equipment perhaps? Uh, I remember reading something about table tennis bats once &ndash; how they ended up being covered with pimpled rubber.</span><br><p class=\"MsoNormal\">JEANNE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Cos they were just wooden at first, I&rsquo;d imagine.</span><br><p class=\"MsoNormal\">THOMAS:&nbsp;&nbsp;&nbsp;&nbsp; Yeah. In about the 1920s,&nbsp;a factory was making rolls of the rubber in bulk for something like horse harnesses.</span><br><p class=\"MsoNormal\">JEANNE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Really!</span><br><p class=\"MsoNormal\">THOMAS:&nbsp;&nbsp;&nbsp;&nbsp; Yeah &ndash; and&nbsp;someone realised that it&rsquo;d make a perfect covering for the wooden bats.</span><br><p class=\"MsoNormal\">JEANNE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; So what about cricket &ndash; that&rsquo;s had a few innovative changes. Maybe the pads they were on their legs?</span><br><p class=\"MsoNormal\">THOMAS:&nbsp;&nbsp;&nbsp;&nbsp; I don&rsquo;t think they&rsquo;ve changed much but, I&rsquo;m just looking on the internet &hellip; and it says that&nbsp;when the first cricket helmet came in, in 1978, the Australian batsman who first wore it was booed and jeered by people watching because it was so ugly!</span><br><p class=\"MsoNormal\">JEANNE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Wow, players have to protect themselves from getting hurt! I mean everyone wears one now.</span><br><p class=\"MsoNormal\">THOMAS:&nbsp;&nbsp;&nbsp;&nbsp; Mm, unlike the cycle helmet.</span><br><p class=\"MsoNormal\">JEANNE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Well, unless you&rsquo;re a professional, but you&rsquo;re right, many ordinary bikers don&rsquo;t wear a helmet.</span><br><p class=\"MsoNormal\">THOMAS:&nbsp;&nbsp;&nbsp;&nbsp; Hey, look at these pictures of original helmet designs. This one looks like an upside-down bowl!</span><br><p class=\"MsoNormal\">JEANNE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Yet, the woman&rsquo;s laughing &ndash; she&rsquo;s so proud to be wearing it!</span><br><p class=\"MsoNormal\">THOMAS:&nbsp;&nbsp;&nbsp;&nbsp; It says&nbsp;serious cyclists ended up with wet hair from all the hard exercise.</span><br><p class=\"MsoNormal\">JEANNE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I guess&nbsp;that&rsquo;s why they have large air vents in them now so that the skin can breathe more easily.</span><br><p class=\"MsoNormal\">THOMAS:&nbsp;&nbsp;&nbsp;&nbsp; OK, so we&rsquo;ve done helmets. What about golf balls or better still golf clubs &ndash; they&rsquo;ve changed a lot.</span><br><p class=\"MsoNormal\">JEANNE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Yeah &ndash; I remember my great grandfather telling me that&nbsp;because a club was made entirely of wood, it would easily break and players had to get another.</span><br><p class=\"MsoNormal\">THOMAS:&nbsp;&nbsp;&nbsp;&nbsp; There&rsquo;s no wood at all in them now, is there?</span><br><p class=\"MsoNormal\">JEANNE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; No &ndash; they&rsquo;re much more powerful.</span><br><p class=\"MsoNormal\">THOMAS:&nbsp;&nbsp;&nbsp;&nbsp; The same must be true of hockey sticks.</span><br><p class=\"MsoNormal\">JEANNE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I don&rsquo;t think so because players still use wooden sticks today. What it does say here, though, is that&nbsp;when the game started you had to produce a stick yourself.</span><br><p class=\"MsoNormal\">THOMAS:&nbsp;&nbsp;&nbsp;&nbsp; I guess they just weren&rsquo;t being manufactured. So, one more perhaps. What about football?</span><br><p class=\"MsoNormal\">JEANNE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Well, I know the first balls were made of animal skin.</span><br><p class=\"MsoNormal\">THOMAS:&nbsp;&nbsp;&nbsp;&nbsp; Yeah, they covered them with pieces of leather that were stitched together, but &hellip; the balls let in water when it rained.</span><br><p class=\"MsoNormal\">JEANNE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Oh, that would have made them much heavier.</span><br><p class=\"MsoNormal\">THOMAS:&nbsp;&nbsp;&nbsp;&nbsp; That&rsquo;s right.&nbsp;You can imagine the damage to player&rsquo;s necks when the ball was headed.</span><br><p class=\"MsoNormal\">JEANNE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; How painful that must have been!</span><br><p class=\"MsoNormal\">THOMAS:&nbsp;&nbsp;&nbsp;&nbsp; Yeah, well, I think we can put together some useful ideas &hellip;</span>","4":"<p class=\"MsoNormal\">Hello everyone. Today we&rsquo;re going to look at another natural food product and that&rsquo;s maple syrup. What is this exactly? Well, maple syrup looks rather like clear honey, but it&rsquo;s not made by bees; it&rsquo;s produced from the plant fluid &ndash; or sap &ndash; inside the maple tree and that makes maple syrup a very natural product.&nbsp;Maple syrup is a thick, golden, sweet-tasting liquid that can be bought in bottles or jars and poured onto food such as waffles and ice cream or used in the baking of cakes and pastries. It contains no preservatives or added ingredients, and&nbsp;it provides a healthy alternative to refined sugar.</span><br><p class=\"MsoNormal\">Let&rsquo;s just talk a bit about the maple tree itself, which is where maple syrup comes from. So, there are many species of maple tree, and they&rsquo;ll grow without fertilizer in areas where there&rsquo;s plenty of moisture in the soil. However, they&rsquo;ll only do this if another important criterion is fulfilled, which is that they must have full or partial sun exposure during the day and very cool nights &ndash; and I&rsquo;ll talk more about that in a minute. There are only certain parts of the world that provide all these conditions: one is Canada, and by that, I mean all parts of Canada, and the other is the north-eastern states of North America.&nbsp;In these areas, the climate suits the trees perfectly. In fact, Canada produces over two-thirds of the world&rsquo;s maple syrup, which is why the five-pointed maple leaf is a Canadian symbol and has features on the flag since 1964.</span><br><p class=\"MsoNormal\">So how did maple syrup production begin? Well, long before Europeans settled in these parts of the world, the indigenous communities had started producing maple sugar. They bored holes in the trunks of maple trees and used containers made of tree bark to collect the liquid sap as it poured out. As they were unable to keep the liquid for any length of time &ndash; they didn&rsquo;t have storage facilities in those days &ndash; they boiled the liquid by&nbsp;placing pieces of rock that had become scorching hot from the sun into the sap. They did this until it turned into sugar, and they were then able to use this to sweeten their food and drinks. Since that time, improvements have been made to the process, but it has changed very little overall.</span><br><p class=\"MsoNormal\">________________________</span><br><p class=\"MsoNormal\">So let&rsquo;s look at the production of maple syrup today. Clearly, the maple forests are a valuable resource in many Canadian and North American communities. The trees have to be well looked after and&nbsp;they cannot be used to make syrup until the trunks reach a diameter of around 25 centimetres. This can take anything up to 40 years. As I&rsquo;ve already mentioned, maple trees need the right conditions to grow and also to produce sap. Why is this? Well, what happens is that during a cold night, the tree absorbs water from the soil, and that rises through the tree&rsquo;s vascular system. But then in the warmer daytime, the change in temperature causes the water to be pushed back down to the bottom of the tree. This continual movement &ndash; up and down &ndash; leads to the formation of the sap needed for maple syrup production.</span><br><p class=\"MsoNormal\">When the tree is ready, it can be tapped&nbsp;and this involves drilling a small hole into the trunk and inserting a tube into it that ends in a bucket. The trees can often take several taps, though the workers take care not to cause any damage to the healthy growth of the tree itself. The sap that comes out of the trees consists of 98 percent water and 2 percent sugar and other nutrients. It has to be boiled so that much of that water evaporates, and this process has to take place immediately, using what are called evaporators.&nbsp;These are basically extremely large pans &ndash; the sap is poured into these, a fire is built and the pans are then heated until the sap boils. As it does this, the water evaporates, and the syrup begins to form.&nbsp;The evaporation process creates large quantities of steam, and the sap becomes thicker and denser, and, at just the right moment, when the sap is thick enough to be called maple syrup, the worker removes it from the heat. After this process, something called&nbsp;&lsquo;sugar sand&rsquo; has to be filtered out as this builds up during the boiling and gives the syrup a cloudy appearance&nbsp;and a slightly gritty taste. Once this has been done, the syrup is ready to be packaged so that it can be used for a whole variety of products.&nbsp;It takes 40 litres of sap to produce one litre of maple syrup so you can get an idea of how much is needed!</span><br><p class=\"MsoNormal\">So that&rsquo;s the basic process. In places like Quebec where &hellip;</span>"},"answer_sheet":{"1":{"answer":["floor","floors"],"explanation":"the floor would need cleaning."},"2":{"answer":["fridge"],"explanation":"can you do the fridge?"},"3":{"answer":["shirts"],"explanation":"just my shirts for work that week."},"4":{"answer":["windows"],"explanation":"So for example, if the inside of your windows need cleaning, we could do that."},"5":{"answer":["balcony"],"explanation":"would you be able to do something about the balcony?"},"6":{"answer":["electrician"],"explanation":"And the same thing if you need an electrician."},"7":{"answer":["dust"],"explanation":"capturing up to 99% of all the dust in the air. So if you’re troubled by allergies, this can make a big difference."},"8":{"answer":["police"],"explanation":"When they apply to us, they have to undergo a security check with the police to make sure they don’t have any sort of criminal background, and, of course, they have to provide references as well"},"9":{"answer":["training"],"explanation":"we give them training for it. That lasts for two weeks"},"10":{"answer":["review"],"explanation":"we ask all our clients to complete a review of their performance after every visit and to email it to us."},"11":{"answer":["a lack of training"],"explanation":"it’s the lack of training in many hotel jobs which is a huge factor."},"12":{"answer":["an increased workload"],"explanation":"having to recruit new staff all the time can be very time-consuming, and managers may have to cover some duties while waiting for new staff to arrive."},"13":{"answer":["failing to treat staff equally"],"explanation":"All staff should be given some choice about when they work, and everyone should have to work some evening and weekend shifts."},"14":{"answer":["a rise in spending per customer"],"explanation":"they also noticed a significant increase in the amount each customer spent during their stay."},"15":{"answer":["improving relationships and teamwork"],"explanation":"This situation has changed. Junior staff at all levels are regularly invited to meetings where their ideas are welcomed."},"16":{"answer":["providing career opportunities"],"explanation":"Their first step was to introduce a scheme for recognising talent amongst their employees."},"17":{"answer":["offering incentives and financial benefits"],"explanation":"As a reward, they’re sent on an all-expenses-paid trip abroad every year."},"18":{"answer":["providing career opportunities"],"explanation":"In order to encourage them to see that working in a hotel could be worthwhile and rewarding, with good prospects, they introduced a management programme."},"19":{"answer":["offering incentives and financial benefits"],"explanation":"the hotel began issuing vouchers to help cover the cost of childcare."},"20":{"answer":["improving relationships and teamwork"],"explanation":"For her, the staff are part of a large family where everyone is valued."},"21":{"answer":["He could have worked harder at them"],"explanation":"Perhaps they should have pushed me harder, though"},"22":{"answer":["His fellow students admired him"],"explanation":"all my classmates assumed I would achieve it; they thought I was brilliant."},"23":{"answer":["disbelief"],"explanation":"I thought ‘this can’t be happening’"},"24":{"answer":["gratitude"],"explanation":"I just kept thinking how fortunate I was. What a great chance this was"},"25":{"answer":["The material was being mass produced for another purpose"],"explanation":"In about the 1920s, a factory was making rolls of the rubber in bulk for something like horse harnesses."},"26":{"answer":["It was unpopular among spectators"],"explanation":"the Australian batsman who first wore it was booed and jeered by people watching because it was so ugly!"},"27":{"answer":["It could cause excessive sweating"],"explanation":"It says serious cyclists ended up with wet hair from all the hard exercise."},"28":{"answer":["It often had to be replaced"],"explanation":"a club was made entirely of wood, it would easily break and players had to get another."},"29":{"answer":["People often needed to make their own"],"explanation":"is that when the game started you had to produce a stick yourself."},"30":{"answer":["It caused injuries"],"explanation":"You can imagine the damage to player’s necks when the ball was headed."},"31":{"answer":["golden"],"explanation":"Maple syrup is a thick, golden"},"32":{"answer":["healthy"],"explanation":"it provides a healthy alternative to refined sugar."},"33":{"answer":["climate"],"explanation":"In these areas, the climate suits the trees perfectly"},"34":{"answer":["rock","rocks"],"explanation":"they boiled the liquid by placing pieces of rock that had become scorching hot from the sun into the sap"},"35":{"answer":["diameter"],"explanation":"they cannot be used to make syrup until the trunks reach a diameter of around 25 centimetres. This can take anything up to 40 years"},"36":{"answer":["tube"],"explanation":"this involves drilling a small hole into the trunk and inserting a tube into it that ends in a bucket"},"37":{"answer":["fire"],"explanation":"the sap is poured into these, a fire is built and the pans are then heated until the sap boils"},"38":{"answer":["steam"],"explanation":"The evaporation process creates large quantities of steam"},"39":{"answer":["cloudy"],"explanation":"After this process, something called ‘sugar sand’ has to be filtered out as this builds up during the boiling and gives the syrup a cloudy appearance and a slightly gritty taste."},"40":{"answer":["litre","liter"],"explanation":"It takes 40 litres of sap to produce one litre of maple syrup so you can get an idea of how much is needed!"}}}}
+{
+    "name": "Cambridge IELTS 17 Academic Listening Test 4",
+    "id": "C_17_A_4_L",
+    "ielts_test_id": "C_17_A_4",
+    "type": "listening",
+    "image": "C_17_A_4_L",
+    "passages": [
+        {
+            "title": "Easy Life Cleaning Services",
+            "audio": "C_17_A_4_L_1",
+            "image": "",
+            "start": 1,
+            "end": 10
+        },
+        {
+            "title": "",
+            "audio": "C_17_A_4_L_2",
+            "image": "",
+            "start": 11,
+            "end": 20
+        },
+        {
+            "title": "",
+            "audio": "C_17_A_4_L_3",
+            "image": "",
+            "start": 21,
+            "end": 30
+        },
+        {
+            "title": "Maple syrup",
+            "audio": "C_17_A_4_L_4",
+            "image": "",
+            "start": 31,
+            "end": 40
+        }
+    ],
+    "question_sections": [
+        {
+            "custom_instruction": "ONE WORD",
+            "type": "sentence_completion",
+            "start": 1,
+            "end": 10
+        },
+        {
+            "type": "one_choice",
+            "start": 11,
+            "end": 14
+        },
+        {
+            "custom_instruction": "Which way of reducing staff turnover was used in each of the following hotels?",
+            "type": "drop_information",
+            "start": 15,
+            "end": 20
+        },
+        {
+            "custom_instruction": "TWO",
+            "type": "multiple_choices",
+            "start": 21,
+            "end": 22
+        },
+        {
+            "custom_instruction": "TWO",
+            "type": "multiple_choices",
+            "start": 23,
+            "end": 24
+        },
+        {
+            "custom_instruction": "What comment do the students make about the development of each of the following items of sporting equipment?",
+            "type": "drop_information",
+            "start": 25,
+            "end": 30
+        },
+        {
+            "custom_instruction": "ONE WORD ONLY",
+            "type": "sentence_completion",
+            "start": 31,
+            "end": 40
+        }
+    ],
+    "questions": {
+        "1": {
+            "question": [
+                "<span><strong>Basic cleaning package offered</strong></span><br><span>&nbsp; &nbsp;&bull; Cleaning all surfaces</span><br><span>&nbsp; &nbsp;&bull; Cleaning the </span>"
+            ]
+        },
+        "2": {
+            "question": [
+                "<span>&nbsp;throughout the apartment</span><br><span>&nbsp; &nbsp;&bull; Cleaning shower, sinks, toilet etc.</span><br><span><strong>Additional services agreed</strong></span><br><span>&nbsp; &nbsp;&bull; Every week</span><br><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &ndash;&nbsp; Cleaning the </span>"
+            ]
+        },
+        "3": {
+            "question": [
+                "<span></span><br><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &ndash;&nbsp; Ironing clothes &ndash; </span>"
+            ]
+        },
+        "4": {
+            "question": [
+                "<span>&nbsp;only</span><br><span>&nbsp; &nbsp;&bull; Every month</span><br><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &ndash;&nbsp; Cleaning all the </span>"
+            ]
+        },
+        "5": {
+            "question": [
+                "<span>&nbsp;from the inside</span><br><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &ndash;&nbsp; Washing down the </span>"
+            ]
+        },
+        "6": {
+            "question": [
+                "<span></span><br><span><strong>Other possibilities</strong></span><br><span>&nbsp; &nbsp;&bull; They can organise a plumber or an </span>"
+            ]
+        },
+        "7": {
+            "question": [
+                "<span>&nbsp;if necessary.</span><br><span>&nbsp; &nbsp;&bull; A special cleaning service is available for customers who are allergic to </span>"
+            ]
+        },
+        "8": {
+            "question": [
+                "<span></span><br><span><strong>Information on the cleaners</strong></span><br><span>&nbsp; &nbsp;&bull; Before being hired, all cleaners have a background check carried out by the </span>"
+            ]
+        },
+        "9": {
+            "question": [
+                "<span></span><br><span>&nbsp; &nbsp;&bull; References are required.</span><br><span>&nbsp; &nbsp;&bull; All cleaners are given </span>"
+            ]
+        },
+        "10": {
+            "question": [
+                "<span>&nbsp;for two weeks.</span><br><span>&nbsp; &nbsp;&bull; Customers send a </span>",
+                "<span>&nbsp;after each visit.</span><br><span>&nbsp; &nbsp;&bull; Usually, each customer has one regular cleaner.</span>"
+            ]
+        },
+        "11": {
+            "question": "<span>Many hotel managers are unaware that their staff often leave because of</span>",
+            "options": [
+                "a lack of training",
+                "long hours",
+                "low pay"
+            ]
+        },
+        "12": {
+            "question": "<span>What is the impact of high staff turnover on managers?</span>",
+            "options": [
+                "an increased workload",
+                "low morale",
+                "an inability to meet targets"
+            ]
+        },
+        "13": {
+            "question": "<span>What mistake should managers always avoid?</span>",
+            "options": [
+                "failing to treat staff equally",
+                "reorganising shifts without warning",
+                "neglecting to have enough staff during busy periods"
+            ]
+        },
+        "14": {
+            "question": "<span>What unexpected benefit did Dunwich Hotel notice after improving staff retention rates?</span>",
+            "options": [
+                "a fall in customer complaints",
+                "an increase in loyalty club membership",
+                "a rise in spending per customer"
+            ]
+        },
+        "15": {
+            "question": [
+                "<span><strong>Hotels</strong></span><br><span>&nbsp; &nbsp;&bull; The Sun Club </span>"
+            ]
+        },
+        "16": {
+            "question": [
+                "<span></span><br><span>&nbsp; &nbsp;&bull; The Portland </span>"
+            ]
+        },
+        "17": {
+            "question": [
+                "<span></span><br><span>&nbsp; &nbsp;&bull; Bluewater Hotels </span>"
+            ]
+        },
+        "18": {
+            "question": [
+                "<span></span><br><span>&nbsp; &nbsp;&bull; Pentlow Hotels </span>"
+            ]
+        },
+        "19": {
+            "question": [
+                "<span></span><br><span>&nbsp; &nbsp;&bull; Green Planet </span>"
+            ]
+        },
+        "20": {
+            "question": [
+                "<span></span><br><span>&nbsp; &nbsp;&bull; The Amesbury </span>",
+                "<span></span>"
+            ],
+            "options": [
+                "improving relationships and teamwork",
+                "offering incentives and financial benefits",
+                "providing career opportunities"
+            ]
+        },
+        "21": {
+            "question": ""
+        },
+        "22": {
+            "question": "<span>Which&nbsp;<strong>TWO</strong>&nbsp;points do Thomas and Jeanne make about Thomas&rsquo;s sporting activities at school?</span>",
+            "options": [
+                "He should have felt more positive about them",
+                "The training was too challenging for him",
+                "He could have worked harder at them",
+                "His parents were disappointed in him",
+                "His fellow students admired him"
+            ]
+        },
+        "23": {
+            "question": ""
+        },
+        "24": {
+            "question": "<span>Which&nbsp;<strong>TWO</strong>&nbsp;feelings did Thomas experience when he was in Kenya?</span>",
+            "options": [
+                "disbelief",
+                "relief",
+                "stress",
+                "gratitude",
+                "homesickness"
+            ]
+        },
+        "25": {
+            "question": [
+                "<span>&nbsp; &nbsp;&bull; the table tennis bat </span>"
+            ]
+        },
+        "26": {
+            "question": [
+                "<span></span><br><span>&nbsp; &nbsp;&bull; the cricket helmet </span>"
+            ]
+        },
+        "27": {
+            "question": [
+                "<span></span><br><span>&nbsp; &nbsp;&bull; the cycle helmet </span>"
+            ]
+        },
+        "28": {
+            "question": [
+                "<span></span><br><span>&nbsp; &nbsp;&bull; the golf club </span>"
+            ]
+        },
+        "29": {
+            "question": [
+                "<span></span><br><span>&nbsp; &nbsp;&bull; the hockey stick </span>"
+            ]
+        },
+        "30": {
+            "question": [
+                "<span></span><br><span>&nbsp; &nbsp;&bull; the football </span>",
+                "<span></span>"
+            ],
+            "options": [
+                "It could cause excessive sweating",
+                "The material was being mass produced for another purpose",
+                "People often needed to make their own",
+                "It often had to be replaced",
+                "The material was expensive",
+                "It was unpopular among spectators",
+                "It caused injuries",
+                "No one ring it liked it at first"
+            ]
+        },
+        "31": {
+            "question": [
+                "<span><strong>What is maple syrup?</strong></span><br><span>&nbsp; &nbsp;&bull; made from the sap of the maple tree</span><br><span>&nbsp; &nbsp;&bull; added to food or used in cooking</span><br><span>&nbsp; &nbsp;&bull; colour described as </span>"
+            ]
+        },
+        "32": {
+            "question": [
+                "<span></span><br><span>&nbsp; &nbsp;&bull; very </span>"
+            ]
+        },
+        "33": {
+            "question": [
+                "<span>&nbsp;compared to refined sugar</span><br><span><strong>The maple tree</strong></span><br><span>&nbsp; &nbsp;&bull; has many species</span><br><span>&nbsp; &nbsp;&bull; needs sunny days and cool nights</span><br><span>&nbsp; &nbsp;&bull; maple leaf has been on the Canadian flag since 1964</span><br><span>&nbsp; &nbsp;&bull; needs moist soil but does not need fertiliser as well</span><br><span>&nbsp; &nbsp;&bull; best growing conditions and </span>"
+            ]
+        },
+        "34": {
+            "question": [
+                "<span>&nbsp;are in Canada and North America</span><br><span><strong>Early maple sugar producers</strong></span><br><span>&nbsp; &nbsp;&bull; made holes in the tree trunks</span><br><span>&nbsp; &nbsp;&bull; used hot </span>"
+            ]
+        },
+        "35": {
+            "question": [
+                "<span> to heat the sap</span><br><span>&nbsp; &nbsp;&bull; used tree bark to make containers for collection</span><br><span>&nbsp; &nbsp;&bull; sweetened food and drink with sugar</span><br><span><strong>Today&rsquo;s maple syrup</strong></span><br><span><em>The trees</em></span><br><span>&nbsp; &nbsp;&bull; Tree trunks may not have the correct </span>"
+            ]
+        },
+        "36": {
+            "question": [
+                "<span>&nbsp;until they have been growing for 40 years.</span><br><span>&nbsp; &nbsp;&bull; The changing temperature and movement of water within the tree produces the sap.</span><br><span><em>The production</em></span><br><span>&nbsp; &nbsp;&bull; A tap drilled into the trunk and a </span>"
+            ]
+        },
+        "37": {
+            "question": [
+                "<span>&nbsp;carries the sap into a bucket.</span><br><span>&nbsp; &nbsp;&bull; Large pans of sap called evaporators are heated by means of a </span>"
+            ]
+        },
+        "38": {
+            "question": [
+                "<span>.</span><br><span>&nbsp; &nbsp;&bull; A lot of </span>"
+            ]
+        },
+        "39": {
+            "question": [
+                "<span>&nbsp;is produced during the evaporation process.</span><br><span>&nbsp; &nbsp;&bull; &lsquo;Sugar sand&rsquo; is removed because it makes the syrup look </span>"
+            ]
+        },
+        "40": {
+            "question": [
+                "<span>&nbsp;and affects the taste.</span><br><span>&nbsp; &nbsp;&bull; The syrup is ready for use.</span><br><span>&nbsp; &nbsp;&bull; A huge quantity of sap is needed to make a </span>",
+                "<span>&nbsp;of maple syrup.</span>"
+            ]
+        }
+    },
+    "answers": {
+        "transcripts": {
+            "1": "<p class=\"MsoNormal\">JACINTA:&nbsp;&nbsp;&nbsp; Hello, Easy Life Cleaning Services, Jacinta speaking.&nbsp;</span><br><p class=\"MsoNormal\">CLIENT:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Oh hello. I&rsquo;m looking for a cleaning service for my apartment &ndash; do you do domestic cleaning?</span><br><p class=\"MsoNormal\">JACINTA:&nbsp;&nbsp;&nbsp; Sure.</span><br><p class=\"MsoNormal\">CLIENT:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Well, it&rsquo;s just a one-bedroom flat. Do you have a basic cleaning package?</span><br><p class=\"MsoNormal\">JACINTA:&nbsp;&nbsp;&nbsp; Yes. For a one-bedroom flat we&rsquo;re probably looking at about two hours for a clean. So we&rsquo;d do a thorough clean of all surfaces in each room, and polish them where necessary. Does your apartment have carpets?</span><br><p class=\"MsoNormal\">CLIENT:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; No, I don&rsquo;t have any, but&nbsp;the floor would need cleaning.</span><br><p class=\"MsoNormal\">JACINTA:&nbsp;&nbsp;&nbsp; Of course &ndash;&nbsp;we&rsquo;d do that in every room. And we&rsquo;d do a thorough clean of the kitchen and bathroom.</span><br><p class=\"MsoNormal\">CLIENT:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; OK.</span><br><p class=\"MsoNormal\">JACINTA:&nbsp;&nbsp;&nbsp; Then we have some additional services which you can request if you want &ndash; so for example, we can clean your oven for you every week.</span><br><p class=\"MsoNormal\">CLIENT:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Actually, I hardly ever use that, but&nbsp;can you do the fridge?</span><br><p class=\"MsoNormal\">JACINTA:&nbsp;&nbsp;&nbsp; Sure. Would you like that done every week?</span><br><p class=\"MsoNormal\">CLIENT:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Yes, definitely. And would ironing clothes be an additional service you can do?</span><br><p class=\"MsoNormal\">JACINTA:&nbsp;&nbsp;&nbsp; Yes, of course.</span><br><p class=\"MsoNormal\">CLIENT:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; It wouldn&rsquo;t be much,&nbsp;just my shirts for work that week.</span><br><p class=\"MsoNormal\">JACINTA:&nbsp;&nbsp;&nbsp; That&rsquo;s fine. And we could also clean your microwave if you want.</span><br><p class=\"MsoNormal\">CLIENT:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; No, I wipe that out pretty regularly so there&rsquo;s no need for that.</span><br><p class=\"MsoNormal\">JACINTA:&nbsp;&nbsp;&nbsp; We also offer additional services that you might want a bit less often, say every month. So for example, if&nbsp;the inside of your windows need cleaning, we could do that.</span><br><p class=\"MsoNormal\">CLIENT:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Yes, that&rsquo;d be good. I&rsquo;m on the fifteenth floor, so the outside gets done regularly by specialists, but the inside goes get a bit grubby.</span><br><p class=\"MsoNormal\">JACINTA:&nbsp;&nbsp;&nbsp; And we could arrange for your curtains to get cleaned if necessary.</span><br><p class=\"MsoNormal\">CLIENT:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; No, they&rsquo;re OK. But&nbsp;would you be able to do something about the balcony? It&rsquo;s quite small and I don&rsquo;t use it much, but it could do with a wash every month or so.</span><br><p class=\"MsoNormal\">JACINTA:&nbsp;&nbsp;&nbsp; Yes, we can get the pressure washer onto that.</span><br><p class=\"MsoNormal\">___________________________</span><br><p class=\"MsoNormal\">JACINTA:&nbsp;&nbsp;&nbsp; Now if you&rsquo;re interested, we do offer some other possibilities to do with general maintenance. For example, if you have a problem with water and you need a plumber in a hurry, we can put you in touch with a reliable one who can come out straightaway.&nbsp;And the same thing if you need an electrician.</span><br><p class=\"MsoNormal\">CLIENT:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Right. That&rsquo;s good to know. I&rsquo;ve only just moved here so I don&rsquo;t have any of those sorts of contacts.</span><br><p class=\"MsoNormal\">JACINTA:&nbsp;&nbsp;&nbsp; And I don&rsquo;t know if this is of interest to you, but we also offer a special vacuum cleaning system which can improve the indoor air quality of your home by&nbsp;capturing up to 99% of all the dust in the air. So if you&rsquo;re troubled by allergies, this can make a big difference.</span><br><p class=\"MsoNormal\">CLIENT:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Right. In fact, I don&rsquo;t have that sort of problem, but I&rsquo;ll bear it in mind. Now can you tell me a bit about your cleaning staff?</span><br><p class=\"MsoNormal\">JACINTA:&nbsp;&nbsp;&nbsp; Of course. So all our cleaners are very carefully selected. When they apply to us, they have to&nbsp;undergo a security check with the police&nbsp;to make sure they don&rsquo;t have any sort of criminal background, and, of course, they have to provide references as well. Then if we think they might be suitable for the job,&nbsp;we give them training for it. That lasts for two weeks&nbsp;so it&rsquo;s very thorough, and at the end of it, they have a test. If they pass that, we take them on, but we monitor them very carefully &ndash; we ask&nbsp;all our clients to complete a review of their performance after every visit and to email it to us. So we can pick up any problems straightaway and deal with them.</span><br><p class=\"MsoNormal\">CLIENT:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; OK, well that all sounds good. And will I always have the same cleaner?</span><br><p class=\"MsoNormal\">JACINTA:&nbsp;&nbsp;&nbsp; Yes, we do our best to organise it that way, and we usually manage it.</span><br><p class=\"MsoNormal\">CLIENT:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Good. That&rsquo;s fine. Right, so I&rsquo;d like to go ahead and &hellip;</span>",
+            "2": "<p class=\"MsoNormal\">As many of you here today have worked in the hotel industry for some time, I&rsquo;m sure you have experienced the problem of high staff turnover in your hotels. Every hotel relies on having loyal and experienced members of staff who make sure that everything runs smoothly. If staff are constantly changing, it can make life difficult for everyone. But why do staff leave frequently in many hotels? Of course, many hotel jobs, such as cleaning, are low-skilled and are not well-paid. A lot of managers think it&rsquo;s this and the long hours that are the main causes of high staff turnover &ndash; but what they don&rsquo;t realise is that&nbsp;it&rsquo;s the lack of training in many hotel jobs which is a huge factor.</span><br><p class=\"MsoNormal\">So, what kind of problems does a high turnover of staff cause? Well,&nbsp;having to recruit new staff all the time can be very time-consuming, and managers may have to cover some duties while waiting for new staff to arrive. This means they don&rsquo;t have time to think about less immediate problems such as how to improve their service. When staff leave, it can also severely affect the colleagues they leave behind. It has a negative effect on remaining staff, who may start to feel that they too should be thinking about leaving.</span><br><p class=\"MsoNormal\">So, what can be done to change this situation? Firstly, managers should stop making basic errors which leave their staff feeling upset and resentful. When organising shifts, for example,&nbsp;make sure you never give certain staff preferential treatment. All staff should be given some choice about when they work, and everyone should have to work some evening and weekend shifts. If you treat staff fairly, they&rsquo;ll be more likely to step in and help when extra staff are needed.</span><br><p class=\"MsoNormal\">Keeping staff happy has other tangible benefits for the business. Take the Dunwich Hotel as an example. It had been experiencing a problem with staff complaints and in order to deal with this, invested in staff training and improved staff conditions. Not only did the level of complaints fall, but&nbsp;they also noticed a significant increase in the amount each customer spent during their stay. They have now introduced a customer loyalty scheme which is going really well.</span><br><p class=\"MsoNormal\">____________________________</span><br><p class=\"MsoNormal\">Now I&rsquo;d like to look at some ways you can reduce staff turnover in your hotels, and I&rsquo;ll do this by giving some examples of hotels where I&rsquo;ve done some training recently.</span><br><p class=\"MsoNormal\">The Sun Club received feedback which showed that staff thought managers didn&rsquo;t value their opinions. They weren&rsquo;t&nbsp;made to feel they were partners who were contributing to the success of the business as a whole. This situation has changed. Junior staff at all levels are regularly invited to meetings where their ideas are welcomed.</span><br><p class=\"MsoNormal\">A year ago, The Portland recognised the need to invest in staff retention.&nbsp;Their first step was to introduce a scheme for recognising talent amongst their employees. The hope is that&nbsp;organising training for individuals with management potential&nbsp;will encourage them to stay with the business.</span><br><p class=\"MsoNormal\">At Bluewater, managers decided to recognise 50 high achievers from across the company&rsquo;s huge hotel chain.&nbsp;As a reward, they&rsquo;re sent on an all-expenses-paid trip abroad&nbsp;every year. Fun is an important element in the trips, but there&rsquo;s also the opportunity to learn something useful. This year&rsquo;s trip included a visit to a brewery, where staff learned about the new beer that would be served in the hotel.</span><br><p class=\"MsoNormal\">Pentlow Hotels identified that retention of junior reception staff was an issue.&nbsp;In order to encourage them to see that working in a hotel could be worthwhile and rewarding, with good prospects, they introduced a management programme. These staff were given additional responsibilities and the chance to work in various roles in the hotel.</span><br><p class=\"MsoNormal\">Green Planet wanted to be seen as a caring employer. To make life easier for staff, many of whom had childcare responsibilities, the hotel began&nbsp;issuing vouchers to help cover the cost of childcare.</span><br><p class=\"MsoNormal\">Louise Marsh at The Amesbury has one of the best staff retention rates in the business. Since she joined the company, she has made a huge effort to achieve this by&nbsp;creating a co-operative and supportive environment. For her, the staff are part of a large family where everyone is valued.</span><br><p class=\"MsoNormal\">OK, now I&rsquo;d like to &hellip;</span>",
+            "3": "<p class=\"MsoNormal\">JEANNE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hi Thomas, how are you enjoying the course so far?</span><br><p class=\"MsoNormal\">THOMAS:&nbsp;&nbsp;&nbsp;&nbsp; Yeah, I think it&rsquo;s good.</span><br><p class=\"MsoNormal\">JEANNE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Remind me &ndash; why did you decide to study sports science? Didn&rsquo;t you want to be a professional athlete when you were at school?</span><br><p class=\"MsoNormal\">THOMAS:&nbsp;&nbsp;&nbsp;&nbsp; Yeah &ndash; that was my goal, and&nbsp;all my classmates assumed I would achieve it; they thought I was brilliant.</span><br><p class=\"MsoNormal\">JEANNE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; That must have been a nice feeling.</span><br><p class=\"MsoNormal\">THOMAS:&nbsp;&nbsp;&nbsp;&nbsp; Mm, I thought I could win anything. There was no one who could run faster than me.</span><br><p class=\"MsoNormal\">JEANNE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Exactly &ndash; so what happened? Did your mum and dad want you to be more &lsquo;academic&rsquo;?</span><br><p class=\"MsoNormal\">THOMAS:&nbsp;&nbsp;&nbsp;&nbsp; Not at all.&nbsp;Perhaps they should have pushed me harder, though.</span><br><p class=\"MsoNormal\">JEANNE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; What do you mean?</span><br><p class=\"MsoNormal\">THOMAS:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I think I should have practised more.</span><br><p class=\"MsoNormal\">JEANNE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; What makes you say that?</span><br><p class=\"MsoNormal\">THOMAS:&nbsp;&nbsp;&nbsp;&nbsp; Well, I went out to Kenya for a couple of weeks to train &hellip;</span><br><p class=\"MsoNormal\">JEANNE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Really! I didn&rsquo;t know that.</span><br><p class=\"MsoNormal\">THOMAS:&nbsp;&nbsp;&nbsp;&nbsp; I was chosen to go there out of loads of kids and run with some of the top teenage athletes in the world. And &hellip; I was so calm about it.&nbsp;I just kept thinking how fortunate I was. What a great chance this was! Everyone back home was so proud of me. But once we started competing, I very quickly realised I wasn&rsquo;t good enough.</span><br><p class=\"MsoNormal\">JEANNE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; That must have been a huge shock.</span><br><p class=\"MsoNormal\">THOMAS:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I thought &lsquo;this can&rsquo;t be happening&rsquo;! I was used to winning.</span><br><p class=\"MsoNormal\">JEANNE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I&rsquo;m sorry to hear that.</span><br><p class=\"MsoNormal\">THOMAS:&nbsp;&nbsp;&nbsp;&nbsp; It&rsquo;s OK. I&rsquo;m over it now and I think it&rsquo;s much better to do a university course and this one has such a variety of sports-related areas. It&rsquo;s going to be good.</span><br><p class=\"MsoNormal\">JEANNE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Oh, I agree &ndash; I chose it because of that.</span><br><p class=\"MsoNormal\">___________________________</span><br><p class=\"MsoNormal\">THOMAS:&nbsp;&nbsp;&nbsp;&nbsp; So Jeanne &ndash; have you thought of any ideas for the discussion session next week on technology and sport?</span><br><p class=\"MsoNormal\">JEANNE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; We have to cover more than one sport, don&rsquo;t we?</span><br><p class=\"MsoNormal\">THOMAS:&nbsp;&nbsp;&nbsp;&nbsp; Yeah.</span><br><p class=\"MsoNormal\">JEANNE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; You know &ndash; we always think technology is about the future, but we could gather some ideas about past developments in sport.</span><br><p class=\"MsoNormal\">THOMAS:&nbsp;&nbsp;&nbsp;&nbsp; Look at early types of equipment perhaps? Uh, I remember reading something about table tennis bats once &ndash; how they ended up being covered with pimpled rubber.</span><br><p class=\"MsoNormal\">JEANNE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Cos they were just wooden at first, I&rsquo;d imagine.</span><br><p class=\"MsoNormal\">THOMAS:&nbsp;&nbsp;&nbsp;&nbsp; Yeah. In about the 1920s,&nbsp;a factory was making rolls of the rubber in bulk for something like horse harnesses.</span><br><p class=\"MsoNormal\">JEANNE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Really!</span><br><p class=\"MsoNormal\">THOMAS:&nbsp;&nbsp;&nbsp;&nbsp; Yeah &ndash; and&nbsp;someone realised that it&rsquo;d make a perfect covering for the wooden bats.</span><br><p class=\"MsoNormal\">JEANNE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; So what about cricket &ndash; that&rsquo;s had a few innovative changes. Maybe the pads they were on their legs?</span><br><p class=\"MsoNormal\">THOMAS:&nbsp;&nbsp;&nbsp;&nbsp; I don&rsquo;t think they&rsquo;ve changed much but, I&rsquo;m just looking on the internet &hellip; and it says that&nbsp;when the first cricket helmet came in, in 1978, the Australian batsman who first wore it was booed and jeered by people watching because it was so ugly!</span><br><p class=\"MsoNormal\">JEANNE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Wow, players have to protect themselves from getting hurt! I mean everyone wears one now.</span><br><p class=\"MsoNormal\">THOMAS:&nbsp;&nbsp;&nbsp;&nbsp; Mm, unlike the cycle helmet.</span><br><p class=\"MsoNormal\">JEANNE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Well, unless you&rsquo;re a professional, but you&rsquo;re right, many ordinary bikers don&rsquo;t wear a helmet.</span><br><p class=\"MsoNormal\">THOMAS:&nbsp;&nbsp;&nbsp;&nbsp; Hey, look at these pictures of original helmet designs. This one looks like an upside-down bowl!</span><br><p class=\"MsoNormal\">JEANNE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Yet, the woman&rsquo;s laughing &ndash; she&rsquo;s so proud to be wearing it!</span><br><p class=\"MsoNormal\">THOMAS:&nbsp;&nbsp;&nbsp;&nbsp; It says&nbsp;serious cyclists ended up with wet hair from all the hard exercise.</span><br><p class=\"MsoNormal\">JEANNE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I guess&nbsp;that&rsquo;s why they have large air vents in them now so that the skin can breathe more easily.</span><br><p class=\"MsoNormal\">THOMAS:&nbsp;&nbsp;&nbsp;&nbsp; OK, so we&rsquo;ve done helmets. What about golf balls or better still golf clubs &ndash; they&rsquo;ve changed a lot.</span><br><p class=\"MsoNormal\">JEANNE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Yeah &ndash; I remember my great grandfather telling me that&nbsp;because a club was made entirely of wood, it would easily break and players had to get another.</span><br><p class=\"MsoNormal\">THOMAS:&nbsp;&nbsp;&nbsp;&nbsp; There&rsquo;s no wood at all in them now, is there?</span><br><p class=\"MsoNormal\">JEANNE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; No &ndash; they&rsquo;re much more powerful.</span><br><p class=\"MsoNormal\">THOMAS:&nbsp;&nbsp;&nbsp;&nbsp; The same must be true of hockey sticks.</span><br><p class=\"MsoNormal\">JEANNE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I don&rsquo;t think so because players still use wooden sticks today. What it does say here, though, is that&nbsp;when the game started you had to produce a stick yourself.</span><br><p class=\"MsoNormal\">THOMAS:&nbsp;&nbsp;&nbsp;&nbsp; I guess they just weren&rsquo;t being manufactured. So, one more perhaps. What about football?</span><br><p class=\"MsoNormal\">JEANNE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Well, I know the first balls were made of animal skin.</span><br><p class=\"MsoNormal\">THOMAS:&nbsp;&nbsp;&nbsp;&nbsp; Yeah, they covered them with pieces of leather that were stitched together, but &hellip; the balls let in water when it rained.</span><br><p class=\"MsoNormal\">JEANNE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Oh, that would have made them much heavier.</span><br><p class=\"MsoNormal\">THOMAS:&nbsp;&nbsp;&nbsp;&nbsp; That&rsquo;s right.&nbsp;You can imagine the damage to player&rsquo;s necks when the ball was headed.</span><br><p class=\"MsoNormal\">JEANNE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; How painful that must have been!</span><br><p class=\"MsoNormal\">THOMAS:&nbsp;&nbsp;&nbsp;&nbsp; Yeah, well, I think we can put together some useful ideas &hellip;</span>",
+            "4": "<p class=\"MsoNormal\">Hello everyone. Today we&rsquo;re going to look at another natural food product and that&rsquo;s maple syrup. What is this exactly? Well, maple syrup looks rather like clear honey, but it&rsquo;s not made by bees; it&rsquo;s produced from the plant fluid &ndash; or sap &ndash; inside the maple tree and that makes maple syrup a very natural product.&nbsp;Maple syrup is a thick, golden, sweet-tasting liquid that can be bought in bottles or jars and poured onto food such as waffles and ice cream or used in the baking of cakes and pastries. It contains no preservatives or added ingredients, and&nbsp;it provides a healthy alternative to refined sugar.</span><br><p class=\"MsoNormal\">Let&rsquo;s just talk a bit about the maple tree itself, which is where maple syrup comes from. So, there are many species of maple tree, and they&rsquo;ll grow without fertilizer in areas where there&rsquo;s plenty of moisture in the soil. However, they&rsquo;ll only do this if another important criterion is fulfilled, which is that they must have full or partial sun exposure during the day and very cool nights &ndash; and I&rsquo;ll talk more about that in a minute. There are only certain parts of the world that provide all these conditions: one is Canada, and by that, I mean all parts of Canada, and the other is the north-eastern states of North America.&nbsp;In these areas, the climate suits the trees perfectly. In fact, Canada produces over two-thirds of the world&rsquo;s maple syrup, which is why the five-pointed maple leaf is a Canadian symbol and has features on the flag since 1964.</span><br><p class=\"MsoNormal\">So how did maple syrup production begin? Well, long before Europeans settled in these parts of the world, the indigenous communities had started producing maple sugar. They bored holes in the trunks of maple trees and used containers made of tree bark to collect the liquid sap as it poured out. As they were unable to keep the liquid for any length of time &ndash; they didn&rsquo;t have storage facilities in those days &ndash; they boiled the liquid by&nbsp;placing pieces of rock that had become scorching hot from the sun into the sap. They did this until it turned into sugar, and they were then able to use this to sweeten their food and drinks. Since that time, improvements have been made to the process, but it has changed very little overall.</span><br><p class=\"MsoNormal\">________________________</span><br><p class=\"MsoNormal\">So let&rsquo;s look at the production of maple syrup today. Clearly, the maple forests are a valuable resource in many Canadian and North American communities. The trees have to be well looked after and&nbsp;they cannot be used to make syrup until the trunks reach a diameter of around 25 centimetres. This can take anything up to 40 years. As I&rsquo;ve already mentioned, maple trees need the right conditions to grow and also to produce sap. Why is this? Well, what happens is that during a cold night, the tree absorbs water from the soil, and that rises through the tree&rsquo;s vascular system. But then in the warmer daytime, the change in temperature causes the water to be pushed back down to the bottom of the tree. This continual movement &ndash; up and down &ndash; leads to the formation of the sap needed for maple syrup production.</span><br><p class=\"MsoNormal\">When the tree is ready, it can be tapped&nbsp;and this involves drilling a small hole into the trunk and inserting a tube into it that ends in a bucket. The trees can often take several taps, though the workers take care not to cause any damage to the healthy growth of the tree itself. The sap that comes out of the trees consists of 98 percent water and 2 percent sugar and other nutrients. It has to be boiled so that much of that water evaporates, and this process has to take place immediately, using what are called evaporators.&nbsp;These are basically extremely large pans &ndash; the sap is poured into these, a fire is built and the pans are then heated until the sap boils. As it does this, the water evaporates, and the syrup begins to form.&nbsp;The evaporation process creates large quantities of steam, and the sap becomes thicker and denser, and, at just the right moment, when the sap is thick enough to be called maple syrup, the worker removes it from the heat. After this process, something called&nbsp;&lsquo;sugar sand&rsquo; has to be filtered out as this builds up during the boiling and gives the syrup a cloudy appearance&nbsp;and a slightly gritty taste. Once this has been done, the syrup is ready to be packaged so that it can be used for a whole variety of products.&nbsp;It takes 40 litres of sap to produce one litre of maple syrup so you can get an idea of how much is needed!</span><br><p class=\"MsoNormal\">So that&rsquo;s the basic process. In places like Quebec where &hellip;</span>"
+        },
+        "answer_sheet": {
+            "1": {
+                "answer": [
+                    "floor",
+                    "floors"
+                ],
+                "explanation": "the floor would need cleaning."
+            },
+            "2": {
+                "answer": [
+                    "fridge"
+                ],
+                "explanation": "can you do the fridge?"
+            },
+            "3": {
+                "answer": [
+                    "shirts"
+                ],
+                "explanation": "just my shirts for work that week."
+            },
+            "4": {
+                "answer": [
+                    "windows"
+                ],
+                "explanation": "So for example, if the inside of your windows need cleaning, we could do that."
+            },
+            "5": {
+                "answer": [
+                    "balcony"
+                ],
+                "explanation": "would you be able to do something about the balcony?"
+            },
+            "6": {
+                "answer": [
+                    "electrician"
+                ],
+                "explanation": "And the same thing if you need an electrician."
+            },
+            "7": {
+                "answer": [
+                    "dust"
+                ],
+                "explanation": "capturing up to 99% of all the dust in the air. So if you’re troubled by allergies, this can make a big difference."
+            },
+            "8": {
+                "answer": [
+                    "police"
+                ],
+                "explanation": "When they apply to us, they have to undergo a security check with the police to make sure they don’t have any sort of criminal background, and, of course, they have to provide references as well"
+            },
+            "9": {
+                "answer": [
+                    "training"
+                ],
+                "explanation": "we give them training for it. That lasts for two weeks"
+            },
+            "10": {
+                "answer": [
+                    "review"
+                ],
+                "explanation": "we ask all our clients to complete a review of their performance after every visit and to email it to us."
+            },
+            "11": {
+                "answer": [
+                    "a lack of training"
+                ],
+                "explanation": "it’s the lack of training in many hotel jobs which is a huge factor."
+            },
+            "12": {
+                "answer": [
+                    "an increased workload"
+                ],
+                "explanation": "having to recruit new staff all the time can be very time-consuming, and managers may have to cover some duties while waiting for new staff to arrive."
+            },
+            "13": {
+                "answer": [
+                    "failing to treat staff equally"
+                ],
+                "explanation": "All staff should be given some choice about when they work, and everyone should have to work some evening and weekend shifts."
+            },
+            "14": {
+                "answer": [
+                    "a rise in spending per customer"
+                ],
+                "explanation": "they also noticed a significant increase in the amount each customer spent during their stay."
+            },
+            "15": {
+                "answer": [
+                    "improving relationships and teamwork"
+                ],
+                "explanation": "This situation has changed. Junior staff at all levels are regularly invited to meetings where their ideas are welcomed."
+            },
+            "16": {
+                "answer": [
+                    "providing career opportunities"
+                ],
+                "explanation": "Their first step was to introduce a scheme for recognising talent amongst their employees."
+            },
+            "17": {
+                "answer": [
+                    "offering incentives and financial benefits"
+                ],
+                "explanation": "As a reward, they’re sent on an all-expenses-paid trip abroad every year."
+            },
+            "18": {
+                "answer": [
+                    "providing career opportunities"
+                ],
+                "explanation": "In order to encourage them to see that working in a hotel could be worthwhile and rewarding, with good prospects, they introduced a management programme."
+            },
+            "19": {
+                "answer": [
+                    "offering incentives and financial benefits"
+                ],
+                "explanation": "the hotel began issuing vouchers to help cover the cost of childcare."
+            },
+            "20": {
+                "answer": [
+                    "improving relationships and teamwork"
+                ],
+                "explanation": "For her, the staff are part of a large family where everyone is valued."
+            },
+            "21": {
+                "answer": [
+                    "He could have worked harder at them"
+                ],
+                "explanation": "Perhaps they should have pushed me harder, though"
+            },
+            "22": {
+                "answer": [
+                    "His fellow students admired him"
+                ],
+                "explanation": "all my classmates assumed I would achieve it; they thought I was brilliant."
+            },
+            "23": {
+                "answer": [
+                    "disbelief"
+                ],
+                "explanation": "I thought ‘this can’t be happening’"
+            },
+            "24": {
+                "answer": [
+                    "gratitude"
+                ],
+                "explanation": "I just kept thinking how fortunate I was. What a great chance this was"
+            },
+            "25": {
+                "answer": [
+                    "The material was being mass produced for another purpose"
+                ],
+                "explanation": "In about the 1920s, a factory was making rolls of the rubber in bulk for something like horse harnesses."
+            },
+            "26": {
+                "answer": [
+                    "It was unpopular among spectators"
+                ],
+                "explanation": "the Australian batsman who first wore it was booed and jeered by people watching because it was so ugly!"
+            },
+            "27": {
+                "answer": [
+                    "It could cause excessive sweating"
+                ],
+                "explanation": "It says serious cyclists ended up with wet hair from all the hard exercise."
+            },
+            "28": {
+                "answer": [
+                    "It often had to be replaced"
+                ],
+                "explanation": "a club was made entirely of wood, it would easily break and players had to get another."
+            },
+            "29": {
+                "answer": [
+                    "People often needed to make their own"
+                ],
+                "explanation": "is that when the game started you had to produce a stick yourself."
+            },
+            "30": {
+                "answer": [
+                    "It caused injuries"
+                ],
+                "explanation": "You can imagine the damage to player’s necks when the ball was headed."
+            },
+            "31": {
+                "answer": [
+                    "golden"
+                ],
+                "explanation": "Maple syrup is a thick, golden"
+            },
+            "32": {
+                "answer": [
+                    "healthy"
+                ],
+                "explanation": "it provides a healthy alternative to refined sugar."
+            },
+            "33": {
+                "answer": [
+                    "climate"
+                ],
+                "explanation": "In these areas, the climate suits the trees perfectly"
+            },
+            "34": {
+                "answer": [
+                    "rock",
+                    "rocks"
+                ],
+                "explanation": "they boiled the liquid by placing pieces of rock that had become scorching hot from the sun into the sap"
+            },
+            "35": {
+                "answer": [
+                    "diameter"
+                ],
+                "explanation": "they cannot be used to make syrup until the trunks reach a diameter of around 25 centimetres. This can take anything up to 40 years"
+            },
+            "36": {
+                "answer": [
+                    "tube"
+                ],
+                "explanation": "this involves drilling a small hole into the trunk and inserting a tube into it that ends in a bucket"
+            },
+            "37": {
+                "answer": [
+                    "fire"
+                ],
+                "explanation": "the sap is poured into these, a fire is built and the pans are then heated until the sap boils"
+            },
+            "38": {
+                "answer": [
+                    "steam"
+                ],
+                "explanation": "The evaporation process creates large quantities of steam"
+            },
+            "39": {
+                "answer": [
+                    "cloudy"
+                ],
+                "explanation": "After this process, something called ‘sugar sand’ has to be filtered out as this builds up during the boiling and gives the syrup a cloudy appearance and a slightly gritty taste."
+            },
+            "40": {
+                "answer": [
+                    "litre",
+                    "liter"
+                ],
+                "explanation": "It takes 40 litres of sap to produce one litre of maple syrup so you can get an idea of how much is needed!"
+            }
+        }
+    }
+}

@@ -1,1 +1,582 @@
-{"name":"Cambridge IELTS 10 Academic Listening Test 2","id":"C_10_A_2_L","ielts_test_id":"C_10_A_2","type":"listening","image":"C_10_A_2_L","passages":[{"title":"Transport Survey","audio":"C_10_A_2_L_1","image":"","start":1,"end":10},{"title":"New city developments","audio":"C_10_A_2_L_2","image":"","start":11,"end":20},{"title":"The later life of Thor Heyerdahl","audio":"C_10_A_2_L_3","image":"","start":21,"end":30},{"title":"THE FUTURE OF MANAGEMENT","audio":"C_10_A_2_L_4","image":"","start":31,"end":40}],"question_sections":[{"custom_instruction":"ONE WORD AND/OR A NUMBER","type":"sentence_completion","start":1,"end":10},{"type":"one_choice","start":11,"end":14},{"custom_instruction":"Which feature is related to each of the following areas of the world represented in the playground?","type":"drop_information","start":15,"end":20},{"custom_instruction":"TWO","type":"multiple_choices","start":21,"end":22},{"custom_instruction":"TWO","type":"multiple_choices","start":23,"end":24},{"type":"one_choice","start":25,"end":30},{"custom_instruction":"ONE WORD ONLY","type":"sentence_completion","start":31,"end":40}],"questions":{"1":{"question":["<span><em>Example</em></span><br><span>Travelled to town today: by &hellip;&hellip;&hellip;.bus&hellip;&hellip;&hellip;.</span><br><span>&nbsp;</span><br><span><strong>Name</strong>: Luisa </span>"]},"2":{"question":["<span></span><br><span><strong>Address</strong>: </span>"]},"3":{"question":["<span> White Stone Rd</span><br><span><strong>Area</strong>: Bradfield</span><br><span><strong>Postcode</strong>: </span>"]},"4":{"question":["<span></span><br><span><strong>Occupation</strong>: </span>"]},"5":{"question":["<span></span><br><span><strong>Reason for visit to town</strong>: to go to the </span>"]},"6":{"question":["<span></span><br><span><strong>Suggestions for improvement:</strong></span><br><span>&nbsp; &nbsp;&bull; better </span>"]},"7":{"question":["<span></span><br><span>&nbsp; &nbsp;&bull; have more footpaths</span><br><span>&nbsp; &nbsp;&bull; more frequent </span>"]},"8":{"question":["<span></span><br><span><strong>Things that would encourage cycling to work</strong>:</span><br><span>&nbsp; &nbsp;&bull; having </span>"]},"9":{"question":["<span> parking places for bicycles</span><br><span>&nbsp; &nbsp;&bull; being able to use a </span>"]},"10":{"question":["<span> at work</span><br><span>&nbsp; &nbsp;&bull; the opportunity to have cycling </span>","<span> on busy roads</span>"]},"11":{"question":"<span>The idea for the two new developments in the city came from</span>","options":["local people","the City Council","the SWRDC"]},"12":{"question":"<span>What is unusual about Brackenside pool?</span>","options":["its architectural style","its heating system","its method of water treatment"]},"13":{"question":"<span>Local newspapers have raised worries about</span>","options":["the late opening date","the cost of the project","the size of the facilities"]},"14":{"question":"<span>What decision has not yet been made about the pool?</span>","options":["whose statue will be at the door","the exact opening times","who will open it"]},"15":{"question":["<span><strong>Areas of the world</strong></span><br><span>&nbsp; &nbsp;&bull; Asia </span>"]},"16":{"question":["<span></span><br><span>&nbsp; &nbsp;&bull; Antarctica </span>"]},"17":{"question":["<span></span><br><span>&nbsp; &nbsp;&bull; South America </span>"]},"18":{"question":["<span></span><br><span>&nbsp; &nbsp;&bull; North America </span>"]},"19":{"question":["<span></span><br><span>&nbsp; &nbsp;&bull; Europe </span>"]},"20":{"question":["<span></span><br><span>&nbsp; &nbsp;&bull; Africa </span>","<span></span>"],"options":["ancient forts","waterways","ice and snow","jewels","local animals","mountains","music and film","space travel","volcanoes"]},"21":{"question":""},"22":{"question":"<span>Which&nbsp;<strong>TWO</strong>&nbsp;hobbies was Thor Heyerdahl very interested in as a youth?</span>","options":["camping","climbing","collecting","hunting","reading"]},"23":{"question":""},"24":{"question":"<span>Which do the speakers say are the&nbsp;<strong>TWO</strong>&nbsp;reasons why Heyerdahl went to live on an island?</span>","options":["to examine ancient carvings","to experience an isolated place","to formulate a new theory","to learn survival skills","to study the impact of an extreme environment"]},"25":{"question":"<span>According to Victor and Olivia, academics thought that Polynesian migration from the east was impossible due to</span>","options":["the fact that Eastern countries were far away","the lack of materials for boat building","the direction of the winds and currents"]},"26":{"question":"<span>Which do the speakers agree was the main reason for Heyerdahl&rsquo;s raft journey?</span>","options":["to overcome a research setback","to demonstrate a personal quality","to test a new theory"]},"27":{"question":"<span>What was most important to Heyerdahl about his raft journey?</span>","options":["the fact that he was the first person to do it","the speed of crossing the Pacific","the use of authentic construction methods"]},"28":{"question":"<span>Why did Heyerdahl go to Easter Island?</span>","options":["to build a stone statue","to sail a reed boat","to learn the local language"]},"29":{"question":"<span>In Olivia&rsquo;s opinion, Heyerdahl&rsquo;s greatest influence was on</span>","options":["theories about Polynesian origins","the development of archaeological methodology","establishing archaeology as an academic subject"]},"30":{"question":"<span>Which criticism do the speakers make of William Oliver&rsquo;s textbook?</span>","options":["Its style is out of date","Its content is over-simplified","Its methodology is flawed"]},"31":{"question":["<span><strong>Business markets</strong></span><br><span>&nbsp; &nbsp;&bull; greater </span>"]},"32":{"question":["<span>&nbsp;among companies</span><br><span>&nbsp; &nbsp;&bull; increase in power of large </span>"]},"33":{"question":["<span>&nbsp;Companies</span><br><span>&nbsp; &nbsp;&bull; rising </span>"]},"34":{"question":["<span>&nbsp;in certain countries</span><br><span><strong>External influences on businesses</strong></span><br><span>&nbsp; &nbsp;&bull; more discussion with </span>"]},"35":{"question":["<span>&nbsp;before making business decisions</span><br><span>&nbsp; &nbsp;&bull; environmental concerns which may lead to more </span>"]},"36":{"question":["<span></span><br><span><strong>Business structures</strong></span><br><span>&nbsp; &nbsp;&bull; more teams will be formed to work on a particular </span>"]},"37":{"question":["<span></span><br><span>&nbsp; &nbsp;&bull; businesses may need to offer hours that are </span>"]},"38":{"question":["<span>, or the chance to work remotely</span><br><span><strong>Management styles</strong></span><br><span>&nbsp; &nbsp;&bull; increasing need for managers to provide good </span>"]},"39":{"question":["<span></span><br><span>&nbsp; &nbsp;&bull; changes influenced by </span>"]},"40":{"question":["<span>&nbsp;taking senior roles</span><br><span><strong>Changes in the economy</strong></span><br><span>&nbsp; &nbsp;&bull; service sector continues to be important</span><br><span>&nbsp; &nbsp;&bull; increasing value of intellectual property</span><br><span>&nbsp; &nbsp;&bull; more and more </span>","<span>&nbsp;workers</span>"]}},"answers":{"transcripts":{"1":"<span>INTERVIEWER:&nbsp;&nbsp; Excuse me.</span><br><span>LUISA:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Yes?</span><br><span>INTERVIEWER:&nbsp;&nbsp; I wonder if you could spare a few minutes to do a survey on transport. It won&rsquo;t take long.</span><br><span>LUISA:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; No, that&rsquo;s fine.</span><br><span>INTERVIEWER:&nbsp;&nbsp; Lovely. The survey is on behalf of the local council. They&rsquo;d like to know about what transport you use any suggestions for improvement. Can I start by asking you how you travelled to town today?</span><br><span>LUISA:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sure. I came on the&nbsp;bus. (Example)</span><br><span>INTERVIEWER:&nbsp;&nbsp; Great. Now can I get a few details about yourself?</span><br><span>LUISA:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; OK.</span><br><span>INTERVIEWER:&nbsp;&nbsp; What&rsquo;s your name?</span><br><span>LUISA:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; It&rsquo;s Luisa &hellip;</span><br><span>INTERVIEWER:&nbsp;&nbsp; Yes.</span><br><span>LUISA:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hardie.</span><br><span>INTERVIEWER:&nbsp;&nbsp; Can you spell that, please?</span><br><span>LUISA:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Yes, it&rsquo;s H-A-R-D-I-E.</span><br><span>INTERVIEWER:&nbsp;&nbsp; Great. Thanks. And can I have your address?</span><br><span>LUISA:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; It&rsquo;s&nbsp;19, White Stone Road.</span><br><span>INTERVIEWER:&nbsp;&nbsp; Oh, right. I know that area. It&rsquo;s Bradfield, isn&rsquo;t it?</span><br><span>LUISA:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; That&rsquo;s right.</span><br><span>INTERVIEWER:&nbsp;&nbsp; Is the postcode GT7?</span><br><span>LUISA:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; It&rsquo;s actually&nbsp;G-T-8, 2-L-C.</span><br><span>INTERVIEWER:&nbsp;&nbsp; Great. And could I ask what your job is? Are you a student?</span><br><span>LUISA:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I&rsquo;ve actually just finished my training.&nbsp;I&rsquo;m a hairdresser.</span><br><span>INTERVIEWER:&nbsp;&nbsp; Oh, right. And one more question in this section. What is the reason for you coming into town today?</span><br><span>LUISA:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Actually it&rsquo;s not for shopping today, which would be my normal reason, but&nbsp;to see the dentist.</span><br><span>INTERVIEWER:&nbsp;&nbsp; Right. Thanks.</span><br><span>__________________________&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span><br><span>INTERVIEWER:&nbsp;&nbsp; Now in this last section I&rsquo;d like you to give us some ideas about the facilities and arrangements in the city for getting to and from work, er, any suggestions you have for improvements.</span><br><span>LUISA:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Well, something I&rsquo;ve thought about for some time is that when I do walk and I&rsquo;m doing a later shift, I think&nbsp;the lighting should be better.</span><br><span>INTERVIEWER:&nbsp;&nbsp; Yes, good point.</span><br><span>LUISA:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; And of course, I think it&rsquo;s a real shame they&rsquo;ve been cutting down on the number of footpaths. They should have more of those. Then people would walk more.</span><br><span>INTERVIEWER:&nbsp;&nbsp; Yes, right.</span><br><span>LUISA:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; And,&nbsp;I don&rsquo;t think there are enough trains. That&rsquo;s why I don&rsquo;t use them &ndash; you have to wait so long.</span><br><span>INTERVIEWER:&nbsp;&nbsp; Thanks. And finally I&rsquo;d like to ask your opinion on cycling. As you may know, there&rsquo;s a drive in the city to get more people to cycle to work.</span><br><span>LUISA:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Right.</span><br><span>INTERVIEWER:&nbsp;&nbsp; But we realise that there are things which the council, but also employers, might do to help encourage workers to cycle to work.</span><br><span>LUISA:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Yep. Well, I have thought about it and where I work&nbsp;there are no safe places to leave your bikes.&nbsp;</span><br><span>INTERVIEWER:&nbsp;&nbsp; OK.</span><br><span>LUISA:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; And also, I&rsquo;d have to cycle uphill and on a hot day I&rsquo;d arrive at work pretty sweaty so&nbsp;I think I&rsquo;d need a shower somewhere at work.</span><br><span>INTERVIEWER:&nbsp;&nbsp; Right.</span><br><span>LUISA:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; And I suppose the last thing is that&nbsp;I wouldn&rsquo;t be all that confident about cycling on such busy roads. I think I&rsquo;d like to see you offering training for that, you know. I&rsquo;d feel a lot better about starting if that was the case.</span><br><span>INTERVIEWER:&nbsp;&nbsp; Well, that&rsquo;s very helpful. Thank you very much for your time.</span><br><span>LUISA:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; No problem. Bye.</span>","2":"<span>Good morning. I&rsquo;m very pleased to have this opportunity to say a little about two exciting new developments in the city: the Brackenside Open-Air Swimming Pool and the children&rsquo;s Adventure Playground in Central Park. As many of you may know,&nbsp;the idea for these initiatives came from you, the public, in the extensive consultation exercise which the City Council conducted last year. And they have been realised using money from the SWRDC &ndash; the South West Regional Development Commission.</span><br><span>First of all, Brackenside Pool. As many of the older members of the audience will remember, there used to be a wonderful open-air pool on the sea front 30 years ago but it had to close when it was judged to be unsafe. For the design of this new heated pool, we were very happy to secure the talents of internationally renowned architect Ellen Wendon, who has managed to combine a charming 1930s design, which fits is so well with many of the other buildings in the area, with up-to-the-minute features&nbsp;such as a recycling system &ndash; the only one of its kind in the world &ndash; which enables seawater to be used in the pool.</span><br><span>Now,&nbsp;there has been quite a bit of discussion in the local press about whether there would be enough room for the number of visitors we&rsquo;re hoping to attract, but the design is deceptive and there have been rigorous checks about capacity. Also, just in case you were wondering, we&rsquo;re on schedule for a June 15th opening date and well within budget: a testimony to the excellent work of local contractors Hickman&rsquo;s.</span><br><span>We hope that as many people as possible will be there on June 15th. We have engaged award-winning actress Coral White to declare the pool open and there&rsquo;ll be drinks and snacks available at the pool side. There&rsquo;ll also be a competition for the public to&nbsp;decide on the sculpture we plan to have at the entrance: you will decide which famous historical figure from the city we should have.</span><br><span>___________________________</span><br><span>And now, moving on the Central Park Playground, which we&rsquo;re pleased to announce has just won the Douglas Award for safety: the news came through only last week. The unique design is based on the concept of the Global Village, with the playground being divided into sex areas showing different parts of the world &ndash; each with a representative feature. For example, there is a section on&nbsp;Asia, and this is represented by rides and equipment in the shape of snakes, orang-utans, tigers and so on &ndash; fauna native to the forests of the region. Moving south to the Antarctic &ndash; we couldn&rsquo;t run to an ice rink I&rsquo;m afraid but opted instead for&nbsp;climbing blocks in the shape of mountains&nbsp;&ndash; I thought they could have had slides for the glaciers but the designers did want to avoid being too literal! Then on to South America &ndash; and here&nbsp;the theme is El Dorado &ndash; games replicating the search for mines full of precious stones. And then moving up to North America, here there was considerable debate &ndash; I know the contribution of cinema and jazz was considered but&nbsp;the designers finally opted for rockets and the international Space Station. Eastwards to Europe then, and perhaps the most traditional choice of all the areas:&nbsp;medieval castles and other fortifications. Then last, but not least, moving south to&nbsp;Africa and a whole set of wonderful mosaics and trails to represent the great rivers of this fascinating and varied continent.</span><br><span>Now, the opening date for our Global Playground is 10th July. And again we&rsquo;d love to see you there &ndash; so make a date and come and see this magnificent, original new amenity right in the heart of the city.&nbsp;</span>","3":"<span>VICTOR:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Right, well, for our presentation shall I start with the early life of Thor Heyerdahl?</span><br><span>OLIVIA:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sure. Why don&rsquo;t you begin with describing the type of boy he was, especially&nbsp;his passion for collecting things.</span><br><span>VICTOR:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; That&rsquo;s right, he had his own the little museum. And I think it&rsquo;s unusual for children to develop their own values and not join in their parents&rsquo; hobbies; I&rsquo;m thinking of how Heyerdahl wouldn&rsquo;t go hunting with his dad, for example.</span><br><span>OLIVIA:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Yeah, he preferred to learn about nature by listening to his mother read to him. And quite early on he knew he wanted to become an explorer when he grew up. That came from his camping trips he went on in Norway I think &hellip;</span><br><span>VICTOR:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; No,&nbsp;it was climbing that he spent his time on as a young man.</span><br><span>OLIVIA:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Oh, right &hellip; After university he married a classmate and together,&nbsp;they decided to experience living on a small island, to find out how harsh weather conditions shaped people&rsquo;s lifestyles.</span><br><span>VICTOR:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; As part of their preparation before they left home, they learnt basic survival skills like building a shelter. I guess they needed that knowledge in order to live wild in a remote location with few inhabitants, cut of by the sea, which is what they were aiming to do.</span><br><span>OLIVIA:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; An important part of your talk should be the radical theory Heyerdahl formed from examining mysterious ancient carvings that he happened to find on the island. I think you should finish with that.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><br><span>VICTOR:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; OK.</span><br><span>_________________________</span><br><span>OLIVIA:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; All right, Victor, so after your part I&rsquo;ll talk about Thor Heyerdahl&rsquo;s adult life, continuing from the theory he had about Polynesian migration: Up until that time of course, academics had believed that humans first migrated to the islands in Polynesia from Asia, in the west.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><br><span>VICTOR:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Yes,&nbsp;they thought that travel from the east was impossible, because of the huge, empty stretch of ocean that lies between the islands and the nearest inhabited land.</span><br><span>OLIVIA:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Yes, but Heyerdahl spent ages studying the cloud movements, ocean currents and wind patterns to find if it was actually possible. And another argument was that there was no tradition of large ship-building in the communities lying to the east of Polynesia. But Heyerdahl knew they made lots of coastal voyages in locally built canoes. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><br><span>VICTOR:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Yes, or sailing on rafts, as was shown by the long voyage that Heyerdahl did next. It was an incredibly risky journey to undertake &ndash; sometimes I wonder if he did that trip for private reasons, you know? To show others that he could have spectacular adventures. What do you think, Olivia?</span><br><span>OLIVIA:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Well, I think it was more a matter of simply trying out his idea, to see if migration from the east was possible.</span><br><span>VICTOR:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yes, that&rsquo;s probably it.&nbsp;And the poor guy suffered a bit at that time because the war forced him to stop his work for some years &hellip;</span><br><span>OLIVIA:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Yes. When he got started again and planned his epic voyage, do you think it was important to him that he achieve it before anyone else did?&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><br><span>VICTOR:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Um, I haven&rsquo;t read anywhere that that was his motivation. The most important factor seems to have been that he use only ancient techniques and local materials to build his raft.</span><br><span>OLIVIA:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Yes. I wonder how fast it went.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><br><span>VICTOR:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Well, it took them 97 days from South America to the Pacific Island.</span><br><span>OLIVIA:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mm. And after that, Heyerdahl went to Easter Island, didn&rsquo;t he? We should mention the purpose of that trip. I think he sailed there in a boat made out of reeds.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><br><span>VICTOR:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; No, that was later on in Egypt, Olivia.</span><br><span>OLIVIA:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Oh, yes, that&rsquo;s right.</span><br><span>VICTOR:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; But what he wanted to do was talk to the local people about their old stone carvings and then make one himself to learn more about the process.</span><br><span>OLIVIA:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I see. Well, what a great life. Even though many of his theories have been disproven, he certainly left a lasting impression on many disciplines, didn&rsquo;t he? To my mind, he was first person to establish what modern academics call practical archaeology. I mean, that they try to recreate something from the past today, like he did with his raft trip. It&rsquo;s unfortunate that his ideas about where Polynesians originated from have been completely discredited.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><br><span>VICTOR:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Yes. Right, well, I&rsquo;ll prepare a PowerPoint slide at the end that acknowledges our sources. I mainly used&nbsp;<em>The Life and Work of Thor Heyerdahl&nbsp;</em>by William Oliver. I thought the research methods he used were very sound, although I must say I found the overall tone somewhat old-fashioned. I think they need to do a new, revised edition.</span><br><span>OLIVIA:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Yeah, I agree. What about the subject matter &ndash; I found it really challenging! &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><br><span>VICTOR:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Well, it&rsquo;s a complex issue &hellip;</span><br><span>OLIVIA:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I thought the book had lots of good points. What did you think of &hellip;&nbsp;</span>","4":"<span>Well, I&rsquo;ve been talking to managers in a number of businesses, and reading surveys about the future of management. And what I&rsquo;m going to present in this seminar is a few ideas about how the activity is likely to change in the next ten years. It isn&rsquo;t a scientific, statistical analysis &ndash; just some ideas for us to discuss.</span><br><span>One area I want to mention is business markets, and I&rsquo;m sure a really significant development will be&nbsp;a major increase in competition, with companies from all round the world trying to sell similar products. Consumers will have much more choice &ndash; for instance, food products sold in Australia might be manufactured in the USA, China, Finland and dozens of other countries. At the same time, mergers and takeovers mean that&nbsp;governments are actually losing power to major global corporations. We can probably all think of companies that exert a great deal of influence, which may be good for consumers. A third point I want to make about markets is that&nbsp;in the rapidly expanding economies, such as India, China, Brazil and Russia, demand is growing very fast. This is putting pressure on resources all over the world.</span><br><span>I think businesses are becoming more open to external influences. In particular,&nbsp;companies are consulting customers more and more before making their business decisions.&nbsp;Companies are finding out what they want and providing it, instead of making products and then trying to sell them, which is the model of years ago.</span><br><span>Another influence is that&nbsp;concerns about the environment will force manufacturers to extend product lifecycles, to reduce the amount of pollution and waste. And in some cases, regulation will need to be strengthened.</span><br><span>Many societies are much more fluid and democratic, and the structure of companies is changing to reflect that.&nbsp;I think we&rsquo;re going to see a greater emphasis within companies on teams created with a specific project in mind. And when they&rsquo;re completed, the teams will be disbanded and new ones formed.</span><br><span>More and more people see work as simply one part of their lifestyle, and not the most important one, and as the workforce is shrinking in some countries, businesses are having to compete for staff instead of being about to choose among a lot of applicants.&nbsp;Typical examples that will attract and retain staff are traditional ones like flexible hours&nbsp;and &ndash; something that has been made possible by advances in technology &ndash; remote working, with people based at their home, abroad, or almost anywhere they choose.</span><br><span>__________________________</span><br><span>Management styles will almost certainly continue to change. Senior managers will require a lot more than the efficiency that they&rsquo;ve always needed.&nbsp;Above all they&rsquo;ll need great skills in leadership, so that their organisation can initiate and respond to change in a fast-moving world, where they face lots of competing requirements and potential conflicts.</span><br><span>In most of the world, the senior managers of large businesses are mainly men in their fifties and sixties.&nbsp;The predominant style of management will almost certainly become more consultative and collaborative, caused above all, by more women moving into senior management positions.</span><br><span>Many of the changes are influenced by developments in the wider economy. The traditional emphasis of business was manufacturing, and of course the service sector is very important. But we shouldn&rsquo;t overlook the growing financial contribution of IP, that is, intellectual property. Some books and films generate enormous sums from the sale of related DVDs, music, games, clothes, and so on.</span><br><span>Another point I&rsquo;d like to make is that although I&rsquo;ve been talking about companies, one trend that they have to face is the move away from people working for the same employer for years.&nbsp;Instead, more and more people are becoming self-employed, to gain the freedom and control over their lives that they&rsquo;re unlikely to get from being employed.</span><br><span>OK, well that&rsquo;s all I want to say, so let&rsquo;s open it up for discussion.</span>"},"answer_sheet":{"1":{"answer":["Hardie"],"explanation":"Hardie"},"2":{"answer":["19"],"explanation":"It’s 19, White Stone Road"},"3":{"answer":["GT8 2LC"],"explanation":"It’s actually G-T-8, 2-L-C"},"4":{"answer":["hairdresser"],"explanation":"I’m a hairdresser"},"5":{"answer":["dentist","dentist’s"],"explanation":"Actually it’s not for shopping today, which would be my normal reason, but to see the dentist"},"6":{"answer":["lighting"],"explanation":"something I’ve thought about for some time is that when I do walk and I’m doing a later shift, I think the lighting should be better"},"7":{"answer":["trains"],"explanation":"I don’t think there are enough trains. That’s why I don’t use them – you have to wait so long"},"8":{"answer":["safe"],"explanation":"I have thought about it and where I work there are no safe places to leave your bike"},"9":{"answer":["shower"],"explanation":"I’d have to cycle uphill and on a hot day I’d arrive at work pretty sweaty so I think I’d need a shower somewhere at work"},"10":{"answer":["training"],"explanation":"And I suppose the last thing is that I wouldn’t be all that confident about cycling on such busy roads. I think I’d like to see you offering training for that, you know"},"11":{"answer":["local people"],"explanation":"As many of you may know, the idea for these initiatives came from you, the public, in the extensive consultation exercise which the City Council conducted last year"},"12":{"answer":["its method of water treatment"],"explanation":"which fits is so well with many of the other buildings in the area, with up-to-the-minute features such as a recycling system – the only one of its kind in the world – which enables seawater to be used in the pool"},"13":{"answer":["the size of the facilities"],"explanation":"there has been quite a bit of discussion in the local press about whether there would be enough room for the number of visitors we’re hoping to attract"},"14":{"answer":["whose statue will be at the door"],"explanation":"There’ll also be a competition for the public to decide on the sculpture we plan to have at the entrance: you will decide which famous historical figure from the city we should have"},"15":{"answer":["local animals"],"explanation":"For example, there is a section on Asia, and this is represented by rides and equipment in the shape of snakes, orang-utans, tigers and so on – fauna native to the forests of the region"},"16":{"answer":["mountains"],"explanation":"Moving south to the Antarctic – we couldn’t run to an ice rink I’m afraid but opted instead for climbing blocks in the shape of mountains"},"17":{"answer":["jewels"],"explanation":"Then on to South America – and here the theme is El Dorado – games replicating the search for mines full of precious stones"},"18":{"answer":["space travel"],"explanation":"the designers finally opted for rockets and the international Space Station"},"19":{"answer":["ancient forts"],"explanation":"Eastwards to Europe then, and perhaps the most traditional choice of all the areas: medieval castles and other fortifications"},"20":{"answer":["waterways"],"explanation":"Then last, but not least, moving south to Africa and a whole set of wonderful mosaics and trails to represent the great rivers of this fascinating and varied continent"},"21":{"answer":["climbing"],"explanation":"it was climbing that he spent his time on as a young man."},"22":{"answer":["collecting"],"explanation":"Why don’t you begin with describing the type of boy he was, especially his passion for collecting things"},"23":{"answer":["to experience an isolated place"],"explanation":"they decided to experience living on a small island"},"24":{"answer":["to study the impact of an extreme environment"],"explanation":"to find out how harsh weather conditions shaped people’s lifestyles"},"25":{"answer":["the fact that Eastern countries were far away"],"explanation":"they thought that travel from the east was impossible, because of the huge, empty stretch of ocean that lies between the islands and the nearest inhabited land"},"26":{"answer":["to test a new theory"],"explanation":"I think it was more a matter of simply trying out his idea, to see if migration from the east was possible"},"27":{"answer":["the use of authentic construction methods"],"explanation":"The most important factor seems to have been that he use only ancient techniques and local materials to build his raft"},"28":{"answer":["to build a stone statue"],"explanation":"But what he wanted to do was talk to the local people about their old stone carvings and then make one himself to learn more about the process"},"29":{"answer":["the development of archaeological methodology"],"explanation":"To my mind, he was first person to establish what modern academics call practical archaeology. I mean, that they try to recreate something from the past today"},"30":{"answer":["Its style is out of date"],"explanation":"I thought the research methods he used were very sound, although I must say I found the overall tone somewhat old-fashioned. I think they need to do a new, revised edition"},"31":{"answer":["competition"],"explanation":"I’m sure a really significant development will be a major increase in competition, with companies from all round the world trying to sell similar products"},"32":{"answer":["global"],"explanation":"At the same time, mergers and takeovers mean that governments are actually losing power to major global corporations"},"33":{"answer":["demand"],"explanation":"A third point I want to make about markets is that in the rapidly expanding economies, such as India, China, Brazil and Russia, demand is growing very fast"},"34":{"answer":["customers"],"explanation":"I think businesses are becoming more open to external influences. In particular, companies are consulting customers more and more before making their business decisions"},"35":{"answer":["regulation"],"explanation":"Another influence is that concerns about the environment will force manufacturers to extend product lifecycles, to reduce the amount of pollution and waste. And in some cases, regulation will need to be strengthened"},"36":{"answer":["project"],"explanation":"I think we’re going to see a greater emphasis within companies on teams created with a specific project in mind"},"37":{"answer":["flexible"],"explanation":"Typical examples that will attract and retain staff are traditional ones like flexible hours"},"38":{"answer":["leadership"],"explanation":"Above all they’ll need great skills in leadership"},"39":{"answer":["women"],"explanation":"The predominant style of management will almost certainly become more consultative and collaborative, caused above all, by more women moving into senior management positions"},"40":{"answer":["self-employed"],"explanation":"Instead, more and more people are becoming self-employed, to gain the freedom and control over their lives that they’re unlikely to get from being employed."}}}}
+{
+    "name": "Cambridge IELTS 10 Academic Listening Test 2",
+    "id": "C_10_A_2_L",
+    "ielts_test_id": "C_10_A_2",
+    "type": "listening",
+    "image": "C_10_A_2_L",
+    "passages": [
+        {
+            "title": "Transport Survey",
+            "audio": "C_10_A_2_L_1",
+            "image": "",
+            "start": 1,
+            "end": 10
+        },
+        {
+            "title": "New city developments",
+            "audio": "C_10_A_2_L_2",
+            "image": "",
+            "start": 11,
+            "end": 20
+        },
+        {
+            "title": "The later life of Thor Heyerdahl",
+            "audio": "C_10_A_2_L_3",
+            "image": "",
+            "start": 21,
+            "end": 30
+        },
+        {
+            "title": "THE FUTURE OF MANAGEMENT",
+            "audio": "C_10_A_2_L_4",
+            "image": "",
+            "start": 31,
+            "end": 40
+        }
+    ],
+    "question_sections": [
+        {
+            "custom_instruction": "ONE WORD AND/OR A NUMBER",
+            "type": "sentence_completion",
+            "start": 1,
+            "end": 10
+        },
+        {
+            "type": "one_choice",
+            "start": 11,
+            "end": 14
+        },
+        {
+            "custom_instruction": "Which feature is related to each of the following areas of the world represented in the playground?",
+            "type": "drop_information",
+            "start": 15,
+            "end": 20
+        },
+        {
+            "custom_instruction": "TWO",
+            "type": "multiple_choices",
+            "start": 21,
+            "end": 22
+        },
+        {
+            "custom_instruction": "TWO",
+            "type": "multiple_choices",
+            "start": 23,
+            "end": 24
+        },
+        {
+            "type": "one_choice",
+            "start": 25,
+            "end": 30
+        },
+        {
+            "custom_instruction": "ONE WORD ONLY",
+            "type": "sentence_completion",
+            "start": 31,
+            "end": 40
+        }
+    ],
+    "questions": {
+        "1": {
+            "question": [
+                "<span><em>Example</em></span><br><span>Travelled to town today: by &hellip;&hellip;&hellip;.bus&hellip;&hellip;&hellip;.</span><br><span>&nbsp;</span><br><span><strong>Name</strong>: Luisa </span>"
+            ]
+        },
+        "2": {
+            "question": [
+                "<span></span><br><span><strong>Address</strong>: </span>"
+            ]
+        },
+        "3": {
+            "question": [
+                "<span> White Stone Rd</span><br><span><strong>Area</strong>: Bradfield</span><br><span><strong>Postcode</strong>: </span>"
+            ]
+        },
+        "4": {
+            "question": [
+                "<span></span><br><span><strong>Occupation</strong>: </span>"
+            ]
+        },
+        "5": {
+            "question": [
+                "<span></span><br><span><strong>Reason for visit to town</strong>: to go to the </span>"
+            ]
+        },
+        "6": {
+            "question": [
+                "<span></span><br><span><strong>Suggestions for improvement:</strong></span><br><span>&nbsp; &nbsp;&bull; better </span>"
+            ]
+        },
+        "7": {
+            "question": [
+                "<span></span><br><span>&nbsp; &nbsp;&bull; have more footpaths</span><br><span>&nbsp; &nbsp;&bull; more frequent </span>"
+            ]
+        },
+        "8": {
+            "question": [
+                "<span></span><br><span><strong>Things that would encourage cycling to work</strong>:</span><br><span>&nbsp; &nbsp;&bull; having </span>"
+            ]
+        },
+        "9": {
+            "question": [
+                "<span> parking places for bicycles</span><br><span>&nbsp; &nbsp;&bull; being able to use a </span>"
+            ]
+        },
+        "10": {
+            "question": [
+                "<span> at work</span><br><span>&nbsp; &nbsp;&bull; the opportunity to have cycling </span>",
+                "<span> on busy roads</span>"
+            ]
+        },
+        "11": {
+            "question": "<span>The idea for the two new developments in the city came from</span>",
+            "options": [
+                "local people",
+                "the City Council",
+                "the SWRDC"
+            ]
+        },
+        "12": {
+            "question": "<span>What is unusual about Brackenside pool?</span>",
+            "options": [
+                "its architectural style",
+                "its heating system",
+                "its method of water treatment"
+            ]
+        },
+        "13": {
+            "question": "<span>Local newspapers have raised worries about</span>",
+            "options": [
+                "the late opening date",
+                "the cost of the project",
+                "the size of the facilities"
+            ]
+        },
+        "14": {
+            "question": "<span>What decision has not yet been made about the pool?</span>",
+            "options": [
+                "whose statue will be at the door",
+                "the exact opening times",
+                "who will open it"
+            ]
+        },
+        "15": {
+            "question": [
+                "<span><strong>Areas of the world</strong></span><br><span>&nbsp; &nbsp;&bull; Asia </span>"
+            ]
+        },
+        "16": {
+            "question": [
+                "<span></span><br><span>&nbsp; &nbsp;&bull; Antarctica </span>"
+            ]
+        },
+        "17": {
+            "question": [
+                "<span></span><br><span>&nbsp; &nbsp;&bull; South America </span>"
+            ]
+        },
+        "18": {
+            "question": [
+                "<span></span><br><span>&nbsp; &nbsp;&bull; North America </span>"
+            ]
+        },
+        "19": {
+            "question": [
+                "<span></span><br><span>&nbsp; &nbsp;&bull; Europe </span>"
+            ]
+        },
+        "20": {
+            "question": [
+                "<span></span><br><span>&nbsp; &nbsp;&bull; Africa </span>",
+                "<span></span>"
+            ],
+            "options": [
+                "ancient forts",
+                "waterways",
+                "ice and snow",
+                "jewels",
+                "local animals",
+                "mountains",
+                "music and film",
+                "space travel",
+                "volcanoes"
+            ]
+        },
+        "21": {
+            "question": ""
+        },
+        "22": {
+            "question": "<span>Which&nbsp;<strong>TWO</strong>&nbsp;hobbies was Thor Heyerdahl very interested in as a youth?</span>",
+            "options": [
+                "camping",
+                "climbing",
+                "collecting",
+                "hunting",
+                "reading"
+            ]
+        },
+        "23": {
+            "question": ""
+        },
+        "24": {
+            "question": "<span>Which do the speakers say are the&nbsp;<strong>TWO</strong>&nbsp;reasons why Heyerdahl went to live on an island?</span>",
+            "options": [
+                "to examine ancient carvings",
+                "to experience an isolated place",
+                "to formulate a new theory",
+                "to learn survival skills",
+                "to study the impact of an extreme environment"
+            ]
+        },
+        "25": {
+            "question": "<span>According to Victor and Olivia, academics thought that Polynesian migration from the east was impossible due to</span>",
+            "options": [
+                "the fact that Eastern countries were far away",
+                "the lack of materials for boat building",
+                "the direction of the winds and currents"
+            ]
+        },
+        "26": {
+            "question": "<span>Which do the speakers agree was the main reason for Heyerdahl&rsquo;s raft journey?</span>",
+            "options": [
+                "to overcome a research setback",
+                "to demonstrate a personal quality",
+                "to test a new theory"
+            ]
+        },
+        "27": {
+            "question": "<span>What was most important to Heyerdahl about his raft journey?</span>",
+            "options": [
+                "the fact that he was the first person to do it",
+                "the speed of crossing the Pacific",
+                "the use of authentic construction methods"
+            ]
+        },
+        "28": {
+            "question": "<span>Why did Heyerdahl go to Easter Island?</span>",
+            "options": [
+                "to build a stone statue",
+                "to sail a reed boat",
+                "to learn the local language"
+            ]
+        },
+        "29": {
+            "question": "<span>In Olivia&rsquo;s opinion, Heyerdahl&rsquo;s greatest influence was on</span>",
+            "options": [
+                "theories about Polynesian origins",
+                "the development of archaeological methodology",
+                "establishing archaeology as an academic subject"
+            ]
+        },
+        "30": {
+            "question": "<span>Which criticism do the speakers make of William Oliver&rsquo;s textbook?</span>",
+            "options": [
+                "Its style is out of date",
+                "Its content is over-simplified",
+                "Its methodology is flawed"
+            ]
+        },
+        "31": {
+            "question": [
+                "<span><strong>Business markets</strong></span><br><span>&nbsp; &nbsp;&bull; greater </span>"
+            ]
+        },
+        "32": {
+            "question": [
+                "<span>&nbsp;among companies</span><br><span>&nbsp; &nbsp;&bull; increase in power of large </span>"
+            ]
+        },
+        "33": {
+            "question": [
+                "<span>&nbsp;Companies</span><br><span>&nbsp; &nbsp;&bull; rising </span>"
+            ]
+        },
+        "34": {
+            "question": [
+                "<span>&nbsp;in certain countries</span><br><span><strong>External influences on businesses</strong></span><br><span>&nbsp; &nbsp;&bull; more discussion with </span>"
+            ]
+        },
+        "35": {
+            "question": [
+                "<span>&nbsp;before making business decisions</span><br><span>&nbsp; &nbsp;&bull; environmental concerns which may lead to more </span>"
+            ]
+        },
+        "36": {
+            "question": [
+                "<span></span><br><span><strong>Business structures</strong></span><br><span>&nbsp; &nbsp;&bull; more teams will be formed to work on a particular </span>"
+            ]
+        },
+        "37": {
+            "question": [
+                "<span></span><br><span>&nbsp; &nbsp;&bull; businesses may need to offer hours that are </span>"
+            ]
+        },
+        "38": {
+            "question": [
+                "<span>, or the chance to work remotely</span><br><span><strong>Management styles</strong></span><br><span>&nbsp; &nbsp;&bull; increasing need for managers to provide good </span>"
+            ]
+        },
+        "39": {
+            "question": [
+                "<span></span><br><span>&nbsp; &nbsp;&bull; changes influenced by </span>"
+            ]
+        },
+        "40": {
+            "question": [
+                "<span>&nbsp;taking senior roles</span><br><span><strong>Changes in the economy</strong></span><br><span>&nbsp; &nbsp;&bull; service sector continues to be important</span><br><span>&nbsp; &nbsp;&bull; increasing value of intellectual property</span><br><span>&nbsp; &nbsp;&bull; more and more </span>",
+                "<span>&nbsp;workers</span>"
+            ]
+        }
+    },
+    "answers": {
+        "transcripts": {
+            "1": "<span>INTERVIEWER:&nbsp;&nbsp; Excuse me.</span><br><span>LUISA:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Yes?</span><br><span>INTERVIEWER:&nbsp;&nbsp; I wonder if you could spare a few minutes to do a survey on transport. It won&rsquo;t take long.</span><br><span>LUISA:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; No, that&rsquo;s fine.</span><br><span>INTERVIEWER:&nbsp;&nbsp; Lovely. The survey is on behalf of the local council. They&rsquo;d like to know about what transport you use any suggestions for improvement. Can I start by asking you how you travelled to town today?</span><br><span>LUISA:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sure. I came on the&nbsp;bus. (Example)</span><br><span>INTERVIEWER:&nbsp;&nbsp; Great. Now can I get a few details about yourself?</span><br><span>LUISA:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; OK.</span><br><span>INTERVIEWER:&nbsp;&nbsp; What&rsquo;s your name?</span><br><span>LUISA:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; It&rsquo;s Luisa &hellip;</span><br><span>INTERVIEWER:&nbsp;&nbsp; Yes.</span><br><span>LUISA:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hardie.</span><br><span>INTERVIEWER:&nbsp;&nbsp; Can you spell that, please?</span><br><span>LUISA:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Yes, it&rsquo;s H-A-R-D-I-E.</span><br><span>INTERVIEWER:&nbsp;&nbsp; Great. Thanks. And can I have your address?</span><br><span>LUISA:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; It&rsquo;s&nbsp;19, White Stone Road.</span><br><span>INTERVIEWER:&nbsp;&nbsp; Oh, right. I know that area. It&rsquo;s Bradfield, isn&rsquo;t it?</span><br><span>LUISA:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; That&rsquo;s right.</span><br><span>INTERVIEWER:&nbsp;&nbsp; Is the postcode GT7?</span><br><span>LUISA:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; It&rsquo;s actually&nbsp;G-T-8, 2-L-C.</span><br><span>INTERVIEWER:&nbsp;&nbsp; Great. And could I ask what your job is? Are you a student?</span><br><span>LUISA:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I&rsquo;ve actually just finished my training.&nbsp;I&rsquo;m a hairdresser.</span><br><span>INTERVIEWER:&nbsp;&nbsp; Oh, right. And one more question in this section. What is the reason for you coming into town today?</span><br><span>LUISA:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Actually it&rsquo;s not for shopping today, which would be my normal reason, but&nbsp;to see the dentist.</span><br><span>INTERVIEWER:&nbsp;&nbsp; Right. Thanks.</span><br><span>__________________________&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span><br><span>INTERVIEWER:&nbsp;&nbsp; Now in this last section I&rsquo;d like you to give us some ideas about the facilities and arrangements in the city for getting to and from work, er, any suggestions you have for improvements.</span><br><span>LUISA:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Well, something I&rsquo;ve thought about for some time is that when I do walk and I&rsquo;m doing a later shift, I think&nbsp;the lighting should be better.</span><br><span>INTERVIEWER:&nbsp;&nbsp; Yes, good point.</span><br><span>LUISA:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; And of course, I think it&rsquo;s a real shame they&rsquo;ve been cutting down on the number of footpaths. They should have more of those. Then people would walk more.</span><br><span>INTERVIEWER:&nbsp;&nbsp; Yes, right.</span><br><span>LUISA:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; And,&nbsp;I don&rsquo;t think there are enough trains. That&rsquo;s why I don&rsquo;t use them &ndash; you have to wait so long.</span><br><span>INTERVIEWER:&nbsp;&nbsp; Thanks. And finally I&rsquo;d like to ask your opinion on cycling. As you may know, there&rsquo;s a drive in the city to get more people to cycle to work.</span><br><span>LUISA:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Right.</span><br><span>INTERVIEWER:&nbsp;&nbsp; But we realise that there are things which the council, but also employers, might do to help encourage workers to cycle to work.</span><br><span>LUISA:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Yep. Well, I have thought about it and where I work&nbsp;there are no safe places to leave your bikes.&nbsp;</span><br><span>INTERVIEWER:&nbsp;&nbsp; OK.</span><br><span>LUISA:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; And also, I&rsquo;d have to cycle uphill and on a hot day I&rsquo;d arrive at work pretty sweaty so&nbsp;I think I&rsquo;d need a shower somewhere at work.</span><br><span>INTERVIEWER:&nbsp;&nbsp; Right.</span><br><span>LUISA:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; And I suppose the last thing is that&nbsp;I wouldn&rsquo;t be all that confident about cycling on such busy roads. I think I&rsquo;d like to see you offering training for that, you know. I&rsquo;d feel a lot better about starting if that was the case.</span><br><span>INTERVIEWER:&nbsp;&nbsp; Well, that&rsquo;s very helpful. Thank you very much for your time.</span><br><span>LUISA:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; No problem. Bye.</span>",
+            "2": "<span>Good morning. I&rsquo;m very pleased to have this opportunity to say a little about two exciting new developments in the city: the Brackenside Open-Air Swimming Pool and the children&rsquo;s Adventure Playground in Central Park. As many of you may know,&nbsp;the idea for these initiatives came from you, the public, in the extensive consultation exercise which the City Council conducted last year. And they have been realised using money from the SWRDC &ndash; the South West Regional Development Commission.</span><br><span>First of all, Brackenside Pool. As many of the older members of the audience will remember, there used to be a wonderful open-air pool on the sea front 30 years ago but it had to close when it was judged to be unsafe. For the design of this new heated pool, we were very happy to secure the talents of internationally renowned architect Ellen Wendon, who has managed to combine a charming 1930s design, which fits is so well with many of the other buildings in the area, with up-to-the-minute features&nbsp;such as a recycling system &ndash; the only one of its kind in the world &ndash; which enables seawater to be used in the pool.</span><br><span>Now,&nbsp;there has been quite a bit of discussion in the local press about whether there would be enough room for the number of visitors we&rsquo;re hoping to attract, but the design is deceptive and there have been rigorous checks about capacity. Also, just in case you were wondering, we&rsquo;re on schedule for a June 15th opening date and well within budget: a testimony to the excellent work of local contractors Hickman&rsquo;s.</span><br><span>We hope that as many people as possible will be there on June 15th. We have engaged award-winning actress Coral White to declare the pool open and there&rsquo;ll be drinks and snacks available at the pool side. There&rsquo;ll also be a competition for the public to&nbsp;decide on the sculpture we plan to have at the entrance: you will decide which famous historical figure from the city we should have.</span><br><span>___________________________</span><br><span>And now, moving on the Central Park Playground, which we&rsquo;re pleased to announce has just won the Douglas Award for safety: the news came through only last week. The unique design is based on the concept of the Global Village, with the playground being divided into sex areas showing different parts of the world &ndash; each with a representative feature. For example, there is a section on&nbsp;Asia, and this is represented by rides and equipment in the shape of snakes, orang-utans, tigers and so on &ndash; fauna native to the forests of the region. Moving south to the Antarctic &ndash; we couldn&rsquo;t run to an ice rink I&rsquo;m afraid but opted instead for&nbsp;climbing blocks in the shape of mountains&nbsp;&ndash; I thought they could have had slides for the glaciers but the designers did want to avoid being too literal! Then on to South America &ndash; and here&nbsp;the theme is El Dorado &ndash; games replicating the search for mines full of precious stones. And then moving up to North America, here there was considerable debate &ndash; I know the contribution of cinema and jazz was considered but&nbsp;the designers finally opted for rockets and the international Space Station. Eastwards to Europe then, and perhaps the most traditional choice of all the areas:&nbsp;medieval castles and other fortifications. Then last, but not least, moving south to&nbsp;Africa and a whole set of wonderful mosaics and trails to represent the great rivers of this fascinating and varied continent.</span><br><span>Now, the opening date for our Global Playground is 10th July. And again we&rsquo;d love to see you there &ndash; so make a date and come and see this magnificent, original new amenity right in the heart of the city.&nbsp;</span>",
+            "3": "<span>VICTOR:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Right, well, for our presentation shall I start with the early life of Thor Heyerdahl?</span><br><span>OLIVIA:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sure. Why don&rsquo;t you begin with describing the type of boy he was, especially&nbsp;his passion for collecting things.</span><br><span>VICTOR:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; That&rsquo;s right, he had his own the little museum. And I think it&rsquo;s unusual for children to develop their own values and not join in their parents&rsquo; hobbies; I&rsquo;m thinking of how Heyerdahl wouldn&rsquo;t go hunting with his dad, for example.</span><br><span>OLIVIA:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Yeah, he preferred to learn about nature by listening to his mother read to him. And quite early on he knew he wanted to become an explorer when he grew up. That came from his camping trips he went on in Norway I think &hellip;</span><br><span>VICTOR:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; No,&nbsp;it was climbing that he spent his time on as a young man.</span><br><span>OLIVIA:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Oh, right &hellip; After university he married a classmate and together,&nbsp;they decided to experience living on a small island, to find out how harsh weather conditions shaped people&rsquo;s lifestyles.</span><br><span>VICTOR:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; As part of their preparation before they left home, they learnt basic survival skills like building a shelter. I guess they needed that knowledge in order to live wild in a remote location with few inhabitants, cut of by the sea, which is what they were aiming to do.</span><br><span>OLIVIA:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; An important part of your talk should be the radical theory Heyerdahl formed from examining mysterious ancient carvings that he happened to find on the island. I think you should finish with that.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><br><span>VICTOR:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; OK.</span><br><span>_________________________</span><br><span>OLIVIA:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; All right, Victor, so after your part I&rsquo;ll talk about Thor Heyerdahl&rsquo;s adult life, continuing from the theory he had about Polynesian migration: Up until that time of course, academics had believed that humans first migrated to the islands in Polynesia from Asia, in the west.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><br><span>VICTOR:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Yes,&nbsp;they thought that travel from the east was impossible, because of the huge, empty stretch of ocean that lies between the islands and the nearest inhabited land.</span><br><span>OLIVIA:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Yes, but Heyerdahl spent ages studying the cloud movements, ocean currents and wind patterns to find if it was actually possible. And another argument was that there was no tradition of large ship-building in the communities lying to the east of Polynesia. But Heyerdahl knew they made lots of coastal voyages in locally built canoes. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><br><span>VICTOR:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Yes, or sailing on rafts, as was shown by the long voyage that Heyerdahl did next. It was an incredibly risky journey to undertake &ndash; sometimes I wonder if he did that trip for private reasons, you know? To show others that he could have spectacular adventures. What do you think, Olivia?</span><br><span>OLIVIA:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Well, I think it was more a matter of simply trying out his idea, to see if migration from the east was possible.</span><br><span>VICTOR:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yes, that&rsquo;s probably it.&nbsp;And the poor guy suffered a bit at that time because the war forced him to stop his work for some years &hellip;</span><br><span>OLIVIA:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Yes. When he got started again and planned his epic voyage, do you think it was important to him that he achieve it before anyone else did?&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><br><span>VICTOR:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Um, I haven&rsquo;t read anywhere that that was his motivation. The most important factor seems to have been that he use only ancient techniques and local materials to build his raft.</span><br><span>OLIVIA:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Yes. I wonder how fast it went.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><br><span>VICTOR:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Well, it took them 97 days from South America to the Pacific Island.</span><br><span>OLIVIA:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mm. And after that, Heyerdahl went to Easter Island, didn&rsquo;t he? We should mention the purpose of that trip. I think he sailed there in a boat made out of reeds.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><br><span>VICTOR:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; No, that was later on in Egypt, Olivia.</span><br><span>OLIVIA:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Oh, yes, that&rsquo;s right.</span><br><span>VICTOR:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; But what he wanted to do was talk to the local people about their old stone carvings and then make one himself to learn more about the process.</span><br><span>OLIVIA:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I see. Well, what a great life. Even though many of his theories have been disproven, he certainly left a lasting impression on many disciplines, didn&rsquo;t he? To my mind, he was first person to establish what modern academics call practical archaeology. I mean, that they try to recreate something from the past today, like he did with his raft trip. It&rsquo;s unfortunate that his ideas about where Polynesians originated from have been completely discredited.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><br><span>VICTOR:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Yes. Right, well, I&rsquo;ll prepare a PowerPoint slide at the end that acknowledges our sources. I mainly used&nbsp;<em>The Life and Work of Thor Heyerdahl&nbsp;</em>by William Oliver. I thought the research methods he used were very sound, although I must say I found the overall tone somewhat old-fashioned. I think they need to do a new, revised edition.</span><br><span>OLIVIA:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Yeah, I agree. What about the subject matter &ndash; I found it really challenging! &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><br><span>VICTOR:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Well, it&rsquo;s a complex issue &hellip;</span><br><span>OLIVIA:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I thought the book had lots of good points. What did you think of &hellip;&nbsp;</span>",
+            "4": "<span>Well, I&rsquo;ve been talking to managers in a number of businesses, and reading surveys about the future of management. And what I&rsquo;m going to present in this seminar is a few ideas about how the activity is likely to change in the next ten years. It isn&rsquo;t a scientific, statistical analysis &ndash; just some ideas for us to discuss.</span><br><span>One area I want to mention is business markets, and I&rsquo;m sure a really significant development will be&nbsp;a major increase in competition, with companies from all round the world trying to sell similar products. Consumers will have much more choice &ndash; for instance, food products sold in Australia might be manufactured in the USA, China, Finland and dozens of other countries. At the same time, mergers and takeovers mean that&nbsp;governments are actually losing power to major global corporations. We can probably all think of companies that exert a great deal of influence, which may be good for consumers. A third point I want to make about markets is that&nbsp;in the rapidly expanding economies, such as India, China, Brazil and Russia, demand is growing very fast. This is putting pressure on resources all over the world.</span><br><span>I think businesses are becoming more open to external influences. In particular,&nbsp;companies are consulting customers more and more before making their business decisions.&nbsp;Companies are finding out what they want and providing it, instead of making products and then trying to sell them, which is the model of years ago.</span><br><span>Another influence is that&nbsp;concerns about the environment will force manufacturers to extend product lifecycles, to reduce the amount of pollution and waste. And in some cases, regulation will need to be strengthened.</span><br><span>Many societies are much more fluid and democratic, and the structure of companies is changing to reflect that.&nbsp;I think we&rsquo;re going to see a greater emphasis within companies on teams created with a specific project in mind. And when they&rsquo;re completed, the teams will be disbanded and new ones formed.</span><br><span>More and more people see work as simply one part of their lifestyle, and not the most important one, and as the workforce is shrinking in some countries, businesses are having to compete for staff instead of being about to choose among a lot of applicants.&nbsp;Typical examples that will attract and retain staff are traditional ones like flexible hours&nbsp;and &ndash; something that has been made possible by advances in technology &ndash; remote working, with people based at their home, abroad, or almost anywhere they choose.</span><br><span>__________________________</span><br><span>Management styles will almost certainly continue to change. Senior managers will require a lot more than the efficiency that they&rsquo;ve always needed.&nbsp;Above all they&rsquo;ll need great skills in leadership, so that their organisation can initiate and respond to change in a fast-moving world, where they face lots of competing requirements and potential conflicts.</span><br><span>In most of the world, the senior managers of large businesses are mainly men in their fifties and sixties.&nbsp;The predominant style of management will almost certainly become more consultative and collaborative, caused above all, by more women moving into senior management positions.</span><br><span>Many of the changes are influenced by developments in the wider economy. The traditional emphasis of business was manufacturing, and of course the service sector is very important. But we shouldn&rsquo;t overlook the growing financial contribution of IP, that is, intellectual property. Some books and films generate enormous sums from the sale of related DVDs, music, games, clothes, and so on.</span><br><span>Another point I&rsquo;d like to make is that although I&rsquo;ve been talking about companies, one trend that they have to face is the move away from people working for the same employer for years.&nbsp;Instead, more and more people are becoming self-employed, to gain the freedom and control over their lives that they&rsquo;re unlikely to get from being employed.</span><br><span>OK, well that&rsquo;s all I want to say, so let&rsquo;s open it up for discussion.</span>"
+        },
+        "answer_sheet": {
+            "1": {
+                "answer": [
+                    "Hardie"
+                ],
+                "explanation": "Hardie"
+            },
+            "2": {
+                "answer": [
+                    "19"
+                ],
+                "explanation": "It’s 19, White Stone Road"
+            },
+            "3": {
+                "answer": [
+                    "GT8 2LC"
+                ],
+                "explanation": "It’s actually G-T-8, 2-L-C"
+            },
+            "4": {
+                "answer": [
+                    "hairdresser"
+                ],
+                "explanation": "I’m a hairdresser"
+            },
+            "5": {
+                "answer": [
+                    "dentist",
+                    "dentist’s"
+                ],
+                "explanation": "Actually it’s not for shopping today, which would be my normal reason, but to see the dentist"
+            },
+            "6": {
+                "answer": [
+                    "lighting"
+                ],
+                "explanation": "something I’ve thought about for some time is that when I do walk and I’m doing a later shift, I think the lighting should be better"
+            },
+            "7": {
+                "answer": [
+                    "trains"
+                ],
+                "explanation": "I don’t think there are enough trains. That’s why I don’t use them – you have to wait so long"
+            },
+            "8": {
+                "answer": [
+                    "safe"
+                ],
+                "explanation": "I have thought about it and where I work there are no safe places to leave your bike"
+            },
+            "9": {
+                "answer": [
+                    "shower"
+                ],
+                "explanation": "I’d have to cycle uphill and on a hot day I’d arrive at work pretty sweaty so I think I’d need a shower somewhere at work"
+            },
+            "10": {
+                "answer": [
+                    "training"
+                ],
+                "explanation": "And I suppose the last thing is that I wouldn’t be all that confident about cycling on such busy roads. I think I’d like to see you offering training for that, you know"
+            },
+            "11": {
+                "answer": [
+                    "local people"
+                ],
+                "explanation": "As many of you may know, the idea for these initiatives came from you, the public, in the extensive consultation exercise which the City Council conducted last year"
+            },
+            "12": {
+                "answer": [
+                    "its method of water treatment"
+                ],
+                "explanation": "which fits is so well with many of the other buildings in the area, with up-to-the-minute features such as a recycling system – the only one of its kind in the world – which enables seawater to be used in the pool"
+            },
+            "13": {
+                "answer": [
+                    "the size of the facilities"
+                ],
+                "explanation": "there has been quite a bit of discussion in the local press about whether there would be enough room for the number of visitors we’re hoping to attract"
+            },
+            "14": {
+                "answer": [
+                    "whose statue will be at the door"
+                ],
+                "explanation": "There’ll also be a competition for the public to decide on the sculpture we plan to have at the entrance: you will decide which famous historical figure from the city we should have"
+            },
+            "15": {
+                "answer": [
+                    "local animals"
+                ],
+                "explanation": "For example, there is a section on Asia, and this is represented by rides and equipment in the shape of snakes, orang-utans, tigers and so on – fauna native to the forests of the region"
+            },
+            "16": {
+                "answer": [
+                    "mountains"
+                ],
+                "explanation": "Moving south to the Antarctic – we couldn’t run to an ice rink I’m afraid but opted instead for climbing blocks in the shape of mountains"
+            },
+            "17": {
+                "answer": [
+                    "jewels"
+                ],
+                "explanation": "Then on to South America – and here the theme is El Dorado – games replicating the search for mines full of precious stones"
+            },
+            "18": {
+                "answer": [
+                    "space travel"
+                ],
+                "explanation": "the designers finally opted for rockets and the international Space Station"
+            },
+            "19": {
+                "answer": [
+                    "ancient forts"
+                ],
+                "explanation": "Eastwards to Europe then, and perhaps the most traditional choice of all the areas: medieval castles and other fortifications"
+            },
+            "20": {
+                "answer": [
+                    "waterways"
+                ],
+                "explanation": "Then last, but not least, moving south to Africa and a whole set of wonderful mosaics and trails to represent the great rivers of this fascinating and varied continent"
+            },
+            "21": {
+                "answer": [
+                    "climbing"
+                ],
+                "explanation": "it was climbing that he spent his time on as a young man."
+            },
+            "22": {
+                "answer": [
+                    "collecting"
+                ],
+                "explanation": "Why don’t you begin with describing the type of boy he was, especially his passion for collecting things"
+            },
+            "23": {
+                "answer": [
+                    "to experience an isolated place"
+                ],
+                "explanation": "they decided to experience living on a small island"
+            },
+            "24": {
+                "answer": [
+                    "to study the impact of an extreme environment"
+                ],
+                "explanation": "to find out how harsh weather conditions shaped people’s lifestyles"
+            },
+            "25": {
+                "answer": [
+                    "the fact that Eastern countries were far away"
+                ],
+                "explanation": "they thought that travel from the east was impossible, because of the huge, empty stretch of ocean that lies between the islands and the nearest inhabited land"
+            },
+            "26": {
+                "answer": [
+                    "to test a new theory"
+                ],
+                "explanation": "I think it was more a matter of simply trying out his idea, to see if migration from the east was possible"
+            },
+            "27": {
+                "answer": [
+                    "the use of authentic construction methods"
+                ],
+                "explanation": "The most important factor seems to have been that he use only ancient techniques and local materials to build his raft"
+            },
+            "28": {
+                "answer": [
+                    "to build a stone statue"
+                ],
+                "explanation": "But what he wanted to do was talk to the local people about their old stone carvings and then make one himself to learn more about the process"
+            },
+            "29": {
+                "answer": [
+                    "the development of archaeological methodology"
+                ],
+                "explanation": "To my mind, he was first person to establish what modern academics call practical archaeology. I mean, that they try to recreate something from the past today"
+            },
+            "30": {
+                "answer": [
+                    "Its style is out of date"
+                ],
+                "explanation": "I thought the research methods he used were very sound, although I must say I found the overall tone somewhat old-fashioned. I think they need to do a new, revised edition"
+            },
+            "31": {
+                "answer": [
+                    "competition"
+                ],
+                "explanation": "I’m sure a really significant development will be a major increase in competition, with companies from all round the world trying to sell similar products"
+            },
+            "32": {
+                "answer": [
+                    "global"
+                ],
+                "explanation": "At the same time, mergers and takeovers mean that governments are actually losing power to major global corporations"
+            },
+            "33": {
+                "answer": [
+                    "demand"
+                ],
+                "explanation": "A third point I want to make about markets is that in the rapidly expanding economies, such as India, China, Brazil and Russia, demand is growing very fast"
+            },
+            "34": {
+                "answer": [
+                    "customers"
+                ],
+                "explanation": "I think businesses are becoming more open to external influences. In particular, companies are consulting customers more and more before making their business decisions"
+            },
+            "35": {
+                "answer": [
+                    "regulation"
+                ],
+                "explanation": "Another influence is that concerns about the environment will force manufacturers to extend product lifecycles, to reduce the amount of pollution and waste. And in some cases, regulation will need to be strengthened"
+            },
+            "36": {
+                "answer": [
+                    "project"
+                ],
+                "explanation": "I think we’re going to see a greater emphasis within companies on teams created with a specific project in mind"
+            },
+            "37": {
+                "answer": [
+                    "flexible"
+                ],
+                "explanation": "Typical examples that will attract and retain staff are traditional ones like flexible hours"
+            },
+            "38": {
+                "answer": [
+                    "leadership"
+                ],
+                "explanation": "Above all they’ll need great skills in leadership"
+            },
+            "39": {
+                "answer": [
+                    "women"
+                ],
+                "explanation": "The predominant style of management will almost certainly become more consultative and collaborative, caused above all, by more women moving into senior management positions"
+            },
+            "40": {
+                "answer": [
+                    "self-employed"
+                ],
+                "explanation": "Instead, more and more people are becoming self-employed, to gain the freedom and control over their lives that they’re unlikely to get from being employed."
+            }
+        }
+    }
+}

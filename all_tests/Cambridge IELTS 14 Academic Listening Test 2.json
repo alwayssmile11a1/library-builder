@@ -1,1 +1,572 @@
-{"name":"Cambridge IELTS 14 Academic Listening Test 2","id":"C_14_A_2_L","ielts_test_id":"C_14_A_2","type":"listening","image":"C_14_A_2_L","passages":[{"title":"TOTAL HEALTH CLINIC","audio":"C_14_A_2_L_1","image":"","start":1,"end":10},{"title":"","audio":"C_14_A_2_L_2","image":"","start":11,"end":20},{"title":"","audio":"C_14_A_2_L_3","image":"","start":21,"end":30},{"title":"The history of weather forecasting","audio":"C_14_A_2_L_4","image":"","start":31,"end":40}],"question_sections":[{"custom_instruction":"ONE WORD AND/OR A NUMBER","type":"sentence_completion","start":1,"end":10},{"type":"one_choice","start":11,"end":15},{"custom_instruction":"A-H","image":"C_14_A_2_L_16_20","type":"label_completion","start":16,"end":20},{"type":"one_choice","start":21,"end":24},{"custom_instruction":"What action will the students take for each of the following sections of their presentation?","type":"drop_information","start":25,"end":30},{"custom_instruction":"ONE WORD ONLY","type":"sentence_completion","start":31,"end":40}],"questions":{"1":{"question":["<h3><strong>PATIENT DETAILS</strong></h3><br><span><strong>Personal information</strong></span><br><span><em>Example</em></span><br><span>Name&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Julie Anne &hellip;&hellip;<em>Garcia</em>&hellip;..</span><br><span>&nbsp; &nbsp;Contact phone&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span>"]},"2":{"question":["<span></span><br><span>&nbsp; &nbsp;Date of birth &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </span>"]},"3":{"question":["<span>, 1992</span><br><span>&nbsp; &nbsp;Occupation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; works as a </span>"]},"4":{"question":["<span></span><br><span>&nbsp; &nbsp; Insurance company &nbsp; </span>"]},"5":{"question":["<span>&nbsp;Life Insurance</span><br><span><strong>Details of the problem</strong></span><br><span>&nbsp; &nbsp; Type of problem&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; pain in her left </span>"]},"6":{"question":["<span></span><br><span>&nbsp; &nbsp; When it began &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span>"]},"7":{"question":["<span> ago</span><br><span>&nbsp; &nbsp; Action already taken &nbsp; has taken painkillers and applied ice</span><br><span><strong>Other information</strong></span><br><span>&nbsp; &nbsp; Sports played&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; belongs to a </span>"]},"8":{"question":["<span>&nbsp;club</span><br><span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;goes </span>"]},"9":{"question":["<span>&nbsp;Regularly</span><br><span>&nbsp; &nbsp; Medical history&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; injured her </span>"]},"10":{"question":["<span>&nbsp;last year</span><br><span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;no allergies</span><br><span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;no regular medication apart from </span>","<span></span>"]},"11":{"question":"<span>Before Queen Elizabeth I visited the castle in 1576</span>","options":["repairs were carried out to the quest rooms","a new building was constructed for her","a fire damaged part of the main hall"]},"12":{"question":"<span>In 1982, the castle was sold to</span>","options":["the government","the Fenys family","an entertainment company"]},"13":{"question":"<span>In some of the rooms, visitors can</span>","options":["speak to experts on the history of the castle","interact with actors dressed as famous characters","see models of historical figures moving and talking"]},"14":{"question":"<span>In the castle park, visitors can</span>","options":["see an 800-year-old tree","go to an art exhibition","visit a small zoo"]},"15":{"question":"<span>At the end of the visit, the group will have</span>","options":["afternoon tea in the conservatory","the chance to meet the castle’s owners","a photograph together on the Great Staircase"]},"16":{"question":["<span>&nbsp; &nbsp;&bull; Starting point for walking the walls </span>","<span></span>"]},"17":{"question":["<span>&nbsp; &nbsp;&bull; Bow and arrow display </span>","<span></span>"]},"18":{"question":["<span>&nbsp; &nbsp;&bull; Hunting birds display </span>","<span></span>"]},"19":{"question":["<span>&nbsp; &nbsp;&bull; Traditional dancing </span>","<span></span>"]},"20":{"question":["<span>&nbsp; &nbsp;&bull; Shop </span>","<span></span>"]},"21":{"question":"<span>How will Rosie and Martin introduce their presentation?</span>","options":["with a drawing of woolly mammoths in their natural habit","with a timeline showing when woolly mammoths lived","with a video clip about woolly mammoths"]},"22":{"question":"<span>What was surprising about the mammoth tooth found by Russell Graham?</span>","options":["It was still embedded in the mammoth’s jawbone","It was from an unknown species of mammoth","It was not as old as mammoth remains from elsewhere"]},"23":{"question":"<span>The students will use an animated diagram to demonstrate how the mammoths</span>","options":["became isolated on the island","spread from the island to other areas","coexisted with other animals on the island"]},"24":{"question":"<span>According to Martin, what is unusual about the date of the mammoths&rsquo; extinction on the island?</span>","options":["how exact it is","how early it is","how it was established"]},"25":{"question":["<span><strong>Sections of presentation</strong></span><br><span>&nbsp; &nbsp;&bull; Introduction </span>"]},"26":{"question":["<span></span><br><span>&nbsp; &nbsp;&bull; Discovery of the mammoth tooth </span>"]},"27":{"question":["<span></span><br><span>&nbsp; &nbsp;&bull; Initial questions asked by the researchers </span>"]},"28":{"question":["<span></span><br><span>&nbsp; &nbsp;&bull; Further research carried out on the island </span>"]},"29":{"question":["<span></span><br><span>&nbsp; &nbsp;&bull; Findings and possible explanations </span>"]},"30":{"question":["<span></span><br><span>&nbsp; &nbsp;&bull; Relevance to the present day </span>","<span></span>"],"options":["make it more interactive","reduce visual input","add personal opinions","contact one of the researchers","make detailed notes","find information online","check timing","organise the content more clearly"]},"31":{"question":["<span><strong>Ancient cultures</strong></span><br><ul><br><li>many cultures believed that floods and other disasters were involved in the creation of the world</li><br><li>many cultures invented </span>"]},"32":{"question":["<span>&nbsp;and other ceremonies to make the weather gods friendly</li><br><li>people needed to observe and interpret the sky to ensure their </span>"]},"33":{"question":["<span></li><br><li>around 650 BC, Babylonians started forecasting, using weather phenomena such as </span>"]},"34":{"question":["<span></li><br><li>by 300 BC, the Chinese had a calendar made up of a number of </span>"]},"35":{"question":["<span>&nbsp;connected with the weather</li><br></ul><br><span><strong>Ancient Greeks</strong></span><br><ul><br><li>a more scientific approach</li><br><li>Aristotle tried to explain the formation of various weather phenomena</li><br><li>Aristotle also described haloes and </span>"]},"36":{"question":["<span></li><br></ul><br><span><strong>Middle Ages</strong></span><br><ul><br><li>Aristotle&rsquo;s work considered accurate</li><br><li>many proverbs, e.g. about the significance of the colour of the </span>"]},"37":{"question":["<span>, passed on accurate information.</li><br></ul><br><span><strong>15th-19th centuries</strong></span><br><ul><br><li>15th century: scientists recognised value of </span>"]},"38":{"question":["<span>&nbsp;for the first time</li><br><li>Galileo invented the </span>"]},"39":{"question":["<span></li><br><li>Pascal showed relationship between atmospheric pressure and altitude</li><br><li>from the 17th century, scientists could measure atmospheric pressure and temperature</li><br><li>18th century: Franklin identified the movement of </span>"]},"40":{"question":["<span></li><br><li>19th century: data from different locations could be sent to the same place by </span>","<span></li><br></ul>"]}},"answers":{"transcripts":{"1":"<span>CARL:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hi, come and take a seat.</span><br><span>JULIE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Thank you.</span><br><span>CARL:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; My name&rsquo;s Carl Rogers and I&rsquo;m one of the doctors here at the Total Health Clinic. So I understand this is your first visit to the clinic?</span><br><span>JULIE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Yes, it is.</span><br><span>CARL:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; OK, well I hope you&rsquo;ll be very happy with the service you receive here. So if it&rsquo;s alright with you I&rsquo;ll take a few details to help me give you the best possible service.</span><br><span>JULIE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sure.</span><br><span>CARL:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; So can I check first of all that we have the correct personal details for you? So your full name is Julie Anne (<em>Example</em>)&nbsp;Garcia?</span><br><span>JULIE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; That&rsquo;s correct.</span><br><span>CARL:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Perfect. And can I have a contact phone number?</span><br><span>JULIE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; It&rsquo;s 219 442 9785.</span><br><span>CARL:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; OK, and then can I just check that we have the correct date of birth?</span><br><span>JULIE:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;October tenth, 1992.</span><br><span>CARL:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Oh, I actually have 1991, I&rsquo;ll just correct that now. Right, so that&rsquo;s all good. Now I just need just a few more personal details &hellip; do you have an occupation, either full-time or part-time?</span><br><span>JULIE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Yes, I work full-time in Esterhazy&rsquo;s &ndash; you know, the restaurant chain. I started off as a waitress there a few years ago and I&rsquo;m a manager&nbsp;now.</span><br><span>CARL:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Oh I know them, yeah, they&rsquo;re down on 114th Street, aren&rsquo;t they?</span><br><span>JULIE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; That&rsquo;s right.</span><br><span>CARL:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Yeah, I&rsquo;ve been there a few times. I just love their salads.</span><br><span>JULIE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; That&rsquo;s good to hear.</span><br><span>CARL:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Right, so one more thing I need to know before we talk about why you&rsquo;re here, Julie, and that&rsquo;s the name of your insurance company.</span><br><span>JULIE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; It&rsquo;s Cawley&nbsp;Life Insurance, that&rsquo;s C-A-W-L-E-Y.</span><br><span>CARL:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Excellent, thank you so much.</span><br><span>__________________________</span><br><span>JULIE: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Now Julie, let&rsquo;s look at how we can help you. So tell me a little about what brought you here today.</span><br><span>CARL:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Well, I&rsquo;ve been getting a pain in my knee, the left one. Not very serious at first, but it&rsquo;s gotten worse, so I thought I ought to see someone about it.</span><br><span>JULIE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; That&rsquo;s certainly the right decision. So how long have you been aware of this pain? Is it just a few days, or is it longer than that?</span><br><span>CARL:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Longer. It&rsquo;s been worse for the last couple of days, but it&rsquo;s three weeks&nbsp;since I first noticed it. It came on quite gradually though, so I kind of ignored it at first.</span><br><span>JULIE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; And have you taken any medication yourself, or treated it in anyway?</span><br><span>CARL:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Yeah, I&rsquo;ve been taking medication to deal with the pain. Tylenol, and that works OK for a few hours. But I don&rsquo;t like to keep taking it.</span><br><span>JULIE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; OK. And what about heat treatment? Have you tried applying heat at all?</span><br><span>CARL:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; No, but I have been using ice on it for the last few days.</span><br><span>JULIE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; And does that seem to help the pain at all?</span><br><span>CARL:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A little, yes.</span><br><span>JULIE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Good. Now you look as if you&rsquo;re quite fit normally?</span><br><span>CARL:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I am, yes.</span><br><span>JULIE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; So do you do any sport on a regular basis?</span><br><span>CARL:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Yes, I play a lot of tennis. I belong to a club so I go there a lot. I&rsquo;m quite competitive so I enjoy that side of it as well as the exercise. But I haven&rsquo;t gone since this started.</span><br><span>JULIE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sure. And do you do any other types of exercise?</span><br><span>CARL:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Yeah, I sometimes do a little swimming, but usually just when I&rsquo;m on vacation. But normally I go running&nbsp;a few times a week, maybe three or four times.</span><br><span>JULIE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hmm. So your legs are getting quite a pounding. But you haven&rsquo;t had any problems up to now?</span><br><span>CARL:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; No, not with my legs. I did have an accident last year when I slipped and hurt my shoulder, but that&rsquo;s better now.</span><br><span>JULIE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Excellent. And do you have any allergies?</span><br><span>CARL:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; No, none that I&rsquo;m aware of.</span><br><span>JULIE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; And do you take any medication on a regular basis?</span><br><span>CARL:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Well, I take vitamins&nbsp;but that&rsquo;s all. I&rsquo;m generally very healthy.</span><br><span>JULIE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; OK, well let&rsquo;s have a closer look and see what might be causing this problem. If you can just get up &hellip;</span>","2":"<span>We&rsquo;ll be arriving at Branley Castle in about five minutes, but before we get there I&rsquo;ll give you a little information about the castle and what our visit will include.</span><br><span>So in fact there&rsquo;s been a castle on this site for over eleven hundred years. The first building was a fort constructed in 914 AD for defence against Danish invaders by King Alfred the Great&rsquo;s daughter, who ruled England at the time. In the following century, after the Normans conquered England, the land was given to a nobleman called Richard de Vere, and he built a castle there that stayed in the de Vere family for over four hundred years.</span><br><span>However, when Queen Elizabeth I announced that she was going to visit the castle in 1576 it was beginning to look a bit run down, and it was decided that rather than repair the guest rooms,&nbsp;they&rsquo;d make a new house for her&nbsp;out of wood next to the main hall. She stayed there for four nights and apparently it was very luxurious, but unfortunately it was destroyed a few years later by fire.</span><br><span>In the seventeenth century the castle belonged to the wealthy Fenys family, who enlarged it and made it more comfortable. However, by 1982 the Fenys family could no longer afford to maintain the castle, even though they received government support, and they put it on the market. It was eventually taken over by&nbsp;a company who owned a number of amusement parks, but when we get there I think you&rsquo;ll see that they&rsquo;ve managed to retain the original atmosphere of the castle.</span><br><span>When you go inside, you&rsquo;ll find that in the state rooms&nbsp;there are life-like moving wax models dressed in costumes of different periods in the past, which even carry on conversations together. As well as that, in every room there are booklets giving information about what the room was used for and the history of the objects and furniture it contains.</span><br><span>The castle park&rsquo;s quite extensive. At one time sheep were kept there, and in the nineteenth century the owners had a little zoo with animals like rabbits and even a baby elephant. Nowadays the old zoo buildings are used for&nbsp;public displays of painting and sculpture. The park also has some beautiful trees, though the oldest of all, which dated back 800 years, was sadly blown down in 1987.</span><br><span>Now, you&rsquo;re free to wander around on your own until 4.30, but then at the end of our visit we&rsquo;ll all meet together at the bottom of the Great Staircase. We&rsquo;ll then go on to the long gallery, where there&rsquo;s a wonderful collection of photographs showing the family who owned the castle a hundred years ago having tea and cakes in the conservatory &ndash; and we&rsquo;ll then take you to&nbsp;the same place, where afternoon tea will be served&nbsp;to you.</span><br><span>_____________________________</span><br><span>Now if you can take a look at your plans you&rsquo;ll see Branley Castle has four towers, joined together by a high wall, with the river on two sides.</span><br><span>Don&rsquo;t miss seeing the Great Hall. That&rsquo;s near the river in the main tower, the biggest one, which was extended and redesigned in the eighteenth century.</span><br><span>If you want to get a good view of the whole castle, you can walk around the walls.&nbsp;The starting point&rsquo;s quite near the main entrance &ndash; walk straight down the path until you get to the south gate, and it&rsquo;s just there. Don&rsquo;t go on to the north gate &ndash; there&rsquo;s no way up from there.</span><br><span>There&rsquo;ll shortly be a show in which you can see archers displaying their skill with a bow and arrow. The quickest way to get there is to&nbsp;take the first left after the main entrance and follow the path past the bridge, then you&rsquo;ll see it in front of you at the end.</span><br><span>If you like animals there&rsquo;s also a display of hunting birds &ndash; falcons and eagles and so on. If you&nbsp;go from the main entrance in the direction of the south gate, but turn right before you get there instead of going through it, you&rsquo;ll see it on your right past the first tower.</span><br><span>At 3 pm there&rsquo;s a short performance of traditional dancing on the&nbsp;outdoor stage. That&rsquo;s right at the other side of the castle from the entrance, and over the bridge. It&rsquo;s about ten minutes&rsquo; walk or so.</span><br><span>And finally the shop. It&rsquo;s actually&nbsp;inside one of the towers, but the way in is from the outside. Just take the first left after the main entrance, go down the path and take the first right. It&rsquo;s got some lovely gifts and souvenirs.</span><br><span>Right, so we&rsquo;re just arriving &hellip;</span>","3":"<div class=\"et_pb_row et_pb_row_7\"><br><div class=\"et_pb_column et_pb_column_4_4 et_pb_column_7  et_pb_css_mix_blend_mode_passthrough et-last-child\"><br><div class=\"et_pb_module et_pb_text et_pb_text_2  et_pb_text_align_left et_pb_bg_layout_light\"><br><div class=\"et_pb_text_inner\"><br><span>TUTOR:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; So, Rosie and Martin, let&rsquo;s look at what you&rsquo;ve got for your presentation on woolly mammoths.</span><br><span>ROSIE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; OK, we&rsquo;ve got a short outline here.</span><br><span>TUTOR:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Thanks. So it&rsquo;s about a research project in North America?</span><br><span>MARTIN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Yes. But we thought we needed something general about woolly mammoths in our introduction, to establish that they were related to our modern elephant, and they lived thousands of years ago in the last ice age.</span><br><span>ROSIE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Maybe we could show a video clip of a cartoon about mammoths. But that&rsquo;d be a bit childish. Or we could have a diagram, it could be a timeline to show when they lived, with illustrations?</span><br><span>MARTIN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Or we could just show a drawing of them walking in the ice? No, let&rsquo;s go with your last suggestion.</span><br><span>TUTOR:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Good. Then you&rsquo;re describing the discovery of the mammoth tooth on St Paul&rsquo;s Island in Alaska, and why it was significant.</span><br><span>ROSIE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Yes. The tooth was found by a man called Russell Graham. He picked it up from under a rock in a cave. He knew it was special &ndash; for a start it was in really good condition, as if it had been just extracted from the animal&rsquo;s jawbone. Anyway, they found it was 6,500 years old.</span><br><span>TUTOR:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; So why was that significant?</span><br><span>ROSIE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Well the mammoth bones previously found on the North American mainland were much less recent than that. So this was really amazing.</span><br><span>MARTIN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Then we&rsquo;re making an animated diagram to show the geography of the area in prehistoric times. So originally, St Paul&rsquo;s Island wasn&rsquo;t an island, it was connected to the mainland, and mammoths and other animals like bears were able to roam around the whole area.</span><br><span>ROSIE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Then the climate warmed up and the sea level began to rise, and the island got cut off from the mainland. So those mammoths on the island couldn&rsquo;t escape; they had to stay on the island.</span><br><span>MARTIN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; And in fact the species survived there for thousands of years after they&rsquo;d become extinct on the mainland.</span><br><span>TUTOR:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; So why do you think they died out on the mainland?</span><br><span>ROSIE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; No one&rsquo;s sure.</span><br><span>MARTIN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Anyway, next we&rsquo;ll explain how Graham and his team identified the date when the mammoths became extinct on the&nbsp;<em>island</em>. They concluded that&nbsp;the extinction happened 5,600 years ago, which is a very precise time for a prehistoric extinction. It&rsquo;s based on samples they took from mud at the bottom of a lake on the island. They analysed it to find out what had fallen in over time &ndash; bits of plants, volcanic ash and even DNA from the mammoths themselves. It&rsquo;s standard procedure, but it took nearly two years to do.</span><br><span>_____________________</span><br><span>TUTOR:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; So why don&rsquo;t you quickly go through the main sections of your presentation and discuss what action&rsquo;s needed for each part?</span><br><span>MARTIN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; OK. So for the introduction, we&rsquo;re using a visual, so once we&rsquo;ve prepared that we&rsquo;re done.</span><br><span>ROSIE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I&rsquo;m not sure. I think we need to write down all the ideas we want to include here, not just rely on memory. How we begin the presentation is so important &hellip;</span><br><span>MARTIN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; You&rsquo;re right.</span><br><span>ROSIE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The discovery of the mammoth tooth is probably the most dramatic part, but we don&rsquo;t have that much information, only what we got from the online article. I thought maybe we could get in touch with the researcher who led the team and ask him to tell us a bit more.</span><br><span>MARTIN: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Great idea. What about the section with the initial questions asked by the researchers? We&rsquo;ve got a lot on that but we need to make it interesting.</span><br><span>ROSIE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; We could ask the audience to suggest some questions about it and then see how many of them we can answer. I don&rsquo;t think it would take too long.</span><br><span>TUTOR:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Yes that would add a bit of variety.</span><br><span>MARTIN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Then the section on further research carried out on the island &ndash; analysing the mud in the lake. I wonder if we&rsquo;ve actually got too much information here, should we cut some?</span><br><span>ROSIE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I don&rsquo;t think so, but it&rsquo;s all a bit muddled at present.</span><br><span>MARTIN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Yes, maybe it would be better if it followed a chronological pattern.</span><br><span>ROSIE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I think so. The findings and possible explanations section is just about ready, but we need to practice it so we&rsquo;re sure it won&rsquo;t overrun.</span><br><span>MARTIN: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I think it should be OK, but yes, let&rsquo;s make sure.</span><br><span>TUTOR:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In the last section, relevance to the present day, you&rsquo;ve got some good ideas but this is where you need to move away from the ideas of others and give your own viewpoint.</span><br><span>MARTIN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; OK, we&rsquo;ll think about that. Now shall we &hellip;</span><br></div><br></div><br></div><br></div><br><div class=\"et_pb_row et_pb_row_8\"><br><div class=\"et_pb_column et_pb_column_4_4 et_pb_column_8  et_pb_css_mix_blend_mode_passthrough et-last-child\"><br><div class=\"et_pb_module et_pb_code et_pb_code_2\"><br><div class=\"et_pb_code_inner\"><br><div id=\"ielts-931665360\" class=\"ielts-manual-ads\"></div><br></div><br></div><br></div><br></div>","4":"<span>In this series of lectures about the history of weather forecasting, I&rsquo;ll start by examining its early history &ndash; that&rsquo;ll be the subject of today&rsquo;s talk.</span><br><span>Ok, so we&rsquo;ll start by going back thousands of years. Most ancient cultures had weather gods, and weather catastrophes, such as floods, played an important role in many creation myths. Generally, weather was attributed to the whims of the gods, as the wide range of weather gods in various cultures shows. For instance, there&rsquo;s the Egyptian sun god Ra, and Thor, the Norse god of thunder and lightning. Many ancient civilisations developed rites such as&nbsp;dances&nbsp;in order to make the weather gods look kindly on them.</span><br><span>But the weather was of daily importance: observing the skies and drawing the correct conclusions from these observations was really important, in fact their&nbsp;survival depended on it. It isn&rsquo;t known when people first started to observe the skies, but at around 650 BC, the Babylonians produced the first short-range weather forecasts, based on their observations of clouds and other phenomena. The Chinese also recognised weather patterns, and by 300 BC, astronomers had developed a calendar which divided the year into 24 festivals, each associated with a different weather phenomenon.</span><br><span>The ancient Greeks were the first to develop a more scientific approach to explaining the weather. The work of the philosopher and scientist Aristotle, in the fourth century BC, is especially noteworthy, as his ideas held sway for nearly 2,000 years. In 340 BC, he wrote a book in which he attempted to account for the formation of rain, clouds, wind and storms. He also described celestial phenomena such as haloes &ndash; that is, bright circles of light around the sun, the moon and bright stars &ndash; and&nbsp;comets. Many of his observations were surprisingly accurate. For example, he believed that heat could cause water to evaporate. But he also jumped to quite a few wrong conclusions, such as that winds are breathed out by the Earth. Errors like this were rectified from the Renaissance onwards.</span><br><span>_____________________</span><br><span>For nearly 2,000 years, Aristotle&rsquo;s work was accepted as the chief authority on weather theory. Alongside this, though, in the Middle Ages weather observations were passed on in the form of proverbs, such as &lsquo;Red&nbsp;sky&nbsp;at night, shepherd&rsquo;s delight; red sky in the morning, shepherd&rsquo;s warning&rsquo;. Many of these are based on very good observations and are accurate, as contemporary meteorologists have discovered.</span><br><span>For centuries, any attempt to forecast the weather could only be based on personal observation, but in the fifteenth century scientists began to see the need for&nbsp;instruments. Until then, the only ones available were weather vanes &ndash; to determine the wind direction &ndash; and early versions of rain gauges. One of the first, invented in the fifteenth century, was a hygrometer, which measured humidity. This was one of many inventions that contributed to the development of weather forecasting.</span><br><span>In 1592, the Italian scientist and inventor Galileo developed the world&rsquo;s first&nbsp;thermometer. His student Torricelli later invented the barometer, which allowed people to measure atmospheric pressure. In 1648, the French philosopher Pascal proved that pressure decreases with altitude. This discovery was verified by English astronomer Halley in 1686, and Halley was also the first person to map trade winds.</span><br><span>This increasing ability to measure factors related to weather helped scientists to understand the atmosphere and its processes better, and they started collecting weather observation data systematically. In the eighteenth century, the scientist and politician Benjamin Franklin carried out work on electricity and lightning in particular, but he was also very interested in weather and studied it throughout most of his life. It was Franklin who discovered that&nbsp;storms&nbsp;generally travel from west to east.</span><br><span>In addition to new meteorological instruments, other developments contributed to our understanding of the atmosphere. People in different locations began to keep records, and in the mid-nineteenth century, the invention of the&nbsp;telegraph&nbsp;made it possible for these records to be collated. This led, by the end of the nineteenth century, to the first weather services.</span><br><span>It was not until the early twentieth century that mathematics and physics became part of meteorology, and we&rsquo;ll continue from that point next week.</span>"},"answer_sheet":{"1":{"answer":["219 442 9785"],"explanation":"It’s 219 442 9785."},"2":{"answer":["10 October","10th October"],"explanation":"October tenth, 1992"},"3":{"answer":["manager"],"explanation":"I started off as a waitress there a few years ago and I’m a manager now"},"4":{"answer":["Cawley"],"explanation":"It’s Cawley Life Insurance, that’s C-A-W-L-E-Y"},"5":{"answer":["knee"],"explanation":"I’ve been getting a pain in my knee, the left one"},"6":{"answer":["3 weeks"],"explanation":"it’s three weeks since I first noticed it"},"7":{"answer":["tennis"],"explanation":"I play a lot of tennis"},"8":{"answer":["running"],"explanation":"But normally I go running a few times a week, maybe three or four times"},"9":{"answer":["shoulder"],"explanation":"I did have an accident last year when I slipped and hurt my shoulder, but that’s better now"},"10":{"answer":["vitamins"],"explanation":"I take vitamins but that’s all"},"11":{"answer":["a new building was constructed for her"],"explanation":"they’d make a new house for her out of wood next to the main hall"},"12":{"answer":["an entertainment company"],"explanation":"It was eventually taken over by a company who owned a number of amusement parks"},"13":{"answer":["see models of historical figures moving and talking"],"explanation":"When you go inside, you’ll find that in the state rooms there are life-like moving wax models dressed in costumes of different periods in the past"},"14":{"answer":["go to an art exhibition"],"explanation":"Nowadays the old zoo buildings are used for public displays of painting and sculpture"},"15":{"answer":["afternoon tea in the conservatory"],"explanation":"we’ll then take you to the same place, where afternoon tea will be served to you"},"16":{"answer":["H"],"explanation":"The starting point’s quite near the main entrance – walk straight down the path until you get to the south gate, and it’s just there"},"17":{"answer":["D"],"explanation":"The quickest way to get there is to take the first left after the main entrance and follow the path past the bridge, then you’ll see it in front of you at the end"},"18":{"answer":["F"],"explanation":"If you go from the main entrance in the direction of the south gate, but turn right before you get there instead of going through it, you’ll see it on your right past the first tower"},"19":{"answer":["A"],"explanation":"At 3 pm there’s a short performance of traditional dancing on the outdoor stage. That’s right at the other side of the castle from the entrance, and over the bridge"},"20":{"answer":["E"],"explanation":"It’s actually inside one of the towers, but the way in is from the outside. Just take the first left after the main entrance, go down the path and take the first right"},"21":{"answer":["with a timeline showing when woolly mammoths lived"],"explanation":"it could be a timeline to show when they lived, with illustrations?"},"22":{"answer":["It was not as old as mammoth remains from elsewhere"],"explanation":"Well the mammoth bones previously found on the North American mainland were much less recent than that"},"23":{"answer":["became isolated on the island"],"explanation":"So those mammoths on the island couldn’t escape; they had to stay on the island"},"24":{"answer":["how exact it is"],"explanation":"They concluded that the extinction happened 5,600 years ago, which is a very precise time for a prehistoric extinction"},"25":{"answer":["make detailed notes"],"explanation":"I think we need to write down all the ideas we want to include here, not just rely on memory"},"26":{"answer":["contact one of the researchers"],"explanation":"I thought maybe we could get in touch with the researcher who led the team and ask him to tell us a bit more"},"27":{"answer":["make it more interactive"],"explanation":"We could ask the audience to suggest some questions about it and then see how many of them we can answer"},"28":{"answer":["organise the content more clearly"],"explanation":"maybe it would be better if it followed a chronological pattern"},"29":{"answer":["check timing"],"explanation":"we need to practice it so we’re sure it won’t overrun"},"30":{"answer":["add personal opinions"],"explanation":"you’ve got some good ideas but this is where you need to move away from the ideas of others and give your own viewpoint."},"31":{"answer":["dances"],"explanation":"Many ancient civilisations developed rites such as dances in order to make the weather gods look kindly on them"},"32":{"answer":["survival"],"explanation":"But the weather was of daily importance: observing the skies and drawing the correct conclusions from these observations was really important, in fact their survival depended on it"},"33":{"answer":["clouds"],"explanation":"based on their observations of clouds and other phenomena"},"34":{"answer":["festivals"],"explanation":"The Chinese also recognised weather patterns, and by 300 BC, astronomers had developed a calendar which divided the year into 24 festivals, each associated with a different weather phenomenon."},"35":{"answer":["comets"],"explanation":"that is, bright circles of light around the sun, the moon and bright stars – and comets"},"36":{"answer":["sky"],"explanation":"Alongside this, though, in the Middle Ages weather observations were passed on in the form of proverbs, such as ‘Red sky at night, shepherd’s delight; red sky in the morning, shepherd’s warning’"},"37":{"answer":["instruments"],"explanation":"in the fifteenth century scientists began to see the need for instruments"},"38":{"answer":["thermometer"],"explanation":"In 1592, the Italian scientist and inventor Galileo developed the world’s first thermometer"},"39":{"answer":["storms"],"explanation":"It was Franklin who discovered that storms generally travel from west to east"},"40":{"answer":["telegraph"],"explanation":"People in different locations began to keep records, and in the mid-nineteenth century, the invention of the telegraph made it possible for these records to be collated"}}}}
+{
+    "name": "Cambridge IELTS 14 Academic Listening Test 2",
+    "id": "C_14_A_2_L",
+    "ielts_test_id": "C_14_A_2",
+    "type": "listening",
+    "image": "C_14_A_2_L",
+    "passages": [
+        {
+            "title": "TOTAL HEALTH CLINIC",
+            "audio": "C_14_A_2_L_1",
+            "image": "",
+            "start": 1,
+            "end": 10
+        },
+        {
+            "title": "",
+            "audio": "C_14_A_2_L_2",
+            "image": "",
+            "start": 11,
+            "end": 20
+        },
+        {
+            "title": "",
+            "audio": "C_14_A_2_L_3",
+            "image": "",
+            "start": 21,
+            "end": 30
+        },
+        {
+            "title": "The history of weather forecasting",
+            "audio": "C_14_A_2_L_4",
+            "image": "",
+            "start": 31,
+            "end": 40
+        }
+    ],
+    "question_sections": [
+        {
+            "custom_instruction": "ONE WORD AND/OR A NUMBER",
+            "type": "sentence_completion",
+            "start": 1,
+            "end": 10
+        },
+        {
+            "type": "one_choice",
+            "start": 11,
+            "end": 15
+        },
+        {
+            "custom_instruction": "A-H",
+            "image": "C_14_A_2_L_16_20",
+            "type": "label_completion",
+            "start": 16,
+            "end": 20
+        },
+        {
+            "type": "one_choice",
+            "start": 21,
+            "end": 24
+        },
+        {
+            "custom_instruction": "What action will the students take for each of the following sections of their presentation?",
+            "type": "drop_information",
+            "start": 25,
+            "end": 30
+        },
+        {
+            "custom_instruction": "ONE WORD ONLY",
+            "type": "sentence_completion",
+            "start": 31,
+            "end": 40
+        }
+    ],
+    "questions": {
+        "1": {
+            "question": [
+                "<h3><strong>PATIENT DETAILS</strong></h3><br><span><strong>Personal information</strong></span><br><span><em>Example</em></span><br><span>Name&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Julie Anne &hellip;&hellip;<em>Garcia</em>&hellip;..</span><br><span>&nbsp; &nbsp;Contact phone&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span>"
+            ]
+        },
+        "2": {
+            "question": [
+                "<span></span><br><span>&nbsp; &nbsp;Date of birth &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </span>"
+            ]
+        },
+        "3": {
+            "question": [
+                "<span>, 1992</span><br><span>&nbsp; &nbsp;Occupation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; works as a </span>"
+            ]
+        },
+        "4": {
+            "question": [
+                "<span></span><br><span>&nbsp; &nbsp; Insurance company &nbsp; </span>"
+            ]
+        },
+        "5": {
+            "question": [
+                "<span>&nbsp;Life Insurance</span><br><span><strong>Details of the problem</strong></span><br><span>&nbsp; &nbsp; Type of problem&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; pain in her left </span>"
+            ]
+        },
+        "6": {
+            "question": [
+                "<span></span><br><span>&nbsp; &nbsp; When it began &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span>"
+            ]
+        },
+        "7": {
+            "question": [
+                "<span> ago</span><br><span>&nbsp; &nbsp; Action already taken &nbsp; has taken painkillers and applied ice</span><br><span><strong>Other information</strong></span><br><span>&nbsp; &nbsp; Sports played&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; belongs to a </span>"
+            ]
+        },
+        "8": {
+            "question": [
+                "<span>&nbsp;club</span><br><span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;goes </span>"
+            ]
+        },
+        "9": {
+            "question": [
+                "<span>&nbsp;Regularly</span><br><span>&nbsp; &nbsp; Medical history&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; injured her </span>"
+            ]
+        },
+        "10": {
+            "question": [
+                "<span>&nbsp;last year</span><br><span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;no allergies</span><br><span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;no regular medication apart from </span>",
+                "<span></span>"
+            ]
+        },
+        "11": {
+            "question": "<span>Before Queen Elizabeth I visited the castle in 1576</span>",
+            "options": [
+                "repairs were carried out to the quest rooms",
+                "a new building was constructed for her",
+                "a fire damaged part of the main hall"
+            ]
+        },
+        "12": {
+            "question": "<span>In 1982, the castle was sold to</span>",
+            "options": [
+                "the government",
+                "the Fenys family",
+                "an entertainment company"
+            ]
+        },
+        "13": {
+            "question": "<span>In some of the rooms, visitors can</span>",
+            "options": [
+                "speak to experts on the history of the castle",
+                "interact with actors dressed as famous characters",
+                "see models of historical figures moving and talking"
+            ]
+        },
+        "14": {
+            "question": "<span>In the castle park, visitors can</span>",
+            "options": [
+                "see an 800-year-old tree",
+                "go to an art exhibition",
+                "visit a small zoo"
+            ]
+        },
+        "15": {
+            "question": "<span>At the end of the visit, the group will have</span>",
+            "options": [
+                "afternoon tea in the conservatory",
+                "the chance to meet the castle’s owners",
+                "a photograph together on the Great Staircase"
+            ]
+        },
+        "16": {
+            "question": [
+                "<span>&nbsp; &nbsp;&bull; Starting point for walking the walls </span>",
+                "<span></span>"
+            ]
+        },
+        "17": {
+            "question": [
+                "<span>&nbsp; &nbsp;&bull; Bow and arrow display </span>",
+                "<span></span>"
+            ]
+        },
+        "18": {
+            "question": [
+                "<span>&nbsp; &nbsp;&bull; Hunting birds display </span>",
+                "<span></span>"
+            ]
+        },
+        "19": {
+            "question": [
+                "<span>&nbsp; &nbsp;&bull; Traditional dancing </span>",
+                "<span></span>"
+            ]
+        },
+        "20": {
+            "question": [
+                "<span>&nbsp; &nbsp;&bull; Shop </span>",
+                "<span></span>"
+            ]
+        },
+        "21": {
+            "question": "<span>How will Rosie and Martin introduce their presentation?</span>",
+            "options": [
+                "with a drawing of woolly mammoths in their natural habit",
+                "with a timeline showing when woolly mammoths lived",
+                "with a video clip about woolly mammoths"
+            ]
+        },
+        "22": {
+            "question": "<span>What was surprising about the mammoth tooth found by Russell Graham?</span>",
+            "options": [
+                "It was still embedded in the mammoth’s jawbone",
+                "It was from an unknown species of mammoth",
+                "It was not as old as mammoth remains from elsewhere"
+            ]
+        },
+        "23": {
+            "question": "<span>The students will use an animated diagram to demonstrate how the mammoths</span>",
+            "options": [
+                "became isolated on the island",
+                "spread from the island to other areas",
+                "coexisted with other animals on the island"
+            ]
+        },
+        "24": {
+            "question": "<span>According to Martin, what is unusual about the date of the mammoths&rsquo; extinction on the island?</span>",
+            "options": [
+                "how exact it is",
+                "how early it is",
+                "how it was established"
+            ]
+        },
+        "25": {
+            "question": [
+                "<span><strong>Sections of presentation</strong></span><br><span>&nbsp; &nbsp;&bull; Introduction </span>"
+            ]
+        },
+        "26": {
+            "question": [
+                "<span></span><br><span>&nbsp; &nbsp;&bull; Discovery of the mammoth tooth </span>"
+            ]
+        },
+        "27": {
+            "question": [
+                "<span></span><br><span>&nbsp; &nbsp;&bull; Initial questions asked by the researchers </span>"
+            ]
+        },
+        "28": {
+            "question": [
+                "<span></span><br><span>&nbsp; &nbsp;&bull; Further research carried out on the island </span>"
+            ]
+        },
+        "29": {
+            "question": [
+                "<span></span><br><span>&nbsp; &nbsp;&bull; Findings and possible explanations </span>"
+            ]
+        },
+        "30": {
+            "question": [
+                "<span></span><br><span>&nbsp; &nbsp;&bull; Relevance to the present day </span>",
+                "<span></span>"
+            ],
+            "options": [
+                "make it more interactive",
+                "reduce visual input",
+                "add personal opinions",
+                "contact one of the researchers",
+                "make detailed notes",
+                "find information online",
+                "check timing",
+                "organise the content more clearly"
+            ]
+        },
+        "31": {
+            "question": [
+                "<span><strong>Ancient cultures</strong></span><br><ul><br><li>many cultures believed that floods and other disasters were involved in the creation of the world</li><br><li>many cultures invented </span>"
+            ]
+        },
+        "32": {
+            "question": [
+                "<span>&nbsp;and other ceremonies to make the weather gods friendly</li><br><li>people needed to observe and interpret the sky to ensure their </span>"
+            ]
+        },
+        "33": {
+            "question": [
+                "<span></li><br><li>around 650 BC, Babylonians started forecasting, using weather phenomena such as </span>"
+            ]
+        },
+        "34": {
+            "question": [
+                "<span></li><br><li>by 300 BC, the Chinese had a calendar made up of a number of </span>"
+            ]
+        },
+        "35": {
+            "question": [
+                "<span>&nbsp;connected with the weather</li><br></ul><br><span><strong>Ancient Greeks</strong></span><br><ul><br><li>a more scientific approach</li><br><li>Aristotle tried to explain the formation of various weather phenomena</li><br><li>Aristotle also described haloes and </span>"
+            ]
+        },
+        "36": {
+            "question": [
+                "<span></li><br></ul><br><span><strong>Middle Ages</strong></span><br><ul><br><li>Aristotle&rsquo;s work considered accurate</li><br><li>many proverbs, e.g. about the significance of the colour of the </span>"
+            ]
+        },
+        "37": {
+            "question": [
+                "<span>, passed on accurate information.</li><br></ul><br><span><strong>15th-19th centuries</strong></span><br><ul><br><li>15th century: scientists recognised value of </span>"
+            ]
+        },
+        "38": {
+            "question": [
+                "<span>&nbsp;for the first time</li><br><li>Galileo invented the </span>"
+            ]
+        },
+        "39": {
+            "question": [
+                "<span></li><br><li>Pascal showed relationship between atmospheric pressure and altitude</li><br><li>from the 17th century, scientists could measure atmospheric pressure and temperature</li><br><li>18th century: Franklin identified the movement of </span>"
+            ]
+        },
+        "40": {
+            "question": [
+                "<span></li><br><li>19th century: data from different locations could be sent to the same place by </span>",
+                "<span></li><br></ul>"
+            ]
+        }
+    },
+    "answers": {
+        "transcripts": {
+            "1": "<span>CARL:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hi, come and take a seat.</span><br><span>JULIE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Thank you.</span><br><span>CARL:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; My name&rsquo;s Carl Rogers and I&rsquo;m one of the doctors here at the Total Health Clinic. So I understand this is your first visit to the clinic?</span><br><span>JULIE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Yes, it is.</span><br><span>CARL:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; OK, well I hope you&rsquo;ll be very happy with the service you receive here. So if it&rsquo;s alright with you I&rsquo;ll take a few details to help me give you the best possible service.</span><br><span>JULIE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sure.</span><br><span>CARL:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; So can I check first of all that we have the correct personal details for you? So your full name is Julie Anne (<em>Example</em>)&nbsp;Garcia?</span><br><span>JULIE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; That&rsquo;s correct.</span><br><span>CARL:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Perfect. And can I have a contact phone number?</span><br><span>JULIE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; It&rsquo;s 219 442 9785.</span><br><span>CARL:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; OK, and then can I just check that we have the correct date of birth?</span><br><span>JULIE:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;October tenth, 1992.</span><br><span>CARL:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Oh, I actually have 1991, I&rsquo;ll just correct that now. Right, so that&rsquo;s all good. Now I just need just a few more personal details &hellip; do you have an occupation, either full-time or part-time?</span><br><span>JULIE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Yes, I work full-time in Esterhazy&rsquo;s &ndash; you know, the restaurant chain. I started off as a waitress there a few years ago and I&rsquo;m a manager&nbsp;now.</span><br><span>CARL:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Oh I know them, yeah, they&rsquo;re down on 114th Street, aren&rsquo;t they?</span><br><span>JULIE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; That&rsquo;s right.</span><br><span>CARL:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Yeah, I&rsquo;ve been there a few times. I just love their salads.</span><br><span>JULIE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; That&rsquo;s good to hear.</span><br><span>CARL:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Right, so one more thing I need to know before we talk about why you&rsquo;re here, Julie, and that&rsquo;s the name of your insurance company.</span><br><span>JULIE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; It&rsquo;s Cawley&nbsp;Life Insurance, that&rsquo;s C-A-W-L-E-Y.</span><br><span>CARL:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Excellent, thank you so much.</span><br><span>__________________________</span><br><span>JULIE: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Now Julie, let&rsquo;s look at how we can help you. So tell me a little about what brought you here today.</span><br><span>CARL:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Well, I&rsquo;ve been getting a pain in my knee, the left one. Not very serious at first, but it&rsquo;s gotten worse, so I thought I ought to see someone about it.</span><br><span>JULIE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; That&rsquo;s certainly the right decision. So how long have you been aware of this pain? Is it just a few days, or is it longer than that?</span><br><span>CARL:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Longer. It&rsquo;s been worse for the last couple of days, but it&rsquo;s three weeks&nbsp;since I first noticed it. It came on quite gradually though, so I kind of ignored it at first.</span><br><span>JULIE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; And have you taken any medication yourself, or treated it in anyway?</span><br><span>CARL:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Yeah, I&rsquo;ve been taking medication to deal with the pain. Tylenol, and that works OK for a few hours. But I don&rsquo;t like to keep taking it.</span><br><span>JULIE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; OK. And what about heat treatment? Have you tried applying heat at all?</span><br><span>CARL:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; No, but I have been using ice on it for the last few days.</span><br><span>JULIE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; And does that seem to help the pain at all?</span><br><span>CARL:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A little, yes.</span><br><span>JULIE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Good. Now you look as if you&rsquo;re quite fit normally?</span><br><span>CARL:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I am, yes.</span><br><span>JULIE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; So do you do any sport on a regular basis?</span><br><span>CARL:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Yes, I play a lot of tennis. I belong to a club so I go there a lot. I&rsquo;m quite competitive so I enjoy that side of it as well as the exercise. But I haven&rsquo;t gone since this started.</span><br><span>JULIE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sure. And do you do any other types of exercise?</span><br><span>CARL:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Yeah, I sometimes do a little swimming, but usually just when I&rsquo;m on vacation. But normally I go running&nbsp;a few times a week, maybe three or four times.</span><br><span>JULIE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hmm. So your legs are getting quite a pounding. But you haven&rsquo;t had any problems up to now?</span><br><span>CARL:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; No, not with my legs. I did have an accident last year when I slipped and hurt my shoulder, but that&rsquo;s better now.</span><br><span>JULIE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Excellent. And do you have any allergies?</span><br><span>CARL:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; No, none that I&rsquo;m aware of.</span><br><span>JULIE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; And do you take any medication on a regular basis?</span><br><span>CARL:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Well, I take vitamins&nbsp;but that&rsquo;s all. I&rsquo;m generally very healthy.</span><br><span>JULIE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; OK, well let&rsquo;s have a closer look and see what might be causing this problem. If you can just get up &hellip;</span>",
+            "2": "<span>We&rsquo;ll be arriving at Branley Castle in about five minutes, but before we get there I&rsquo;ll give you a little information about the castle and what our visit will include.</span><br><span>So in fact there&rsquo;s been a castle on this site for over eleven hundred years. The first building was a fort constructed in 914 AD for defence against Danish invaders by King Alfred the Great&rsquo;s daughter, who ruled England at the time. In the following century, after the Normans conquered England, the land was given to a nobleman called Richard de Vere, and he built a castle there that stayed in the de Vere family for over four hundred years.</span><br><span>However, when Queen Elizabeth I announced that she was going to visit the castle in 1576 it was beginning to look a bit run down, and it was decided that rather than repair the guest rooms,&nbsp;they&rsquo;d make a new house for her&nbsp;out of wood next to the main hall. She stayed there for four nights and apparently it was very luxurious, but unfortunately it was destroyed a few years later by fire.</span><br><span>In the seventeenth century the castle belonged to the wealthy Fenys family, who enlarged it and made it more comfortable. However, by 1982 the Fenys family could no longer afford to maintain the castle, even though they received government support, and they put it on the market. It was eventually taken over by&nbsp;a company who owned a number of amusement parks, but when we get there I think you&rsquo;ll see that they&rsquo;ve managed to retain the original atmosphere of the castle.</span><br><span>When you go inside, you&rsquo;ll find that in the state rooms&nbsp;there are life-like moving wax models dressed in costumes of different periods in the past, which even carry on conversations together. As well as that, in every room there are booklets giving information about what the room was used for and the history of the objects and furniture it contains.</span><br><span>The castle park&rsquo;s quite extensive. At one time sheep were kept there, and in the nineteenth century the owners had a little zoo with animals like rabbits and even a baby elephant. Nowadays the old zoo buildings are used for&nbsp;public displays of painting and sculpture. The park also has some beautiful trees, though the oldest of all, which dated back 800 years, was sadly blown down in 1987.</span><br><span>Now, you&rsquo;re free to wander around on your own until 4.30, but then at the end of our visit we&rsquo;ll all meet together at the bottom of the Great Staircase. We&rsquo;ll then go on to the long gallery, where there&rsquo;s a wonderful collection of photographs showing the family who owned the castle a hundred years ago having tea and cakes in the conservatory &ndash; and we&rsquo;ll then take you to&nbsp;the same place, where afternoon tea will be served&nbsp;to you.</span><br><span>_____________________________</span><br><span>Now if you can take a look at your plans you&rsquo;ll see Branley Castle has four towers, joined together by a high wall, with the river on two sides.</span><br><span>Don&rsquo;t miss seeing the Great Hall. That&rsquo;s near the river in the main tower, the biggest one, which was extended and redesigned in the eighteenth century.</span><br><span>If you want to get a good view of the whole castle, you can walk around the walls.&nbsp;The starting point&rsquo;s quite near the main entrance &ndash; walk straight down the path until you get to the south gate, and it&rsquo;s just there. Don&rsquo;t go on to the north gate &ndash; there&rsquo;s no way up from there.</span><br><span>There&rsquo;ll shortly be a show in which you can see archers displaying their skill with a bow and arrow. The quickest way to get there is to&nbsp;take the first left after the main entrance and follow the path past the bridge, then you&rsquo;ll see it in front of you at the end.</span><br><span>If you like animals there&rsquo;s also a display of hunting birds &ndash; falcons and eagles and so on. If you&nbsp;go from the main entrance in the direction of the south gate, but turn right before you get there instead of going through it, you&rsquo;ll see it on your right past the first tower.</span><br><span>At 3 pm there&rsquo;s a short performance of traditional dancing on the&nbsp;outdoor stage. That&rsquo;s right at the other side of the castle from the entrance, and over the bridge. It&rsquo;s about ten minutes&rsquo; walk or so.</span><br><span>And finally the shop. It&rsquo;s actually&nbsp;inside one of the towers, but the way in is from the outside. Just take the first left after the main entrance, go down the path and take the first right. It&rsquo;s got some lovely gifts and souvenirs.</span><br><span>Right, so we&rsquo;re just arriving &hellip;</span>",
+            "3": "<div class=\"et_pb_row et_pb_row_7\"><br><div class=\"et_pb_column et_pb_column_4_4 et_pb_column_7  et_pb_css_mix_blend_mode_passthrough et-last-child\"><br><div class=\"et_pb_module et_pb_text et_pb_text_2  et_pb_text_align_left et_pb_bg_layout_light\"><br><div class=\"et_pb_text_inner\"><br><span>TUTOR:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; So, Rosie and Martin, let&rsquo;s look at what you&rsquo;ve got for your presentation on woolly mammoths.</span><br><span>ROSIE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; OK, we&rsquo;ve got a short outline here.</span><br><span>TUTOR:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Thanks. So it&rsquo;s about a research project in North America?</span><br><span>MARTIN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Yes. But we thought we needed something general about woolly mammoths in our introduction, to establish that they were related to our modern elephant, and they lived thousands of years ago in the last ice age.</span><br><span>ROSIE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Maybe we could show a video clip of a cartoon about mammoths. But that&rsquo;d be a bit childish. Or we could have a diagram, it could be a timeline to show when they lived, with illustrations?</span><br><span>MARTIN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Or we could just show a drawing of them walking in the ice? No, let&rsquo;s go with your last suggestion.</span><br><span>TUTOR:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Good. Then you&rsquo;re describing the discovery of the mammoth tooth on St Paul&rsquo;s Island in Alaska, and why it was significant.</span><br><span>ROSIE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Yes. The tooth was found by a man called Russell Graham. He picked it up from under a rock in a cave. He knew it was special &ndash; for a start it was in really good condition, as if it had been just extracted from the animal&rsquo;s jawbone. Anyway, they found it was 6,500 years old.</span><br><span>TUTOR:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; So why was that significant?</span><br><span>ROSIE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Well the mammoth bones previously found on the North American mainland were much less recent than that. So this was really amazing.</span><br><span>MARTIN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Then we&rsquo;re making an animated diagram to show the geography of the area in prehistoric times. So originally, St Paul&rsquo;s Island wasn&rsquo;t an island, it was connected to the mainland, and mammoths and other animals like bears were able to roam around the whole area.</span><br><span>ROSIE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Then the climate warmed up and the sea level began to rise, and the island got cut off from the mainland. So those mammoths on the island couldn&rsquo;t escape; they had to stay on the island.</span><br><span>MARTIN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; And in fact the species survived there for thousands of years after they&rsquo;d become extinct on the mainland.</span><br><span>TUTOR:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; So why do you think they died out on the mainland?</span><br><span>ROSIE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; No one&rsquo;s sure.</span><br><span>MARTIN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Anyway, next we&rsquo;ll explain how Graham and his team identified the date when the mammoths became extinct on the&nbsp;<em>island</em>. They concluded that&nbsp;the extinction happened 5,600 years ago, which is a very precise time for a prehistoric extinction. It&rsquo;s based on samples they took from mud at the bottom of a lake on the island. They analysed it to find out what had fallen in over time &ndash; bits of plants, volcanic ash and even DNA from the mammoths themselves. It&rsquo;s standard procedure, but it took nearly two years to do.</span><br><span>_____________________</span><br><span>TUTOR:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; So why don&rsquo;t you quickly go through the main sections of your presentation and discuss what action&rsquo;s needed for each part?</span><br><span>MARTIN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; OK. So for the introduction, we&rsquo;re using a visual, so once we&rsquo;ve prepared that we&rsquo;re done.</span><br><span>ROSIE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I&rsquo;m not sure. I think we need to write down all the ideas we want to include here, not just rely on memory. How we begin the presentation is so important &hellip;</span><br><span>MARTIN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; You&rsquo;re right.</span><br><span>ROSIE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The discovery of the mammoth tooth is probably the most dramatic part, but we don&rsquo;t have that much information, only what we got from the online article. I thought maybe we could get in touch with the researcher who led the team and ask him to tell us a bit more.</span><br><span>MARTIN: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Great idea. What about the section with the initial questions asked by the researchers? We&rsquo;ve got a lot on that but we need to make it interesting.</span><br><span>ROSIE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; We could ask the audience to suggest some questions about it and then see how many of them we can answer. I don&rsquo;t think it would take too long.</span><br><span>TUTOR:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Yes that would add a bit of variety.</span><br><span>MARTIN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Then the section on further research carried out on the island &ndash; analysing the mud in the lake. I wonder if we&rsquo;ve actually got too much information here, should we cut some?</span><br><span>ROSIE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I don&rsquo;t think so, but it&rsquo;s all a bit muddled at present.</span><br><span>MARTIN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Yes, maybe it would be better if it followed a chronological pattern.</span><br><span>ROSIE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I think so. The findings and possible explanations section is just about ready, but we need to practice it so we&rsquo;re sure it won&rsquo;t overrun.</span><br><span>MARTIN: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I think it should be OK, but yes, let&rsquo;s make sure.</span><br><span>TUTOR:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In the last section, relevance to the present day, you&rsquo;ve got some good ideas but this is where you need to move away from the ideas of others and give your own viewpoint.</span><br><span>MARTIN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; OK, we&rsquo;ll think about that. Now shall we &hellip;</span><br></div><br></div><br></div><br></div><br><div class=\"et_pb_row et_pb_row_8\"><br><div class=\"et_pb_column et_pb_column_4_4 et_pb_column_8  et_pb_css_mix_blend_mode_passthrough et-last-child\"><br><div class=\"et_pb_module et_pb_code et_pb_code_2\"><br><div class=\"et_pb_code_inner\"><br><div id=\"ielts-931665360\" class=\"ielts-manual-ads\"></div><br></div><br></div><br></div><br></div>",
+            "4": "<span>In this series of lectures about the history of weather forecasting, I&rsquo;ll start by examining its early history &ndash; that&rsquo;ll be the subject of today&rsquo;s talk.</span><br><span>Ok, so we&rsquo;ll start by going back thousands of years. Most ancient cultures had weather gods, and weather catastrophes, such as floods, played an important role in many creation myths. Generally, weather was attributed to the whims of the gods, as the wide range of weather gods in various cultures shows. For instance, there&rsquo;s the Egyptian sun god Ra, and Thor, the Norse god of thunder and lightning. Many ancient civilisations developed rites such as&nbsp;dances&nbsp;in order to make the weather gods look kindly on them.</span><br><span>But the weather was of daily importance: observing the skies and drawing the correct conclusions from these observations was really important, in fact their&nbsp;survival depended on it. It isn&rsquo;t known when people first started to observe the skies, but at around 650 BC, the Babylonians produced the first short-range weather forecasts, based on their observations of clouds and other phenomena. The Chinese also recognised weather patterns, and by 300 BC, astronomers had developed a calendar which divided the year into 24 festivals, each associated with a different weather phenomenon.</span><br><span>The ancient Greeks were the first to develop a more scientific approach to explaining the weather. The work of the philosopher and scientist Aristotle, in the fourth century BC, is especially noteworthy, as his ideas held sway for nearly 2,000 years. In 340 BC, he wrote a book in which he attempted to account for the formation of rain, clouds, wind and storms. He also described celestial phenomena such as haloes &ndash; that is, bright circles of light around the sun, the moon and bright stars &ndash; and&nbsp;comets. Many of his observations were surprisingly accurate. For example, he believed that heat could cause water to evaporate. But he also jumped to quite a few wrong conclusions, such as that winds are breathed out by the Earth. Errors like this were rectified from the Renaissance onwards.</span><br><span>_____________________</span><br><span>For nearly 2,000 years, Aristotle&rsquo;s work was accepted as the chief authority on weather theory. Alongside this, though, in the Middle Ages weather observations were passed on in the form of proverbs, such as &lsquo;Red&nbsp;sky&nbsp;at night, shepherd&rsquo;s delight; red sky in the morning, shepherd&rsquo;s warning&rsquo;. Many of these are based on very good observations and are accurate, as contemporary meteorologists have discovered.</span><br><span>For centuries, any attempt to forecast the weather could only be based on personal observation, but in the fifteenth century scientists began to see the need for&nbsp;instruments. Until then, the only ones available were weather vanes &ndash; to determine the wind direction &ndash; and early versions of rain gauges. One of the first, invented in the fifteenth century, was a hygrometer, which measured humidity. This was one of many inventions that contributed to the development of weather forecasting.</span><br><span>In 1592, the Italian scientist and inventor Galileo developed the world&rsquo;s first&nbsp;thermometer. His student Torricelli later invented the barometer, which allowed people to measure atmospheric pressure. In 1648, the French philosopher Pascal proved that pressure decreases with altitude. This discovery was verified by English astronomer Halley in 1686, and Halley was also the first person to map trade winds.</span><br><span>This increasing ability to measure factors related to weather helped scientists to understand the atmosphere and its processes better, and they started collecting weather observation data systematically. In the eighteenth century, the scientist and politician Benjamin Franklin carried out work on electricity and lightning in particular, but he was also very interested in weather and studied it throughout most of his life. It was Franklin who discovered that&nbsp;storms&nbsp;generally travel from west to east.</span><br><span>In addition to new meteorological instruments, other developments contributed to our understanding of the atmosphere. People in different locations began to keep records, and in the mid-nineteenth century, the invention of the&nbsp;telegraph&nbsp;made it possible for these records to be collated. This led, by the end of the nineteenth century, to the first weather services.</span><br><span>It was not until the early twentieth century that mathematics and physics became part of meteorology, and we&rsquo;ll continue from that point next week.</span>"
+        },
+        "answer_sheet": {
+            "1": {
+                "answer": [
+                    "219 442 9785"
+                ],
+                "explanation": "It’s 219 442 9785."
+            },
+            "2": {
+                "answer": [
+                    "10 October",
+                    "10th October"
+                ],
+                "explanation": "October tenth, 1992"
+            },
+            "3": {
+                "answer": [
+                    "manager"
+                ],
+                "explanation": "I started off as a waitress there a few years ago and I’m a manager now"
+            },
+            "4": {
+                "answer": [
+                    "Cawley"
+                ],
+                "explanation": "It’s Cawley Life Insurance, that’s C-A-W-L-E-Y"
+            },
+            "5": {
+                "answer": [
+                    "knee"
+                ],
+                "explanation": "I’ve been getting a pain in my knee, the left one"
+            },
+            "6": {
+                "answer": [
+                    "3 weeks"
+                ],
+                "explanation": "it’s three weeks since I first noticed it"
+            },
+            "7": {
+                "answer": [
+                    "tennis"
+                ],
+                "explanation": "I play a lot of tennis"
+            },
+            "8": {
+                "answer": [
+                    "running"
+                ],
+                "explanation": "But normally I go running a few times a week, maybe three or four times"
+            },
+            "9": {
+                "answer": [
+                    "shoulder"
+                ],
+                "explanation": "I did have an accident last year when I slipped and hurt my shoulder, but that’s better now"
+            },
+            "10": {
+                "answer": [
+                    "vitamins"
+                ],
+                "explanation": "I take vitamins but that’s all"
+            },
+            "11": {
+                "answer": [
+                    "a new building was constructed for her"
+                ],
+                "explanation": "they’d make a new house for her out of wood next to the main hall"
+            },
+            "12": {
+                "answer": [
+                    "an entertainment company"
+                ],
+                "explanation": "It was eventually taken over by a company who owned a number of amusement parks"
+            },
+            "13": {
+                "answer": [
+                    "see models of historical figures moving and talking"
+                ],
+                "explanation": "When you go inside, you’ll find that in the state rooms there are life-like moving wax models dressed in costumes of different periods in the past"
+            },
+            "14": {
+                "answer": [
+                    "go to an art exhibition"
+                ],
+                "explanation": "Nowadays the old zoo buildings are used for public displays of painting and sculpture"
+            },
+            "15": {
+                "answer": [
+                    "afternoon tea in the conservatory"
+                ],
+                "explanation": "we’ll then take you to the same place, where afternoon tea will be served to you"
+            },
+            "16": {
+                "answer": [
+                    "H"
+                ],
+                "explanation": "The starting point’s quite near the main entrance – walk straight down the path until you get to the south gate, and it’s just there"
+            },
+            "17": {
+                "answer": [
+                    "D"
+                ],
+                "explanation": "The quickest way to get there is to take the first left after the main entrance and follow the path past the bridge, then you’ll see it in front of you at the end"
+            },
+            "18": {
+                "answer": [
+                    "F"
+                ],
+                "explanation": "If you go from the main entrance in the direction of the south gate, but turn right before you get there instead of going through it, you’ll see it on your right past the first tower"
+            },
+            "19": {
+                "answer": [
+                    "A"
+                ],
+                "explanation": "At 3 pm there’s a short performance of traditional dancing on the outdoor stage. That’s right at the other side of the castle from the entrance, and over the bridge"
+            },
+            "20": {
+                "answer": [
+                    "E"
+                ],
+                "explanation": "It’s actually inside one of the towers, but the way in is from the outside. Just take the first left after the main entrance, go down the path and take the first right"
+            },
+            "21": {
+                "answer": [
+                    "with a timeline showing when woolly mammoths lived"
+                ],
+                "explanation": "it could be a timeline to show when they lived, with illustrations?"
+            },
+            "22": {
+                "answer": [
+                    "It was not as old as mammoth remains from elsewhere"
+                ],
+                "explanation": "Well the mammoth bones previously found on the North American mainland were much less recent than that"
+            },
+            "23": {
+                "answer": [
+                    "became isolated on the island"
+                ],
+                "explanation": "So those mammoths on the island couldn’t escape; they had to stay on the island"
+            },
+            "24": {
+                "answer": [
+                    "how exact it is"
+                ],
+                "explanation": "They concluded that the extinction happened 5,600 years ago, which is a very precise time for a prehistoric extinction"
+            },
+            "25": {
+                "answer": [
+                    "make detailed notes"
+                ],
+                "explanation": "I think we need to write down all the ideas we want to include here, not just rely on memory"
+            },
+            "26": {
+                "answer": [
+                    "contact one of the researchers"
+                ],
+                "explanation": "I thought maybe we could get in touch with the researcher who led the team and ask him to tell us a bit more"
+            },
+            "27": {
+                "answer": [
+                    "make it more interactive"
+                ],
+                "explanation": "We could ask the audience to suggest some questions about it and then see how many of them we can answer"
+            },
+            "28": {
+                "answer": [
+                    "organise the content more clearly"
+                ],
+                "explanation": "maybe it would be better if it followed a chronological pattern"
+            },
+            "29": {
+                "answer": [
+                    "check timing"
+                ],
+                "explanation": "we need to practice it so we’re sure it won’t overrun"
+            },
+            "30": {
+                "answer": [
+                    "add personal opinions"
+                ],
+                "explanation": "you’ve got some good ideas but this is where you need to move away from the ideas of others and give your own viewpoint."
+            },
+            "31": {
+                "answer": [
+                    "dances"
+                ],
+                "explanation": "Many ancient civilisations developed rites such as dances in order to make the weather gods look kindly on them"
+            },
+            "32": {
+                "answer": [
+                    "survival"
+                ],
+                "explanation": "But the weather was of daily importance: observing the skies and drawing the correct conclusions from these observations was really important, in fact their survival depended on it"
+            },
+            "33": {
+                "answer": [
+                    "clouds"
+                ],
+                "explanation": "based on their observations of clouds and other phenomena"
+            },
+            "34": {
+                "answer": [
+                    "festivals"
+                ],
+                "explanation": "The Chinese also recognised weather patterns, and by 300 BC, astronomers had developed a calendar which divided the year into 24 festivals, each associated with a different weather phenomenon."
+            },
+            "35": {
+                "answer": [
+                    "comets"
+                ],
+                "explanation": "that is, bright circles of light around the sun, the moon and bright stars – and comets"
+            },
+            "36": {
+                "answer": [
+                    "sky"
+                ],
+                "explanation": "Alongside this, though, in the Middle Ages weather observations were passed on in the form of proverbs, such as ‘Red sky at night, shepherd’s delight; red sky in the morning, shepherd’s warning’"
+            },
+            "37": {
+                "answer": [
+                    "instruments"
+                ],
+                "explanation": "in the fifteenth century scientists began to see the need for instruments"
+            },
+            "38": {
+                "answer": [
+                    "thermometer"
+                ],
+                "explanation": "In 1592, the Italian scientist and inventor Galileo developed the world’s first thermometer"
+            },
+            "39": {
+                "answer": [
+                    "storms"
+                ],
+                "explanation": "It was Franklin who discovered that storms generally travel from west to east"
+            },
+            "40": {
+                "answer": [
+                    "telegraph"
+                ],
+                "explanation": "People in different locations began to keep records, and in the mid-nineteenth century, the invention of the telegraph made it possible for these records to be collated"
+            }
+        }
+    }
+}

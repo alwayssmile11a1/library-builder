@@ -1,1 +1,41 @@
-{"name":"Cambridge IELTS 10 Academic Speaking Test 3","id":"C_10_A_3_S","ielts_test_id":"C_10_A_3","type":"speaking","image":"C_10_A_3_S","passages":[{"title":"Travel","questions":["<span>Do you enjoy travelling? [Why/Why not?]</span>","<span>Have you done much travelling? [Why/Why not?]</span>","<span>Do you hink it's better to travel alone or with other people? [Why?]</span>","<span>Where would you like to travel in the future? [Why?]</span>"],"start":1,"end":1},{"title":"Describe a child","questions":["<span>Describe a child that you know.</span><br><span>You should say:</span><br><span>&nbsp; &nbsp;who this child is and how often you see him or her</span><br><span>&nbsp; &nbsp;how old this child is</span><br><span>&nbsp; &nbsp;what he or she is like</span><br><span>and explain what you feel about this child.</span>"],"start":2,"end":2},{"title":"Relationships between parents and children & Children's free-time activities","questions":["<span>How much time do childen spend with their parents in your country? Do you think that is enough?</span>","<span>How important do you think spending time together is for the relationships between parents and children? Why?</span>","<span>Have relationships between parents and children changed in recent years? Why do you think that is?</span>","<span>What are the most popular free-time activities with children today?</span>","<span>Do you think the free-time activities children do today are good for their height? Why is that?</span>","<span>How do you think children's activities will change in the future? Will this be a positive change?</span>"],"start":3,"end":3}]}
+{
+    "name": "Cambridge IELTS 10 Academic Speaking Test 3",
+    "id": "C_10_A_3_S",
+    "ielts_test_id": "C_10_A_3",
+    "type": "speaking",
+    "image": "C_10_A_3_S",
+    "passages": [
+        {
+            "title": "Travel",
+            "questions": [
+                "<span>Do you enjoy travelling? [Why/Why not?]</span>",
+                "<span>Have you done much travelling? [Why/Why not?]</span>",
+                "<span>Do you hink it's better to travel alone or with other people? [Why?]</span>",
+                "<span>Where would you like to travel in the future? [Why?]</span>"
+            ],
+            "start": 1,
+            "end": 1
+        },
+        {
+            "title": "Describe a child",
+            "questions": [
+                "<span>Describe a child that you know.</span><br><span>You should say:</span><br><span>&nbsp; &nbsp;who this child is and how often you see him or her</span><br><span>&nbsp; &nbsp;how old this child is</span><br><span>&nbsp; &nbsp;what he or she is like</span><br><span>and explain what you feel about this child.</span>"
+            ],
+            "start": 2,
+            "end": 2
+        },
+        {
+            "title": "Relationships between parents and children & Children's free-time activities",
+            "questions": [
+                "<span>How much time do childen spend with their parents in your country? Do you think that is enough?</span>",
+                "<span>How important do you think spending time together is for the relationships between parents and children? Why?</span>",
+                "<span>Have relationships between parents and children changed in recent years? Why do you think that is?</span>",
+                "<span>What are the most popular free-time activities with children today?</span>",
+                "<span>Do you think the free-time activities children do today are good for their height? Why is that?</span>",
+                "<span>How do you think children's activities will change in the future? Will this be a positive change?</span>"
+            ],
+            "start": 3,
+            "end": 3
+        }
+    ]
+}

@@ -1,1 +1,41 @@
-{"name":"Cambridge IELTS 12 Academic Speaking Test 2","id":"C_12_A_2_S","ielts_test_id":"C_12_A_2","type":"speaking","image":"C_12_A_2_S","passages":[{"title":"Songs and singing","questions":["<span>Did you enjoy singing when you were younger? [Why/why not?]</span>","<span>How often do you sing now? [Why?]</span>","<span>Do you have a favorite song you like listening to? [Why/why not?]</span>","<span>How important is singing in your culture? [Why?]</span>"],"start":1,"end":1},{"title":"Describe a film/movie actor","questions":["<span>Describe a film/movie actor from your country who is very popular.</span><br><span>You should say:</span><br><span>&nbsp; &nbsp;who this actor is</span><br><span>&nbsp; &nbsp;what kinds of films/movies he/she acts in</span><br><span>&nbsp; &nbsp;what you know about this actor's life</span><br><span>and explain why this actor is so popular</span>"],"start":2,"end":2},{"title":"Watching films/movies & Theatre","questions":["<span>What are the most popular types of films in your country?</span>","<span>What is the difference between watching a film in the cinema and watching a film at home?</span>","<span>Do you think cinemas will close in the future?</span>","<span>How important is the theatre in your country's history?</span>","<span>How strong a tradition is it today in your country to go to the theater?</span>","<span>Do you think the theatre should be run as a business or as a public service?</span>"],"start":3,"end":3}]}
+{
+    "name": "Cambridge IELTS 12 Academic Speaking Test 2",
+    "id": "C_12_A_2_S",
+    "ielts_test_id": "C_12_A_2",
+    "type": "speaking",
+    "image": "C_12_A_2_S",
+    "passages": [
+        {
+            "title": "Songs and singing",
+            "questions": [
+                "<span>Did you enjoy singing when you were younger? [Why/why not?]</span>",
+                "<span>How often do you sing now? [Why?]</span>",
+                "<span>Do you have a favorite song you like listening to? [Why/why not?]</span>",
+                "<span>How important is singing in your culture? [Why?]</span>"
+            ],
+            "start": 1,
+            "end": 1
+        },
+        {
+            "title": "Describe a film/movie actor",
+            "questions": [
+                "<span>Describe a film/movie actor from your country who is very popular.</span><br><span>You should say:</span><br><span>&nbsp; &nbsp;who this actor is</span><br><span>&nbsp; &nbsp;what kinds of films/movies he/she acts in</span><br><span>&nbsp; &nbsp;what you know about this actor's life</span><br><span>and explain why this actor is so popular</span>"
+            ],
+            "start": 2,
+            "end": 2
+        },
+        {
+            "title": "Watching films/movies & Theatre",
+            "questions": [
+                "<span>What are the most popular types of films in your country?</span>",
+                "<span>What is the difference between watching a film in the cinema and watching a film at home?</span>",
+                "<span>Do you think cinemas will close in the future?</span>",
+                "<span>How important is the theatre in your country's history?</span>",
+                "<span>How strong a tradition is it today in your country to go to the theater?</span>",
+                "<span>Do you think the theatre should be run as a business or as a public service?</span>"
+            ],
+            "start": 3,
+            "end": 3
+        }
+    ]
+}

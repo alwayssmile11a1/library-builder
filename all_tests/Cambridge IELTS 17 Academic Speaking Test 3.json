@@ -1,1 +1,41 @@
-{"name":"Cambridge IELTS 17 Academic Speaking Test 3","id":"C_17_A_3_S","ielts_test_id":"C_17_A_3","type":"speaking","image":"C_17_A_3_S","passages":[{"title":"Drinks","questions":["<span>What do you like to drink with your dinner? [Why?]</span>","<span>Do you drink a lot of water every day? [Why/Why not?]</span>","<span>Do you prefer drinking tea or coffee? [Why?]</span>","<span>If people visit you in your home, what do you usually offer them to drink?&nbsp;[Why/Why not?]</span>"],"start":1,"end":1},{"title":"Describe a monument","questions":["<span>Describe a monument (e.g., a statue or sculpture) that you like.</span><br><span>You should say:</span><br><span>&nbsp; &nbsp;what this monument is</span><br><span>&nbsp; &nbsp;where this monument is</span><br><span>&nbsp; &nbsp;what it looks like</span><br><span>and explain why you like this monument.</span>"],"start":2,"end":2},{"title":"Public monuments & Architecture","questions":["<span>What kinds of monuments do tourists in your country enjoy visiting?</span>","<span>Why do you think there are often statues of famous people in public places?</span>","<span>Do you agree that old monuments and buildings should always be preserved?</span>","<span>Why is architecture such a popular university subject?</span>","<span>In what ways has the design of homes changed in recent years?</span>","<span>To what extent does the design of buildings affect people&rsquo;s moods?</span>"],"start":3,"end":3}]}
+{
+    "name": "Cambridge IELTS 17 Academic Speaking Test 3",
+    "id": "C_17_A_3_S",
+    "ielts_test_id": "C_17_A_3",
+    "type": "speaking",
+    "image": "C_17_A_3_S",
+    "passages": [
+        {
+            "title": "Drinks",
+            "questions": [
+                "<span>What do you like to drink with your dinner? [Why?]</span>",
+                "<span>Do you drink a lot of water every day? [Why/Why not?]</span>",
+                "<span>Do you prefer drinking tea or coffee? [Why?]</span>",
+                "<span>If people visit you in your home, what do you usually offer them to drink?&nbsp;[Why/Why not?]</span>"
+            ],
+            "start": 1,
+            "end": 1
+        },
+        {
+            "title": "Describe a monument",
+            "questions": [
+                "<span>Describe a monument (e.g., a statue or sculpture) that you like.</span><br><span>You should say:</span><br><span>&nbsp; &nbsp;what this monument is</span><br><span>&nbsp; &nbsp;where this monument is</span><br><span>&nbsp; &nbsp;what it looks like</span><br><span>and explain why you like this monument.</span>"
+            ],
+            "start": 2,
+            "end": 2
+        },
+        {
+            "title": "Public monuments & Architecture",
+            "questions": [
+                "<span>What kinds of monuments do tourists in your country enjoy visiting?</span>",
+                "<span>Why do you think there are often statues of famous people in public places?</span>",
+                "<span>Do you agree that old monuments and buildings should always be preserved?</span>",
+                "<span>Why is architecture such a popular university subject?</span>",
+                "<span>In what ways has the design of homes changed in recent years?</span>",
+                "<span>To what extent does the design of buildings affect people&rsquo;s moods?</span>"
+            ],
+            "start": 3,
+            "end": 3
+        }
+    ]
+}

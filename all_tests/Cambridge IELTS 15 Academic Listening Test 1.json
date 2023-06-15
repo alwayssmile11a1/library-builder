@@ -1,1 +1,658 @@
-{"name":"Cambridge IELTS 15 Academic Listening Test 1","id":"C_15_A_1_L","ielts_test_id":"C_15_A_1","type":"listening","image":"C_15_A_1_L","passages":[{"title":"Bankside Recruitment Agency","audio":"C_15_A_1_L_1","image":"","start":1,"end":10},{"title":"Matthews Island Holidays","audio":"C_15_A_1_L_2","image":"","start":11,"end":20},{"title":"","audio":"C_15_A_1_L_3","image":"","start":21,"end":30},{"title":"The Eucalyptus Tree in Australia","audio":"C_15_A_1_L_4","image":"","start":31,"end":40}],"question_sections":[{"custom_instruction":"ONE WORD AND/OR A NUMBER","type":"sentence_completion","start":1,"end":10},{"type":"one_choice","start":11,"end":14},{"custom_instruction":"ONE WORD AND/OR A NUMBER","type":"table_completion","start":15,"end":20},{"custom_instruction":"What did findings of previous research claim about the personality traits a child is likely to have because of their position in the family?","type":"drop_information","start":21,"end":26},{"type":"one_choice","start":27,"end":28},{"custom_instruction":"TWO","type":"multiple_choices","start":29,"end":30},{"custom_instruction":"ONE WORD ONLY","type":"sentence_completion","start":31,"end":40}],"questions":{"1":{"question":["<span>&nbsp;&bull; &nbsp; Address of agency: 497 Eastside, Docklands</span><br><span>&nbsp;&bull; &nbsp; Name of agent: Becky </span>"]},"2":{"question":["<span></span><br><span>&nbsp;&bull; &nbsp; Phone number: 07866 510333</span><br><span>&nbsp;&bull; &nbsp; Best to call her in the </span>"]},"3":{"question":["<span></span><br><span><strong>Typical jobs</strong></span><br><span>&nbsp;&bull; &nbsp; Clerical and admin roles, mainly in the finance industry</span><br><span>&nbsp;&bull; &nbsp; Must have good </span>"]},"4":{"question":["<span>&nbsp;skills</span><br><span>&nbsp;&bull; &nbsp; Jobs are usually for at least one </span>"]},"5":{"question":["<span></span><br><span>&nbsp;&bull; &nbsp; Pay is usually &pound; </span>"]},"6":{"question":["<span> per hour</span><br><span><strong>Registration process</strong></span><br><span>&nbsp;&bull; &nbsp; Wear a </span>"]},"7":{"question":["<span>&nbsp;to the interview</span><br><span>&nbsp;&bull;&nbsp;&nbsp;&nbsp;Must bring your </span>"]},"8":{"question":["<span>&nbsp;to the interview</span><br><span>&nbsp;&bull; &nbsp; They will ask questions about each applicant&rsquo;s </span>"]},"9":{"question":["<span></span><br><span><strong>Advantages of using an agency</strong></span><br><span>&nbsp;&bull; &nbsp; The </span>"]},"10":{"question":["<span>&nbsp;you receive at interview will benefit you</span><br><span>&nbsp;&bull; &nbsp; Will get access to vacancies which are not advertised</span><br><span>&nbsp;&bull; &nbsp; Less </span>","<span>&nbsp;is involved in applying for jobs</span>"]},"11":{"question":"<span>According to the speaker, the company</span>","options":["has been in business for longer than most of its competitors","arranges holidays to more destinations than its competitors","has more customers than its competitors"]},"12":{"question":"<span>Where can customers meet the tour manager before travelling to the Isle of Man?</span>","options":["Liverpool","Heysham","Luton"]},"13":{"question":"<span>How many lunches are included in the price of the holiday?</span>","options":["three","four","five"]},"14":{"question":"<span>Customers have to pay extra for</span>","options":["guaranteeing themselves a larger room","booking at short notice","transferring to another date"]},"15":{"question":[]},"16":{"question":[]},"17":{"question":[]},"18":{"question":[]},"19":{"question":[]},"20":{"question":[[{"colspan":"3","content":"<span><strong>Timetable for Isle of Man holiday</strong></span>"}],[{"content":"<span><br data-mce-bogus=\"1\"></span>"},{"content":"<span><strong>Activity</strong></span>"},{"content":"<span><strong>Notes</strong></span>"}],[{"content":"<span>Day 1</span>"},{"content":"<span>Arrive</span>"},{"content":["<span>Introduction by manager</span><br><span><br data-mce-bogus=\"1\"></span><span>Hotel dining room has view of the </span>","<span></span>"]}],[{"content":"<span>Day 2</span>"},{"content":"<span>Tynwald Exhibition and Peel</span>"},{"content":["<span>Tynwald may have been founded in </span>","<span>&nbsp;not 979.</span>"]}],[{"content":"<span>Day 3</span>"},{"content":"<span>Trip to Snaefell</span>"},{"content":["<span>Travel along promenade in a tram; train to Laxey; train to the </span>","<span>&nbsp;of Snaefell</span>"]}],[{"content":"<span>Day 4</span>"},{"content":"<span>Free day</span>"},{"content":["<span>Company provides a </span>","<span>&nbsp;for local transport and heritage sites.</span>"]}],[{"content":"<span>Day 5</span>"},{"content":["<span>Take the </span>","<span>&nbsp;railway train from Douglas to Port Erin</span>"]},{"content":["<span>Free time, then coach to Castletown – former </span>","<span>&nbsp;has old castle.</span>"]}],[{"content":"<span>Day 6</span>"},{"content":"<span>Leave</span>"},{"content":"<span>Leave the island by ferry or plane</span>"}]]},"21":{"question":["<span><strong>Position in family</strong></span><br><span>&bull; the eldest child </span>"]},"22":{"question":["<span></span><br><span>&bull; a middle child </span>"]},"23":{"question":["<span></span><br><span>&bull; the youngest child </span>"]},"24":{"question":["<span></span><br><span>&bull; a twin </span>"]},"25":{"question":["<span></span><br><span>&bull; an only child </span>"]},"26":{"question":["<span></span><br><span>&bull; a child with much older siblings </span>","<span></span>"],"options":["outgoing","selfish","independent","attention-seeking","introverted","co-operative","caring","competitive"]},"27":{"question":"<span>What do the speakers say about the evidence relating to birth order and academic success?</span>","options":["There is conflicting evidence about whether oldest children perform best in intelligence tests","There is little doubt that birth order has less influence on academic achievement than socio-economic status","Some studies have neglected to include important factors such as family size"]},"28":{"question":"<span>What does Ruth think is surprising about the difference in oldest children&rsquo;s academic performance?</span>","options":["It is mainly thanks to their roles as teachers for their younger siblings","The advantages they have only lead to a slightly higher level of achievement","The extra parental attention they receive at a young age makes little difference"]},"29":{"question":""},"30":{"question":"<span>Which&nbsp;<strong>TWO</strong>&nbsp;experiences of sibling rivalry do the speakers agree has been valuable for them?</span>","options":["learning to share","learning to stand up for oneself","learning to be a good loser","learning to be tolerant","learning to say sorry"]},"31":{"question":["<span><strong>Importance</strong></span><br><span>&nbsp; &nbsp;&bull; it provides </span>"]},"32":{"question":["<span>&nbsp;and food for a wide range of species</span><br><span>&nbsp; &nbsp;&bull; its leaves provide </span>"]},"33":{"question":["<span>&nbsp;which is used to make a disinfectant</span><br><span><strong>Reasons for present decline in number</strong></span><br><span><strong>A) Diseases</strong></span><br><span>(i)&nbsp;&nbsp; &lsquo;Mundulla Yellows&rsquo;</span><br><span>&nbsp; &nbsp;&bull; Cause&nbsp;&nbsp; &ndash; lime used for making </span>"]},"34":{"question":["<span>&nbsp;was absorbed</span><br><span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&ndash; trees were unable to take in necessary iron through their roots</span><br><span>(ii)&nbsp;&nbsp; &lsquo;Bell-miner Associated Die-back&rsquo;</span><br><span>&nbsp; &nbsp;&bull; Cause&nbsp;&nbsp; &ndash; </span>"]},"35":{"question":["<span>&nbsp;feed on eucalyptus leaves</span><br><span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &ndash; they secrete a substance containing sugar</span><br><span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &ndash; bell-miner birds are attracted by this and keep away other species</span><br><span><strong>B) Bushfires</strong></span><br><span>William Jackson&rsquo;s theory:</span><br><span>&nbsp; &nbsp;&bull; high-frequency bushfires have impact on vegetation, resulting in the growth of </span>"]},"36":{"question":["<span></span><br><span>&nbsp; &nbsp;&bull; mid-frequency bushfires result in the growth of eucalyptus forests, because they:</span><br><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &ndash; make more </span>"]},"37":{"question":["<span>&nbsp;available to the trees</span><br><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &ndash; maintain the quality of the </span>"]},"38":{"question":["<span></span><br><span>&nbsp; &nbsp;&bull; low-frequency bushfires result in the growth of '</span>"]},"39":{"question":["<span>&nbsp;rainforest&rsquo;, which is:</span><br><span>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&ndash; a </span>"]},"40":{"question":["<span>&nbsp;Ecosystem</span><br><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &ndash; an ideal environment for the </span>","<span>&nbsp;of the bell-miner</span>"]}},"answers":{"transcripts":{"1":"<span>AMBER:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hello William. This is Amber &ndash; you said to phone if I wanted to get more information about the job agency you mentioned. Is now a good time?</span><br><span>WILLIAM:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Oh, hi Amber. Yes. Fine. So the agency I was talking about is called Bankside &ndash; they&rsquo;re based in Docklands &ndash; I can tell you the address now &ndash; 497 Eastside.</span><br><span>AMBER:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; OK, thanks. So is there anyone in particular I should speak to there?</span><br><span>WILLIAM:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The agent I always deal with is called Becky Jamieson.</span><br><span>AMBER:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Let me write that down &ndash; Becky &hellip;</span><br><span>WILLIAM:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Jamieson J-A-M-I-E-S-O-N.</span><br><span>AMBER:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Do you have her direct line?</span><br><span>WILLIAM:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Yes, it&rsquo;s in my contacts somewhere &ndash; right, here we are: 078 double 6, 510 triple 3. I wouldn&rsquo;t call her until the afternoon if I were you &ndash; she&rsquo;s always really busy in the morning trying to fill last-minute vacancies. She&rsquo;s really helpful and friendly so I&rsquo;m sure it would be worth getting in touch with her for an informal chat.</span><br><span>AMBER:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; It&rsquo;s mainly clerical and admin jobs they deal with, isn&rsquo;t it?</span><br><span>WILLIAM:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; That&rsquo;s right. I know you&rsquo;re hoping to find a full-time job in the media eventually &ndash; but Becky mostly recruits temporary staff for the finance sector &ndash; which will look good on your CV &ndash; and generally pays better too.</span><br><span>AMBER:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Yeah &ndash; I&rsquo;m just a bit worried because I don&rsquo;t have much office experience.</span><br><span>WILLIAM:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I wouldn&rsquo;t worry. They&rsquo;ll probably start you as a receptionist, or something like that. So what&rsquo;s important for that kind of job isn&rsquo;t so much having business skills or knowing lots of different computer systems &ndash; it&rsquo;s communication that really matters &ndash; so you&rsquo;d be fine there. And you&rsquo;ll pick up office skills really quickly on the job. It&rsquo;s not that complicated.</span><br><span>AMBER:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; OK good. So how long do people generally need temporary staff for? It would be great if I could get something lasting at least a month.</span><br><span>WILLIAM:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; That shouldn&rsquo;t be too difficult. But you&rsquo;re more likely to be offered something for a week at first, which might get extended. It&rsquo;s unusual to be sent somewhere for just a day or two.</span><br><span>AMBER:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Right, I&rsquo;ve heard the pay isn&rsquo;t too bad &ndash; better than working in a shop or a restaurant.</span><br><span>WILLIAM:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Oh yes &ndash; definitely. The hourly rate is about &pound;10, 11 if you&rsquo;re lucky.</span><br><span>AMBER:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; That&rsquo;s pretty good. I was only expecting to get eight or nine pounds an hour.</span><br><span>______________________________</span><br><span>WILLIAM:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Do you want me to tell you anything about the registration process?</span><br><span>AMBER:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Yes, please. I know you have to have an interview.</span><br><span>WILLIAM:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The interview usually takes about an hour and you should arrange that about a week in advance.</span><br><span>AMBER:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I suppose I should dress smartly if it&rsquo;s for office work &ndash; I can probably borrow a suit from Mum.</span><br><span>WILLIAM:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Good idea. It&rsquo;s better to look too smart than too casual.</span><br><span>AMBER:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Will I need to bring copies of my exam certificates or anything like that?</span><br><span>WILLIAM:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; No &ndash; they don&rsquo;t need to see those, I don&rsquo;t think.</span><br><span>AMBER:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; What about my passport?</span><br><span>WILLIAM:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Oh yes &ndash; they will ask to see that.</span><br><span>AMBER:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; OK.</span><br><span>WILLIAM:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I wouldn&rsquo;t get stressed about the interview though. It&rsquo;s just a chance for them to build a relationship with you &ndash; so they can try and match you to a job which you&rsquo;ll like. So there are questions about personality that they always ask candidates &ndash; fairly basic ones. And they probably won&rsquo;t ask anything too difficult like what your plans are for the future.</span><br><span>AMBER:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hope not.</span><br><span>WILLIAM:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Anyway, there are lots of benefits to using an agency &ndash; for example, the interview will be useful because they&rsquo;ll give you feedback on your performance so you can improve next time.</span><br><span>AMBER:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; And they&rsquo;ll have access to jobs which aren&rsquo;t advertised.</span><br><span>WILLIAM:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Exactly &ndash; most temporary jobs aren&rsquo;t advertised.</span><br><span>AMBER:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; And I expect finding a temporary job this way takes a lot less time &ndash; it&rsquo;s much easier than ringing up individual companies.</span><br><span>WILLIAM:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Yes indeed. Well I think &hellip;</span>","2":"<span>Good morning. My name&rsquo;s Erica Matthews, and I&rsquo;m the owner of Matthews Island Holidays, a company set up by my parents. Thank you for coming to this presentation, in which I hope to interest you in what we have to offer. We&rsquo;re a small, family-run company, and we believe in the importance of the personal touch, so we don&rsquo;t aim to compete with other companies on the number of customers. What we do is build on our&nbsp;many years&rsquo; experience &ndash; more than almost any other rail holiday company&nbsp;&ndash; to ensure we provide perfect holidays in a small number of destinations, which we&rsquo;ve got to know extremely well.</span><br><span>I&rsquo;ll start with our six-day Isle of Man holiday. This is a fascinating island in the Irish Sea, with Wales to the south, England to the east, Scotland to the north and Northern Ireland to the west. Our holiday starts in&nbsp;Heysham, where your tour manager will meet you, then you&rsquo;ll travel by ferry to the Isle of Man. Some people prefer to fly from Luton instead, and another popular option is to go by train to Liverpool and take a ferry from there.</span><br><span>You have five nights in the hotel, and the price covers five breakfasts and dinners, and&nbsp;lunch on the three days when there are organised trips: day four is free, and most people have lunch in a caf&eacute; or restaurant in Douglas.</span><br><span>The price of the holiday includes the ferry to the Isle of Man, all travel on the island, the hotel, and the meals I&rsquo;ve mentioned. Incidentally, we try to make booking our holidays as simple and fair as possible, so unlike with many companies, the price is the same whether you book six months in advance or at the last minute, and there&rsquo;s no supplement for single rooms in hotels.&nbsp;If you make a booking then need to change the start date, for example because of illness, you&rsquo;re welcome to change to an alternative date or a different tour, for a small administrative fee.</span><br><span>__________________________</span><br><span>OK, so what does the holiday consist of? Well, on day one you&rsquo;ll arrive in time for a short introduction by your tour manager, followed by dinner in the hotel. The dining room looks out at the&nbsp;river, close to where it flows into the harbour, and there&rsquo;s usually plenty of activity going on.</span><br><span>On day two you&rsquo;ll take the coach to the small town of Peel, on the way calling in at the Tynwald Exhibition. The Isle of Man isn&rsquo;t part of the United Kingdom, and it has its own parliament, called Tynwald. It&rsquo;s claimed that this is the world&rsquo;s oldest parliament that&rsquo;s still functioning, and that it dates back to 979. However, the earliest surviving reference to it is from&nbsp;1422, so perhaps it isn&rsquo;t quite as old as it claims!</span><br><span>Day three we have a trip to the mountain Snaefell. This begins with a leisurely ride along the promenade in Douglas in a horse-drawn tram. Then you board an electric train which takes you to the fishing village of Laxey. From there it&rsquo;s an eight-kilometre ride in the Snaefell Mountain Railway to the&nbsp;top. Lunch will be in the caf&eacute;, giving you spectacular views of the island.</span><br><span>Day four is free for you to explore, using the&nbsp;pass&nbsp;which we&rsquo;ll give you. So you won&rsquo;t have to pay for travel on local transport, or for entrance to the island&rsquo;s heritage sites. Or you might just want to take it easy in Douglas and perhaps do a little light shopping.</span><br><span>The last full day, day five, is for some people the highlight of the holiday, with a ride on the&nbsp;steam&nbsp;railway, from Douglas to Port Erin. After some time to explore, a coach will take you to the headland that overlooks the Calf of Man, a small island just off the coast. From there you continue to Castletown, which used to be the&nbsp;capital&nbsp;of the Isle of Man, and its mediaeval castle.</span><br><span>And on day six it&rsquo;s back to the ferry &ndash; or the airport, if you flew to the island &ndash; and time to go home.</span><br><span>Now I&rsquo;d like to tell you &hellip;</span>","3":"<span>RUTH:&nbsp;&nbsp; Ed, how are you getting on with the reading for our presentation next week?</span><br><span>ED:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Well, OK, Ruth &ndash; but there&rsquo;s so much of it.</span><br><span>RUTH:&nbsp;&nbsp; I know, I hadn&rsquo;t realised birth order was such a popular area of research.</span><br><span>ED:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; But the stuff on birth order and personality is mostly unreliable. From what I&rsquo;ve been reading a lot of claims about how your position in the family determines certain personality traits are just stereotypes, with no robust evidence to support them.</span><br><span>RUTH:&nbsp;&nbsp; OK, but that&rsquo;s an interesting point &ndash; we could start by outlining what previous research has shown. There are studies going back over a hundred years.</span><br><span>ED:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Yeah &ndash; so we could just run through some of the typical traits. Like the consensus seems to be that oldest children are generally less well-adjusted because they never get over the arrival of a younger sibling.</span><br><span>RUTH:&nbsp;&nbsp; Right, but on a positive note, some studies claimed that&nbsp;they were thought to be good a nurturing &ndash; certainly in the past when people had large families they would have been expected to look after the younger ones.</span><br><span>ED:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; There isn&rsquo;t such a clear picture for middle children &ndash; but one trait that a lot of the studies mention is that they are easier to get on with than older or younger siblings.</span><br><span>RUTH:&nbsp;&nbsp;&nbsp;Generally eager to please and helpful&nbsp;&ndash; although that&rsquo;s certainly not accurate as far as my family goes &ndash; my middle brother was a nightmare &ndash; always causing fights and envious of whatever I had.</span><br><span>ED:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; As I said &ndash; none of this seems to relate to my own experience. I&rsquo;m the youngest in my family and I don&rsquo;t recognise myself in any of the studies I&rsquo;ve read about. I&rsquo;m supposed to have been&nbsp;a sociable and confident child who made friends easily&nbsp;&ndash; but I was actually terribly shy.</span><br><span>RUTH:&nbsp;&nbsp; Really? That&rsquo;s funny. There have been hundreds of studies on twins but mostly about nurture versus nature&hellip;</span><br><span>ED:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; There was one on personality, which said that a twin is likely to be&nbsp;quite shy in social situations&nbsp; &nbsp; &nbsp;because they always have their twin around to depend on for support.</span><br><span>RUTH:&nbsp;&nbsp; My cousins were like that when they were small &ndash; they were only interested in each other and found it hard to engage with other kids. They&rsquo;re fine now though.</span><br><span>ED:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Only children have had a really bad press &ndash; a lot of studies have branded them as&nbsp;loners who think the world revolves around them&nbsp;because they&rsquo;ve never had to fight for their parents&rsquo; attention.</span><br><span>RUTH:&nbsp;&nbsp; That does seem a bit harsh. One category I hadn&rsquo;t considered before was children with much older siblings &ndash; a couple of studies mentioned that these children&nbsp;grow up more quickly and are expected to do basic things for themselves &ndash; like getting dressed.</span><br><span>ED:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I can see how that might be true &ndash; although I expect they&rsquo;re sometimes the exact opposite &ndash; playing the baby role and clamouring for special treatment.</span><br><span>___________________________</span><br><span>RUTH:&nbsp;&nbsp; What was the problem with most of these studies, do you think?</span><br><span>ED:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I think it was because in a lot of cases data was collected from only one sibling per family, who rated him or herself and his or her siblings at the same time.</span><br><span>RUTH:&nbsp;&nbsp; Mmm. Some of the old research into the relationship between birth order and academic achievement has been proved to be accurate though. Performances in intelligence tests decline slightly from the eldest child to his or her younger siblings. This has been proved in lots of recent studies.</span><br><span>ED:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Yes.&nbsp;Although what many of them didn&rsquo;t take into consideration was family size. The more siblings there are, the likelier the family is to have a low socioeconomic status &ndash; which can also account for differences between siblings in academic performance.</span><br><span>RUTH:&nbsp;&nbsp; The oldest boy might be given more opportunities than his younger sisters, for example.</span><br><span>ED:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Exactly.</span><br><span>RUTH:&nbsp;&nbsp; But the main reason for the marginally higher academic performance of oldest children is quite surprising, I think. It&rsquo;s not only that they benefit intellectually from extra attention at a young age &ndash; which is what I would have expected.&nbsp;It&rsquo;s that they benefit from being teachers for their younger siblings, by verbalising processes.</span><br><span>ED:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Right, and this gives them status and confidence, which again contribute, in a small way, to better performance.</span><br><span>So would you say sibling rivalry has been a useful thing for you?</span><br><span>RUTH:&nbsp;&nbsp; I think so &ndash; my younger brother was incredibly annoying and we found a lot but I think this has made me a stronger person.&nbsp;I know how to defend myself. We had some terrible arguments and I would have died rather than apologise to him &ndash; but&nbsp;we had to put up with each other&nbsp;and most of the time we co-existed amicably enough.</span><br><span>ED:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Yes, my situation was pretty similar. But I don&rsquo;t think having two older brothers made me any less selfish &ndash; I was never prepared to let me brothers use any of my stuff &hellip;</span><br><span>RUTH:&nbsp;&nbsp; That&rsquo;s perfectly normal, whereas &hellip;</span>","4":"<span>Today I&rsquo;m going to talk about the eucalyptus tree. This is a very common tree here in Australia, where it&rsquo;s also sometimes called the gum tree. First I&rsquo;m going to talk about why it&rsquo;s important, then I&rsquo;m going to describe some problems it faces at present.</span><br><span>Right, well the eucalyptus tree is an important tree for lots of reasons. For example, it gives&nbsp;shelter&nbsp;to creatures like birds and bats, and these and other species also depend on it for food, particularly the nectar from its flowers. So it supports biodiversity. It&rsquo;s useful to us humans too, because we can kill germs with a disinfectant made from&nbsp;oil extracted from eucalyptus leaves.</span><br><span>The eucalyptus grows all over Australia and the trees can live for up to four hundred years. So it&rsquo;s alarming that all across the country, numbers of eucalyptus are falling because the trees are dying off prematurely. So what are the reasons for this?</span><br><span>One possible reason is disease. As far back as the 1970s the trees started getting a disease called Mundulla Yellows. The trees&rsquo; leaves would gradually turn yellow, then the tree would die. It wasn&rsquo;t until 2004 that they found the cause of the problem was lime, or calcium hydroxide to give it its proper chemical name, which was being used in the construction of&nbsp;roads. The lime was being washed away into the ground and affecting the roots of the eucalyptus trees nearby. What is was doing was preventing the trees from sucking up the iron they needed for healthy growth. When this was injected back into the affected trees, they immediately recovered.</span><br><span>But this problem only affected a relatively small number of trees. By 2000, huge numbers of eucalyptus were dying along Australia&rsquo;s East Coast, of a disease known as Bell-miner Associated Die-back. The bell-miner is a bird, and the disease seems to be common where there are high populations of bell-miners. Again it&rsquo;s the leaves of the trees that are affected. What happens is that insects settle on the leaves and eat their way round them, destroying them as they go, and at the same time they secrete a solution which has sugar in it. The bell-miner birds really like this solution, and in order to get as much as possible, they keep away other creatures that might try to get it. So these birds and insects flourish at the expense of other species, and eventually so much damage is done to the leaves that the tree dies.</span><br><span>_____________________</span><br><span>But experts say that trees can start looking sick before any sign of Bell-miner Associated Die-back. So it looks as if the problem might have another explanation. One possibility is that it&rsquo;s to do with the huge bushfires that we have in Australia. A theory proposed over 40 years ago be ecologist William Jackson is that the&nbsp;<em>frequency</em> of bushfires in a particular region affects the type of vegetation that grows there. If there are very frequent bushfires in a region, this encourages&nbsp;grass to grow afterwards, while if the bushfires are rather less frequent, this results in the growth of eucalyptus forests.</span><br><span>So why is this? Why do fairly frequent bushfires actually support the growth of eucalyptus? Well, one reason is that the fire stops the growth of other species which would consume water needed by eucalyptus trees. And there&rsquo;s another reason. If these other quick-growing species of bushes and plants are allowed to proliferate, they harm the eucalyptus in another way, by affecting the composition of the soil, and removing nutrients from it. So some bushfires are actually essential for the eucalyptus to survive as long as they are not too frequent. In fact there&rsquo;s evidence that Australia&rsquo;s indigenous people practised regular burning of bush land for thousands of years before the arrival of the Europeans.</span><br><span>But since Europeans arrived on the continent, the number of bushfires has been strictly controlled. Now scientists believe that this reduced frequency of bushfires to low levels had led to what&rsquo;s known as &lsquo;dry rainforest&rsquo;, which seems an odd name as usually we associate tropical rainforest with wet conditions. And what&rsquo;s special about this type of rainforest? Well, unlike tropical rainforest which is a rich ecosystem, this type of ecosystem is usually a simple one. It has very thick, dense vegetation, but not much variety of species. The vegetation provides lots of shade, so one species that does find it ideal is the bell-miner bird, which builds its nests in the undergrowth there. But again that&rsquo;s not helpful for the eucalyptus tree.</span>"},"answer_sheet":{"1":{"answer":["Jamieson"],"explanation":"Jamieson J-A-M-I-E-S-O-N."},"2":{"answer":["afternoon"],"explanation":"I wouldn’t call her until the afternoon if I were you – she’s always really busy in the morning trying to fill last-minute vacancies."},"3":{"answer":["communication"],"explanation":"it’s communication that really matters"},"4":{"answer":["week"],"explanation":"But you’re more likely to be offered something for a week at first"},"5":{"answer":["10","ten"],"explanation":"The hourly rate is about £10, 11 if you’re lucky."},"6":{"answer":["suit"],"explanation":"I can probably borrow a suit from Mum."},"7":{"answer":["passport"],"explanation":"What about my passport?"},"8":{"answer":["personality"],"explanation":"So there are questions about personality"},"9":{"answer":["feedback"],"explanation":"the interview will be useful because they’ll give you feedback on your performance so you can improve next time."},"10":{"answer":["time"],"explanation":"And I expect finding a temporary job this way takes a lot less time"},"11":{"answer":["has been in business for longer than most of its competitors"],"explanation":"What we do is build on our many years’ experience – more than almost any other rail holiday company"},"12":{"answer":["Heysham"],"explanation":"Our holiday starts in Heysham, where your tour manager will meet you"},"13":{"answer":["three"],"explanation":"lunch on the three days when there are organised trips"},"14":{"answer":["transferring to another date"],"explanation":"If you make a booking then need to change the start date, for example because of illness, you’re welcome to change to an alternative date or a different tour, for a small administrative fee."},"15":{"answer":["river"],"explanation":"The dining room looks out at the river"},"16":{"answer":["1422"],"explanation":"the earliest surviving reference to it is from 1422"},"17":{"answer":["top"],"explanation":"From there it’s an eight-kilometre ride in the Snaefell Mountain Railway to the top"},"18":{"answer":["pass"],"explanation":"Day four is free for you to explore, using the pass which we’ll give you."},"19":{"answer":["steam"],"explanation":"with a ride on the steam railway"},"20":{"answer":["capital"],"explanation":"which used to be the capital of the Isle of Man, and its mediaeval castle."},"21":{"answer":["caring"],"explanation":"they were thought to be good a nurturing – certainly in the past when people had large families they would have been expected to look after the younger ones."},"22":{"answer":["co-operative"],"explanation":"Generally eager to please and helpful"},"23":{"answer":["outgoing"],"explanation":"I’m supposed to have been a sociable and confident child who made friends easily"},"24":{"answer":["introverted"],"explanation":"There was one on personality, which said that a twin is likely to be quite shy in social situations"},"25":{"answer":["selfish"],"explanation":"a lot of studies have branded them as loners who think the world revolves around them"},"26":{"answer":["independent"],"explanation":"a couple of studies mentioned that these children grow up more quickly and are expected to do basic things for themselves – like getting dressed."},"27":{"answer":["Some studies have neglected to include important factors such as family size"],"explanation":"Although what many of them didn’t take into consideration was family size"},"28":{"answer":["It is mainly thanks to their roles as teachers for their younger siblings"],"explanation":"It’s that they benefit from being teachers for their younger siblings, by verbalising processes."},"29":{"answer":["learning to stand up for oneself"],"explanation":"I know how to defend myself"},"30":{"answer":["learning to be tolerant"],"explanation":"we had to put up with each other"},"31":{"answer":["shelter"],"explanation":"it gives shelter to creatures like birds and bats"},"32":{"answer":["oil"],"explanation":"we can kill germs with a disinfectant made from oil extracted from eucalyptus leaves."},"33":{"answer":["roads"],"explanation":"which was being used in the construction of roads."},"34":{"answer":["insects"],"explanation":"What happens is that insects settle on the leaves"},"35":{"answer":["grass","grasses"],"explanation":"this encourages grass to grow afterwards"},"36":{"answer":["water"],"explanation":"one reason is that the fire stops the growth of other species which would consume water needed by eucalyptus trees"},"37":{"answer":["soil"],"explanation":"they harm the eucalyptus in another way, by affecting the composition of the soil"},"38":{"answer":["dry"],"explanation":"Now scientists believe that this reduced frequency of bushfires to low levels had led to what’s known as ‘dry rainforest’"},"39":{"answer":["simple"],"explanation":"this type of ecosystem is usually a simple one"},"40":{"answer":["nest","nests"],"explanation":"which builds its nests in the undergrowth there"}}}}
+{
+    "name": "Cambridge IELTS 15 Academic Listening Test 1",
+    "id": "C_15_A_1_L",
+    "ielts_test_id": "C_15_A_1",
+    "type": "listening",
+    "image": "C_15_A_1_L",
+    "passages": [
+        {
+            "title": "Bankside Recruitment Agency",
+            "audio": "C_15_A_1_L_1",
+            "image": "",
+            "start": 1,
+            "end": 10
+        },
+        {
+            "title": "Matthews Island Holidays",
+            "audio": "C_15_A_1_L_2",
+            "image": "",
+            "start": 11,
+            "end": 20
+        },
+        {
+            "title": "",
+            "audio": "C_15_A_1_L_3",
+            "image": "",
+            "start": 21,
+            "end": 30
+        },
+        {
+            "title": "The Eucalyptus Tree in Australia",
+            "audio": "C_15_A_1_L_4",
+            "image": "",
+            "start": 31,
+            "end": 40
+        }
+    ],
+    "question_sections": [
+        {
+            "custom_instruction": "ONE WORD AND/OR A NUMBER",
+            "type": "sentence_completion",
+            "start": 1,
+            "end": 10
+        },
+        {
+            "type": "one_choice",
+            "start": 11,
+            "end": 14
+        },
+        {
+            "custom_instruction": "ONE WORD AND/OR A NUMBER",
+            "type": "table_completion",
+            "start": 15,
+            "end": 20
+        },
+        {
+            "custom_instruction": "What did findings of previous research claim about the personality traits a child is likely to have because of their position in the family?",
+            "type": "drop_information",
+            "start": 21,
+            "end": 26
+        },
+        {
+            "type": "one_choice",
+            "start": 27,
+            "end": 28
+        },
+        {
+            "custom_instruction": "TWO",
+            "type": "multiple_choices",
+            "start": 29,
+            "end": 30
+        },
+        {
+            "custom_instruction": "ONE WORD ONLY",
+            "type": "sentence_completion",
+            "start": 31,
+            "end": 40
+        }
+    ],
+    "questions": {
+        "1": {
+            "question": [
+                "<span>&nbsp;&bull; &nbsp; Address of agency: 497 Eastside, Docklands</span><br><span>&nbsp;&bull; &nbsp; Name of agent: Becky </span>"
+            ]
+        },
+        "2": {
+            "question": [
+                "<span></span><br><span>&nbsp;&bull; &nbsp; Phone number: 07866 510333</span><br><span>&nbsp;&bull; &nbsp; Best to call her in the </span>"
+            ]
+        },
+        "3": {
+            "question": [
+                "<span></span><br><span><strong>Typical jobs</strong></span><br><span>&nbsp;&bull; &nbsp; Clerical and admin roles, mainly in the finance industry</span><br><span>&nbsp;&bull; &nbsp; Must have good </span>"
+            ]
+        },
+        "4": {
+            "question": [
+                "<span>&nbsp;skills</span><br><span>&nbsp;&bull; &nbsp; Jobs are usually for at least one </span>"
+            ]
+        },
+        "5": {
+            "question": [
+                "<span></span><br><span>&nbsp;&bull; &nbsp; Pay is usually &pound; </span>"
+            ]
+        },
+        "6": {
+            "question": [
+                "<span> per hour</span><br><span><strong>Registration process</strong></span><br><span>&nbsp;&bull; &nbsp; Wear a </span>"
+            ]
+        },
+        "7": {
+            "question": [
+                "<span>&nbsp;to the interview</span><br><span>&nbsp;&bull;&nbsp;&nbsp;&nbsp;Must bring your </span>"
+            ]
+        },
+        "8": {
+            "question": [
+                "<span>&nbsp;to the interview</span><br><span>&nbsp;&bull; &nbsp; They will ask questions about each applicant&rsquo;s </span>"
+            ]
+        },
+        "9": {
+            "question": [
+                "<span></span><br><span><strong>Advantages of using an agency</strong></span><br><span>&nbsp;&bull; &nbsp; The </span>"
+            ]
+        },
+        "10": {
+            "question": [
+                "<span>&nbsp;you receive at interview will benefit you</span><br><span>&nbsp;&bull; &nbsp; Will get access to vacancies which are not advertised</span><br><span>&nbsp;&bull; &nbsp; Less </span>",
+                "<span>&nbsp;is involved in applying for jobs</span>"
+            ]
+        },
+        "11": {
+            "question": "<span>According to the speaker, the company</span>",
+            "options": [
+                "has been in business for longer than most of its competitors",
+                "arranges holidays to more destinations than its competitors",
+                "has more customers than its competitors"
+            ]
+        },
+        "12": {
+            "question": "<span>Where can customers meet the tour manager before travelling to the Isle of Man?</span>",
+            "options": [
+                "Liverpool",
+                "Heysham",
+                "Luton"
+            ]
+        },
+        "13": {
+            "question": "<span>How many lunches are included in the price of the holiday?</span>",
+            "options": [
+                "three",
+                "four",
+                "five"
+            ]
+        },
+        "14": {
+            "question": "<span>Customers have to pay extra for</span>",
+            "options": [
+                "guaranteeing themselves a larger room",
+                "booking at short notice",
+                "transferring to another date"
+            ]
+        },
+        "15": {
+            "question": []
+        },
+        "16": {
+            "question": []
+        },
+        "17": {
+            "question": []
+        },
+        "18": {
+            "question": []
+        },
+        "19": {
+            "question": []
+        },
+        "20": {
+            "question": [
+                [
+                    {
+                        "colspan": "3",
+                        "content": "<span><strong>Timetable for Isle of Man holiday</strong></span>"
+                    }
+                ],
+                [
+                    {
+                        "content": "<span><br data-mce-bogus=\"1\"></span>"
+                    },
+                    {
+                        "content": "<span><strong>Activity</strong></span>"
+                    },
+                    {
+                        "content": "<span><strong>Notes</strong></span>"
+                    }
+                ],
+                [
+                    {
+                        "content": "<span>Day 1</span>"
+                    },
+                    {
+                        "content": "<span>Arrive</span>"
+                    },
+                    {
+                        "content": [
+                            "<span>Introduction by manager</span><br><span><br data-mce-bogus=\"1\"></span><span>Hotel dining room has view of the </span>",
+                            "<span></span>"
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "content": "<span>Day 2</span>"
+                    },
+                    {
+                        "content": "<span>Tynwald Exhibition and Peel</span>"
+                    },
+                    {
+                        "content": [
+                            "<span>Tynwald may have been founded in </span>",
+                            "<span>&nbsp;not 979.</span>"
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "content": "<span>Day 3</span>"
+                    },
+                    {
+                        "content": "<span>Trip to Snaefell</span>"
+                    },
+                    {
+                        "content": [
+                            "<span>Travel along promenade in a tram; train to Laxey; train to the </span>",
+                            "<span>&nbsp;of Snaefell</span>"
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "content": "<span>Day 4</span>"
+                    },
+                    {
+                        "content": "<span>Free day</span>"
+                    },
+                    {
+                        "content": [
+                            "<span>Company provides a </span>",
+                            "<span>&nbsp;for local transport and heritage sites.</span>"
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "content": "<span>Day 5</span>"
+                    },
+                    {
+                        "content": [
+                            "<span>Take the </span>",
+                            "<span>&nbsp;railway train from Douglas to Port Erin</span>"
+                        ]
+                    },
+                    {
+                        "content": [
+                            "<span>Free time, then coach to Castletown – former </span>",
+                            "<span>&nbsp;has old castle.</span>"
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "content": "<span>Day 6</span>"
+                    },
+                    {
+                        "content": "<span>Leave</span>"
+                    },
+                    {
+                        "content": "<span>Leave the island by ferry or plane</span>"
+                    }
+                ]
+            ]
+        },
+        "21": {
+            "question": [
+                "<span><strong>Position in family</strong></span><br><span>&bull; the eldest child </span>"
+            ]
+        },
+        "22": {
+            "question": [
+                "<span></span><br><span>&bull; a middle child </span>"
+            ]
+        },
+        "23": {
+            "question": [
+                "<span></span><br><span>&bull; the youngest child </span>"
+            ]
+        },
+        "24": {
+            "question": [
+                "<span></span><br><span>&bull; a twin </span>"
+            ]
+        },
+        "25": {
+            "question": [
+                "<span></span><br><span>&bull; an only child </span>"
+            ]
+        },
+        "26": {
+            "question": [
+                "<span></span><br><span>&bull; a child with much older siblings </span>",
+                "<span></span>"
+            ],
+            "options": [
+                "outgoing",
+                "selfish",
+                "independent",
+                "attention-seeking",
+                "introverted",
+                "co-operative",
+                "caring",
+                "competitive"
+            ]
+        },
+        "27": {
+            "question": "<span>What do the speakers say about the evidence relating to birth order and academic success?</span>",
+            "options": [
+                "There is conflicting evidence about whether oldest children perform best in intelligence tests",
+                "There is little doubt that birth order has less influence on academic achievement than socio-economic status",
+                "Some studies have neglected to include important factors such as family size"
+            ]
+        },
+        "28": {
+            "question": "<span>What does Ruth think is surprising about the difference in oldest children&rsquo;s academic performance?</span>",
+            "options": [
+                "It is mainly thanks to their roles as teachers for their younger siblings",
+                "The advantages they have only lead to a slightly higher level of achievement",
+                "The extra parental attention they receive at a young age makes little difference"
+            ]
+        },
+        "29": {
+            "question": ""
+        },
+        "30": {
+            "question": "<span>Which&nbsp;<strong>TWO</strong>&nbsp;experiences of sibling rivalry do the speakers agree has been valuable for them?</span>",
+            "options": [
+                "learning to share",
+                "learning to stand up for oneself",
+                "learning to be a good loser",
+                "learning to be tolerant",
+                "learning to say sorry"
+            ]
+        },
+        "31": {
+            "question": [
+                "<span><strong>Importance</strong></span><br><span>&nbsp; &nbsp;&bull; it provides </span>"
+            ]
+        },
+        "32": {
+            "question": [
+                "<span>&nbsp;and food for a wide range of species</span><br><span>&nbsp; &nbsp;&bull; its leaves provide </span>"
+            ]
+        },
+        "33": {
+            "question": [
+                "<span>&nbsp;which is used to make a disinfectant</span><br><span><strong>Reasons for present decline in number</strong></span><br><span><strong>A) Diseases</strong></span><br><span>(i)&nbsp;&nbsp; &lsquo;Mundulla Yellows&rsquo;</span><br><span>&nbsp; &nbsp;&bull; Cause&nbsp;&nbsp; &ndash; lime used for making </span>"
+            ]
+        },
+        "34": {
+            "question": [
+                "<span>&nbsp;was absorbed</span><br><span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&ndash; trees were unable to take in necessary iron through their roots</span><br><span>(ii)&nbsp;&nbsp; &lsquo;Bell-miner Associated Die-back&rsquo;</span><br><span>&nbsp; &nbsp;&bull; Cause&nbsp;&nbsp; &ndash; </span>"
+            ]
+        },
+        "35": {
+            "question": [
+                "<span>&nbsp;feed on eucalyptus leaves</span><br><span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &ndash; they secrete a substance containing sugar</span><br><span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &ndash; bell-miner birds are attracted by this and keep away other species</span><br><span><strong>B) Bushfires</strong></span><br><span>William Jackson&rsquo;s theory:</span><br><span>&nbsp; &nbsp;&bull; high-frequency bushfires have impact on vegetation, resulting in the growth of </span>"
+            ]
+        },
+        "36": {
+            "question": [
+                "<span></span><br><span>&nbsp; &nbsp;&bull; mid-frequency bushfires result in the growth of eucalyptus forests, because they:</span><br><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &ndash; make more </span>"
+            ]
+        },
+        "37": {
+            "question": [
+                "<span>&nbsp;available to the trees</span><br><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &ndash; maintain the quality of the </span>"
+            ]
+        },
+        "38": {
+            "question": [
+                "<span></span><br><span>&nbsp; &nbsp;&bull; low-frequency bushfires result in the growth of '</span>"
+            ]
+        },
+        "39": {
+            "question": [
+                "<span>&nbsp;rainforest&rsquo;, which is:</span><br><span>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&ndash; a </span>"
+            ]
+        },
+        "40": {
+            "question": [
+                "<span>&nbsp;Ecosystem</span><br><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &ndash; an ideal environment for the </span>",
+                "<span>&nbsp;of the bell-miner</span>"
+            ]
+        }
+    },
+    "answers": {
+        "transcripts": {
+            "1": "<span>AMBER:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hello William. This is Amber &ndash; you said to phone if I wanted to get more information about the job agency you mentioned. Is now a good time?</span><br><span>WILLIAM:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Oh, hi Amber. Yes. Fine. So the agency I was talking about is called Bankside &ndash; they&rsquo;re based in Docklands &ndash; I can tell you the address now &ndash; 497 Eastside.</span><br><span>AMBER:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; OK, thanks. So is there anyone in particular I should speak to there?</span><br><span>WILLIAM:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The agent I always deal with is called Becky Jamieson.</span><br><span>AMBER:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Let me write that down &ndash; Becky &hellip;</span><br><span>WILLIAM:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Jamieson J-A-M-I-E-S-O-N.</span><br><span>AMBER:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Do you have her direct line?</span><br><span>WILLIAM:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Yes, it&rsquo;s in my contacts somewhere &ndash; right, here we are: 078 double 6, 510 triple 3. I wouldn&rsquo;t call her until the afternoon if I were you &ndash; she&rsquo;s always really busy in the morning trying to fill last-minute vacancies. She&rsquo;s really helpful and friendly so I&rsquo;m sure it would be worth getting in touch with her for an informal chat.</span><br><span>AMBER:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; It&rsquo;s mainly clerical and admin jobs they deal with, isn&rsquo;t it?</span><br><span>WILLIAM:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; That&rsquo;s right. I know you&rsquo;re hoping to find a full-time job in the media eventually &ndash; but Becky mostly recruits temporary staff for the finance sector &ndash; which will look good on your CV &ndash; and generally pays better too.</span><br><span>AMBER:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Yeah &ndash; I&rsquo;m just a bit worried because I don&rsquo;t have much office experience.</span><br><span>WILLIAM:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I wouldn&rsquo;t worry. They&rsquo;ll probably start you as a receptionist, or something like that. So what&rsquo;s important for that kind of job isn&rsquo;t so much having business skills or knowing lots of different computer systems &ndash; it&rsquo;s communication that really matters &ndash; so you&rsquo;d be fine there. And you&rsquo;ll pick up office skills really quickly on the job. It&rsquo;s not that complicated.</span><br><span>AMBER:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; OK good. So how long do people generally need temporary staff for? It would be great if I could get something lasting at least a month.</span><br><span>WILLIAM:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; That shouldn&rsquo;t be too difficult. But you&rsquo;re more likely to be offered something for a week at first, which might get extended. It&rsquo;s unusual to be sent somewhere for just a day or two.</span><br><span>AMBER:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Right, I&rsquo;ve heard the pay isn&rsquo;t too bad &ndash; better than working in a shop or a restaurant.</span><br><span>WILLIAM:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Oh yes &ndash; definitely. The hourly rate is about &pound;10, 11 if you&rsquo;re lucky.</span><br><span>AMBER:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; That&rsquo;s pretty good. I was only expecting to get eight or nine pounds an hour.</span><br><span>______________________________</span><br><span>WILLIAM:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Do you want me to tell you anything about the registration process?</span><br><span>AMBER:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Yes, please. I know you have to have an interview.</span><br><span>WILLIAM:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The interview usually takes about an hour and you should arrange that about a week in advance.</span><br><span>AMBER:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I suppose I should dress smartly if it&rsquo;s for office work &ndash; I can probably borrow a suit from Mum.</span><br><span>WILLIAM:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Good idea. It&rsquo;s better to look too smart than too casual.</span><br><span>AMBER:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Will I need to bring copies of my exam certificates or anything like that?</span><br><span>WILLIAM:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; No &ndash; they don&rsquo;t need to see those, I don&rsquo;t think.</span><br><span>AMBER:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; What about my passport?</span><br><span>WILLIAM:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Oh yes &ndash; they will ask to see that.</span><br><span>AMBER:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; OK.</span><br><span>WILLIAM:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I wouldn&rsquo;t get stressed about the interview though. It&rsquo;s just a chance for them to build a relationship with you &ndash; so they can try and match you to a job which you&rsquo;ll like. So there are questions about personality that they always ask candidates &ndash; fairly basic ones. And they probably won&rsquo;t ask anything too difficult like what your plans are for the future.</span><br><span>AMBER:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hope not.</span><br><span>WILLIAM:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Anyway, there are lots of benefits to using an agency &ndash; for example, the interview will be useful because they&rsquo;ll give you feedback on your performance so you can improve next time.</span><br><span>AMBER:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; And they&rsquo;ll have access to jobs which aren&rsquo;t advertised.</span><br><span>WILLIAM:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Exactly &ndash; most temporary jobs aren&rsquo;t advertised.</span><br><span>AMBER:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; And I expect finding a temporary job this way takes a lot less time &ndash; it&rsquo;s much easier than ringing up individual companies.</span><br><span>WILLIAM:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Yes indeed. Well I think &hellip;</span>",
+            "2": "<span>Good morning. My name&rsquo;s Erica Matthews, and I&rsquo;m the owner of Matthews Island Holidays, a company set up by my parents. Thank you for coming to this presentation, in which I hope to interest you in what we have to offer. We&rsquo;re a small, family-run company, and we believe in the importance of the personal touch, so we don&rsquo;t aim to compete with other companies on the number of customers. What we do is build on our&nbsp;many years&rsquo; experience &ndash; more than almost any other rail holiday company&nbsp;&ndash; to ensure we provide perfect holidays in a small number of destinations, which we&rsquo;ve got to know extremely well.</span><br><span>I&rsquo;ll start with our six-day Isle of Man holiday. This is a fascinating island in the Irish Sea, with Wales to the south, England to the east, Scotland to the north and Northern Ireland to the west. Our holiday starts in&nbsp;Heysham, where your tour manager will meet you, then you&rsquo;ll travel by ferry to the Isle of Man. Some people prefer to fly from Luton instead, and another popular option is to go by train to Liverpool and take a ferry from there.</span><br><span>You have five nights in the hotel, and the price covers five breakfasts and dinners, and&nbsp;lunch on the three days when there are organised trips: day four is free, and most people have lunch in a caf&eacute; or restaurant in Douglas.</span><br><span>The price of the holiday includes the ferry to the Isle of Man, all travel on the island, the hotel, and the meals I&rsquo;ve mentioned. Incidentally, we try to make booking our holidays as simple and fair as possible, so unlike with many companies, the price is the same whether you book six months in advance or at the last minute, and there&rsquo;s no supplement for single rooms in hotels.&nbsp;If you make a booking then need to change the start date, for example because of illness, you&rsquo;re welcome to change to an alternative date or a different tour, for a small administrative fee.</span><br><span>__________________________</span><br><span>OK, so what does the holiday consist of? Well, on day one you&rsquo;ll arrive in time for a short introduction by your tour manager, followed by dinner in the hotel. The dining room looks out at the&nbsp;river, close to where it flows into the harbour, and there&rsquo;s usually plenty of activity going on.</span><br><span>On day two you&rsquo;ll take the coach to the small town of Peel, on the way calling in at the Tynwald Exhibition. The Isle of Man isn&rsquo;t part of the United Kingdom, and it has its own parliament, called Tynwald. It&rsquo;s claimed that this is the world&rsquo;s oldest parliament that&rsquo;s still functioning, and that it dates back to 979. However, the earliest surviving reference to it is from&nbsp;1422, so perhaps it isn&rsquo;t quite as old as it claims!</span><br><span>Day three we have a trip to the mountain Snaefell. This begins with a leisurely ride along the promenade in Douglas in a horse-drawn tram. Then you board an electric train which takes you to the fishing village of Laxey. From there it&rsquo;s an eight-kilometre ride in the Snaefell Mountain Railway to the&nbsp;top. Lunch will be in the caf&eacute;, giving you spectacular views of the island.</span><br><span>Day four is free for you to explore, using the&nbsp;pass&nbsp;which we&rsquo;ll give you. So you won&rsquo;t have to pay for travel on local transport, or for entrance to the island&rsquo;s heritage sites. Or you might just want to take it easy in Douglas and perhaps do a little light shopping.</span><br><span>The last full day, day five, is for some people the highlight of the holiday, with a ride on the&nbsp;steam&nbsp;railway, from Douglas to Port Erin. After some time to explore, a coach will take you to the headland that overlooks the Calf of Man, a small island just off the coast. From there you continue to Castletown, which used to be the&nbsp;capital&nbsp;of the Isle of Man, and its mediaeval castle.</span><br><span>And on day six it&rsquo;s back to the ferry &ndash; or the airport, if you flew to the island &ndash; and time to go home.</span><br><span>Now I&rsquo;d like to tell you &hellip;</span>",
+            "3": "<span>RUTH:&nbsp;&nbsp; Ed, how are you getting on with the reading for our presentation next week?</span><br><span>ED:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Well, OK, Ruth &ndash; but there&rsquo;s so much of it.</span><br><span>RUTH:&nbsp;&nbsp; I know, I hadn&rsquo;t realised birth order was such a popular area of research.</span><br><span>ED:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; But the stuff on birth order and personality is mostly unreliable. From what I&rsquo;ve been reading a lot of claims about how your position in the family determines certain personality traits are just stereotypes, with no robust evidence to support them.</span><br><span>RUTH:&nbsp;&nbsp; OK, but that&rsquo;s an interesting point &ndash; we could start by outlining what previous research has shown. There are studies going back over a hundred years.</span><br><span>ED:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Yeah &ndash; so we could just run through some of the typical traits. Like the consensus seems to be that oldest children are generally less well-adjusted because they never get over the arrival of a younger sibling.</span><br><span>RUTH:&nbsp;&nbsp; Right, but on a positive note, some studies claimed that&nbsp;they were thought to be good a nurturing &ndash; certainly in the past when people had large families they would have been expected to look after the younger ones.</span><br><span>ED:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; There isn&rsquo;t such a clear picture for middle children &ndash; but one trait that a lot of the studies mention is that they are easier to get on with than older or younger siblings.</span><br><span>RUTH:&nbsp;&nbsp;&nbsp;Generally eager to please and helpful&nbsp;&ndash; although that&rsquo;s certainly not accurate as far as my family goes &ndash; my middle brother was a nightmare &ndash; always causing fights and envious of whatever I had.</span><br><span>ED:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; As I said &ndash; none of this seems to relate to my own experience. I&rsquo;m the youngest in my family and I don&rsquo;t recognise myself in any of the studies I&rsquo;ve read about. I&rsquo;m supposed to have been&nbsp;a sociable and confident child who made friends easily&nbsp;&ndash; but I was actually terribly shy.</span><br><span>RUTH:&nbsp;&nbsp; Really? That&rsquo;s funny. There have been hundreds of studies on twins but mostly about nurture versus nature&hellip;</span><br><span>ED:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; There was one on personality, which said that a twin is likely to be&nbsp;quite shy in social situations&nbsp; &nbsp; &nbsp;because they always have their twin around to depend on for support.</span><br><span>RUTH:&nbsp;&nbsp; My cousins were like that when they were small &ndash; they were only interested in each other and found it hard to engage with other kids. They&rsquo;re fine now though.</span><br><span>ED:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Only children have had a really bad press &ndash; a lot of studies have branded them as&nbsp;loners who think the world revolves around them&nbsp;because they&rsquo;ve never had to fight for their parents&rsquo; attention.</span><br><span>RUTH:&nbsp;&nbsp; That does seem a bit harsh. One category I hadn&rsquo;t considered before was children with much older siblings &ndash; a couple of studies mentioned that these children&nbsp;grow up more quickly and are expected to do basic things for themselves &ndash; like getting dressed.</span><br><span>ED:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I can see how that might be true &ndash; although I expect they&rsquo;re sometimes the exact opposite &ndash; playing the baby role and clamouring for special treatment.</span><br><span>___________________________</span><br><span>RUTH:&nbsp;&nbsp; What was the problem with most of these studies, do you think?</span><br><span>ED:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I think it was because in a lot of cases data was collected from only one sibling per family, who rated him or herself and his or her siblings at the same time.</span><br><span>RUTH:&nbsp;&nbsp; Mmm. Some of the old research into the relationship between birth order and academic achievement has been proved to be accurate though. Performances in intelligence tests decline slightly from the eldest child to his or her younger siblings. This has been proved in lots of recent studies.</span><br><span>ED:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Yes.&nbsp;Although what many of them didn&rsquo;t take into consideration was family size. The more siblings there are, the likelier the family is to have a low socioeconomic status &ndash; which can also account for differences between siblings in academic performance.</span><br><span>RUTH:&nbsp;&nbsp; The oldest boy might be given more opportunities than his younger sisters, for example.</span><br><span>ED:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Exactly.</span><br><span>RUTH:&nbsp;&nbsp; But the main reason for the marginally higher academic performance of oldest children is quite surprising, I think. It&rsquo;s not only that they benefit intellectually from extra attention at a young age &ndash; which is what I would have expected.&nbsp;It&rsquo;s that they benefit from being teachers for their younger siblings, by verbalising processes.</span><br><span>ED:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Right, and this gives them status and confidence, which again contribute, in a small way, to better performance.</span><br><span>So would you say sibling rivalry has been a useful thing for you?</span><br><span>RUTH:&nbsp;&nbsp; I think so &ndash; my younger brother was incredibly annoying and we found a lot but I think this has made me a stronger person.&nbsp;I know how to defend myself. We had some terrible arguments and I would have died rather than apologise to him &ndash; but&nbsp;we had to put up with each other&nbsp;and most of the time we co-existed amicably enough.</span><br><span>ED:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Yes, my situation was pretty similar. But I don&rsquo;t think having two older brothers made me any less selfish &ndash; I was never prepared to let me brothers use any of my stuff &hellip;</span><br><span>RUTH:&nbsp;&nbsp; That&rsquo;s perfectly normal, whereas &hellip;</span>",
+            "4": "<span>Today I&rsquo;m going to talk about the eucalyptus tree. This is a very common tree here in Australia, where it&rsquo;s also sometimes called the gum tree. First I&rsquo;m going to talk about why it&rsquo;s important, then I&rsquo;m going to describe some problems it faces at present.</span><br><span>Right, well the eucalyptus tree is an important tree for lots of reasons. For example, it gives&nbsp;shelter&nbsp;to creatures like birds and bats, and these and other species also depend on it for food, particularly the nectar from its flowers. So it supports biodiversity. It&rsquo;s useful to us humans too, because we can kill germs with a disinfectant made from&nbsp;oil extracted from eucalyptus leaves.</span><br><span>The eucalyptus grows all over Australia and the trees can live for up to four hundred years. So it&rsquo;s alarming that all across the country, numbers of eucalyptus are falling because the trees are dying off prematurely. So what are the reasons for this?</span><br><span>One possible reason is disease. As far back as the 1970s the trees started getting a disease called Mundulla Yellows. The trees&rsquo; leaves would gradually turn yellow, then the tree would die. It wasn&rsquo;t until 2004 that they found the cause of the problem was lime, or calcium hydroxide to give it its proper chemical name, which was being used in the construction of&nbsp;roads. The lime was being washed away into the ground and affecting the roots of the eucalyptus trees nearby. What is was doing was preventing the trees from sucking up the iron they needed for healthy growth. When this was injected back into the affected trees, they immediately recovered.</span><br><span>But this problem only affected a relatively small number of trees. By 2000, huge numbers of eucalyptus were dying along Australia&rsquo;s East Coast, of a disease known as Bell-miner Associated Die-back. The bell-miner is a bird, and the disease seems to be common where there are high populations of bell-miners. Again it&rsquo;s the leaves of the trees that are affected. What happens is that insects settle on the leaves and eat their way round them, destroying them as they go, and at the same time they secrete a solution which has sugar in it. The bell-miner birds really like this solution, and in order to get as much as possible, they keep away other creatures that might try to get it. So these birds and insects flourish at the expense of other species, and eventually so much damage is done to the leaves that the tree dies.</span><br><span>_____________________</span><br><span>But experts say that trees can start looking sick before any sign of Bell-miner Associated Die-back. So it looks as if the problem might have another explanation. One possibility is that it&rsquo;s to do with the huge bushfires that we have in Australia. A theory proposed over 40 years ago be ecologist William Jackson is that the&nbsp;<em>frequency</em> of bushfires in a particular region affects the type of vegetation that grows there. If there are very frequent bushfires in a region, this encourages&nbsp;grass to grow afterwards, while if the bushfires are rather less frequent, this results in the growth of eucalyptus forests.</span><br><span>So why is this? Why do fairly frequent bushfires actually support the growth of eucalyptus? Well, one reason is that the fire stops the growth of other species which would consume water needed by eucalyptus trees. And there&rsquo;s another reason. If these other quick-growing species of bushes and plants are allowed to proliferate, they harm the eucalyptus in another way, by affecting the composition of the soil, and removing nutrients from it. So some bushfires are actually essential for the eucalyptus to survive as long as they are not too frequent. In fact there&rsquo;s evidence that Australia&rsquo;s indigenous people practised regular burning of bush land for thousands of years before the arrival of the Europeans.</span><br><span>But since Europeans arrived on the continent, the number of bushfires has been strictly controlled. Now scientists believe that this reduced frequency of bushfires to low levels had led to what&rsquo;s known as &lsquo;dry rainforest&rsquo;, which seems an odd name as usually we associate tropical rainforest with wet conditions. And what&rsquo;s special about this type of rainforest? Well, unlike tropical rainforest which is a rich ecosystem, this type of ecosystem is usually a simple one. It has very thick, dense vegetation, but not much variety of species. The vegetation provides lots of shade, so one species that does find it ideal is the bell-miner bird, which builds its nests in the undergrowth there. But again that&rsquo;s not helpful for the eucalyptus tree.</span>"
+        },
+        "answer_sheet": {
+            "1": {
+                "answer": [
+                    "Jamieson"
+                ],
+                "explanation": "Jamieson J-A-M-I-E-S-O-N."
+            },
+            "2": {
+                "answer": [
+                    "afternoon"
+                ],
+                "explanation": "I wouldn’t call her until the afternoon if I were you – she’s always really busy in the morning trying to fill last-minute vacancies."
+            },
+            "3": {
+                "answer": [
+                    "communication"
+                ],
+                "explanation": "it’s communication that really matters"
+            },
+            "4": {
+                "answer": [
+                    "week"
+                ],
+                "explanation": "But you’re more likely to be offered something for a week at first"
+            },
+            "5": {
+                "answer": [
+                    "10",
+                    "ten"
+                ],
+                "explanation": "The hourly rate is about £10, 11 if you’re lucky."
+            },
+            "6": {
+                "answer": [
+                    "suit"
+                ],
+                "explanation": "I can probably borrow a suit from Mum."
+            },
+            "7": {
+                "answer": [
+                    "passport"
+                ],
+                "explanation": "What about my passport?"
+            },
+            "8": {
+                "answer": [
+                    "personality"
+                ],
+                "explanation": "So there are questions about personality"
+            },
+            "9": {
+                "answer": [
+                    "feedback"
+                ],
+                "explanation": "the interview will be useful because they’ll give you feedback on your performance so you can improve next time."
+            },
+            "10": {
+                "answer": [
+                    "time"
+                ],
+                "explanation": "And I expect finding a temporary job this way takes a lot less time"
+            },
+            "11": {
+                "answer": [
+                    "has been in business for longer than most of its competitors"
+                ],
+                "explanation": "What we do is build on our many years’ experience – more than almost any other rail holiday company"
+            },
+            "12": {
+                "answer": [
+                    "Heysham"
+                ],
+                "explanation": "Our holiday starts in Heysham, where your tour manager will meet you"
+            },
+            "13": {
+                "answer": [
+                    "three"
+                ],
+                "explanation": "lunch on the three days when there are organised trips"
+            },
+            "14": {
+                "answer": [
+                    "transferring to another date"
+                ],
+                "explanation": "If you make a booking then need to change the start date, for example because of illness, you’re welcome to change to an alternative date or a different tour, for a small administrative fee."
+            },
+            "15": {
+                "answer": [
+                    "river"
+                ],
+                "explanation": "The dining room looks out at the river"
+            },
+            "16": {
+                "answer": [
+                    "1422"
+                ],
+                "explanation": "the earliest surviving reference to it is from 1422"
+            },
+            "17": {
+                "answer": [
+                    "top"
+                ],
+                "explanation": "From there it’s an eight-kilometre ride in the Snaefell Mountain Railway to the top"
+            },
+            "18": {
+                "answer": [
+                    "pass"
+                ],
+                "explanation": "Day four is free for you to explore, using the pass which we’ll give you."
+            },
+            "19": {
+                "answer": [
+                    "steam"
+                ],
+                "explanation": "with a ride on the steam railway"
+            },
+            "20": {
+                "answer": [
+                    "capital"
+                ],
+                "explanation": "which used to be the capital of the Isle of Man, and its mediaeval castle."
+            },
+            "21": {
+                "answer": [
+                    "caring"
+                ],
+                "explanation": "they were thought to be good a nurturing – certainly in the past when people had large families they would have been expected to look after the younger ones."
+            },
+            "22": {
+                "answer": [
+                    "co-operative"
+                ],
+                "explanation": "Generally eager to please and helpful"
+            },
+            "23": {
+                "answer": [
+                    "outgoing"
+                ],
+                "explanation": "I’m supposed to have been a sociable and confident child who made friends easily"
+            },
+            "24": {
+                "answer": [
+                    "introverted"
+                ],
+                "explanation": "There was one on personality, which said that a twin is likely to be quite shy in social situations"
+            },
+            "25": {
+                "answer": [
+                    "selfish"
+                ],
+                "explanation": "a lot of studies have branded them as loners who think the world revolves around them"
+            },
+            "26": {
+                "answer": [
+                    "independent"
+                ],
+                "explanation": "a couple of studies mentioned that these children grow up more quickly and are expected to do basic things for themselves – like getting dressed."
+            },
+            "27": {
+                "answer": [
+                    "Some studies have neglected to include important factors such as family size"
+                ],
+                "explanation": "Although what many of them didn’t take into consideration was family size"
+            },
+            "28": {
+                "answer": [
+                    "It is mainly thanks to their roles as teachers for their younger siblings"
+                ],
+                "explanation": "It’s that they benefit from being teachers for their younger siblings, by verbalising processes."
+            },
+            "29": {
+                "answer": [
+                    "learning to stand up for oneself"
+                ],
+                "explanation": "I know how to defend myself"
+            },
+            "30": {
+                "answer": [
+                    "learning to be tolerant"
+                ],
+                "explanation": "we had to put up with each other"
+            },
+            "31": {
+                "answer": [
+                    "shelter"
+                ],
+                "explanation": "it gives shelter to creatures like birds and bats"
+            },
+            "32": {
+                "answer": [
+                    "oil"
+                ],
+                "explanation": "we can kill germs with a disinfectant made from oil extracted from eucalyptus leaves."
+            },
+            "33": {
+                "answer": [
+                    "roads"
+                ],
+                "explanation": "which was being used in the construction of roads."
+            },
+            "34": {
+                "answer": [
+                    "insects"
+                ],
+                "explanation": "What happens is that insects settle on the leaves"
+            },
+            "35": {
+                "answer": [
+                    "grass",
+                    "grasses"
+                ],
+                "explanation": "this encourages grass to grow afterwards"
+            },
+            "36": {
+                "answer": [
+                    "water"
+                ],
+                "explanation": "one reason is that the fire stops the growth of other species which would consume water needed by eucalyptus trees"
+            },
+            "37": {
+                "answer": [
+                    "soil"
+                ],
+                "explanation": "they harm the eucalyptus in another way, by affecting the composition of the soil"
+            },
+            "38": {
+                "answer": [
+                    "dry"
+                ],
+                "explanation": "Now scientists believe that this reduced frequency of bushfires to low levels had led to what’s known as ‘dry rainforest’"
+            },
+            "39": {
+                "answer": [
+                    "simple"
+                ],
+                "explanation": "this type of ecosystem is usually a simple one"
+            },
+            "40": {
+                "answer": [
+                    "nest",
+                    "nests"
+                ],
+                "explanation": "which builds its nests in the undergrowth there"
+            }
+        }
+    }
+}

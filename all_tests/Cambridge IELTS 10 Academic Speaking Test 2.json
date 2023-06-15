@@ -1,1 +1,41 @@
-{"name":"Cambridge IELTS 10 Academic Speaking Test 2","id":"C_10_A_2_S","ielts_test_id":"C_10_A_2","type":"speaking","image":"C_10_A_2_S","passages":[{"title":"Music","questions":["<span>What types of music do you like to listen to? [Why?]</span>","<span>At what times of day do you like to listen to music? [Why?]</span>","<span>Did you learn to play a musical instrument when you were a child? [Why/Why not?]</span>","<span>Do you think all children should learn to play a musical instrument? [Why/why not?]</span>"],"start":1,"end":1},{"title":"Describe a shop","questions":["<span>Describe a shop near where you live that you sometimes use.</span><br><span>You should say:</span><br><span>&nbsp; &nbsp;what sorts of product or service it sells</span><br><span>&nbsp; &nbsp;what the shop looks like</span><br><span>&nbsp; &nbsp;where it is located</span><br><span>and explain why you use this shop.</span>"],"start":2,"end":2},{"title":"Local business & People and business","questions":["<span>What types of local business are there in your neighbourhood? Are there any restaurants, shops, or dentists for example?</span>","<span>Do you think local businesses are important for a neighborhood? In what way?</span>","<span>How do large shopping malls and commercial centres affect small local businesses? Why do you think that is?</span>","<span>Why do some people want to start their own business?</span>","<span>Are there any disadvantages to running a business? Which is the most serious?</span>","<span>What are the most important qualities that a good business person needs? Why is that?</span>"],"start":3,"end":3}]}
+{
+    "name": "Cambridge IELTS 10 Academic Speaking Test 2",
+    "id": "C_10_A_2_S",
+    "ielts_test_id": "C_10_A_2",
+    "type": "speaking",
+    "image": "C_10_A_2_S",
+    "passages": [
+        {
+            "title": "Music",
+            "questions": [
+                "<span>What types of music do you like to listen to? [Why?]</span>",
+                "<span>At what times of day do you like to listen to music? [Why?]</span>",
+                "<span>Did you learn to play a musical instrument when you were a child? [Why/Why not?]</span>",
+                "<span>Do you think all children should learn to play a musical instrument? [Why/why not?]</span>"
+            ],
+            "start": 1,
+            "end": 1
+        },
+        {
+            "title": "Describe a shop",
+            "questions": [
+                "<span>Describe a shop near where you live that you sometimes use.</span><br><span>You should say:</span><br><span>&nbsp; &nbsp;what sorts of product or service it sells</span><br><span>&nbsp; &nbsp;what the shop looks like</span><br><span>&nbsp; &nbsp;where it is located</span><br><span>and explain why you use this shop.</span>"
+            ],
+            "start": 2,
+            "end": 2
+        },
+        {
+            "title": "Local business & People and business",
+            "questions": [
+                "<span>What types of local business are there in your neighbourhood? Are there any restaurants, shops, or dentists for example?</span>",
+                "<span>Do you think local businesses are important for a neighborhood? In what way?</span>",
+                "<span>How do large shopping malls and commercial centres affect small local businesses? Why do you think that is?</span>",
+                "<span>Why do some people want to start their own business?</span>",
+                "<span>Are there any disadvantages to running a business? Which is the most serious?</span>",
+                "<span>What are the most important qualities that a good business person needs? Why is that?</span>"
+            ],
+            "start": 3,
+            "end": 3
+        }
+    ]
+}

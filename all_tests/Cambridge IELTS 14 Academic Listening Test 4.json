@@ -1,1 +1,595 @@
-{"name":"Cambridge IELTS 14 Academic Listening Test 4","id":"C_14_A_4_L","ielts_test_id":"C_14_A_4","type":"listening","image":"C_14_A_4_L","passages":[{"title":"Enquiry about booking hotel room for event","audio":"C_14_A_4_L_1","image":"","start":1,"end":10},{"title":"","audio":"C_14_A_4_L_2","image":"","start":11,"end":20},{"title":"","audio":"C_14_A_4_L_3","image":"","start":21,"end":30},{"title":"The hunt for sunken settlements and ancient shipwrecks","audio":"C_14_A_4_L_4","image":"","start":31,"end":40}],"question_sections":[{"custom_instruction":"ONE WORD AND/OR A NUMBER","type":"sentence_completion","start":1,"end":7},{"custom_instruction":"What is said about using each of the following hotel facilities?","type":"drop_information","start":8,"end":10},{"custom_instruction":"What information does the speaker give about each of the following excursions?","type":"drop_information","start":11,"end":16},{"custom_instruction":"TWO","type":"multiple_choices","start":17,"end":18},{"custom_instruction":"TWO","type":"multiple_choices","start":19,"end":20},{"type":"one_choice","start":21,"end":25},{"custom_instruction":"What comment is made about each of these stories?","type":"drop_information","start":26,"end":30},{"custom_instruction":"ONE WORD ONLY","type":"sentence_completion","start":31,"end":40}],"questions":{"1":{"question":["<h3><em>Example</em></h3><br><span>Andrew is the &hellip;&hellip;<em>Events</em>&hellip;&hellip; Manager</span><br><span><strong>Rooms</strong></span><br><span>Adelphi Room</span><br><span>&nbsp; &nbsp;number of people who can sit down to eat: </span>"]},"2":{"question":["<span></span><br><span>&nbsp; &nbsp;has a gallery suitable for musicians</span><br><span>&nbsp; &nbsp;can go out and see the </span>"]},"3":{"question":["<span>&nbsp;in pots on the terrace</span><br><span>&nbsp; &nbsp;terrace has a view of a group of </span>"]},"4":{"question":["<span></span><br><span>Carlton Room</span><br><span>&nbsp; &nbsp; number of people who can sit down to eat: 110</span><br><span>&nbsp; &nbsp; has a </span>"]},"5":{"question":["<span></span><br><span>&nbsp; &nbsp; View of the lake</span><br><span><strong>Options</strong></span><br><span>Master of Ceremonies:</span><br><span>&nbsp; &nbsp; can give a </span>"]},"6":{"question":["<span>&nbsp;while people are eating</span><br><span>&nbsp; &nbsp; will provide </span>"]},"7":{"question":["<span>&nbsp;if there are any problems</span><br><span>Accommodation:</span><br><span>&nbsp; &nbsp; in the hotel rooms or </span>","<span></span>"]},"8":{"question":["<span><strong>Hotel facilities</strong></span><br><span>&nbsp; &nbsp;&bull; outdoor swimming pool </span>"]},"9":{"question":["<span></span><br><span>&nbsp; &nbsp;&bull; gym </span>"]},"10":{"question":["<span></span><br><span>&nbsp; &nbsp;&bull; tennis courts </span>","<span></span>"],"options":["included in cost of hiring room","available at extra charge","not available"]},"11":{"question":["<span><strong>Excursions</strong></span><br><span>&nbsp; &nbsp;&bull; dolphin watching </span>"]},"12":{"question":["<span></span><br><span>&nbsp; &nbsp;&bull; forest walk </span>"]},"13":{"question":["<span></span><br><span>&nbsp; &nbsp;&bull; cycle trip </span>"]},"14":{"question":["<span></span><br><span>&nbsp; &nbsp;&bull; local craft tour </span>"]},"15":{"question":["<span></span><br><span>&nbsp; &nbsp;&bull; observatory trip </span>"]},"16":{"question":["<span></span><br><span>&nbsp; &nbsp;&bull; horse riding </span>","<span></span>"],"options":["all downhill","suitable for beginners","only in good weather","food included","no charge","swimming possible","fully booked today","transport not included"]},"17":{"question":""},"18":{"question":"<span>Which&nbsp;<strong>TWO</strong>&nbsp;things does the speaker say about the attraction called&nbsp;<em>Musical Favourites</em>?</span>","options":["You pay extra for drinks","You must book it in advance","You get a reduction if you buy two tickets","You can meet the performers","You can take part in the show"]},"19":{"question":""},"20":{"question":"<span>Which&nbsp;<strong>TWO</strong>&nbsp;things does the speaker say about the&nbsp;<em>Castle Feast</em>?</span>","options":["Visitors can dance after the meal","There is a choice of food","Visitors wear historical costume","Knives and forks are not used","The entertainment includes horse races"]},"21":{"question":"<span>What does Trevor find interesting about the purpose of children&rsquo;s literature?</span>","options":["the fact that authors may not realise what values they’re teaching","the fact that literature can be entertaining and educational at the same time","the fact that adults expect children to imitate characters in literature"]},"22":{"question":"<span>Trevor says the module about the purpose of children&rsquo;s literature made him</span>","options":["analyse some of the stories that his niece reads","wonder how far popularity reflects good qualify","decide to start writing some children’s stories"]},"23":{"question":"<span>Stephanie is interested in the Pictures module because</span>","options":["she intends to become an illustrator","she can remember beautiful illustrations from her childhood","she believes illustrations are more important than words"]},"24":{"question":"<span>Trevor and Stephanie agree that comics</span>","options":["are inferior to books","have the potential for being useful","discourage children from using their imagination"]},"25":{"question":"<span>With regard to books aimed at only boys or only girls, Trevor was surprised</span>","options":["how long the distinction had gone unquestioned","how few books were aimed at both girls and boys","how many children enjoyed books intended for the opposite sex"]},"26":{"question":["<span><strong>Stories</strong></span><br><span>&nbsp; &nbsp;&bull; Perrault&rsquo;s fairy tales </span>"]},"27":{"question":["<span></span><br><span><em>&nbsp; &nbsp;&bull; The Swiss Family Robinson </span>"]},"28":{"question":["<span></em></span><br><span><em>&nbsp; &nbsp;&bull; The Nutcracker and the Mouse King </span>"]},"29":{"question":["<span></em></span><br><span><em>&nbsp; &nbsp;&bull; The Lord of the Rings </span>"]},"30":{"question":["<span></em></span><br><span><em>&nbsp; &nbsp;&bull; War Horse </span>","<span></em></span>"],"options":["translated into many other languages","","hard to read","","inspired a work in a different area of art","","more popular than the author’s other works","","original title refers to another book","","started a new genre","","unlikely topic"]},"31":{"question":["<span><strong>ATLIT-YAM</strong></span><br><ul><br><li>was a village on coast of eastern Mediterranean</li><br><li>thrived until about 7,000 BC</li><br><li>stones homes had a courtyard</li><br><li>had a semicircle of large stones round a </span>"]},"32":{"question":["<span></li><br><li>cause of destruction unknown &ndash; now under the sea</li><br><li>biggest settlement from the prehistoric period found on the seabed</li><br><li>research carried out into structures, </span>"]},"33":{"question":["<span>&nbsp;and human remains</li><br></ul><br><span><strong>TRADITIOINAL AUTONOMOUS UNDERWATER VEHICLES (AUVs)</strong></span><br><ul><br><li>used in the oil industry, e.g. to make </span>"]},"34":{"question":["<span></li><br><li>problems: they were expensive and </span>"]},"35":{"question":["<span></li><br></ul><br><span><strong>LATEST AUVs</strong></span><br><ul><br><li>much easier to use, relatively cheap, sophisticated</li><br></ul><br><span><strong>Tests</strong>:</span><br><ul><br><li>Marzamemi, Sicily: found ancient Roman ships carrying architectural elements made of </span>"]},"36":{"question":["<span></li><br></ul><br><span><strong>Underwater internet:</strong></span><br><ul><br><li><strong>36</strong>&hellip;&hellip;&hellip;&hellip;&hellip;&hellip; is used for short distance communication, acoustic waves for long distance</li><br><li>plans for communication with researchers by satellite</li><br><li>AUV can send data to another AUV that has better </span>"]},"37":{"question":["<span>, for example</li><br></ul><br><span><strong>Planned research in Gulf of Baratti:</strong></span><br><ul><br><li>to find out more about wrecks of ancient Roman ships, including</li><br></ul><br><span>&nbsp;&nbsp;&nbsp;&nbsp; &ndash;&nbsp; one carrying </span>"]},"38":{"question":["<span> supplies; tables may have been used for cleaning the </span>"]},"39":{"question":["<span></span><br><span>&nbsp;&nbsp;&nbsp;&nbsp; &ndash;&nbsp; others carrying containers of olive oil or </span>"]},"40":{"question":["<span></span>","<span></span>"]}},"answers":{"transcripts":{"1":"<span>ANDREW:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Good morning, Clare House Hotel. Andrew speaking. I&rsquo;m the (<em>Example</em>)&nbsp;Events&nbsp;Manager.</span><br><span>SAM:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Good morning, Andrew. My name&rsquo;s Samantha. I&rsquo;m arranging a party for my parents&rsquo; fiftieth wedding anniversary, and I&rsquo;m ringing to ask about hiring a room some time next September. Also my parents and several of the guests will need accommodation.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><br><span>ANDREW:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; OK, I&rsquo;m sure we can help you with that. Will you be having a sit-down meal or a buffet?</span><br><span>SAM:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Probably a sit-down.</span><br><span>ANDREW:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; And do you know how many people there&rsquo;ll be?</span><br><span>SAM:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Around eighty, I think.</span><br><span>ANDREW:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Well we have two rooms that can hold that number. One is the Adelphi Room. That can seat eighty-five, or hold over a hundred if people are standing for a buffet.</span><br><span>SAM:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Right.</span><br><span>ANDREW:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; If you have live music, there&rsquo;s room for four or five musicians in the gallery overlooking the room. Our guests usually appreciate the fact that the music can be loud enough for dancing, but not too loud for conversation.</span><br><span>SAM:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Yes, I really don&rsquo;t like it when you can&rsquo;t talk.</span><br><span>ANDREW:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Exactly. Now the Adelphi Room is at the back of the hotel, and there are French windows leading out onto the terrace. This has a beautiful display of pots of roses&nbsp;at that time of the year.</span><br><span>SAM:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Which direction does it face?</span><br><span>ANDREW:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Southwest, so that side of the hotel gets the sun in the afternoon and early evening.</span><br><span>SAM:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Very nice.</span><br><span>ANDREW:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; From the terrace you can see the area of trees&nbsp;within the grounds of the hotel, or you can stroll through there to the river &ndash; that&rsquo;s on the far side, so it isn&rsquo;t visible from the hotel.</span><br><span>SAM:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; OK.</span><br><span>ANDREW:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Then another option is the Carlton Room. This is a bit bigger &ndash; it can hold up to a hundred and ten people &ndash; and it has the advantage of a stage, which is useful if you have any entertainment, or indeed a small band can fit onto it.</span><br><span>SAM:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; And can you go outside from the room?</span><br><span>ANDREW:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; No, the Carlton Room is on the first floor, but on one side the windows look out onto the lake.</span><br><span>SAM:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Lovely. I think either of those rooms would be suitable.</span><br><span>ANDREW:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Can I tell you about some of the options we offer in addition?</span><br><span>SAM:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Please do.</span><br><span>ANDREW:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; As well as a meal, you can have an MC, a Master of Ceremonies, who&rsquo;ll be with you throughout the party.</span><br><span>SAM:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; What exactly is the MC&rsquo;s function? I suppose they make a speech&nbsp;during the meal if we need one, do they?</span><br><span>ANDREW:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; That&rsquo;s right. All our MCs are trained as public speakers, so they can easily get people&rsquo;s attention &ndash; many guests are glad to have someone who can make themselves heard above the chatter! And they&rsquo;re also your support&nbsp;&ndash; if anything goes wrong, the MC will deal with it, so you can relax.</span><br><span>SAM:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Great! I&rsquo;ll need to ask you about food, but something else that&rsquo;s important is accommodation. You obviously have rooms in the hotel, but do you also have any other accommodation, like cabins, for example?</span><br><span>ANDREW:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Yes, there are five in the grounds, all self-contained. They each sleep two to four people and have their own living room, bathroom and small kitchen.</span><br><span>SAM:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; That sounds perfect for what we&rsquo;ll need.</span><br><span>___________________________</span><br><span>SAM:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Now you have various facilities, don&rsquo;t you? Are they all included in the price of hiring the room? The pool, for instance.</span><br><span>ANDREW:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Normally you&rsquo;d be able to use it, but it&rsquo;ll be closed throughout September for refurbishment, I&rsquo;m afraid.&nbsp;The gym will be available, though, at no extra charge. That&rsquo;s open all day, from six in the morning until midnight.</span><br><span>SAM:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Right.</span><br><span>ANDREW:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; And the tennis courts, but there is a small additional payment for those. We have four courts, and it&rsquo;s worth booking in advance if you possibly can, as there can be quite a long waiting list for them!</span><br><span>SAM:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Right. Now could we discuss the food? This would be dinner, around seven o&rsquo;clock &hellip;</span>","2":"<span>Hello everyone. I&rsquo;m Jake Stevens and I&rsquo;m your rep here at the hotel. I&rsquo;m sure you&rsquo;ll all have a great time here. So let me tell you a bit about what&rsquo;s on offer. I&rsquo;ll start by telling you about some of the excursions that are available for guests.</span><br><span>One thing you have to do while you&rsquo;re here is go dolphin watching. On our boat trips, we pretty well guarantee you&rsquo;ll see dolphins &ndash; if you don&rsquo;t you can repeat the trip free of charge. We organise daily trips for just 35 euros. Unfortunately&nbsp;there aren&rsquo;t any places left for this afternoon&rsquo;s trip, but come and see me to book for later in the week.</span><br><span>If you&rsquo;re energetic, I&rsquo;d recommend our forest walk. It&rsquo;s a guided walk of about seven kilometres. There&rsquo;ll be a stop half way, and&nbsp;you&rsquo;ll be provided with a drink and sandwiches. There&rsquo;s some fairly steep climbs up the hills, so you need to be reasonably fit for this one, with good shoes, and bring a waterproof in case it rains. It&rsquo;s just 25 euros all inclusive, and it&rsquo;s every Wednesday.</span><br><span>Then on Thursdays we organise a cycle trip, which will give you all the fun of biking without the effort. We&rsquo;ll take you and your bike up to the top of Mount Larna, and leave you to bike back &ndash;&nbsp;it&rsquo;s a 700-metre drop in just 20 kilometres&nbsp;so this isn&rsquo;t really for inexperienced cyclists as you&rsquo;ll be going pretty fast. And if it&rsquo;s a clear day, you&rsquo;ll have fantastic views.</span><br><span>On our local craft tour you can find out about the traditional activities in the island. And the best thing about this trip is that&nbsp;it&rsquo;s completely free. You&rsquo;ll be taken to a factory where jewellery is made, and also a ceramics centre. If you want, you can buy some of the products but that&rsquo;s entirely up to you. The trip starts after lunch on Thursday, and you&rsquo;ll return by 6 pm.</span><br><span>If you&rsquo;re interested in astronomy you may already know that the island&rsquo;s one of the best places in the world to observe the night sky. We can offer trips to the observatory on Friday for those who are interested. They cost 90 euros per person and you&rsquo;ll be shown the huge telescopes and have a talk from an expert, who&rsquo;ll explain all about how they work.&nbsp;Afterwards we&rsquo;ll head down to Sunset Beach, where you can have a dip in the ocean&nbsp;if you want before we head off back to the hotel.</span><br><span>Finally, there&rsquo;s horse riding. This is organised by the Equestrian Centre over near Playa Cortino and it&rsquo;s a great experience if you&rsquo;re a keen horseback rider,&nbsp;or even if you&rsquo;ve never been on a horse before. They take you down to the beach, and you can canter along the sand and through the waves. It costs 35 euros and it&rsquo;s available every day.</span><br><span>________________________</span><br><span>So there&rsquo;s plenty to do in the daytime, but what about night life?</span><br><span>Well, the number one attraction&rsquo;s called &lsquo;Musical Favourites&rsquo;. Guests enjoy a three-course meal and unlimited free drinks, and watch a fantastic show, starting with musicals set in Paris and then crossing the Atlantic to Las Vegas and finally Copacabana. At the end the&nbsp;cast members come down from the stage, still in their stunning costumes, and&nbsp;you&rsquo;ll have a chance to chat with them. It&rsquo;s hugely popular, so let me know now if you&rsquo;re interested because&nbsp;it&rsquo;s no good leaving it until the last minute. It&rsquo;s on Friday night. Tickets are just 50 euros each, but for an extra 10 euros you can have a table right by the stage.</span><br><span>If you&rsquo;d like to go back in time, there&rsquo;s the&nbsp;<em>Castle Feast&nbsp;</em>on Saturday evening. It&rsquo;s held in a twelfth-century castle, and you eat in the great courtyard, with ladies in long gowns serving your food. You&rsquo;re given a whole chicken each, which you eat in the medieval way,&nbsp;using your hands instead of cutlery, and you&rsquo;re entertained by competitions where the horseback riders attempt to knock one another off their horses. Then you can watch the dancers in the ballroom and&nbsp;join in as well if you want. OK, so now if anyone &hellip;</span>","3":"<span>STEPHANIE:&nbsp;&nbsp;&nbsp;&nbsp; Hello, Trevor.</span><br><span>TREVOR:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hello, Stephanie. You said you wanted to talk about the course I&rsquo;m taking on literature for children.</span><br><span>STEPHANIE:&nbsp;&nbsp;&nbsp;&nbsp; That&rsquo;s right. I&rsquo;m thinking of doing it next year, but I&rsquo;d like to find out more about it first.</span><br><span>TREVOR:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; OK, well, as you probably know, it&rsquo;s a one-year course. It&rsquo;s divided into six modules, and you have to take all of them. One of the most interesting ones, for me, at least, was about the purpose of children&rsquo;s literature.</span><br><span>STEPHANIE:&nbsp;&nbsp;&nbsp;&nbsp; You mean, whether it should just entertain children or should be educational, as well.</span><br><span>TREVOR:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Right, and whether the teaching should be factual &ndash; giving them information about the world &ndash; or ethical, teaching them values. What&rsquo;s fascinating is that the writer isn&rsquo;t necessarily conscious of the message they&rsquo;re conveying. For instance, a story might show a child who has a problem as a result of not doing what an adult has told them to do, implying that children should always obey adults.</span><br><span>STEPHANIE:&nbsp;&nbsp;&nbsp;&nbsp; I see what you mean.</span><br><span>TREVOR:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; That module made me realise how important stories are &ndash; they can have a significant effect on children as they grow up. Actually, it inspired me to have a go at it myself, just for my own interest. I know can&rsquo;t compete with the really popular stories, like the Harry Potter books &ndash; they&rsquo;re very good, and even young kids like my seven-year-old niece love reading them.</span><br><span>STEPHANIE:&nbsp;&nbsp;&nbsp;&nbsp; Mm. I&rsquo;m very interested in illustrations in stories. Is that covered in the course?</span><br><span>TREVOR:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Yes, there&rsquo;s a module on pictures, and how they&rsquo;re sometimes central to the story.</span><br><span>STEPHANIE:&nbsp;&nbsp;&nbsp;&nbsp; That&rsquo;s good. I remember some frightening ones I saw as a child and I can still see them vividly in my mind, years later! Pictures can be so powerful, just as powerful as words. I&rsquo;ve always enjoyed drawing, so that&rsquo;s the field I want to go into when I finish the course. I bet that module will be really helpful.</span><br><span>TREVOR:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I&rsquo;m sure it will. We also studied comics in that module, but I&rsquo;m not convinced of their value, not compared with books. One of the great things about words is that you use your imagination, but with a comic you don&rsquo;t have to.</span><br><span>STEPHANIE:&nbsp;&nbsp;&nbsp;&nbsp; But children are so used to visual input &ndash; on TV, video games, and so on. There are plenty of kids who wouldn&rsquo;t even&nbsp;try to read a book, so I think comics can serve a really useful purpose.</span><br><span>TREVOR:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; You mean, it&rsquo;s better to read a comic than not to read at all?&nbsp;Yes, I suppose you&rsquo;re right. I just think its sad when children don&rsquo;t read books.</span><br><span>STEPHANIE:&nbsp;&nbsp;&nbsp;&nbsp; What about books for girls and books for boys? Does the course go into that?</span><br><span>TREVOR:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Yes, there&rsquo;s a module on it. For years, lots of stories, in English, at least, assumed that boys went out and did adventurous things and girls stayed at home and played with dolls. I was amazed how many books were targeted at just one sex or the other. Of course this reflects society as it is when the books are written.</span><br><span>STEPHANIE:&nbsp;&nbsp;&nbsp;&nbsp; That&rsquo;s true. So it sounds as though you think it&rsquo;s a good course.</span><br><span>TREVOR:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Definitely.</span><br><span>_________________________</span><br><span>TREVOR:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Have you been reading lots of children&rsquo;s stories, to help you decide whether to take the course?</span><br><span>STEPHANIE:&nbsp;&nbsp;&nbsp;&nbsp; Yeah. I&rsquo;ve gone as far back as the late seventeenth century, though I know there were earlier children&rsquo;s stories.</span><br><span>TREVOR:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; So does that mean you&rsquo;ve read Perrault&rsquo;s fairy tales?&nbsp;<em>Cinderella, The Sleeping Beauty</em>, and so on.</span><br><span>STEPHANIE:&nbsp;&nbsp;&nbsp;&nbsp; Yes. They must be important, because no stories of that type had been written before, there were the first. Then there&rsquo;s&nbsp;<em>The Swiss Family Robinson</em>.</span><br><span>TREVOR:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I haven&rsquo;t read that.</span><br><span>STEPHANIE:&nbsp;&nbsp;&nbsp;&nbsp; The English name makes it sound as though Robinson is the family&rsquo;s surname, but a more accurate translation would be&nbsp;<em>The Swiss Robinsons</em>, because it&rsquo;s about&nbsp;a Swiss family who are shipwrecked, like Robinson Crusoe in the novel of a century earlier.</span><br><span>TREVOR:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Well I never knew that!</span><br><span>STEPHANIE:&nbsp;&nbsp;&nbsp;&nbsp; Have you read Hoffmann&rsquo;s&nbsp;<em>The Nutcracker and the Mouse King</em>?</span><br><span>TREVOR:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Wasn&rsquo;t that the basis for Tchaikovsky&rsquo;s ballet&nbsp;<em>The Nutcracker</em>?</span><br><span>STEPHANIE:&nbsp;&nbsp;&nbsp;&nbsp; That&rsquo;s right. It has some quite bizarre elements.</span><br><span>TREVOR:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I hope you&rsquo;ve read Oscar Wilde&rsquo;s&nbsp;<em>The Happy Prince</em>. It&rsquo;s probably my favourite children&rsquo;s story of all time.</span><br><span>STEPHANIE:&nbsp;&nbsp;&nbsp;&nbsp; Mine too! And it&rsquo;s so surprising, because Wilde is best known for his plays, and most of them are very witty, but&nbsp;<em>The Happy Prince&nbsp;</em>is really moving.&nbsp;I struggled with Tolkien&rsquo;s&nbsp;<em>The Lord of the Rings &ndash; there long books, and I gave up after one</em>.</span><br><span>TREVOR:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; It&rsquo;s extremely popular, though.</span><br><span>STEPHANIE:&nbsp;&nbsp;&nbsp;&nbsp; Yeah, but whereas something like&nbsp;<em>The Happy Prince&nbsp;</em>just carried me along with it,&nbsp;<em>The Lord of the Rings&nbsp;</em>took more effort than I was prepared to give it.</span><br><span>TREVOR:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I didn&rsquo;t find that &ndash; I love it.</span><br><span>STEPHANIE:&nbsp;&nbsp;&nbsp;&nbsp; Another one I&rsquo;ve read is&nbsp;<em>War Horse.</em></span><br><span>TREVOR:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Oh yes. It&rsquo;s about the First Word War, isn&rsquo;t it? Hardly what you&rsquo;d expect for a children&rsquo;s story.</span><br><span>STEPHANIE:&nbsp;&nbsp;&nbsp;&nbsp; Exactly, but it&rsquo;s been very successful. Have you read any &hellip;</span>","4":"<div class=\"et_pb_row et_pb_row_10\"><br><div class=\"et_pb_column et_pb_column_4_4 et_pb_column_10  et_pb_css_mix_blend_mode_passthrough et-last-child\"><br><div class=\"et_pb_module et_pb_text et_pb_text_3  et_pb_text_align_left et_pb_bg_layout_light\"><br><div class=\"et_pb_text_inner\"><br><span>In today&rsquo;s class I&rsquo;m going to talk about marine archaeology, the branch of archaeology focusing on human interaction with the sea, lakes and rivers. It&rsquo;s the study of ships, cargoes, shipping facilities, and other physical remains. I&rsquo;ll give you an example, then go on to show how this type of research is being transformed by the use of the latest technology.</span><br><span>Atlit-Yam was a village on the coast of the eastern Mediterranean, which seems to have been thriving until around 7,000 BC. The residents kept cattle, caught fish and stored grain. They had wells for fresh water, many of their houses were built around a courtyard and were constructed of stone. The village contained an impressive monument: seven half-tonne stones standing in a semicircle around a&nbsp;spring, that might have been used for ceremonial purposes.</span><br><span>Atlit-Yam may have been destroyed swiftly by a tsunami, or climate change may have caused glaciers to melt and sea levels to rise, flooding the village gradually. Whatever the cause, it now lies ten metres below the surface of the Mediterranean, buried under sand at the bottom of the sea. It&rsquo;s been described as the largest and best preserved prehistoric settlement ever found on the seabed.</span><br><span>For marine archaeologists, Atlit-Yam is a treasure trove. Research on the buildings,&nbsp;tools&nbsp;and the human remains has revealed how the bustling village once functioned, and even what diseases some of its residents suffered from. But of course this is only one small village, one window into a lost world. For a fuller picture, researchers need more sunken settlements, but the hard part is finding them.</span><br><span>Underwater research used to require divers to find shipwrecks or artefacts, but in the second half of the twentieth century, various types of underwater vehicles were developed, some controlled from a ship on the surface, and some of them autonomous, which means they don&rsquo;t need to be operated by a person.</span><br><span>Autonomous underwater vehicles, or AUVs, are used in the oil industry, for instance, to create&nbsp;maps of the seabed before rigs and pipelines are installed. To navigate they use sensors, such as compasses and sonar. Until relatively recently they were very expensive, and so heavy&nbsp;that they had to be launched from a large vessel with a winch.</span><br><span>___________________</span><br><span>But the latest AUVs are much easier to manoeuvre &ndash; they can be launched from the shore or a small ship. And they&rsquo;re much cheaper, which makes them more accessible to research teams. They&rsquo;re also very sophisticated. They can communicate with each other and, for example, work out the most efficient way to survey a site, or to find particular objects on the seabed.</span><br><span>Field tests show the approach can work. For example, in a trial in 2015, three AUVs searched for wrecks at Marzamemi, off the coast of Sicily. The site is the final resting place of an ancient Roman ship, which sank in the sixth century AD while ferrying prefabricated&nbsp;marble&nbsp;elements for the construction of an early church. The AUVs mapped the area in detail, finding other ships carrying columns of the same material.</span><br><span>Creating an internet in the sea for AUVs to communicate is no easy matter. Wifi networks on land use electromagnetic waves, but in water these will only travel a few centimetres. Instead, a more complex mix of technologies is required. For short distances, AUVs can share date using&nbsp;light, while acoustic waves are used to communicate over long distances. But more creative solutions are also being developed, where an AUV working on the seabed offloads data to a second AUV, which then surfaces and beams the data home to the research team using a satellite.</span><br><span>There&rsquo;s also a system that enables AUVs to share information from seabed scans, and other data. So if an AUV surveying the seabed finds an intriguing object, it can share the coordinates of the object &ndash; that is, its position &ndash; with a nearby AUV that carries superior&nbsp;cameras, and arrange for that AUV to make a closer inspection of the object.</span><br><span>Marine archaeologists are excited about the huge potential of these AUVs for their discipline. One site where they&rsquo;re going to be deployed is the Gulf of Baratti, off the Italian coast. In 1974, a 2,000-year-old Roman vessel was discovered here, in 18 metres of water. When it sank, it was carrying&nbsp;medical goods, in wooden or tin receptacles. Its cargo gives us insight into the treatments available all those years ago, including tablets that are thought to have been dissolved to form a cleansing liquid for the eyes.</span><br><span>Other Roman ships went down nearby, taking their cargoes with them. Some held huge pots made of terracotta. Some were used for transporting cargoes of olive oil, and others held&nbsp;wine. In many cases it&rsquo;s only these containers that remain, while the wooden ships have been buried under silt on the seabed.</span><br><span>Another project that&rsquo;s about to &hellip;</span><br></div><br></div><br></div><br></div><br><div class=\"et_pb_row et_pb_row_11\">&nbsp;</div>"},"answer_sheet":{"1":{"answer":["85"],"explanation":"That can seat eighty-five, or hold over a hundred if people are standing for a buffet."},"2":{"answer":["roses"],"explanation":"This has a beautiful display of pots of roses at that time of the year."},"3":{"answer":["trees"],"explanation":"From the terrace you can see the area of trees within the grounds of the hotel"},"4":{"answer":["stage"],"explanation":"it has the advantage of a stage"},"5":{"answer":["speech"],"explanation":"I suppose they make a speech during the meal if we need one, do they?"},"6":{"answer":["support"],"explanation":"they’re also your support – if anything goes wrong, the MC will deal with it, so you can relax"},"7":{"answer":["cabins"],"explanation":"You obviously have rooms in the hotel, but do you also have any other accommodation, like cabins, for example?"},"8":{"answer":["not available"],"explanation":"it’ll be closed throughout September for refurbishment, I’m afraid"},"9":{"answer":["included in cost of hiring room"],"explanation":"The gym will be available, though, at no extra charge"},"10":{"answer":["available at extra charge"],"explanation":"there is a small additional payment for those"},"11":{"answer":["fully booked today"],"explanation":"Unfortunately there aren’t any places left for this afternoon’s trip, but come and see me to book for later in the week."},"12":{"answer":["food included"],"explanation":"There’ll be a stop half way, and you’ll be provided with a drink and sandwiches"},"13":{"answer":["all downhill"],"explanation":"it’s a 700-metre drop in just 20 kilometres so this isn’t really for inexperienced cyclists as you’ll be going pretty fast"},"14":{"answer":["no charge"],"explanation":"And the best thing about this trip is that it’s completely free"},"15":{"answer":["swimming possible"],"explanation":"Afterwards we’ll head down to Sunset Beach, where you can have a dip in the ocean if you want before we head off back to the hotel."},"16":{"answer":["suitable for beginners"],"explanation":"This is organised by the Equestrian Centre over near Playa Cortino and it’s a great experience if you’re a keen horseback rider, or even if you’ve never been on a horse before"},"17":{"answer":["You must book it in advance"],"explanation":"At the end the cast members come down from the stage, still in their stunning costumes, and you’ll have a chance to chat with them"},"18":{"answer":["You can meet the performers"],"explanation":"it’s no good leaving it until the last minute"},"19":{"answer":["Visitors can dance after the meal"],"explanation":"You’re given a whole chicken each, which you eat in the medieval way, using your hands instead of cutlery"},"20":{"answer":["Knives and forks are not used"],"explanation":"Then you can watch the dancers in the ballroom and join in as well if you want"},"21":{"answer":["the fact that authors may not realise what values they’re teaching"],"explanation":"the writer isn’t necessarily conscious of the message they’re conveying"},"22":{"answer":["decide to start writing some children’s stories"],"explanation":"Actually, it inspired me to have a go at it myself, just for my own interest"},"23":{"answer":["she intends to become an illustrator"],"explanation":"that’s the field I want to go into when I finish the course"},"24":{"answer":["have the potential for being useful"],"explanation":"There are plenty of kids who wouldn’t even try to read a book, so I think comics can serve a really useful purpose."},"25":{"answer":["how few books were aimed at both girls and boys"],"explanation":"I was amazed how many books were targeted at just one sex or the other"},"26":{"answer":["started a new genre"],"explanation":"They must be important, because no stories of that type had been written before, there were the first"},"27":{"answer":["original title refers to another book"],"explanation":"it’s about a Swiss family who are shipwrecked, like Robinson Crusoe in the novel of a century earlier."},"28":{"answer":["inspired a work in a different area of art"],"explanation":"Wasn’t that the basis for Tchaikovsky’s ballet The Nutcracker?"},"29":{"answer":["hard to read"],"explanation":"I struggled with Tolkien’s The Lord of the Rings – there long books, and I gave up after one."},"30":{"answer":["unlikely topic"],"explanation":"It’s about the First Word War, isn’t it? Hardly what you’d expect for a children’s story."},"31":{"answer":["spring"],"explanation":"The village contained an impressive monument: seven half-tonne stones standing in a semicircle around a spring, that might have been used for ceremonial purposes"},"32":{"answer":["tools"],"explanation":"Research on the buildings, tools and the human remains has revealed how the bustling village once functioned, and even what diseases some of its residents suffered from"},"33":{"answer":["maps"],"explanation":"Autonomous underwater vehicles, or AUVs, are used in the oil industry, for instance, to create maps of the seabed before rigs and pipelines are installed"},"34":{"answer":["heavy"],"explanation":"Until relatively recently they were very expensive, and so heavy that they had to be launched from a large vessel with a winch."},"35":{"answer":["marble"],"explanation":"which sank in the sixth century AD while ferrying prefabricated marble elements for the construction of an early church"},"36":{"answer":["light"],"explanation":"For short distances, AUVs can share date using light, while acoustic waves are used to communicate over long distances"},"37":{"answer":["camera","cameras"],"explanation":"with a nearby AUV that carries superior cameras, and arrange for that AUV to make a closer inspection of the object."},"38":{"answer":["medical"],"explanation":"When it sank, it was carrying medical goods, in wooden or tin receptacles"},"39":{"answer":["eyes"],"explanation":"Its cargo gives us insight into the treatments available all those years ago, including tablets that are thought to have been dissolved to form a cleansing liquid for the eyes."},"40":{"answer":["wine"],"explanation":"Some held huge pots made of terracotta. Some were used for transporting cargoes of olive oil, and others held wine"}}}}
+{
+    "name": "Cambridge IELTS 14 Academic Listening Test 4",
+    "id": "C_14_A_4_L",
+    "ielts_test_id": "C_14_A_4",
+    "type": "listening",
+    "image": "C_14_A_4_L",
+    "passages": [
+        {
+            "title": "Enquiry about booking hotel room for event",
+            "audio": "C_14_A_4_L_1",
+            "image": "",
+            "start": 1,
+            "end": 10
+        },
+        {
+            "title": "",
+            "audio": "C_14_A_4_L_2",
+            "image": "",
+            "start": 11,
+            "end": 20
+        },
+        {
+            "title": "",
+            "audio": "C_14_A_4_L_3",
+            "image": "",
+            "start": 21,
+            "end": 30
+        },
+        {
+            "title": "The hunt for sunken settlements and ancient shipwrecks",
+            "audio": "C_14_A_4_L_4",
+            "image": "",
+            "start": 31,
+            "end": 40
+        }
+    ],
+    "question_sections": [
+        {
+            "custom_instruction": "ONE WORD AND/OR A NUMBER",
+            "type": "sentence_completion",
+            "start": 1,
+            "end": 7
+        },
+        {
+            "custom_instruction": "What is said about using each of the following hotel facilities?",
+            "type": "drop_information",
+            "start": 8,
+            "end": 10
+        },
+        {
+            "custom_instruction": "What information does the speaker give about each of the following excursions?",
+            "type": "drop_information",
+            "start": 11,
+            "end": 16
+        },
+        {
+            "custom_instruction": "TWO",
+            "type": "multiple_choices",
+            "start": 17,
+            "end": 18
+        },
+        {
+            "custom_instruction": "TWO",
+            "type": "multiple_choices",
+            "start": 19,
+            "end": 20
+        },
+        {
+            "type": "one_choice",
+            "start": 21,
+            "end": 25
+        },
+        {
+            "custom_instruction": "What comment is made about each of these stories?",
+            "type": "drop_information",
+            "start": 26,
+            "end": 30
+        },
+        {
+            "custom_instruction": "ONE WORD ONLY",
+            "type": "sentence_completion",
+            "start": 31,
+            "end": 40
+        }
+    ],
+    "questions": {
+        "1": {
+            "question": [
+                "<h3><em>Example</em></h3><br><span>Andrew is the &hellip;&hellip;<em>Events</em>&hellip;&hellip; Manager</span><br><span><strong>Rooms</strong></span><br><span>Adelphi Room</span><br><span>&nbsp; &nbsp;number of people who can sit down to eat: </span>"
+            ]
+        },
+        "2": {
+            "question": [
+                "<span></span><br><span>&nbsp; &nbsp;has a gallery suitable for musicians</span><br><span>&nbsp; &nbsp;can go out and see the </span>"
+            ]
+        },
+        "3": {
+            "question": [
+                "<span>&nbsp;in pots on the terrace</span><br><span>&nbsp; &nbsp;terrace has a view of a group of </span>"
+            ]
+        },
+        "4": {
+            "question": [
+                "<span></span><br><span>Carlton Room</span><br><span>&nbsp; &nbsp; number of people who can sit down to eat: 110</span><br><span>&nbsp; &nbsp; has a </span>"
+            ]
+        },
+        "5": {
+            "question": [
+                "<span></span><br><span>&nbsp; &nbsp; View of the lake</span><br><span><strong>Options</strong></span><br><span>Master of Ceremonies:</span><br><span>&nbsp; &nbsp; can give a </span>"
+            ]
+        },
+        "6": {
+            "question": [
+                "<span>&nbsp;while people are eating</span><br><span>&nbsp; &nbsp; will provide </span>"
+            ]
+        },
+        "7": {
+            "question": [
+                "<span>&nbsp;if there are any problems</span><br><span>Accommodation:</span><br><span>&nbsp; &nbsp; in the hotel rooms or </span>",
+                "<span></span>"
+            ]
+        },
+        "8": {
+            "question": [
+                "<span><strong>Hotel facilities</strong></span><br><span>&nbsp; &nbsp;&bull; outdoor swimming pool </span>"
+            ]
+        },
+        "9": {
+            "question": [
+                "<span></span><br><span>&nbsp; &nbsp;&bull; gym </span>"
+            ]
+        },
+        "10": {
+            "question": [
+                "<span></span><br><span>&nbsp; &nbsp;&bull; tennis courts </span>",
+                "<span></span>"
+            ],
+            "options": [
+                "included in cost of hiring room",
+                "available at extra charge",
+                "not available"
+            ]
+        },
+        "11": {
+            "question": [
+                "<span><strong>Excursions</strong></span><br><span>&nbsp; &nbsp;&bull; dolphin watching </span>"
+            ]
+        },
+        "12": {
+            "question": [
+                "<span></span><br><span>&nbsp; &nbsp;&bull; forest walk </span>"
+            ]
+        },
+        "13": {
+            "question": [
+                "<span></span><br><span>&nbsp; &nbsp;&bull; cycle trip </span>"
+            ]
+        },
+        "14": {
+            "question": [
+                "<span></span><br><span>&nbsp; &nbsp;&bull; local craft tour </span>"
+            ]
+        },
+        "15": {
+            "question": [
+                "<span></span><br><span>&nbsp; &nbsp;&bull; observatory trip </span>"
+            ]
+        },
+        "16": {
+            "question": [
+                "<span></span><br><span>&nbsp; &nbsp;&bull; horse riding </span>",
+                "<span></span>"
+            ],
+            "options": [
+                "all downhill",
+                "suitable for beginners",
+                "only in good weather",
+                "food included",
+                "no charge",
+                "swimming possible",
+                "fully booked today",
+                "transport not included"
+            ]
+        },
+        "17": {
+            "question": ""
+        },
+        "18": {
+            "question": "<span>Which&nbsp;<strong>TWO</strong>&nbsp;things does the speaker say about the attraction called&nbsp;<em>Musical Favourites</em>?</span>",
+            "options": [
+                "You pay extra for drinks",
+                "You must book it in advance",
+                "You get a reduction if you buy two tickets",
+                "You can meet the performers",
+                "You can take part in the show"
+            ]
+        },
+        "19": {
+            "question": ""
+        },
+        "20": {
+            "question": "<span>Which&nbsp;<strong>TWO</strong>&nbsp;things does the speaker say about the&nbsp;<em>Castle Feast</em>?</span>",
+            "options": [
+                "Visitors can dance after the meal",
+                "There is a choice of food",
+                "Visitors wear historical costume",
+                "Knives and forks are not used",
+                "The entertainment includes horse races"
+            ]
+        },
+        "21": {
+            "question": "<span>What does Trevor find interesting about the purpose of children&rsquo;s literature?</span>",
+            "options": [
+                "the fact that authors may not realise what values they’re teaching",
+                "the fact that literature can be entertaining and educational at the same time",
+                "the fact that adults expect children to imitate characters in literature"
+            ]
+        },
+        "22": {
+            "question": "<span>Trevor says the module about the purpose of children&rsquo;s literature made him</span>",
+            "options": [
+                "analyse some of the stories that his niece reads",
+                "wonder how far popularity reflects good qualify",
+                "decide to start writing some children’s stories"
+            ]
+        },
+        "23": {
+            "question": "<span>Stephanie is interested in the Pictures module because</span>",
+            "options": [
+                "she intends to become an illustrator",
+                "she can remember beautiful illustrations from her childhood",
+                "she believes illustrations are more important than words"
+            ]
+        },
+        "24": {
+            "question": "<span>Trevor and Stephanie agree that comics</span>",
+            "options": [
+                "are inferior to books",
+                "have the potential for being useful",
+                "discourage children from using their imagination"
+            ]
+        },
+        "25": {
+            "question": "<span>With regard to books aimed at only boys or only girls, Trevor was surprised</span>",
+            "options": [
+                "how long the distinction had gone unquestioned",
+                "how few books were aimed at both girls and boys",
+                "how many children enjoyed books intended for the opposite sex"
+            ]
+        },
+        "26": {
+            "question": [
+                "<span><strong>Stories</strong></span><br><span>&nbsp; &nbsp;&bull; Perrault&rsquo;s fairy tales </span>"
+            ]
+        },
+        "27": {
+            "question": [
+                "<span></span><br><span><em>&nbsp; &nbsp;&bull; The Swiss Family Robinson </span>"
+            ]
+        },
+        "28": {
+            "question": [
+                "<span></em></span><br><span><em>&nbsp; &nbsp;&bull; The Nutcracker and the Mouse King </span>"
+            ]
+        },
+        "29": {
+            "question": [
+                "<span></em></span><br><span><em>&nbsp; &nbsp;&bull; The Lord of the Rings </span>"
+            ]
+        },
+        "30": {
+            "question": [
+                "<span></em></span><br><span><em>&nbsp; &nbsp;&bull; War Horse </span>",
+                "<span></em></span>"
+            ],
+            "options": [
+                "translated into many other languages",
+                "",
+                "hard to read",
+                "",
+                "inspired a work in a different area of art",
+                "",
+                "more popular than the author’s other works",
+                "",
+                "original title refers to another book",
+                "",
+                "started a new genre",
+                "",
+                "unlikely topic"
+            ]
+        },
+        "31": {
+            "question": [
+                "<span><strong>ATLIT-YAM</strong></span><br><ul><br><li>was a village on coast of eastern Mediterranean</li><br><li>thrived until about 7,000 BC</li><br><li>stones homes had a courtyard</li><br><li>had a semicircle of large stones round a </span>"
+            ]
+        },
+        "32": {
+            "question": [
+                "<span></li><br><li>cause of destruction unknown &ndash; now under the sea</li><br><li>biggest settlement from the prehistoric period found on the seabed</li><br><li>research carried out into structures, </span>"
+            ]
+        },
+        "33": {
+            "question": [
+                "<span>&nbsp;and human remains</li><br></ul><br><span><strong>TRADITIOINAL AUTONOMOUS UNDERWATER VEHICLES (AUVs)</strong></span><br><ul><br><li>used in the oil industry, e.g. to make </span>"
+            ]
+        },
+        "34": {
+            "question": [
+                "<span></li><br><li>problems: they were expensive and </span>"
+            ]
+        },
+        "35": {
+            "question": [
+                "<span></li><br></ul><br><span><strong>LATEST AUVs</strong></span><br><ul><br><li>much easier to use, relatively cheap, sophisticated</li><br></ul><br><span><strong>Tests</strong>:</span><br><ul><br><li>Marzamemi, Sicily: found ancient Roman ships carrying architectural elements made of </span>"
+            ]
+        },
+        "36": {
+            "question": [
+                "<span></li><br></ul><br><span><strong>Underwater internet:</strong></span><br><ul><br><li><strong>36</strong>&hellip;&hellip;&hellip;&hellip;&hellip;&hellip; is used for short distance communication, acoustic waves for long distance</li><br><li>plans for communication with researchers by satellite</li><br><li>AUV can send data to another AUV that has better </span>"
+            ]
+        },
+        "37": {
+            "question": [
+                "<span>, for example</li><br></ul><br><span><strong>Planned research in Gulf of Baratti:</strong></span><br><ul><br><li>to find out more about wrecks of ancient Roman ships, including</li><br></ul><br><span>&nbsp;&nbsp;&nbsp;&nbsp; &ndash;&nbsp; one carrying </span>"
+            ]
+        },
+        "38": {
+            "question": [
+                "<span> supplies; tables may have been used for cleaning the </span>"
+            ]
+        },
+        "39": {
+            "question": [
+                "<span></span><br><span>&nbsp;&nbsp;&nbsp;&nbsp; &ndash;&nbsp; others carrying containers of olive oil or </span>"
+            ]
+        },
+        "40": {
+            "question": [
+                "<span></span>",
+                "<span></span>"
+            ]
+        }
+    },
+    "answers": {
+        "transcripts": {
+            "1": "<span>ANDREW:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Good morning, Clare House Hotel. Andrew speaking. I&rsquo;m the (<em>Example</em>)&nbsp;Events&nbsp;Manager.</span><br><span>SAM:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Good morning, Andrew. My name&rsquo;s Samantha. I&rsquo;m arranging a party for my parents&rsquo; fiftieth wedding anniversary, and I&rsquo;m ringing to ask about hiring a room some time next September. Also my parents and several of the guests will need accommodation.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><br><span>ANDREW:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; OK, I&rsquo;m sure we can help you with that. Will you be having a sit-down meal or a buffet?</span><br><span>SAM:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Probably a sit-down.</span><br><span>ANDREW:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; And do you know how many people there&rsquo;ll be?</span><br><span>SAM:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Around eighty, I think.</span><br><span>ANDREW:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Well we have two rooms that can hold that number. One is the Adelphi Room. That can seat eighty-five, or hold over a hundred if people are standing for a buffet.</span><br><span>SAM:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Right.</span><br><span>ANDREW:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; If you have live music, there&rsquo;s room for four or five musicians in the gallery overlooking the room. Our guests usually appreciate the fact that the music can be loud enough for dancing, but not too loud for conversation.</span><br><span>SAM:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Yes, I really don&rsquo;t like it when you can&rsquo;t talk.</span><br><span>ANDREW:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Exactly. Now the Adelphi Room is at the back of the hotel, and there are French windows leading out onto the terrace. This has a beautiful display of pots of roses&nbsp;at that time of the year.</span><br><span>SAM:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Which direction does it face?</span><br><span>ANDREW:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Southwest, so that side of the hotel gets the sun in the afternoon and early evening.</span><br><span>SAM:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Very nice.</span><br><span>ANDREW:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; From the terrace you can see the area of trees&nbsp;within the grounds of the hotel, or you can stroll through there to the river &ndash; that&rsquo;s on the far side, so it isn&rsquo;t visible from the hotel.</span><br><span>SAM:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; OK.</span><br><span>ANDREW:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Then another option is the Carlton Room. This is a bit bigger &ndash; it can hold up to a hundred and ten people &ndash; and it has the advantage of a stage, which is useful if you have any entertainment, or indeed a small band can fit onto it.</span><br><span>SAM:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; And can you go outside from the room?</span><br><span>ANDREW:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; No, the Carlton Room is on the first floor, but on one side the windows look out onto the lake.</span><br><span>SAM:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Lovely. I think either of those rooms would be suitable.</span><br><span>ANDREW:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Can I tell you about some of the options we offer in addition?</span><br><span>SAM:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Please do.</span><br><span>ANDREW:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; As well as a meal, you can have an MC, a Master of Ceremonies, who&rsquo;ll be with you throughout the party.</span><br><span>SAM:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; What exactly is the MC&rsquo;s function? I suppose they make a speech&nbsp;during the meal if we need one, do they?</span><br><span>ANDREW:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; That&rsquo;s right. All our MCs are trained as public speakers, so they can easily get people&rsquo;s attention &ndash; many guests are glad to have someone who can make themselves heard above the chatter! And they&rsquo;re also your support&nbsp;&ndash; if anything goes wrong, the MC will deal with it, so you can relax.</span><br><span>SAM:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Great! I&rsquo;ll need to ask you about food, but something else that&rsquo;s important is accommodation. You obviously have rooms in the hotel, but do you also have any other accommodation, like cabins, for example?</span><br><span>ANDREW:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Yes, there are five in the grounds, all self-contained. They each sleep two to four people and have their own living room, bathroom and small kitchen.</span><br><span>SAM:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; That sounds perfect for what we&rsquo;ll need.</span><br><span>___________________________</span><br><span>SAM:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Now you have various facilities, don&rsquo;t you? Are they all included in the price of hiring the room? The pool, for instance.</span><br><span>ANDREW:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Normally you&rsquo;d be able to use it, but it&rsquo;ll be closed throughout September for refurbishment, I&rsquo;m afraid.&nbsp;The gym will be available, though, at no extra charge. That&rsquo;s open all day, from six in the morning until midnight.</span><br><span>SAM:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Right.</span><br><span>ANDREW:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; And the tennis courts, but there is a small additional payment for those. We have four courts, and it&rsquo;s worth booking in advance if you possibly can, as there can be quite a long waiting list for them!</span><br><span>SAM:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Right. Now could we discuss the food? This would be dinner, around seven o&rsquo;clock &hellip;</span>",
+            "2": "<span>Hello everyone. I&rsquo;m Jake Stevens and I&rsquo;m your rep here at the hotel. I&rsquo;m sure you&rsquo;ll all have a great time here. So let me tell you a bit about what&rsquo;s on offer. I&rsquo;ll start by telling you about some of the excursions that are available for guests.</span><br><span>One thing you have to do while you&rsquo;re here is go dolphin watching. On our boat trips, we pretty well guarantee you&rsquo;ll see dolphins &ndash; if you don&rsquo;t you can repeat the trip free of charge. We organise daily trips for just 35 euros. Unfortunately&nbsp;there aren&rsquo;t any places left for this afternoon&rsquo;s trip, but come and see me to book for later in the week.</span><br><span>If you&rsquo;re energetic, I&rsquo;d recommend our forest walk. It&rsquo;s a guided walk of about seven kilometres. There&rsquo;ll be a stop half way, and&nbsp;you&rsquo;ll be provided with a drink and sandwiches. There&rsquo;s some fairly steep climbs up the hills, so you need to be reasonably fit for this one, with good shoes, and bring a waterproof in case it rains. It&rsquo;s just 25 euros all inclusive, and it&rsquo;s every Wednesday.</span><br><span>Then on Thursdays we organise a cycle trip, which will give you all the fun of biking without the effort. We&rsquo;ll take you and your bike up to the top of Mount Larna, and leave you to bike back &ndash;&nbsp;it&rsquo;s a 700-metre drop in just 20 kilometres&nbsp;so this isn&rsquo;t really for inexperienced cyclists as you&rsquo;ll be going pretty fast. And if it&rsquo;s a clear day, you&rsquo;ll have fantastic views.</span><br><span>On our local craft tour you can find out about the traditional activities in the island. And the best thing about this trip is that&nbsp;it&rsquo;s completely free. You&rsquo;ll be taken to a factory where jewellery is made, and also a ceramics centre. If you want, you can buy some of the products but that&rsquo;s entirely up to you. The trip starts after lunch on Thursday, and you&rsquo;ll return by 6 pm.</span><br><span>If you&rsquo;re interested in astronomy you may already know that the island&rsquo;s one of the best places in the world to observe the night sky. We can offer trips to the observatory on Friday for those who are interested. They cost 90 euros per person and you&rsquo;ll be shown the huge telescopes and have a talk from an expert, who&rsquo;ll explain all about how they work.&nbsp;Afterwards we&rsquo;ll head down to Sunset Beach, where you can have a dip in the ocean&nbsp;if you want before we head off back to the hotel.</span><br><span>Finally, there&rsquo;s horse riding. This is organised by the Equestrian Centre over near Playa Cortino and it&rsquo;s a great experience if you&rsquo;re a keen horseback rider,&nbsp;or even if you&rsquo;ve never been on a horse before. They take you down to the beach, and you can canter along the sand and through the waves. It costs 35 euros and it&rsquo;s available every day.</span><br><span>________________________</span><br><span>So there&rsquo;s plenty to do in the daytime, but what about night life?</span><br><span>Well, the number one attraction&rsquo;s called &lsquo;Musical Favourites&rsquo;. Guests enjoy a three-course meal and unlimited free drinks, and watch a fantastic show, starting with musicals set in Paris and then crossing the Atlantic to Las Vegas and finally Copacabana. At the end the&nbsp;cast members come down from the stage, still in their stunning costumes, and&nbsp;you&rsquo;ll have a chance to chat with them. It&rsquo;s hugely popular, so let me know now if you&rsquo;re interested because&nbsp;it&rsquo;s no good leaving it until the last minute. It&rsquo;s on Friday night. Tickets are just 50 euros each, but for an extra 10 euros you can have a table right by the stage.</span><br><span>If you&rsquo;d like to go back in time, there&rsquo;s the&nbsp;<em>Castle Feast&nbsp;</em>on Saturday evening. It&rsquo;s held in a twelfth-century castle, and you eat in the great courtyard, with ladies in long gowns serving your food. You&rsquo;re given a whole chicken each, which you eat in the medieval way,&nbsp;using your hands instead of cutlery, and you&rsquo;re entertained by competitions where the horseback riders attempt to knock one another off their horses. Then you can watch the dancers in the ballroom and&nbsp;join in as well if you want. OK, so now if anyone &hellip;</span>",
+            "3": "<span>STEPHANIE:&nbsp;&nbsp;&nbsp;&nbsp; Hello, Trevor.</span><br><span>TREVOR:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hello, Stephanie. You said you wanted to talk about the course I&rsquo;m taking on literature for children.</span><br><span>STEPHANIE:&nbsp;&nbsp;&nbsp;&nbsp; That&rsquo;s right. I&rsquo;m thinking of doing it next year, but I&rsquo;d like to find out more about it first.</span><br><span>TREVOR:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; OK, well, as you probably know, it&rsquo;s a one-year course. It&rsquo;s divided into six modules, and you have to take all of them. One of the most interesting ones, for me, at least, was about the purpose of children&rsquo;s literature.</span><br><span>STEPHANIE:&nbsp;&nbsp;&nbsp;&nbsp; You mean, whether it should just entertain children or should be educational, as well.</span><br><span>TREVOR:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Right, and whether the teaching should be factual &ndash; giving them information about the world &ndash; or ethical, teaching them values. What&rsquo;s fascinating is that the writer isn&rsquo;t necessarily conscious of the message they&rsquo;re conveying. For instance, a story might show a child who has a problem as a result of not doing what an adult has told them to do, implying that children should always obey adults.</span><br><span>STEPHANIE:&nbsp;&nbsp;&nbsp;&nbsp; I see what you mean.</span><br><span>TREVOR:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; That module made me realise how important stories are &ndash; they can have a significant effect on children as they grow up. Actually, it inspired me to have a go at it myself, just for my own interest. I know can&rsquo;t compete with the really popular stories, like the Harry Potter books &ndash; they&rsquo;re very good, and even young kids like my seven-year-old niece love reading them.</span><br><span>STEPHANIE:&nbsp;&nbsp;&nbsp;&nbsp; Mm. I&rsquo;m very interested in illustrations in stories. Is that covered in the course?</span><br><span>TREVOR:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Yes, there&rsquo;s a module on pictures, and how they&rsquo;re sometimes central to the story.</span><br><span>STEPHANIE:&nbsp;&nbsp;&nbsp;&nbsp; That&rsquo;s good. I remember some frightening ones I saw as a child and I can still see them vividly in my mind, years later! Pictures can be so powerful, just as powerful as words. I&rsquo;ve always enjoyed drawing, so that&rsquo;s the field I want to go into when I finish the course. I bet that module will be really helpful.</span><br><span>TREVOR:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I&rsquo;m sure it will. We also studied comics in that module, but I&rsquo;m not convinced of their value, not compared with books. One of the great things about words is that you use your imagination, but with a comic you don&rsquo;t have to.</span><br><span>STEPHANIE:&nbsp;&nbsp;&nbsp;&nbsp; But children are so used to visual input &ndash; on TV, video games, and so on. There are plenty of kids who wouldn&rsquo;t even&nbsp;try to read a book, so I think comics can serve a really useful purpose.</span><br><span>TREVOR:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; You mean, it&rsquo;s better to read a comic than not to read at all?&nbsp;Yes, I suppose you&rsquo;re right. I just think its sad when children don&rsquo;t read books.</span><br><span>STEPHANIE:&nbsp;&nbsp;&nbsp;&nbsp; What about books for girls and books for boys? Does the course go into that?</span><br><span>TREVOR:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Yes, there&rsquo;s a module on it. For years, lots of stories, in English, at least, assumed that boys went out and did adventurous things and girls stayed at home and played with dolls. I was amazed how many books were targeted at just one sex or the other. Of course this reflects society as it is when the books are written.</span><br><span>STEPHANIE:&nbsp;&nbsp;&nbsp;&nbsp; That&rsquo;s true. So it sounds as though you think it&rsquo;s a good course.</span><br><span>TREVOR:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Definitely.</span><br><span>_________________________</span><br><span>TREVOR:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Have you been reading lots of children&rsquo;s stories, to help you decide whether to take the course?</span><br><span>STEPHANIE:&nbsp;&nbsp;&nbsp;&nbsp; Yeah. I&rsquo;ve gone as far back as the late seventeenth century, though I know there were earlier children&rsquo;s stories.</span><br><span>TREVOR:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; So does that mean you&rsquo;ve read Perrault&rsquo;s fairy tales?&nbsp;<em>Cinderella, The Sleeping Beauty</em>, and so on.</span><br><span>STEPHANIE:&nbsp;&nbsp;&nbsp;&nbsp; Yes. They must be important, because no stories of that type had been written before, there were the first. Then there&rsquo;s&nbsp;<em>The Swiss Family Robinson</em>.</span><br><span>TREVOR:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I haven&rsquo;t read that.</span><br><span>STEPHANIE:&nbsp;&nbsp;&nbsp;&nbsp; The English name makes it sound as though Robinson is the family&rsquo;s surname, but a more accurate translation would be&nbsp;<em>The Swiss Robinsons</em>, because it&rsquo;s about&nbsp;a Swiss family who are shipwrecked, like Robinson Crusoe in the novel of a century earlier.</span><br><span>TREVOR:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Well I never knew that!</span><br><span>STEPHANIE:&nbsp;&nbsp;&nbsp;&nbsp; Have you read Hoffmann&rsquo;s&nbsp;<em>The Nutcracker and the Mouse King</em>?</span><br><span>TREVOR:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Wasn&rsquo;t that the basis for Tchaikovsky&rsquo;s ballet&nbsp;<em>The Nutcracker</em>?</span><br><span>STEPHANIE:&nbsp;&nbsp;&nbsp;&nbsp; That&rsquo;s right. It has some quite bizarre elements.</span><br><span>TREVOR:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I hope you&rsquo;ve read Oscar Wilde&rsquo;s&nbsp;<em>The Happy Prince</em>. It&rsquo;s probably my favourite children&rsquo;s story of all time.</span><br><span>STEPHANIE:&nbsp;&nbsp;&nbsp;&nbsp; Mine too! And it&rsquo;s so surprising, because Wilde is best known for his plays, and most of them are very witty, but&nbsp;<em>The Happy Prince&nbsp;</em>is really moving.&nbsp;I struggled with Tolkien&rsquo;s&nbsp;<em>The Lord of the Rings &ndash; there long books, and I gave up after one</em>.</span><br><span>TREVOR:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; It&rsquo;s extremely popular, though.</span><br><span>STEPHANIE:&nbsp;&nbsp;&nbsp;&nbsp; Yeah, but whereas something like&nbsp;<em>The Happy Prince&nbsp;</em>just carried me along with it,&nbsp;<em>The Lord of the Rings&nbsp;</em>took more effort than I was prepared to give it.</span><br><span>TREVOR:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I didn&rsquo;t find that &ndash; I love it.</span><br><span>STEPHANIE:&nbsp;&nbsp;&nbsp;&nbsp; Another one I&rsquo;ve read is&nbsp;<em>War Horse.</em></span><br><span>TREVOR:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Oh yes. It&rsquo;s about the First Word War, isn&rsquo;t it? Hardly what you&rsquo;d expect for a children&rsquo;s story.</span><br><span>STEPHANIE:&nbsp;&nbsp;&nbsp;&nbsp; Exactly, but it&rsquo;s been very successful. Have you read any &hellip;</span>",
+            "4": "<div class=\"et_pb_row et_pb_row_10\"><br><div class=\"et_pb_column et_pb_column_4_4 et_pb_column_10  et_pb_css_mix_blend_mode_passthrough et-last-child\"><br><div class=\"et_pb_module et_pb_text et_pb_text_3  et_pb_text_align_left et_pb_bg_layout_light\"><br><div class=\"et_pb_text_inner\"><br><span>In today&rsquo;s class I&rsquo;m going to talk about marine archaeology, the branch of archaeology focusing on human interaction with the sea, lakes and rivers. It&rsquo;s the study of ships, cargoes, shipping facilities, and other physical remains. I&rsquo;ll give you an example, then go on to show how this type of research is being transformed by the use of the latest technology.</span><br><span>Atlit-Yam was a village on the coast of the eastern Mediterranean, which seems to have been thriving until around 7,000 BC. The residents kept cattle, caught fish and stored grain. They had wells for fresh water, many of their houses were built around a courtyard and were constructed of stone. The village contained an impressive monument: seven half-tonne stones standing in a semicircle around a&nbsp;spring, that might have been used for ceremonial purposes.</span><br><span>Atlit-Yam may have been destroyed swiftly by a tsunami, or climate change may have caused glaciers to melt and sea levels to rise, flooding the village gradually. Whatever the cause, it now lies ten metres below the surface of the Mediterranean, buried under sand at the bottom of the sea. It&rsquo;s been described as the largest and best preserved prehistoric settlement ever found on the seabed.</span><br><span>For marine archaeologists, Atlit-Yam is a treasure trove. Research on the buildings,&nbsp;tools&nbsp;and the human remains has revealed how the bustling village once functioned, and even what diseases some of its residents suffered from. But of course this is only one small village, one window into a lost world. For a fuller picture, researchers need more sunken settlements, but the hard part is finding them.</span><br><span>Underwater research used to require divers to find shipwrecks or artefacts, but in the second half of the twentieth century, various types of underwater vehicles were developed, some controlled from a ship on the surface, and some of them autonomous, which means they don&rsquo;t need to be operated by a person.</span><br><span>Autonomous underwater vehicles, or AUVs, are used in the oil industry, for instance, to create&nbsp;maps of the seabed before rigs and pipelines are installed. To navigate they use sensors, such as compasses and sonar. Until relatively recently they were very expensive, and so heavy&nbsp;that they had to be launched from a large vessel with a winch.</span><br><span>___________________</span><br><span>But the latest AUVs are much easier to manoeuvre &ndash; they can be launched from the shore or a small ship. And they&rsquo;re much cheaper, which makes them more accessible to research teams. They&rsquo;re also very sophisticated. They can communicate with each other and, for example, work out the most efficient way to survey a site, or to find particular objects on the seabed.</span><br><span>Field tests show the approach can work. For example, in a trial in 2015, three AUVs searched for wrecks at Marzamemi, off the coast of Sicily. The site is the final resting place of an ancient Roman ship, which sank in the sixth century AD while ferrying prefabricated&nbsp;marble&nbsp;elements for the construction of an early church. The AUVs mapped the area in detail, finding other ships carrying columns of the same material.</span><br><span>Creating an internet in the sea for AUVs to communicate is no easy matter. Wifi networks on land use electromagnetic waves, but in water these will only travel a few centimetres. Instead, a more complex mix of technologies is required. For short distances, AUVs can share date using&nbsp;light, while acoustic waves are used to communicate over long distances. But more creative solutions are also being developed, where an AUV working on the seabed offloads data to a second AUV, which then surfaces and beams the data home to the research team using a satellite.</span><br><span>There&rsquo;s also a system that enables AUVs to share information from seabed scans, and other data. So if an AUV surveying the seabed finds an intriguing object, it can share the coordinates of the object &ndash; that is, its position &ndash; with a nearby AUV that carries superior&nbsp;cameras, and arrange for that AUV to make a closer inspection of the object.</span><br><span>Marine archaeologists are excited about the huge potential of these AUVs for their discipline. One site where they&rsquo;re going to be deployed is the Gulf of Baratti, off the Italian coast. In 1974, a 2,000-year-old Roman vessel was discovered here, in 18 metres of water. When it sank, it was carrying&nbsp;medical goods, in wooden or tin receptacles. Its cargo gives us insight into the treatments available all those years ago, including tablets that are thought to have been dissolved to form a cleansing liquid for the eyes.</span><br><span>Other Roman ships went down nearby, taking their cargoes with them. Some held huge pots made of terracotta. Some were used for transporting cargoes of olive oil, and others held&nbsp;wine. In many cases it&rsquo;s only these containers that remain, while the wooden ships have been buried under silt on the seabed.</span><br><span>Another project that&rsquo;s about to &hellip;</span><br></div><br></div><br></div><br></div><br><div class=\"et_pb_row et_pb_row_11\">&nbsp;</div>"
+        },
+        "answer_sheet": {
+            "1": {
+                "answer": [
+                    "85"
+                ],
+                "explanation": "That can seat eighty-five, or hold over a hundred if people are standing for a buffet."
+            },
+            "2": {
+                "answer": [
+                    "roses"
+                ],
+                "explanation": "This has a beautiful display of pots of roses at that time of the year."
+            },
+            "3": {
+                "answer": [
+                    "trees"
+                ],
+                "explanation": "From the terrace you can see the area of trees within the grounds of the hotel"
+            },
+            "4": {
+                "answer": [
+                    "stage"
+                ],
+                "explanation": "it has the advantage of a stage"
+            },
+            "5": {
+                "answer": [
+                    "speech"
+                ],
+                "explanation": "I suppose they make a speech during the meal if we need one, do they?"
+            },
+            "6": {
+                "answer": [
+                    "support"
+                ],
+                "explanation": "they’re also your support – if anything goes wrong, the MC will deal with it, so you can relax"
+            },
+            "7": {
+                "answer": [
+                    "cabins"
+                ],
+                "explanation": "You obviously have rooms in the hotel, but do you also have any other accommodation, like cabins, for example?"
+            },
+            "8": {
+                "answer": [
+                    "not available"
+                ],
+                "explanation": "it’ll be closed throughout September for refurbishment, I’m afraid"
+            },
+            "9": {
+                "answer": [
+                    "included in cost of hiring room"
+                ],
+                "explanation": "The gym will be available, though, at no extra charge"
+            },
+            "10": {
+                "answer": [
+                    "available at extra charge"
+                ],
+                "explanation": "there is a small additional payment for those"
+            },
+            "11": {
+                "answer": [
+                    "fully booked today"
+                ],
+                "explanation": "Unfortunately there aren’t any places left for this afternoon’s trip, but come and see me to book for later in the week."
+            },
+            "12": {
+                "answer": [
+                    "food included"
+                ],
+                "explanation": "There’ll be a stop half way, and you’ll be provided with a drink and sandwiches"
+            },
+            "13": {
+                "answer": [
+                    "all downhill"
+                ],
+                "explanation": "it’s a 700-metre drop in just 20 kilometres so this isn’t really for inexperienced cyclists as you’ll be going pretty fast"
+            },
+            "14": {
+                "answer": [
+                    "no charge"
+                ],
+                "explanation": "And the best thing about this trip is that it’s completely free"
+            },
+            "15": {
+                "answer": [
+                    "swimming possible"
+                ],
+                "explanation": "Afterwards we’ll head down to Sunset Beach, where you can have a dip in the ocean if you want before we head off back to the hotel."
+            },
+            "16": {
+                "answer": [
+                    "suitable for beginners"
+                ],
+                "explanation": "This is organised by the Equestrian Centre over near Playa Cortino and it’s a great experience if you’re a keen horseback rider, or even if you’ve never been on a horse before"
+            },
+            "17": {
+                "answer": [
+                    "You must book it in advance"
+                ],
+                "explanation": "At the end the cast members come down from the stage, still in their stunning costumes, and you’ll have a chance to chat with them"
+            },
+            "18": {
+                "answer": [
+                    "You can meet the performers"
+                ],
+                "explanation": "it’s no good leaving it until the last minute"
+            },
+            "19": {
+                "answer": [
+                    "Visitors can dance after the meal"
+                ],
+                "explanation": "You’re given a whole chicken each, which you eat in the medieval way, using your hands instead of cutlery"
+            },
+            "20": {
+                "answer": [
+                    "Knives and forks are not used"
+                ],
+                "explanation": "Then you can watch the dancers in the ballroom and join in as well if you want"
+            },
+            "21": {
+                "answer": [
+                    "the fact that authors may not realise what values they’re teaching"
+                ],
+                "explanation": "the writer isn’t necessarily conscious of the message they’re conveying"
+            },
+            "22": {
+                "answer": [
+                    "decide to start writing some children’s stories"
+                ],
+                "explanation": "Actually, it inspired me to have a go at it myself, just for my own interest"
+            },
+            "23": {
+                "answer": [
+                    "she intends to become an illustrator"
+                ],
+                "explanation": "that’s the field I want to go into when I finish the course"
+            },
+            "24": {
+                "answer": [
+                    "have the potential for being useful"
+                ],
+                "explanation": "There are plenty of kids who wouldn’t even try to read a book, so I think comics can serve a really useful purpose."
+            },
+            "25": {
+                "answer": [
+                    "how few books were aimed at both girls and boys"
+                ],
+                "explanation": "I was amazed how many books were targeted at just one sex or the other"
+            },
+            "26": {
+                "answer": [
+                    "started a new genre"
+                ],
+                "explanation": "They must be important, because no stories of that type had been written before, there were the first"
+            },
+            "27": {
+                "answer": [
+                    "original title refers to another book"
+                ],
+                "explanation": "it’s about a Swiss family who are shipwrecked, like Robinson Crusoe in the novel of a century earlier."
+            },
+            "28": {
+                "answer": [
+                    "inspired a work in a different area of art"
+                ],
+                "explanation": "Wasn’t that the basis for Tchaikovsky’s ballet The Nutcracker?"
+            },
+            "29": {
+                "answer": [
+                    "hard to read"
+                ],
+                "explanation": "I struggled with Tolkien’s The Lord of the Rings – there long books, and I gave up after one."
+            },
+            "30": {
+                "answer": [
+                    "unlikely topic"
+                ],
+                "explanation": "It’s about the First Word War, isn’t it? Hardly what you’d expect for a children’s story."
+            },
+            "31": {
+                "answer": [
+                    "spring"
+                ],
+                "explanation": "The village contained an impressive monument: seven half-tonne stones standing in a semicircle around a spring, that might have been used for ceremonial purposes"
+            },
+            "32": {
+                "answer": [
+                    "tools"
+                ],
+                "explanation": "Research on the buildings, tools and the human remains has revealed how the bustling village once functioned, and even what diseases some of its residents suffered from"
+            },
+            "33": {
+                "answer": [
+                    "maps"
+                ],
+                "explanation": "Autonomous underwater vehicles, or AUVs, are used in the oil industry, for instance, to create maps of the seabed before rigs and pipelines are installed"
+            },
+            "34": {
+                "answer": [
+                    "heavy"
+                ],
+                "explanation": "Until relatively recently they were very expensive, and so heavy that they had to be launched from a large vessel with a winch."
+            },
+            "35": {
+                "answer": [
+                    "marble"
+                ],
+                "explanation": "which sank in the sixth century AD while ferrying prefabricated marble elements for the construction of an early church"
+            },
+            "36": {
+                "answer": [
+                    "light"
+                ],
+                "explanation": "For short distances, AUVs can share date using light, while acoustic waves are used to communicate over long distances"
+            },
+            "37": {
+                "answer": [
+                    "camera",
+                    "cameras"
+                ],
+                "explanation": "with a nearby AUV that carries superior cameras, and arrange for that AUV to make a closer inspection of the object."
+            },
+            "38": {
+                "answer": [
+                    "medical"
+                ],
+                "explanation": "When it sank, it was carrying medical goods, in wooden or tin receptacles"
+            },
+            "39": {
+                "answer": [
+                    "eyes"
+                ],
+                "explanation": "Its cargo gives us insight into the treatments available all those years ago, including tablets that are thought to have been dissolved to form a cleansing liquid for the eyes."
+            },
+            "40": {
+                "answer": [
+                    "wine"
+                ],
+                "explanation": "Some held huge pots made of terracotta. Some were used for transporting cargoes of olive oil, and others held wine"
+            }
+        }
+    }
+}

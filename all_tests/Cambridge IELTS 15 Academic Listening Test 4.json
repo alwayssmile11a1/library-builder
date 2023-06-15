@@ -1,1 +1,567 @@
-{"name":"Cambridge IELTS 15 Academic Listening Test 4","id":"C_15_A_4_L","ielts_test_id":"C_15_A_4","type":"listening","image":"C_15_A_4_L","passages":[{"title":"Customer Satisfaction Survey","audio":"C_15_A_4_L_1","image":"","start":1,"end":10},{"title":"","audio":"C_15_A_4_L_2","image":"","start":11,"end":20},{"title":"Presentation about refrigeration","audio":"C_15_A_4_L_3","image":"","start":21,"end":30},{"title":"How the Industrial Revolution affected life in Britain","audio":"C_15_A_4_L_4","image":"","start":31,"end":40}],"question_sections":[{"custom_instruction":"ONE WORD AND/OR A NUMBER","type":"sentence_completion","start":1,"end":10},{"custom_instruction":"A-H","image":"C_15_A_4_L_11_16","type":"label_completion","start":11,"end":16},{"custom_instruction":"TWO","type":"multiple_choices","start":17,"end":18},{"custom_instruction":"TWO","type":"multiple_choices","start":19,"end":20},{"type":"one_choice","start":21,"end":24},{"custom_instruction":"Who is going to do research into each topic?","type":"drop_information","start":25,"end":30},{"custom_instruction":"ONE WORD ONLY","type":"sentence_completion","start":31,"end":40}],"questions":{"1":{"question":["<span><strong>Customer details</strong></span><br><span>Name: Sophie Bird</span><br><span>Occupation: </span>"]},"2":{"question":["<span></span><br><span>Reason for travel today: </span>"]},"3":{"question":["<span></span><br><span>&nbsp;</span><br><span><strong>Journey information</strong></span><br><span>Name of station returning to: </span>"]},"4":{"question":["<span></span><br><span>Type of ticket purchased: Standard </span>"]},"5":{"question":["<span> ticket</span><br><span>Cost of ticket:&nbsp;&pound; </span>"]},"6":{"question":["<span></span><br><span>When ticket was purchased: Yesterday</span><br><span>Where ticket was bought: </span>"]},"7":{"question":["<span></span><br><span>&nbsp;</span><br><span><strong>Satisfaction with journey</strong></span><br><span>Most satisfied with: the wifi</span><br><span>Least satisfied with: the </span>"]},"8":{"question":["<span> this morning.</span><br><span>&nbsp;</span><br><span><strong>Satisfaction with station facilities</strong></span><br><span>Most satisfied with: how much </span>"]},"9":{"question":["<span> was provided</span><br><span>Least satisfied with: lack of seats, particularly on the </span>"]},"10":{"question":["<span></span><br><span>Neither satisfied nor dissatisfied with: the </span>","<span> available</span>"]},"11":{"question":["<span>caf&eacute; </span>","<span></span>"]},"12":{"question":["<span>toilets </span>","<span></span>"]},"13":{"question":["<span>formal gardens </span>","<span></span>"]},"14":{"question":["<span>outdoor gym </span>","<span></span>"]},"15":{"question":["<span>skateboard ramp </span>","<span></span>"]},"16":{"question":["<span>wild flowers </span>","<span></span>"]},"17":{"question":""},"18":{"question":"<span>What does the speakers say about the adventure playground?</span>","options":["Children must be supervised","It costs more in winter","Some activities are only for younger children","No payment is required","It was recently expanded"]},"19":{"question":""},"20":{"question":"<span>What does the speaker say about the glass houses?</span>","options":["They are closed at weekends","Volunteers are needed to work there","They were badly damaged by fire","More money is needed to repair some of the glass","Visitors can see palm trees from tropical regions"]},"21":{"question":"<span>What did Annie discover from reading about icehouses?</span>","options":["why they were first created","how the ice was kept frozen","where they were located"]},"22":{"question":"<span>What point does Annie make about refrigeration in ancient Rome?</span>","options":["It became a commercial business","It used snow from nearby","It took a long time to become popular"]},"23":{"question":"<span>In connection with modern refrigerator, both Annie and Jack are worried about</span>","options":["the complexity of the technology","the fact that some are disposed of irresponsibly","the large number that quickly break down"]},"24":{"question":"<span>What do Jack and Annie agree regarding domestic fridges?</span>","options":["They are generally good value for money","There are plenty of useful variations","They are more useful than other domestic appliances"]},"25":{"question":["<span><strong>Topics</strong></span><br><span>the goods that are refrigerated </span>"]},"26":{"question":["<span></span><br><span>the effects on health </span>"]},"27":{"question":["<span></span><br><span>the impact on food producers </span>"]},"28":{"question":["<span></span><br><span>the impact on cities </span>"]},"29":{"question":["<span></span><br><span>refrigerated transport </span>"]},"30":{"question":["<span></span><br><span>domestic fridges </span>","<span></span>"],"options":["Annie","Jack","both Annie and Jack"]},"31":{"question":["<span><strong>19th century</strong></span><br><span>&bull; &nbsp; For the first time, people&rsquo;s possessions were used to measure Britain&rsquo;s </span>"]},"32":{"question":["<span>.</span><br><span>&bull; &nbsp; Developments in production of goods and in </span>"]},"33":{"question":["<span>&nbsp;greatly changed lives.</span><br><span>&nbsp;</span><br><span><strong>MAIN AREAS OF CHANGE</strong></span><br><span><strong>Manufacturing</strong></span><br><span>&bull; &nbsp; The Industrial Revolution would not have happened without the new types of </span>"]},"34":{"question":["<span>&nbsp;that were used then.</span><br><span>&bull; &nbsp; The leading industry was </span>"]},"35":{"question":["<span>&nbsp;(its products became widely available).</span><br><span>&bull; &nbsp; New </span>"]},"36":{"question":["<span>&nbsp;made factories necessary and so more people moved into towns.</span><br><span><strong>Transport</strong></span><br><span>&bull; &nbsp; The railways took the place of canals.</span><br><span>&bull; &nbsp; Because of the new transport:</span><br><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &ndash;&nbsp; greater access to </span>"]},"37":{"question":["<span>&nbsp;Made people more aware of what they could buy in shops.</span><br><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &ndash;&nbsp; when shopping, people were not limited to buying </span>"]},"38":{"question":["<span>&nbsp;goods.</span><br><span><strong>Retailing</strong></span><br><span>&bull;&nbsp; &nbsp;The first department stores were opened.</span><br><span>&bull; &nbsp; The displays of goods were more visible:</span><br><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &ndash;&nbsp; inside stores because of better </span>"]},"39":{"question":["<span>.</span><br><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &ndash;&nbsp; outside stores, because </span>"]},"40":{"question":["<span>&nbsp;were bigger.</span><br><span>&bull;&nbsp;&nbsp;&nbsp;</span>","<span>&nbsp;that was persuasive became much more common.</span>"]}},"answers":{"transcripts":{"1":"<span>MAN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hello. Do you mind if I ask you some questions about your journey today? We&rsquo;re doing a customer satisfaction survey.</span><br><span>SOPHIE: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Yes. OK. I&rsquo;ve got about ten minutes before my train home leaves. I&rsquo;m on a day trip.</span><br><span>MAN:&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Great. Thank you. So first of all, could you tell me your name?</span><br><span>SOPHIE: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; It&rsquo;s Sophie Bird.</span><br><span>MAN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Thank you. And would you mind telling me what you do?</span><br><span>SOPHIE: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I&rsquo;m a&nbsp;journalist.</span><br><span>MAN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Oh really? That must be interesting.</span><br><span>SOPHIE: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Yes. It is.</span><br><span>MAN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; So was the reason for your visit here today work?</span><br><span>SOPHIE: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Actually, it&rsquo;s my day off. I came here to do some&nbsp;shopping.</span><br><span>MAN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; On right.</span><br><span>SOPHIE: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; But I do sometimes come here for work.</span><br><span>MAN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; OK. Now I&rsquo;d like to ask some questions about your journey today, if that&rsquo;s OK.</span><br><span>SOPHIE: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Yes. No problem.</span><br><span>MAN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Right, so can you tell me which station you&rsquo;re travelling back to?</span><br><span>SOPHIE: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Staunfirth, where I live.</span><br><span>MAN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Can I just check the spelling? S-T-A-U-N-F-I-R-T-H?</span><br><span>SOPHIE: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; That&rsquo;s right.</span><br><span>MAN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; And you travelled from there this morning?</span><br><span>SOPHIE: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Yes.</span><br><span>MAN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; OK, good. Next, can I ask what kind of ticket you bought? I assume it wasn&rsquo;t a season ticket, as you don&rsquo;t travel every day.</span><br><span>SOPHIE: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; That&rsquo;s right. No, I just got a normal&nbsp;return ticket. I don&rsquo;t have a rail card so I didn&rsquo;t get any discount. I keep meaning to get one because it&rsquo;s a lot cheaper.</span><br><span>MAN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Yes &ndash; you&rsquo;d have saved 20% on your ticket today. So you paid the full price for your ticket?</span><br><span>SOPHIE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I paid &pound;23.70.</span><br><span>MAN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; OK. Do you think that&rsquo;s good value for money?</span><br><span>SOPHIE: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Not really. I think it&rsquo;s too much for a journey that only takes 45 minutes.</span><br><span>MAN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Yes, that&rsquo;s one of the main complaints we get. So, you didn&rsquo;t buy your ticket in advance?</span><br><span>SOPHIE: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; No. I know it&rsquo;s cheaper if you buy a week in advance but I didn&rsquo;t know I was coming then.</span><br><span>MAN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I know. You can&rsquo;t always plan ahead. So, did you buy it this morning?</span><br><span>SOPHIE: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; No, it was yesterday.</span><br><span>MAN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Right. And do you usually buy your tickets at the station?</span><br><span>SOPHIE: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Well, I do usually but the ticket office closes early and I hate using ticket machines. I think ticket offices should be open for longer hours. There&rsquo;s always a queue for the machines and they&rsquo;re often out of order.</span><br><span>MAN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A lot of customers are saying the same thing.</span><br><span>SOPHIE: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; So to answer your question &hellip; I got an e-ticket&nbsp;online.</span><br><span>_____________________</span><br><span>MAN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; OK. Thank you. Now I&rsquo;d like to ask you about your satisfaction with your journey. So what would you say you were most satisfied with today?</span><br><span>SOPHIE: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Well, I like the wifi on the train. It&rsquo;s improved a lot. It makes it easier for me to work if I want to.</span><br><span>MAN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; That&rsquo;s the first time today anyone&rsquo;s mentioned that. It&rsquo;s good to get some positive feedback on that.</span><br><span>SOPHIE: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mmm.</span><br><span>MAN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; And, is there anything you weren&rsquo;t satisfied with?</span><br><span>SOPHIE: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Well, normally, the trains run on time and are pretty reliable but today there was a&nbsp;delay; the train was about 15 minutes behind schedule.</span><br><span>MAN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; OK. I&rsquo;ll put that down. Now I&rsquo;d also like to ask about the facilities at this station. You&rsquo;ve probably noticed that the whole station&rsquo;s been upgraded. What are you most satisfied with?</span><br><span>SOPHIE: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I think the best thing is that they&rsquo;ve improved the amount of&nbsp;information about train times etc. that&rsquo;s given to passengers &ndash; it&rsquo;s much clearer &ndash; before there was only one board and I couldn&rsquo;t always see it properly &ndash; which was frustrating.</span><br><span>MAN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; That&rsquo;s good. And is there anything you&rsquo;re not satisfied with?</span><br><span>SOPHIE: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Let&rsquo;s see &hellip; I think things have generally improved a lot. The trains are much more modern and I like the new caf&eacute;. But one thing is that there aren&rsquo;t enough places to sit down, especially on the&nbsp;platforms.</span><br><span>MAN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; OK &ndash; so I&rsquo;ll put &lsquo;seating&rsquo; down, shall I, as the thing you&rsquo;re least satisfied with?</span><br><span>SOPHIE: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Yes, OK.</span><br><span>MAN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Can I ask your opinion about some of the other facilities? We&rsquo;d like feedback on whether people are satisfied, dissatisfied or neither satisfied nor dissatisfied.</span><br><span>SOPHIE: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; OK.</span><br><span>MAN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; What about the&nbsp;parking at the station?</span><br><span>SOPHIE: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Well to be honest, I don&rsquo;t really have an opinion as I never use it.</span><br><span>MAN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; So, neither satisfied nor dissatisfied for that then.</span><br><span>SOPHIE: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Yes, I suppose so &hellip;</span><br><span>MAN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; OK, and what about &hellip;?</span>","2":"<span>As chair of the town council subcommittee on park facilities, I&rsquo;d like to bring you up to date on some of the changes that have been made recently to the Croft Valley Park. So if you could just take a look at the map I handed out, let&rsquo;s begin with a general overview. So the basic arrangement of the park hasn&rsquo;t changed &ndash; it still has two gates, north and south, and a lake in the middle.</span><br><span>The caf&eacute; continues to serve an assortment of drinks and snacks and is still in the same place,&nbsp;looking out over the lake and next to the old museum.</span><br><span>We&rsquo;re hoping to change the location of the toilets, and bring them nearer to the centre of the park as they&rsquo;re a bit out of the way at present,&nbsp;near the adventure playground, in the corner of your map.</span><br><span>The formal gardens have been replanted and should be at their best in a month or two. They used to be behind the old museum, but we&rsquo;re now used&nbsp;the space near the south gate &ndash; between the park boundary and the path that goes past the lake towards the old museum.</span><br><span>We have a new outdoor gym for adults and children, which is already proving very popular. It&rsquo;s&nbsp;by the glass houses, just to the right of the path from the south gate. You have to look for it as it&rsquo;s a bit hidden in the trees.</span><br><span>One very successful introduction has been our skateboard ramp. It&rsquo;s in constant use during the evenings and holidays. It&rsquo;s&nbsp;near the old museum, at the end of a little path that leads off from the main path between the lake and the museum.</span><br><span>We&rsquo;ve also introduced a new area for wild flowers, to attract bees and butterflies. It&rsquo;s&nbsp;on a bend in the path that goes round the east side of the lake, just south of the adventure playground.</span><br><span>_________________</span><br><span>Now let me tell you a bit more about some of the changes to Croft Valley Park.</span><br><span>One of our most exciting developments has been the adventure playground. We were aware that we had nowhere for children to let off steam, and decided to use our available funds to set up a completely new facility in a large space to the north of the park. It&rsquo;s open year-round, though it close early in the winter months, and&nbsp;entrance is completely free.&nbsp;Children can choose whatever activities they want to do, irrespective of their age, but&nbsp;we do ask adults not to leave them on their own there. There are plenty of seats where parents can relax and keep an eye on their children at the same time.</span><br><span>Lastly, the glass houses. A huge amount of work has been done on them to repair the&nbsp;damage following the disastrous fire that recently destroyed their western side. Over &pound;80,000 was spent on replacing the glass walls and the metal supports, as well as the plants that had been destroyed, although unfortunately the collection of tropical palm trees has proved too expensive to replace up to now. At present the glass houses are open from 10am to 3pm&nbsp;Mondays to Thursdays, and it&rsquo;s hoped to extend this to the weekend soon. We&rsquo;re grateful to all those who helped us by contributing their time and money to this achievement.</span><br><span>The gardens have &hellip;</span>","3":"<span>ANNIE:&nbsp; OK, Jack. Before we plan our presentation about refrigeration, let&rsquo;s discuss what we&rsquo;ve discovered so far.</span><br><span>JACK:&nbsp;&nbsp;&nbsp;&nbsp; Fine, Annie. Though I have to admit I haven&rsquo;t done much research yet.</span><br><span>ANNIE:&nbsp; Nor me. But I found an interesting article about icehouses. I&rsquo;d been some 18th- and 19th-century ones here in the UK, so I knew they were often built in a shady area or underground, close to lakes that might freeze in the winter. Then blocks of ice could be cut and stored in the icehouse. But&nbsp;I didn&rsquo;t realise that insulating the blocks with straw or sawdust meant they didn&rsquo;t melt for months. The ancient Romans had refrigeration, too.</span><br><span>JACK:&nbsp;&nbsp;&nbsp;&nbsp; I didn&rsquo;t know that.</span><br><span>ANNIE:&nbsp; Yes, pits were dug in the ground, and snow was imported from the mountains &ndash; even though they were at quite a distance. The snow was stored in the pits. Ice formed at the bottom of it.&nbsp;Both the ice and the snow were then sold. The ice cost more than the snow and my guess is that only the wealthy members of society could afford it.</span><br><span>JACK:&nbsp;&nbsp;&nbsp;&nbsp; I wouldn&rsquo;t be surprised. I also came across an article about modern domestic fridges. Several different technologies are used, but they were too complex for me to understand.</span><br><span>ANNIE:&nbsp; You have to wonder what happens when people get rid of old ones.</span><br><span>JACK:&nbsp;&nbsp;&nbsp;&nbsp; You mean because the gases in them are harmful for the environment?</span><br><span>ANNIE:&nbsp; Exactly. At least these are now plenty of organisations that will recycle most of the components safety, but of course&nbsp;some people just dump old fridges in the countryside.</span><br><span>JACK:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;It&rsquo;s hard to see how they can be stopped unfortunately. In the UK we get rid of three million a year altogether!</span><br><span>ANNIE:&nbsp; That sounds a lot, especially because fridges hardly ever break down.</span><br><span>JACK:&nbsp;&nbsp;&nbsp;&nbsp; That&rsquo;s right. In this country we keep domestic fridges for 11 years on average, and a lot last for 20 or more. So&nbsp;if you divide the cost by the number of years you can use a fridge, they&rsquo;re not expensive, compared with some household appliances.</span><br><span>ANNIE:&nbsp;&nbsp;True. I suppose manufactures encourage people to spend more by making them different colours and designs. I&rsquo;m sure when my parents bought their first fridge they had hardly any choice!</span><br><span>JACK:&nbsp;&nbsp;&nbsp;&nbsp; Yes, there&rsquo;s been quite a change.</span><br><span>_______________________</span><br><span>JACK:&nbsp;&nbsp;&nbsp;&nbsp; Right, let&rsquo;s make a list of topics to cover in our presentation, and decide who&rsquo;s going to do more research on them. Then later, we can get together and plan the next step.</span><br><span>ANNIE:&nbsp; OK. How about starting with how useful refrigeration is, and&nbsp;the range of goods that are refrigerated&nbsp;nowadays? Because of course it&rsquo;s not just food and drinks.</span><br><span>JACK:&nbsp;&nbsp;&nbsp;&nbsp; No, I suppose flowers and medicines are refrigerated, too.</span><br><span>ANNIE:&nbsp; And computers.&nbsp;I could do that, unless you particularly want to.</span><br><span>JACK:&nbsp;&nbsp;&nbsp;&nbsp; No, that&rsquo;s fine by me. What about&nbsp;the effects of refrigeration on people&rsquo;s health? After all, some of the chemicals used in the 19th century were pretty harmful, but there have been lots of benefits too, like always have access to fresh food. Do you fancy dealing with that?</span><br><span>ANNIE:&nbsp; I&rsquo;m no terribly keen, to be honest.</span><br><span>JACK:&nbsp;&nbsp;&nbsp;&nbsp; Nor me. My mind just goes blank when I read anything about chemicals.</span><br><span>ANNIE:&nbsp;&nbsp;Oh, all right then, I&rsquo;ll do you a favour. But you own me, Jack.</span><br><ol><br><li>What about&nbsp;the effects on food producers, like farmers in poorer countries being able to export their produce to developed countries? Something for you, maybe?</li><br></ol><br><span>JACK:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I don&rsquo;t mind. It should be quite interesting.</span><br><span>ANNIE:&nbsp; I think we should also look at&nbsp;how refrigeration has helped whole cities&nbsp;&ndash; like Las Vegas, which couldn&rsquo;t exist without refrigeration because it&rsquo;s in the middle of a desert.</span><br><span>JACK:&nbsp;&nbsp;&nbsp;&nbsp; Right. I had a quick look at an economics book in the library that&rsquo;s got a chapter about this sort of thing. I could give you the title, if you want to do this section.</span><br><span>ANNIE:&nbsp; Not particularly, to be honest. I find economics books pretty heavy going, as a rule.</span><br><span>JACK:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;OK, leave it to me, then.</span><br><span>ANNIE:&nbsp; Thanks. Then there&rsquo;s transport, and the difference that&nbsp;refrigerated trucks have made.&nbsp;I wouldn&rsquo;t mind having a go at that.</span><br><span>JACK:&nbsp;&nbsp;&nbsp;&nbsp; Don&rsquo;t forget trains, too. I read something about milk and butter being transported in refrigerated railroad cars in the USA, right back in the 1840s.</span><br><span>ANNIE:&nbsp; I hadn&rsquo;t thought of trains. Thanks.</span><br><span>JACK:&nbsp;&nbsp;&nbsp;&nbsp; Shall we have a separate section on&nbsp;domestic fridges? After all, they&rsquo;re something everyone&rsquo;s familiar with.</span><br><span>ANNIE:&nbsp;&nbsp;What about splitting it into two? You could investigate 19th- and 20th-century fridges, and I&rsquo;ll concentrate on what&rsquo;s available these days, and how manufacturers differentiate their products from those of their competitors.</span><br><span>JACK:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;OK, that&rsquo;d suit me.</span>","4":"<span>Hi everyone, in this session I&rsquo;ll be presenting my research about the social history of Britain during the Industrial Revolution. I particularly looked at how ordinary lives were affected by changes that happened at that time. This was a time that saw the beginning of a new phenomenon; consumerism &ndash; where buying and selling goods became a major part of ordinary people&rsquo;s lives.</span><br><span>In fact, it was in the 19th century that the quantity and quality of people&rsquo;s possessions was used as an indication of the&nbsp;wealth&nbsp;of the country. Before this, the vast majority of people had very few possessions, but all that was changed by the Industrial Revolution. This was the era from the mid-18th to the late 19th century, when improvements in how goods were made as well as in&nbsp;technology&nbsp;triggered massive social changes that transformed life for just about everybody in several key areas.</span><br><span>First let&rsquo;s look at manufacturing. When it comes to manufacturing, we tend to think of the Industrial Revolution in images of steam engines and coal. And it&rsquo;s true that the Industrial Revolution couldn&rsquo;t have taken place at all if it weren&rsquo;t for these new sources of&nbsp;power. They marked an important shift away from the traditional watermills and windmills that had dominated before this. The most advanced industry for much of the 19th century was&nbsp;textiles. This meant that fashionable fabrics, and lace and ribbons were made available to everyone.</span><br><span>Before the Industrial Revolution, most people made goods to sell in small workshops, often in their own homes. But enormous new machines were now being created that could produce the goods faster and on a larger scale, and these required a lot more space. So large factories were built, replacing the workshops, and forcing workers to travel to work. In fact, large numbers of people migrated from villages into towns as a result.</span><br><span>______________________</span><br><span>As well as manufacturing, there were new technologies in transport, contributing to the growth of consumerism. The horse-drawn stagecoaches and carts of the 18th century, which carried very few people and good, and travelled slowly along poorly surfaced roads, were gradually replaced by the numerous canals that were constructed. These were particularly important for the transportation of goods. The canals gradually fell out of use, though, as railways were developed, becoming the main way of moving goods and people from one end of the country to the other. And the goods they moved weren&rsquo;t just coal, iron, clothes, and so on &ndash; significantly, they included&nbsp;newspapers, which meant that thousands of people were not only more knowledgeable about what was going on in the country, but could also read about what was available in the shops. And that encouraged them to buy more. so faster forms of transport resulted in distribution becoming far more efficient &ndash; goods could now be sold all over the country, instead of just in the&nbsp;local&nbsp;market.</span><br><span>The third main area that saw changes that contributed to consumerism was retailing. The number and quality of shops grew rapidly, and in particular, small shops suffered as customers flocked to the growing number of department stores &ndash; a form of retailing that was new in the 19th century. The entrepreneurs who opened these found new ways to stock them with goods, and to attract customers: for instance, improved&nbsp;lighting&nbsp;inside greatly increased the visibility of the goods for sale. Another development that made goods more visible from outside resulted from the use of plate glass, which made it possible for&nbsp;windows&nbsp;to be much larger than previously. New ways of promoting goods were introduced, too. Previously, the focus had been on&nbsp;<em>informing&nbsp;</em>potential customers about the availability of goods; now there was an explosion in&nbsp;advertising&nbsp;trying to persuade people to go shopping.</span><br><span>Flanders claims that one of the great effects of the Industrial Revolution was that it created choice. All sorts of things that had previously been luxuries &ndash; from sugar to cutlery &ndash; became conveniences, and before long they&rsquo;d turned into necessities: life without sugar or cutlery was unimaginable. Rather like mobile phones these days!</span>"},"answer_sheet":{"1":{"answer":["journalist"],"explanation":"I’m a journalist"},"2":{"answer":["shopping"],"explanation":"I came here to do some shopping"},"3":{"answer":["Staunfirth"],"explanation":"Staunfirth, where I live."},"4":{"answer":["return"],"explanation":"I just got a normal return ticket"},"5":{"answer":["23.70"],"explanation":"I paid £23.70"},"6":{"answer":["online"],"explanation":"I got an e-ticket online"},"7":{"answer":["delay"],"explanation":"the trains run on time and are pretty reliable but today there was a delay"},"8":{"answer":["information"],"explanation":"I think the best thing is that they’ve improved the amount of information"},"9":{"answer":["platform","platforms"],"explanation":"But one thing is that there aren’t enough places to sit down, especially on the platforms"},"10":{"answer":["parking"],"explanation":"What about the parking at the station?"},"11":{"answer":["D"],"explanation":"The café continues to serve an assortment of drinks and snacks and is still in the same place, looking out over the lake and next to the old museum."},"12":{"answer":["C"],"explanation":"near the adventure playground, in the corner of your map."},"13":{"answer":["G"],"explanation":"we’re now used the space near the south gate – between the park boundary and the path that goes past the lake towards the old museum"},"14":{"answer":["H"],"explanation":"It’s by the glass houses, just to the right of the path from the south gate. You have to look for it as it’s a bit hidden in the trees"},"15":{"answer":["A"],"explanation":"It’s near the old museum, at the end of a little path that leads off from the main path between the lake and the museum."},"16":{"answer":["E"],"explanation":"It’s on a bend in the path that goes round the east side of the lake, just south of the adventure playground."},"17":{"answer":["Children must be supervised"],"explanation":"we do ask adults not to leave them on their own there"},"18":{"answer":["No payment is required"],"explanation":"entrance is completely free"},"19":{"answer":["They are closed at weekends"],"explanation":"At present the glass houses are open from 10am to 3pm Mondays to Thursdays, and it’s hoped to extend this to the weekend soon"},"20":{"answer":["They were badly damaged by fire"],"explanation":"A huge amount of work has been done on them to repair the damage following the disastrous fire that recently destroyed their western side"},"21":{"answer":["how the ice was kept frozen"],"explanation":"I didn’t realise that insulating the blocks with straw or sawdust meant they didn’t melt for months"},"22":{"answer":["It became a commercial business"],"explanation":"Both the ice and the snow were then sold"},"23":{"answer":["the fact that some are disposed of irresponsibly"],"explanation":"At least these are now plenty of organisations that will recycle most of the components safety, but of course some people just dump old fridges in the countryside"},"24":{"answer":["They are generally good value for money"],"explanation":"So if you divide the cost by the number of years you can use a fridge, they’re not expensive, compared with some household appliances"},"25":{"answer":["Annie"],"explanation":"the range of goods that are refrigerated nowadays?"},"26":{"answer":["Annie"],"explanation":"What about the effects of refrigeration on people’s health"},"27":{"answer":["Jack"],"explanation":"What about the effects on food producers, like farmers in poorer countries being able to export their produce to developed countries? Something for you, maybe?"},"28":{"answer":["Jack"],"explanation":"I think we should also look at how refrigeration has helped whole cities"},"29":{"answer":["Annie"],"explanation":"Then there’s transport, and the difference that refrigerated trucks have made. I wouldn’t mind having a go at that."},"30":{"answer":["both Annie and Jack"],"explanation":"Shall we have a separate section on domestic fridges? After all, they’re something everyone’s familiar with."},"31":{"answer":["wealth"],"explanation":"it was in the 19th century that the quantity and quality of people’s possessions was used as an indication of the wealth of the country"},"32":{"answer":["technology"],"explanation":"This was the era from the mid-18th to the late 19th century, when improvements in how goods were made as well as in technology"},"33":{"answer":["power"],"explanation":"And it’s true that the Industrial Revolution couldn’t have taken place at all if it weren’t for these new sources of power"},"34":{"answer":["textile","textiles"],"explanation":"The most advanced industry for much of the 19th century was textiles"},"35":{"answer":["machines"],"explanation":"But enormous new machines were now being created that could produce the goods faster and on a larger scale, and these required a lot more space"},"36":{"answer":["newspapers"],"explanation":"they included newspapers"},"37":{"answer":["local"],"explanation":"goods could now be sold all over the country, instead of just in the local market."},"38":{"answer":["lighting"],"explanation":"for instance, improved lighting inside greatly increased the visibility of the goods for sale"},"39":{"answer":["windows"],"explanation":"which made it possible for windows to be much larger than previously"},"40":{"answer":["Advertising"],"explanation":"now there was an explosion in advertising trying to persuade people to go shopping."}}}}
+{
+    "name": "Cambridge IELTS 15 Academic Listening Test 4",
+    "id": "C_15_A_4_L",
+    "ielts_test_id": "C_15_A_4",
+    "type": "listening",
+    "image": "C_15_A_4_L",
+    "passages": [
+        {
+            "title": "Customer Satisfaction Survey",
+            "audio": "C_15_A_4_L_1",
+            "image": "",
+            "start": 1,
+            "end": 10
+        },
+        {
+            "title": "",
+            "audio": "C_15_A_4_L_2",
+            "image": "",
+            "start": 11,
+            "end": 20
+        },
+        {
+            "title": "Presentation about refrigeration",
+            "audio": "C_15_A_4_L_3",
+            "image": "",
+            "start": 21,
+            "end": 30
+        },
+        {
+            "title": "How the Industrial Revolution affected life in Britain",
+            "audio": "C_15_A_4_L_4",
+            "image": "",
+            "start": 31,
+            "end": 40
+        }
+    ],
+    "question_sections": [
+        {
+            "custom_instruction": "ONE WORD AND/OR A NUMBER",
+            "type": "sentence_completion",
+            "start": 1,
+            "end": 10
+        },
+        {
+            "custom_instruction": "A-H",
+            "image": "C_15_A_4_L_11_16",
+            "type": "label_completion",
+            "start": 11,
+            "end": 16
+        },
+        {
+            "custom_instruction": "TWO",
+            "type": "multiple_choices",
+            "start": 17,
+            "end": 18
+        },
+        {
+            "custom_instruction": "TWO",
+            "type": "multiple_choices",
+            "start": 19,
+            "end": 20
+        },
+        {
+            "type": "one_choice",
+            "start": 21,
+            "end": 24
+        },
+        {
+            "custom_instruction": "Who is going to do research into each topic?",
+            "type": "drop_information",
+            "start": 25,
+            "end": 30
+        },
+        {
+            "custom_instruction": "ONE WORD ONLY",
+            "type": "sentence_completion",
+            "start": 31,
+            "end": 40
+        }
+    ],
+    "questions": {
+        "1": {
+            "question": [
+                "<span><strong>Customer details</strong></span><br><span>Name: Sophie Bird</span><br><span>Occupation: </span>"
+            ]
+        },
+        "2": {
+            "question": [
+                "<span></span><br><span>Reason for travel today: </span>"
+            ]
+        },
+        "3": {
+            "question": [
+                "<span></span><br><span>&nbsp;</span><br><span><strong>Journey information</strong></span><br><span>Name of station returning to: </span>"
+            ]
+        },
+        "4": {
+            "question": [
+                "<span></span><br><span>Type of ticket purchased: Standard </span>"
+            ]
+        },
+        "5": {
+            "question": [
+                "<span> ticket</span><br><span>Cost of ticket:&nbsp;&pound; </span>"
+            ]
+        },
+        "6": {
+            "question": [
+                "<span></span><br><span>When ticket was purchased: Yesterday</span><br><span>Where ticket was bought: </span>"
+            ]
+        },
+        "7": {
+            "question": [
+                "<span></span><br><span>&nbsp;</span><br><span><strong>Satisfaction with journey</strong></span><br><span>Most satisfied with: the wifi</span><br><span>Least satisfied with: the </span>"
+            ]
+        },
+        "8": {
+            "question": [
+                "<span> this morning.</span><br><span>&nbsp;</span><br><span><strong>Satisfaction with station facilities</strong></span><br><span>Most satisfied with: how much </span>"
+            ]
+        },
+        "9": {
+            "question": [
+                "<span> was provided</span><br><span>Least satisfied with: lack of seats, particularly on the </span>"
+            ]
+        },
+        "10": {
+            "question": [
+                "<span></span><br><span>Neither satisfied nor dissatisfied with: the </span>",
+                "<span> available</span>"
+            ]
+        },
+        "11": {
+            "question": [
+                "<span>caf&eacute; </span>",
+                "<span></span>"
+            ]
+        },
+        "12": {
+            "question": [
+                "<span>toilets </span>",
+                "<span></span>"
+            ]
+        },
+        "13": {
+            "question": [
+                "<span>formal gardens </span>",
+                "<span></span>"
+            ]
+        },
+        "14": {
+            "question": [
+                "<span>outdoor gym </span>",
+                "<span></span>"
+            ]
+        },
+        "15": {
+            "question": [
+                "<span>skateboard ramp </span>",
+                "<span></span>"
+            ]
+        },
+        "16": {
+            "question": [
+                "<span>wild flowers </span>",
+                "<span></span>"
+            ]
+        },
+        "17": {
+            "question": ""
+        },
+        "18": {
+            "question": "<span>What does the speakers say about the adventure playground?</span>",
+            "options": [
+                "Children must be supervised",
+                "It costs more in winter",
+                "Some activities are only for younger children",
+                "No payment is required",
+                "It was recently expanded"
+            ]
+        },
+        "19": {
+            "question": ""
+        },
+        "20": {
+            "question": "<span>What does the speaker say about the glass houses?</span>",
+            "options": [
+                "They are closed at weekends",
+                "Volunteers are needed to work there",
+                "They were badly damaged by fire",
+                "More money is needed to repair some of the glass",
+                "Visitors can see palm trees from tropical regions"
+            ]
+        },
+        "21": {
+            "question": "<span>What did Annie discover from reading about icehouses?</span>",
+            "options": [
+                "why they were first created",
+                "how the ice was kept frozen",
+                "where they were located"
+            ]
+        },
+        "22": {
+            "question": "<span>What point does Annie make about refrigeration in ancient Rome?</span>",
+            "options": [
+                "It became a commercial business",
+                "It used snow from nearby",
+                "It took a long time to become popular"
+            ]
+        },
+        "23": {
+            "question": "<span>In connection with modern refrigerator, both Annie and Jack are worried about</span>",
+            "options": [
+                "the complexity of the technology",
+                "the fact that some are disposed of irresponsibly",
+                "the large number that quickly break down"
+            ]
+        },
+        "24": {
+            "question": "<span>What do Jack and Annie agree regarding domestic fridges?</span>",
+            "options": [
+                "They are generally good value for money",
+                "There are plenty of useful variations",
+                "They are more useful than other domestic appliances"
+            ]
+        },
+        "25": {
+            "question": [
+                "<span><strong>Topics</strong></span><br><span>the goods that are refrigerated </span>"
+            ]
+        },
+        "26": {
+            "question": [
+                "<span></span><br><span>the effects on health </span>"
+            ]
+        },
+        "27": {
+            "question": [
+                "<span></span><br><span>the impact on food producers </span>"
+            ]
+        },
+        "28": {
+            "question": [
+                "<span></span><br><span>the impact on cities </span>"
+            ]
+        },
+        "29": {
+            "question": [
+                "<span></span><br><span>refrigerated transport </span>"
+            ]
+        },
+        "30": {
+            "question": [
+                "<span></span><br><span>domestic fridges </span>",
+                "<span></span>"
+            ],
+            "options": [
+                "Annie",
+                "Jack",
+                "both Annie and Jack"
+            ]
+        },
+        "31": {
+            "question": [
+                "<span><strong>19th century</strong></span><br><span>&bull; &nbsp; For the first time, people&rsquo;s possessions were used to measure Britain&rsquo;s </span>"
+            ]
+        },
+        "32": {
+            "question": [
+                "<span>.</span><br><span>&bull; &nbsp; Developments in production of goods and in </span>"
+            ]
+        },
+        "33": {
+            "question": [
+                "<span>&nbsp;greatly changed lives.</span><br><span>&nbsp;</span><br><span><strong>MAIN AREAS OF CHANGE</strong></span><br><span><strong>Manufacturing</strong></span><br><span>&bull; &nbsp; The Industrial Revolution would not have happened without the new types of </span>"
+            ]
+        },
+        "34": {
+            "question": [
+                "<span>&nbsp;that were used then.</span><br><span>&bull; &nbsp; The leading industry was </span>"
+            ]
+        },
+        "35": {
+            "question": [
+                "<span>&nbsp;(its products became widely available).</span><br><span>&bull; &nbsp; New </span>"
+            ]
+        },
+        "36": {
+            "question": [
+                "<span>&nbsp;made factories necessary and so more people moved into towns.</span><br><span><strong>Transport</strong></span><br><span>&bull; &nbsp; The railways took the place of canals.</span><br><span>&bull; &nbsp; Because of the new transport:</span><br><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &ndash;&nbsp; greater access to </span>"
+            ]
+        },
+        "37": {
+            "question": [
+                "<span>&nbsp;Made people more aware of what they could buy in shops.</span><br><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &ndash;&nbsp; when shopping, people were not limited to buying </span>"
+            ]
+        },
+        "38": {
+            "question": [
+                "<span>&nbsp;goods.</span><br><span><strong>Retailing</strong></span><br><span>&bull;&nbsp; &nbsp;The first department stores were opened.</span><br><span>&bull; &nbsp; The displays of goods were more visible:</span><br><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &ndash;&nbsp; inside stores because of better </span>"
+            ]
+        },
+        "39": {
+            "question": [
+                "<span>.</span><br><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &ndash;&nbsp; outside stores, because </span>"
+            ]
+        },
+        "40": {
+            "question": [
+                "<span>&nbsp;were bigger.</span><br><span>&bull;&nbsp;&nbsp;&nbsp;</span>",
+                "<span>&nbsp;that was persuasive became much more common.</span>"
+            ]
+        }
+    },
+    "answers": {
+        "transcripts": {
+            "1": "<span>MAN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hello. Do you mind if I ask you some questions about your journey today? We&rsquo;re doing a customer satisfaction survey.</span><br><span>SOPHIE: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Yes. OK. I&rsquo;ve got about ten minutes before my train home leaves. I&rsquo;m on a day trip.</span><br><span>MAN:&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Great. Thank you. So first of all, could you tell me your name?</span><br><span>SOPHIE: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; It&rsquo;s Sophie Bird.</span><br><span>MAN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Thank you. And would you mind telling me what you do?</span><br><span>SOPHIE: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I&rsquo;m a&nbsp;journalist.</span><br><span>MAN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Oh really? That must be interesting.</span><br><span>SOPHIE: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Yes. It is.</span><br><span>MAN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; So was the reason for your visit here today work?</span><br><span>SOPHIE: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Actually, it&rsquo;s my day off. I came here to do some&nbsp;shopping.</span><br><span>MAN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; On right.</span><br><span>SOPHIE: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; But I do sometimes come here for work.</span><br><span>MAN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; OK. Now I&rsquo;d like to ask some questions about your journey today, if that&rsquo;s OK.</span><br><span>SOPHIE: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Yes. No problem.</span><br><span>MAN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Right, so can you tell me which station you&rsquo;re travelling back to?</span><br><span>SOPHIE: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Staunfirth, where I live.</span><br><span>MAN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Can I just check the spelling? S-T-A-U-N-F-I-R-T-H?</span><br><span>SOPHIE: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; That&rsquo;s right.</span><br><span>MAN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; And you travelled from there this morning?</span><br><span>SOPHIE: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Yes.</span><br><span>MAN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; OK, good. Next, can I ask what kind of ticket you bought? I assume it wasn&rsquo;t a season ticket, as you don&rsquo;t travel every day.</span><br><span>SOPHIE: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; That&rsquo;s right. No, I just got a normal&nbsp;return ticket. I don&rsquo;t have a rail card so I didn&rsquo;t get any discount. I keep meaning to get one because it&rsquo;s a lot cheaper.</span><br><span>MAN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Yes &ndash; you&rsquo;d have saved 20% on your ticket today. So you paid the full price for your ticket?</span><br><span>SOPHIE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I paid &pound;23.70.</span><br><span>MAN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; OK. Do you think that&rsquo;s good value for money?</span><br><span>SOPHIE: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Not really. I think it&rsquo;s too much for a journey that only takes 45 minutes.</span><br><span>MAN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Yes, that&rsquo;s one of the main complaints we get. So, you didn&rsquo;t buy your ticket in advance?</span><br><span>SOPHIE: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; No. I know it&rsquo;s cheaper if you buy a week in advance but I didn&rsquo;t know I was coming then.</span><br><span>MAN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I know. You can&rsquo;t always plan ahead. So, did you buy it this morning?</span><br><span>SOPHIE: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; No, it was yesterday.</span><br><span>MAN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Right. And do you usually buy your tickets at the station?</span><br><span>SOPHIE: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Well, I do usually but the ticket office closes early and I hate using ticket machines. I think ticket offices should be open for longer hours. There&rsquo;s always a queue for the machines and they&rsquo;re often out of order.</span><br><span>MAN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A lot of customers are saying the same thing.</span><br><span>SOPHIE: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; So to answer your question &hellip; I got an e-ticket&nbsp;online.</span><br><span>_____________________</span><br><span>MAN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; OK. Thank you. Now I&rsquo;d like to ask you about your satisfaction with your journey. So what would you say you were most satisfied with today?</span><br><span>SOPHIE: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Well, I like the wifi on the train. It&rsquo;s improved a lot. It makes it easier for me to work if I want to.</span><br><span>MAN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; That&rsquo;s the first time today anyone&rsquo;s mentioned that. It&rsquo;s good to get some positive feedback on that.</span><br><span>SOPHIE: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mmm.</span><br><span>MAN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; And, is there anything you weren&rsquo;t satisfied with?</span><br><span>SOPHIE: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Well, normally, the trains run on time and are pretty reliable but today there was a&nbsp;delay; the train was about 15 minutes behind schedule.</span><br><span>MAN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; OK. I&rsquo;ll put that down. Now I&rsquo;d also like to ask about the facilities at this station. You&rsquo;ve probably noticed that the whole station&rsquo;s been upgraded. What are you most satisfied with?</span><br><span>SOPHIE: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I think the best thing is that they&rsquo;ve improved the amount of&nbsp;information about train times etc. that&rsquo;s given to passengers &ndash; it&rsquo;s much clearer &ndash; before there was only one board and I couldn&rsquo;t always see it properly &ndash; which was frustrating.</span><br><span>MAN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; That&rsquo;s good. And is there anything you&rsquo;re not satisfied with?</span><br><span>SOPHIE: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Let&rsquo;s see &hellip; I think things have generally improved a lot. The trains are much more modern and I like the new caf&eacute;. But one thing is that there aren&rsquo;t enough places to sit down, especially on the&nbsp;platforms.</span><br><span>MAN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; OK &ndash; so I&rsquo;ll put &lsquo;seating&rsquo; down, shall I, as the thing you&rsquo;re least satisfied with?</span><br><span>SOPHIE: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Yes, OK.</span><br><span>MAN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Can I ask your opinion about some of the other facilities? We&rsquo;d like feedback on whether people are satisfied, dissatisfied or neither satisfied nor dissatisfied.</span><br><span>SOPHIE: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; OK.</span><br><span>MAN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; What about the&nbsp;parking at the station?</span><br><span>SOPHIE: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Well to be honest, I don&rsquo;t really have an opinion as I never use it.</span><br><span>MAN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; So, neither satisfied nor dissatisfied for that then.</span><br><span>SOPHIE: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Yes, I suppose so &hellip;</span><br><span>MAN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; OK, and what about &hellip;?</span>",
+            "2": "<span>As chair of the town council subcommittee on park facilities, I&rsquo;d like to bring you up to date on some of the changes that have been made recently to the Croft Valley Park. So if you could just take a look at the map I handed out, let&rsquo;s begin with a general overview. So the basic arrangement of the park hasn&rsquo;t changed &ndash; it still has two gates, north and south, and a lake in the middle.</span><br><span>The caf&eacute; continues to serve an assortment of drinks and snacks and is still in the same place,&nbsp;looking out over the lake and next to the old museum.</span><br><span>We&rsquo;re hoping to change the location of the toilets, and bring them nearer to the centre of the park as they&rsquo;re a bit out of the way at present,&nbsp;near the adventure playground, in the corner of your map.</span><br><span>The formal gardens have been replanted and should be at their best in a month or two. They used to be behind the old museum, but we&rsquo;re now used&nbsp;the space near the south gate &ndash; between the park boundary and the path that goes past the lake towards the old museum.</span><br><span>We have a new outdoor gym for adults and children, which is already proving very popular. It&rsquo;s&nbsp;by the glass houses, just to the right of the path from the south gate. You have to look for it as it&rsquo;s a bit hidden in the trees.</span><br><span>One very successful introduction has been our skateboard ramp. It&rsquo;s in constant use during the evenings and holidays. It&rsquo;s&nbsp;near the old museum, at the end of a little path that leads off from the main path between the lake and the museum.</span><br><span>We&rsquo;ve also introduced a new area for wild flowers, to attract bees and butterflies. It&rsquo;s&nbsp;on a bend in the path that goes round the east side of the lake, just south of the adventure playground.</span><br><span>_________________</span><br><span>Now let me tell you a bit more about some of the changes to Croft Valley Park.</span><br><span>One of our most exciting developments has been the adventure playground. We were aware that we had nowhere for children to let off steam, and decided to use our available funds to set up a completely new facility in a large space to the north of the park. It&rsquo;s open year-round, though it close early in the winter months, and&nbsp;entrance is completely free.&nbsp;Children can choose whatever activities they want to do, irrespective of their age, but&nbsp;we do ask adults not to leave them on their own there. There are plenty of seats where parents can relax and keep an eye on their children at the same time.</span><br><span>Lastly, the glass houses. A huge amount of work has been done on them to repair the&nbsp;damage following the disastrous fire that recently destroyed their western side. Over &pound;80,000 was spent on replacing the glass walls and the metal supports, as well as the plants that had been destroyed, although unfortunately the collection of tropical palm trees has proved too expensive to replace up to now. At present the glass houses are open from 10am to 3pm&nbsp;Mondays to Thursdays, and it&rsquo;s hoped to extend this to the weekend soon. We&rsquo;re grateful to all those who helped us by contributing their time and money to this achievement.</span><br><span>The gardens have &hellip;</span>",
+            "3": "<span>ANNIE:&nbsp; OK, Jack. Before we plan our presentation about refrigeration, let&rsquo;s discuss what we&rsquo;ve discovered so far.</span><br><span>JACK:&nbsp;&nbsp;&nbsp;&nbsp; Fine, Annie. Though I have to admit I haven&rsquo;t done much research yet.</span><br><span>ANNIE:&nbsp; Nor me. But I found an interesting article about icehouses. I&rsquo;d been some 18th- and 19th-century ones here in the UK, so I knew they were often built in a shady area or underground, close to lakes that might freeze in the winter. Then blocks of ice could be cut and stored in the icehouse. But&nbsp;I didn&rsquo;t realise that insulating the blocks with straw or sawdust meant they didn&rsquo;t melt for months. The ancient Romans had refrigeration, too.</span><br><span>JACK:&nbsp;&nbsp;&nbsp;&nbsp; I didn&rsquo;t know that.</span><br><span>ANNIE:&nbsp; Yes, pits were dug in the ground, and snow was imported from the mountains &ndash; even though they were at quite a distance. The snow was stored in the pits. Ice formed at the bottom of it.&nbsp;Both the ice and the snow were then sold. The ice cost more than the snow and my guess is that only the wealthy members of society could afford it.</span><br><span>JACK:&nbsp;&nbsp;&nbsp;&nbsp; I wouldn&rsquo;t be surprised. I also came across an article about modern domestic fridges. Several different technologies are used, but they were too complex for me to understand.</span><br><span>ANNIE:&nbsp; You have to wonder what happens when people get rid of old ones.</span><br><span>JACK:&nbsp;&nbsp;&nbsp;&nbsp; You mean because the gases in them are harmful for the environment?</span><br><span>ANNIE:&nbsp; Exactly. At least these are now plenty of organisations that will recycle most of the components safety, but of course&nbsp;some people just dump old fridges in the countryside.</span><br><span>JACK:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;It&rsquo;s hard to see how they can be stopped unfortunately. In the UK we get rid of three million a year altogether!</span><br><span>ANNIE:&nbsp; That sounds a lot, especially because fridges hardly ever break down.</span><br><span>JACK:&nbsp;&nbsp;&nbsp;&nbsp; That&rsquo;s right. In this country we keep domestic fridges for 11 years on average, and a lot last for 20 or more. So&nbsp;if you divide the cost by the number of years you can use a fridge, they&rsquo;re not expensive, compared with some household appliances.</span><br><span>ANNIE:&nbsp;&nbsp;True. I suppose manufactures encourage people to spend more by making them different colours and designs. I&rsquo;m sure when my parents bought their first fridge they had hardly any choice!</span><br><span>JACK:&nbsp;&nbsp;&nbsp;&nbsp; Yes, there&rsquo;s been quite a change.</span><br><span>_______________________</span><br><span>JACK:&nbsp;&nbsp;&nbsp;&nbsp; Right, let&rsquo;s make a list of topics to cover in our presentation, and decide who&rsquo;s going to do more research on them. Then later, we can get together and plan the next step.</span><br><span>ANNIE:&nbsp; OK. How about starting with how useful refrigeration is, and&nbsp;the range of goods that are refrigerated&nbsp;nowadays? Because of course it&rsquo;s not just food and drinks.</span><br><span>JACK:&nbsp;&nbsp;&nbsp;&nbsp; No, I suppose flowers and medicines are refrigerated, too.</span><br><span>ANNIE:&nbsp; And computers.&nbsp;I could do that, unless you particularly want to.</span><br><span>JACK:&nbsp;&nbsp;&nbsp;&nbsp; No, that&rsquo;s fine by me. What about&nbsp;the effects of refrigeration on people&rsquo;s health? After all, some of the chemicals used in the 19th century were pretty harmful, but there have been lots of benefits too, like always have access to fresh food. Do you fancy dealing with that?</span><br><span>ANNIE:&nbsp; I&rsquo;m no terribly keen, to be honest.</span><br><span>JACK:&nbsp;&nbsp;&nbsp;&nbsp; Nor me. My mind just goes blank when I read anything about chemicals.</span><br><span>ANNIE:&nbsp;&nbsp;Oh, all right then, I&rsquo;ll do you a favour. But you own me, Jack.</span><br><ol><br><li>What about&nbsp;the effects on food producers, like farmers in poorer countries being able to export their produce to developed countries? Something for you, maybe?</li><br></ol><br><span>JACK:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I don&rsquo;t mind. It should be quite interesting.</span><br><span>ANNIE:&nbsp; I think we should also look at&nbsp;how refrigeration has helped whole cities&nbsp;&ndash; like Las Vegas, which couldn&rsquo;t exist without refrigeration because it&rsquo;s in the middle of a desert.</span><br><span>JACK:&nbsp;&nbsp;&nbsp;&nbsp; Right. I had a quick look at an economics book in the library that&rsquo;s got a chapter about this sort of thing. I could give you the title, if you want to do this section.</span><br><span>ANNIE:&nbsp; Not particularly, to be honest. I find economics books pretty heavy going, as a rule.</span><br><span>JACK:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;OK, leave it to me, then.</span><br><span>ANNIE:&nbsp; Thanks. Then there&rsquo;s transport, and the difference that&nbsp;refrigerated trucks have made.&nbsp;I wouldn&rsquo;t mind having a go at that.</span><br><span>JACK:&nbsp;&nbsp;&nbsp;&nbsp; Don&rsquo;t forget trains, too. I read something about milk and butter being transported in refrigerated railroad cars in the USA, right back in the 1840s.</span><br><span>ANNIE:&nbsp; I hadn&rsquo;t thought of trains. Thanks.</span><br><span>JACK:&nbsp;&nbsp;&nbsp;&nbsp; Shall we have a separate section on&nbsp;domestic fridges? After all, they&rsquo;re something everyone&rsquo;s familiar with.</span><br><span>ANNIE:&nbsp;&nbsp;What about splitting it into two? You could investigate 19th- and 20th-century fridges, and I&rsquo;ll concentrate on what&rsquo;s available these days, and how manufacturers differentiate their products from those of their competitors.</span><br><span>JACK:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;OK, that&rsquo;d suit me.</span>",
+            "4": "<span>Hi everyone, in this session I&rsquo;ll be presenting my research about the social history of Britain during the Industrial Revolution. I particularly looked at how ordinary lives were affected by changes that happened at that time. This was a time that saw the beginning of a new phenomenon; consumerism &ndash; where buying and selling goods became a major part of ordinary people&rsquo;s lives.</span><br><span>In fact, it was in the 19th century that the quantity and quality of people&rsquo;s possessions was used as an indication of the&nbsp;wealth&nbsp;of the country. Before this, the vast majority of people had very few possessions, but all that was changed by the Industrial Revolution. This was the era from the mid-18th to the late 19th century, when improvements in how goods were made as well as in&nbsp;technology&nbsp;triggered massive social changes that transformed life for just about everybody in several key areas.</span><br><span>First let&rsquo;s look at manufacturing. When it comes to manufacturing, we tend to think of the Industrial Revolution in images of steam engines and coal. And it&rsquo;s true that the Industrial Revolution couldn&rsquo;t have taken place at all if it weren&rsquo;t for these new sources of&nbsp;power. They marked an important shift away from the traditional watermills and windmills that had dominated before this. The most advanced industry for much of the 19th century was&nbsp;textiles. This meant that fashionable fabrics, and lace and ribbons were made available to everyone.</span><br><span>Before the Industrial Revolution, most people made goods to sell in small workshops, often in their own homes. But enormous new machines were now being created that could produce the goods faster and on a larger scale, and these required a lot more space. So large factories were built, replacing the workshops, and forcing workers to travel to work. In fact, large numbers of people migrated from villages into towns as a result.</span><br><span>______________________</span><br><span>As well as manufacturing, there were new technologies in transport, contributing to the growth of consumerism. The horse-drawn stagecoaches and carts of the 18th century, which carried very few people and good, and travelled slowly along poorly surfaced roads, were gradually replaced by the numerous canals that were constructed. These were particularly important for the transportation of goods. The canals gradually fell out of use, though, as railways were developed, becoming the main way of moving goods and people from one end of the country to the other. And the goods they moved weren&rsquo;t just coal, iron, clothes, and so on &ndash; significantly, they included&nbsp;newspapers, which meant that thousands of people were not only more knowledgeable about what was going on in the country, but could also read about what was available in the shops. And that encouraged them to buy more. so faster forms of transport resulted in distribution becoming far more efficient &ndash; goods could now be sold all over the country, instead of just in the&nbsp;local&nbsp;market.</span><br><span>The third main area that saw changes that contributed to consumerism was retailing. The number and quality of shops grew rapidly, and in particular, small shops suffered as customers flocked to the growing number of department stores &ndash; a form of retailing that was new in the 19th century. The entrepreneurs who opened these found new ways to stock them with goods, and to attract customers: for instance, improved&nbsp;lighting&nbsp;inside greatly increased the visibility of the goods for sale. Another development that made goods more visible from outside resulted from the use of plate glass, which made it possible for&nbsp;windows&nbsp;to be much larger than previously. New ways of promoting goods were introduced, too. Previously, the focus had been on&nbsp;<em>informing&nbsp;</em>potential customers about the availability of goods; now there was an explosion in&nbsp;advertising&nbsp;trying to persuade people to go shopping.</span><br><span>Flanders claims that one of the great effects of the Industrial Revolution was that it created choice. All sorts of things that had previously been luxuries &ndash; from sugar to cutlery &ndash; became conveniences, and before long they&rsquo;d turned into necessities: life without sugar or cutlery was unimaginable. Rather like mobile phones these days!</span>"
+        },
+        "answer_sheet": {
+            "1": {
+                "answer": [
+                    "journalist"
+                ],
+                "explanation": "I’m a journalist"
+            },
+            "2": {
+                "answer": [
+                    "shopping"
+                ],
+                "explanation": "I came here to do some shopping"
+            },
+            "3": {
+                "answer": [
+                    "Staunfirth"
+                ],
+                "explanation": "Staunfirth, where I live."
+            },
+            "4": {
+                "answer": [
+                    "return"
+                ],
+                "explanation": "I just got a normal return ticket"
+            },
+            "5": {
+                "answer": [
+                    "23.70"
+                ],
+                "explanation": "I paid £23.70"
+            },
+            "6": {
+                "answer": [
+                    "online"
+                ],
+                "explanation": "I got an e-ticket online"
+            },
+            "7": {
+                "answer": [
+                    "delay"
+                ],
+                "explanation": "the trains run on time and are pretty reliable but today there was a delay"
+            },
+            "8": {
+                "answer": [
+                    "information"
+                ],
+                "explanation": "I think the best thing is that they’ve improved the amount of information"
+            },
+            "9": {
+                "answer": [
+                    "platform",
+                    "platforms"
+                ],
+                "explanation": "But one thing is that there aren’t enough places to sit down, especially on the platforms"
+            },
+            "10": {
+                "answer": [
+                    "parking"
+                ],
+                "explanation": "What about the parking at the station?"
+            },
+            "11": {
+                "answer": [
+                    "D"
+                ],
+                "explanation": "The café continues to serve an assortment of drinks and snacks and is still in the same place, looking out over the lake and next to the old museum."
+            },
+            "12": {
+                "answer": [
+                    "C"
+                ],
+                "explanation": "near the adventure playground, in the corner of your map."
+            },
+            "13": {
+                "answer": [
+                    "G"
+                ],
+                "explanation": "we’re now used the space near the south gate – between the park boundary and the path that goes past the lake towards the old museum"
+            },
+            "14": {
+                "answer": [
+                    "H"
+                ],
+                "explanation": "It’s by the glass houses, just to the right of the path from the south gate. You have to look for it as it’s a bit hidden in the trees"
+            },
+            "15": {
+                "answer": [
+                    "A"
+                ],
+                "explanation": "It’s near the old museum, at the end of a little path that leads off from the main path between the lake and the museum."
+            },
+            "16": {
+                "answer": [
+                    "E"
+                ],
+                "explanation": "It’s on a bend in the path that goes round the east side of the lake, just south of the adventure playground."
+            },
+            "17": {
+                "answer": [
+                    "Children must be supervised"
+                ],
+                "explanation": "we do ask adults not to leave them on their own there"
+            },
+            "18": {
+                "answer": [
+                    "No payment is required"
+                ],
+                "explanation": "entrance is completely free"
+            },
+            "19": {
+                "answer": [
+                    "They are closed at weekends"
+                ],
+                "explanation": "At present the glass houses are open from 10am to 3pm Mondays to Thursdays, and it’s hoped to extend this to the weekend soon"
+            },
+            "20": {
+                "answer": [
+                    "They were badly damaged by fire"
+                ],
+                "explanation": "A huge amount of work has been done on them to repair the damage following the disastrous fire that recently destroyed their western side"
+            },
+            "21": {
+                "answer": [
+                    "how the ice was kept frozen"
+                ],
+                "explanation": "I didn’t realise that insulating the blocks with straw or sawdust meant they didn’t melt for months"
+            },
+            "22": {
+                "answer": [
+                    "It became a commercial business"
+                ],
+                "explanation": "Both the ice and the snow were then sold"
+            },
+            "23": {
+                "answer": [
+                    "the fact that some are disposed of irresponsibly"
+                ],
+                "explanation": "At least these are now plenty of organisations that will recycle most of the components safety, but of course some people just dump old fridges in the countryside"
+            },
+            "24": {
+                "answer": [
+                    "They are generally good value for money"
+                ],
+                "explanation": "So if you divide the cost by the number of years you can use a fridge, they’re not expensive, compared with some household appliances"
+            },
+            "25": {
+                "answer": [
+                    "Annie"
+                ],
+                "explanation": "the range of goods that are refrigerated nowadays?"
+            },
+            "26": {
+                "answer": [
+                    "Annie"
+                ],
+                "explanation": "What about the effects of refrigeration on people’s health"
+            },
+            "27": {
+                "answer": [
+                    "Jack"
+                ],
+                "explanation": "What about the effects on food producers, like farmers in poorer countries being able to export their produce to developed countries? Something for you, maybe?"
+            },
+            "28": {
+                "answer": [
+                    "Jack"
+                ],
+                "explanation": "I think we should also look at how refrigeration has helped whole cities"
+            },
+            "29": {
+                "answer": [
+                    "Annie"
+                ],
+                "explanation": "Then there’s transport, and the difference that refrigerated trucks have made. I wouldn’t mind having a go at that."
+            },
+            "30": {
+                "answer": [
+                    "both Annie and Jack"
+                ],
+                "explanation": "Shall we have a separate section on domestic fridges? After all, they’re something everyone’s familiar with."
+            },
+            "31": {
+                "answer": [
+                    "wealth"
+                ],
+                "explanation": "it was in the 19th century that the quantity and quality of people’s possessions was used as an indication of the wealth of the country"
+            },
+            "32": {
+                "answer": [
+                    "technology"
+                ],
+                "explanation": "This was the era from the mid-18th to the late 19th century, when improvements in how goods were made as well as in technology"
+            },
+            "33": {
+                "answer": [
+                    "power"
+                ],
+                "explanation": "And it’s true that the Industrial Revolution couldn’t have taken place at all if it weren’t for these new sources of power"
+            },
+            "34": {
+                "answer": [
+                    "textile",
+                    "textiles"
+                ],
+                "explanation": "The most advanced industry for much of the 19th century was textiles"
+            },
+            "35": {
+                "answer": [
+                    "machines"
+                ],
+                "explanation": "But enormous new machines were now being created that could produce the goods faster and on a larger scale, and these required a lot more space"
+            },
+            "36": {
+                "answer": [
+                    "newspapers"
+                ],
+                "explanation": "they included newspapers"
+            },
+            "37": {
+                "answer": [
+                    "local"
+                ],
+                "explanation": "goods could now be sold all over the country, instead of just in the local market."
+            },
+            "38": {
+                "answer": [
+                    "lighting"
+                ],
+                "explanation": "for instance, improved lighting inside greatly increased the visibility of the goods for sale"
+            },
+            "39": {
+                "answer": [
+                    "windows"
+                ],
+                "explanation": "which made it possible for windows to be much larger than previously"
+            },
+            "40": {
+                "answer": [
+                    "Advertising"
+                ],
+                "explanation": "now there was an explosion in advertising trying to persuade people to go shopping."
+            }
+        }
+    }
+}

@@ -1,1 +1,20 @@
-{"name":"Cambridge IELTS 10 Academic Writing Test 1","id":"C_10_A_1_W","ielts_test_id":"C_10_A_1","type":"writing","image":"C_10_A_1_W","passages":[{"image":"C_10_A_1_W_1","question":"<span>The first chart below shows how energy is used in an average Australian household. The second chart shows the greenhouse gas emissions which result from this energy use.</span><br><span>Summarise the information by selecting and reporting the main features, and make comparisons where relevant.</span>","start":1,"end":1},{"question":"<span>It is important for children to learn the difference between right and wrong at an early age. Punishment is necessary to help them learn this distinction.</span><br><span>To what extent do you agree or disagree with this opinion?</span><br><span>What sort of punishment should parents and teachers be allowed to use to teach good behaviour to children?</span>","start":2,"end":2}]}
+{
+    "name": "Cambridge IELTS 10 Academic Writing Test 1",
+    "id": "C_10_A_1_W",
+    "ielts_test_id": "C_10_A_1",
+    "type": "writing",
+    "image": "C_10_A_1_W",
+    "passages": [
+        {
+            "image": "C_10_A_1_W_1",
+            "question": "<span>The first chart below shows how energy is used in an average Australian household. The second chart shows the greenhouse gas emissions which result from this energy use.</span><br><span>Summarise the information by selecting and reporting the main features, and make comparisons where relevant.</span>",
+            "start": 1,
+            "end": 1
+        },
+        {
+            "question": "<span>It is important for children to learn the difference between right and wrong at an early age. Punishment is necessary to help them learn this distinction.</span><br><span>To what extent do you agree or disagree with this opinion?</span><br><span>What sort of punishment should parents and teachers be allowed to use to teach good behaviour to children?</span>",
+            "start": 2,
+            "end": 2
+        }
+    ]
+}

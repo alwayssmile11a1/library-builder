@@ -1,1 +1,588 @@
-{"name":"Cambridge IELTS 17 Academic Listening Test 1","id":"C_17_A_1_L","ielts_test_id":"C_17_A_1","type":"listening","image":"C_17_A_1_L","passages":[{"title":"Buckworth Conservation Group","audio":"C_17_A_1_L_1","image":"","start":1,"end":10},{"title":"Boat trip round Tasmania","audio":"C_17_A_1_L_2","image":"","start":11,"end":20},{"title":"Work experience for veterinary science students","audio":"C_17_A_1_L_3","image":"","start":21,"end":30},{"title":"Labyrinths","audio":"C_17_A_1_L_4","image":"","start":31,"end":40}],"question_sections":[{"custom_instruction":"ONE WORD AND/OR A NUMBER","type":"sentence_completion","start":1,"end":10},{"type":"one_choice","start":11,"end":14},{"custom_instruction":"TWO","type":"multiple_choices","start":15,"end":16},{"custom_instruction":"TWO","type":"multiple_choices","start":17,"end":18},{"custom_instruction":"TWO","type":"multiple_choices","start":19,"end":20},{"type":"one_choice","start":21,"end":26},{"custom_instruction":"What opinion do the students give about each of the following modules on their veterinary science course?","type":"drop_information","start":27,"end":30},{"custom_instruction":"ONE WORD ONLY","type":"sentence_completion","start":31,"end":40}],"questions":{"1":{"question":["<span><strong>Regular activities</strong></span><br><span>Beach</span><br><span>&nbsp; &nbsp;&bull; &nbsp; making sure the beach does not have </span>"]},"2":{"question":["<span> on it</span><br><span>&nbsp; &nbsp;&bull; &nbsp; no </span>"]},"3":{"question":["<span></span><br><span>Nature reserve</span><br><span>&nbsp; &nbsp;&bull; &nbsp; maintaining paths</span><br><span>&nbsp; &nbsp;&bull; &nbsp; nesting boxes for birds installed</span><br><span>&nbsp; &nbsp;&bull; &nbsp; next task is taking action to attract </span>"]},"4":{"question":["<span>&nbsp;to the place</span><br><span>&nbsp; &nbsp;&bull; &nbsp; identifying types of </span>"]},"5":{"question":["<span></span><br><span>&nbsp; &nbsp;&bull; &nbsp; building a new </span>"]},"6":{"question":["<span></span><br><span><strong>Forthcoming events</strong></span><br><span>Saturday</span><br><span>&nbsp; &nbsp;&bull; &nbsp; meet at Dunsmore Beach car park</span><br><span>&nbsp; &nbsp;&bull; &nbsp; walk across the sands and reach the </span>"]},"7":{"question":["<span></span><br><span>&nbsp; &nbsp;&bull; &nbsp; take a picnic</span><br><span>&nbsp; &nbsp;&bull; &nbsp; wear appropriate </span>"]},"8":{"question":["<span></span><br><span>Woodwork session</span><br><span>&nbsp; &nbsp;&bull; &nbsp; suitable for </span>"]},"9":{"question":["<span>&nbsp;to participate in</span><br><span>&nbsp; &nbsp;&bull; &nbsp; making </span>"]},"10":{"question":["<span>&nbsp;out of wood</span><br><span>&nbsp; &nbsp;&bull; &nbsp; 17th, from 10 a.m. to 3 p.m.</span><br><span>&nbsp; &nbsp;&bull; &nbsp; cost of session (no camping): &pound; </span>","<span></span>"]},"11":{"question":"<span>What is the maximum number of people who can stand on each side of the boat?</span>","options":["9","15","18"]},"12":{"question":"<span>What colour are the tour boats?</span>","options":["dark red","jet black","light green"]},"13":{"question":"<span>Which lunch box is suitable for someone who doesn&rsquo;t eat meat or fish?</span>","options":["Lunch box 1","Lunch box 2","Lunch box 3"]},"14":{"question":"<span>What should people do with their litter?</span>","options":["take it home","hand it to a member of staff","put it in the bins provided on the boat"]},"15":{"question":""},"16":{"question":"<span>Which&nbsp;<strong>TWO</strong>&nbsp;features of the lighthouse does Lou mention?</span>","options":["why it was built","who built it","how long it took to build","who staffed it","what it was built with"]},"17":{"question":""},"18":{"question":"<span>Which&nbsp;<strong>TWO</strong>&nbsp;types of creature might come close to the boat?</span>","options":["sea eagles","fur seals","dolphins","whales","penguins"]},"19":{"question":""},"20":{"question":"<span>Which&nbsp;<strong>TWO</strong>&nbsp;points does Lou make about the caves?</span>","options":["Only large tourist boats can visit them","The entrances to them are often blocked","It is too dangerous for individuals to go near them","Someone will explain what is inside them","They cannot be reached on foot"]},"21":{"question":"<span>What problem did both Diana and Tim have when arranging their work experience?</span>","options":["make initial contact with suitable farms","organising transport to and from the farm","finding a placement for the required length of time"]},"22":{"question":"<span>Tim was pleased to be able to help</span>","options":["a lamb that had a broken leg","a sheep that was having difficult giving birth","a newly born lamb that was having trouble feeding"]},"23":{"question":"<span>Diana says the sheep on her farm</span>","options":["were of various different varieties","were mainly reared for their meat","had better quality wool than sheep on the hills"]},"24":{"question":"<span>What did the students learn about adding supplements to chicken feed?</span>","options":["These should only be given if specially needed","It is worth paying extra for the most effective ones","The amount given at one time should be limited"]},"25":{"question":"<span>What happened when Diana was working with dairy cows?</span>","options":["She identified some cows incorrectly","She accidentally threw some milk away","She made a mistake when storing milk"]},"26":{"question":"<span>What did both farmers mention about vets and farming?</span>","options":["Vets are failing to cope with some aspects of animal health","There needs to be a fundamental change in the training of vets","Some jobs could be done by the farmer rather than by a vet"]},"27":{"question":["<span><strong>Modules on Veterinary Science course</strong></span><br><span>Medical terminology </span>"]},"28":{"question":["<span></span><br><span>Diet and nutrition </span>"]},"29":{"question":["<span></span><br><span>Animal disease </span>"]},"30":{"question":["<span></span><br><span>Wildlife medication </span>","<span></span>"],"options":["Tim found this easier than expected","Tim thought this was not very clearly organised","Diana may do some further study on this","They both found the reading required for this was difficult","Tim was shocked at something he learned on this module","They were both surprised how little is known about some aspects of this"]},"31":{"question":["<span><strong> Definition</strong></span><br><span>&nbsp; &nbsp;&bull; &nbsp; a winding spiral path leading to a central area</span><br><span><strong>Labyrinths compared with mazes</strong></span><br><span>&nbsp; &nbsp;&bull; &nbsp; Mazes are a type of </span>"]},"32":{"question":["<span></span><br><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &ndash; &nbsp;</span>"]},"33":{"question":["<span>&nbsp;is needed to navigate through a maze</span><br><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &ndash;&nbsp; the word &lsquo;maze&rsquo; is derived from a word meaning a feeling of </span>"]},"34":{"question":["<span></span><br><span>&nbsp; &nbsp;&bull; &nbsp; Labyrinths represent a journey through life</span><br><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &ndash;&nbsp; they have frequently been used in </span>"]},"35":{"question":["<span>&nbsp;and prayer</span><br><span><strong>Early examples of the labyrinth spiral</strong></span><br><span>&nbsp; &nbsp;&bull; &nbsp; Ancient carvings on </span>"]},"36":{"question":["<span>&nbsp;have been found across many cultures</span><br><span>&nbsp; &nbsp;&bull; &nbsp; The Pima, a Native American tribe, wove the symbol on baskets</span><br><span>&nbsp; &nbsp;&bull; &nbsp; Ancient Greeks used the symbol on </span>"]},"37":{"question":["<span></span><br><span><strong>Walking labyrinths</strong></span><br><span>&nbsp; &nbsp;&bull; &nbsp; The largest surviving example of a turf labyrinth once had a big </span>"]},"38":{"question":["<span>&nbsp;at its centre</span><br><span><strong>Labyrinths nowadays</strong></span><br><span>&nbsp; &nbsp;&bull; &nbsp; Believed to have a beneficial impact on mental and physical health, e.g., walking a maze can reduce a person&rsquo;s </span>"]},"39":{"question":["<span>&nbsp;rate</span><br><span>&nbsp; &nbsp;&bull; &nbsp; Used in medical and health and fitness settings and also prisons</span><br><span>&nbsp; &nbsp;&bull; &nbsp; Popular with patients, visitors and staff in hospitals</span><br><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &ndash;&nbsp; patients who can&rsquo;t walk can use &lsquo;finger labyrinths&rsquo; made from </span>"]},"40":{"question":["<span></span><br><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &ndash;&nbsp; research has shown that Alzheimer&rsquo;s sufferers experience less </span>","<span></span>"]}},"answers":{"transcripts":{"1":"<span>PETER:&nbsp;&nbsp;&nbsp; Hello?</span><br><span>JAN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Oh hello. My name&rsquo;s Jan. Are you the right person to talk to about the Buckworth Conservation Group?</span><br><span>PETER:&nbsp;&nbsp;&nbsp; Yes, I&rsquo;m Peter. I&rsquo;m the secretary.</span><br><span>JAN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Good. I&rsquo;ve just moved to this area, and I&rsquo;m interested in getting involved. I was in a similar group where I used to live. Could you tell me something about your activities, please?</span><br><span>PETER:&nbsp;&nbsp;&nbsp; Of course. Well, we have a mixture of regular activities and special events. One of the regular ones is trying to keep the beach free of litter. A few of us spend a couple of hours a month on it, and it&rsquo;s awful how much there is so clear. I wish people would be more responsible and take it home with them.</span><br><span>JAN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I totally agree. I&rsquo;d be happy to help with that. Is it OK to take dogs?</span><br><span>PETER:&nbsp;&nbsp;&nbsp; I&rsquo;m afraid not, as they&rsquo;re banned from the beach itself. You can take them along the cliffs, though. And children are welcome.</span><br><span>JAN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Right.</span><br><span>PETER:&nbsp;&nbsp;&nbsp; We also manage a nature reserve, and there&rsquo;s a lot to do there all year round. For example, because it&rsquo;s a popular place to visit, we spend a lot of time looking after the paths and making sure they&rsquo;re in good condition for walking.</span><br><span>JAN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I could certainly help with that.</span><br><span>PETER:&nbsp;&nbsp;&nbsp; Good. And we have a programme of creating new habitats there. We&rsquo;re just finished making and installing nesting boxes for birds to use, and next we&rsquo;re going to work on encouraging&nbsp;insects<strong>&nbsp;</strong>&ndash; they&rsquo;re important for the biodiversity of the reserve.</span><br><span>JAN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; They certainly are.</span><br><span>PETER:&nbsp;&nbsp;&nbsp; Oh, and we&rsquo;re also running a project to identify the different species of&nbsp;butterflies that visit the reserve. You might be interested in taking part in that.</span><br><span>JAN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sure. I was involved in something similar where I used to live, counting all the species of months. I&rsquo;d enjoy that.</span><br><span>PETER:&nbsp;&nbsp;&nbsp; Another job we&rsquo;re doing at the reserve is replacing the&nbsp;wall on the southern side, between the parking area and our woodshed. It was badly damaged in a storm last month.</span><br><span>JAN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; OK.</span><br><span>&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;-</span><br><span>PETER:&nbsp;&nbsp;&nbsp; Then as I said, we have a programme of events as well, both at the weekend, and during the week.</span><br><span>JAN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Right. I presume you have guided walks? I&rsquo;d like to get to know the local countryside, as I&rsquo;m new to the area.</span><br><span>PETER:&nbsp;&nbsp;&nbsp; Yes, we do. The next walk is to Ruston Island, a week on Saturday. We&rsquo;ll be meeting in the car park at Dunsmore Beach at low tide &ndash; that&rsquo;s when the sands are dry enough for us to walk to the&nbsp;island without getting wet.</span><br><span>JAN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sounds good.</span><br><span>PETER:&nbsp;&nbsp;&nbsp; The island&rsquo;s a great place to explore. It&rsquo;s quite small, and it&rsquo;s got a range of habitats. It&rsquo;s also an ideal location for seeing seals just off the coast, or even on the beach.</span><br><span>JAN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; OK. And is there anything we should bring, like a picnic, for instance?</span><br><span>PETER:&nbsp;&nbsp;&nbsp; Yes, do bring one, as it&rsquo;s a full-day walk. And of course it&rsquo;ll be wet walking across and back, so make sure your&nbsp;boots are waterproof.</span><br><span>JAN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I must buy a new pair &ndash; there&rsquo;s a hole in one of my current ones! Well, I&rsquo;d definitely like to come on the walk.</span><br><span>PETER:&nbsp;&nbsp;&nbsp; Great. Then later this month we&rsquo;re having a one-day woodwork session in Hopton Wood.</span><br><span>JAN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I&rsquo;ve never tried that before. Is it OK for&nbsp;beginners<strong>&nbsp;</strong>to take part?</span><br><span>PETER:&nbsp;&nbsp;&nbsp; Definitely. There&rsquo;ll be a couple of experts leading the session, and we keep the number of participants down, so you&rsquo;ll get as much help as you need.</span><br><span>JAN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Excellent! I&rsquo;d love to be able to make chairs.</span><br><span>PETER:&nbsp;&nbsp;&nbsp; That&rsquo;s probably too ambitious for one day! You&rsquo;ll be starting with wooden&nbsp;spoons, and of course learning how to use the tools. And anything you make is yours to take home with you.</span><br><span>JAN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; That sounds like fun. When is it?</span><br><span>PETER:&nbsp;&nbsp;&nbsp; It&rsquo;s on the 17th, from 10 a.m. until 3. There&rsquo;s a charge of &pound;35, including lunch, or &pound;40 if you want to camp in the wood.</span><br><span>JAN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I should think I&rsquo;ll come home the same day. Well, I&rsquo;d certainly like to join the group.</span>","2":"<span>So, hello everyone. My name&rsquo;s Lou Miller and I&rsquo;m going to be your tour guide today as we take this fantastic boat trip around the Tasmanian coast. Before we set off, I just want to tell you a few things about our journey.</span><br><span>Our boats aren&rsquo;t huge as you can see. We already have three staff members on board and on top of that, we can transport a further fifteen people &ndash; that&rsquo;s you &ndash; around the coastline. But please note&nbsp;if there are more than nine people on either side of the boat, we&rsquo;ll move some of you over, otherwise all eighteen of us will end up in the sea!</span><br><span>We&rsquo;ve recently upgraded all our boats. They used to be jet black, but our new ones now have these comfortable dark red seats and a&nbsp;light-green exterior<strong>&nbsp;</strong>in order to stand out from others and help promote our company. This gives our boats a rather unique appearance, don&rsquo;t you think?</span><br><span>We offer you a free lunchbox during the trip and we have three types. Lunchbox 1 contains ham and tomato sandwiches.&nbsp;Lunchbox 2 contains a cheddar cheese roll<strong>&nbsp;</strong>and Lunchbox 3 is salad-based and also contains eggs and tuna. All three lunchboxes also have a packet of crisps and chocolate bar inside. Please let staff know which lunchbox you prefer.</span><br><span>I&rsquo;m sure I don&rsquo;t have to ask you not to throw anything into the sea. We don&rsquo;t have any bins to put litter in, but&nbsp;Jess, myself or Ray, our other guide, will collect it from you<strong>&nbsp;</strong>after lunch and put it all in a large plastic sack.</span><br><span>&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&ndash;</span><br><span>The engine on the boat makes quite a lot of noise so before we head off, let me tell you a few things about what you&rsquo;re going to see.</span><br><span>This area is famous for its ancient lighthouse, which you&rsquo;ll see from the boat as we turn past the first little island. It was built in 1838&nbsp;to protect sailors as a number of shipwrecks had led to significant loss of life. The construction itself was complicated as some of the original drawings kept by the local council show. It sits right on top of the cliffs in a very isolated spot. In the nineteenth century there were many jobs there, such as polishing the brass lamps, chopping firewood and cleaning windows, that kept lighthouse keepers busy.&nbsp;These workers were mainly prison convicts until the middle of that century when ordinary families willing to live in such circumstances took over.</span><br><span>Some of you have asked me what creatures we can expect to see. I know everyone loves the penguins, but they&rsquo;re very shy and, unfortunately, tend to hide from passing boats, but you might see birds in the distance, such as sea eagles, flying around the cliff edges where they nest. When we get to the rocky area inhabited by&nbsp;fur seals, we&rsquo;ll stop and watch them swimming around the coast. They&rsquo;re inquisitive creatures so don&rsquo;t be surprised if one pops up right in front of you. Their predators, orca whales, hunt along the coastline too, but spotting one of these is rare.&nbsp;Dolphins, on the other hand, can sometimes approach on their own or in groups as they ride the waves beside us.</span><br><span>Lastly, I want to mention the caves. Tasmania is famous for its caves and the ones we&rsquo;ll pass by are so amazing that people are lost for words when they see them.&nbsp;They can only be approached by sea, but if you feel that you want to see more than we&rsquo;re able to show you, then you can take a kayak into the area on another day and one of our staff will give you more information on that. What we&rsquo;ll do is to go through a narrow channel, past some incredible rock formations and from there&nbsp;we&rsquo;ll be able to see the openings to the caves, and at that point we&rsquo;ll talk to you about what lies beyond.</span>","3":"<span>DIANA:&nbsp;&nbsp;&nbsp; So, Tim, we have to do a short summary of our work experience on a farm.</span><br><span>TIM:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Right. My farm was great, but&nbsp;arranging the work experience was hard. One problem was it was miles away and I don&rsquo;t drive. And also, I&rsquo;d really wanted a placement for a month, but I could only get one for two weeks.</span><br><span>DIANA:&nbsp;&nbsp;&nbsp; I was lucky, the farmer let me stay on the farm so I didn&rsquo;t have to travel. But&nbsp;finding the right sort of farm to apply to wasn&rsquo;t easy.</span><br><span>TIM:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; No, they don&rsquo;t seem to have websites, do they. I found mine through a friend of my mother&rsquo;s, but it wasn&rsquo;t easy.</span><br><span>DIANA:&nbsp;&nbsp;&nbsp; No.</span><br><span>TIM:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; My farm was mostly livestock, especially sheep. I really enjoyed helping out with them.&nbsp;I was up most of one night helping a sheep deliver a lamb &hellip;</span><br><span>DIANA:&nbsp;&nbsp;&nbsp; On your own?</span><br><span>TIM:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; No, the farmer was there, and he told me what to do. It wasn&rsquo;t a straightforward birth, but I managed. It was a great feeling to see the lamb stagger to its feet and start feeding almost straightaway, and to know that it was OK.</span><br><span>DIANA:&nbsp;&nbsp;&nbsp; Mm.</span><br><span>TIM:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Then another time a lamb had broken its leg, and they got the vet in to set it, and he talked me through what he was doing. That was really useful.</span><br><span>DIANA:&nbsp;&nbsp;&nbsp; Yes, my farm had sheep too. The farm was in a valley and they had a lowland breed called Suffolks, although the farmer said they&rsquo;d had other breeds in the past.</span><br><span>TIM:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;So were they bred for their meat?</span><br><span>DIANA:&nbsp;&nbsp;&nbsp;&nbsp;Mostly, yes. They&rsquo;re quite big and solid.</span><br><span>TIM:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; My farm was up in the hills and they had a different breed of sheep, they were Cheviots.</span><br><span>DIANA:&nbsp;&nbsp;&nbsp; Oh, I heard their wool&rsquo;s really sought after.</span><br><span>TIM:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Yes. It&rsquo;s very hardwearing and they use it for carpets.</span><br><span>DIANA:&nbsp;&nbsp;&nbsp; Right.</span><br><span>TIM:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I was interested in the amount of supplements they add to animals&rsquo; feed nowadays. Like, even the chickens got extra vitamins and electrolytes in their feed.</span><br><span>DIANA:&nbsp;&nbsp;&nbsp; Yes, I found that too. And they&rsquo;re not cheap. But my farmer said some are overpriced for what they are. And&nbsp;he didn&rsquo;t give them as a matter of routine, just at times when the chickens seemed to particularly require them.</span><br><span>TIM:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Yes, mine said the same. He said certain breeds of chickens might need more supplements than the others, but the cheap and expensive ones are all basically the same.</span><br><span>DIANA:&nbsp;&nbsp;&nbsp; Mm.</span><br><span>TIM:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; So did your farm have any other livestock, Diana?</span><br><span>DIANA:&nbsp;&nbsp;&nbsp; Yes, dairy cows. I made a really embarrassing mistake when I was working in the milk shed. Some cows had been treated with antibiotics, so their milk wasn&rsquo;t suitable for human consumption, and it had to be put in a separate container. But&nbsp;I got mixed up, and I poured some milk from the wrong cow in with the milk for humans, so the whole lot had to be thrown away. The farmer wasn&rsquo;t too happy with me.</span><br><span>TIM:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I asked my farmer how much he depended on the vet to deal with health problems. I&rsquo;d read reports that the livestock&rsquo;s health is being affected as farmers are under pressure to increase production. Well, he didn&rsquo;t agree with that, but he said that actually&nbsp;some of the stuff the vets do, like minor operations, he&rsquo;d be quite capable of doing himself.</span><br><span>DIANA:&nbsp;&nbsp;&nbsp;&nbsp;Yeah. My farmer said the same. But he reckons vets&rsquo; skills are still needed.</span><br><span>&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;-</span><br><span>DIANA:&nbsp;&nbsp;&nbsp; Now we&rsquo;ve got to give a bit of feedback about last term&rsquo;s modules &ndash; just short comments, apparently. Shall we do that now?</span><br><span>TIM:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; OK. So medical terminology.</span><br><span>DIANA:&nbsp;&nbsp;&nbsp; Well, my heart sank when I saw that, especially right at the beginning of the course. And I did struggle with it.</span><br><span>TIM:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I&rsquo;d thought it&rsquo;d be hard, but actually I found it all quite straightforward. What did you think about diet and nutrition?</span><br><span>DIANA:&nbsp;&nbsp;&nbsp; OK, I suppose.</span><br><span>TIM:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Do you remember what they told us about pet food and the fact that&nbsp;there&rsquo;s such limited checking into whether or not it&rsquo;s contaminated? I mean in comparison with the checks on food for humans &ndash; I thought that was terrible.</span><br><span>DIANA:&nbsp;&nbsp;&nbsp; Mm. I think the module that really impressed me was the animal disease one, when we looked at domesticated animals in different parts of the world, like camels and water buffalo and alpaca.&nbsp;The economies of so many countries depend on these, but scientists don&rsquo;t know much about the diseases that affect them.</span><br><span>TIM:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Yes,&nbsp;I thought they&rsquo;d know a lot about ways of controlling and eradicating those diseases, but that&rsquo;s not the case at all.</span><br><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I loved the wildlife medication unit. Things like helping birds that have been caught in oil spills. That&rsquo;s something I hadn&rsquo;t thought about before.</span><br><span>DIANA:&nbsp;&nbsp;&nbsp; Yeah,&nbsp;I thought I might write my dissertation on something connected with that.</span><br><span>TIM:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Right. So &hellip;</span>","4":"<span>Labyrinths have existed for well over 4,000 years. Labyrinths and labyrinthine symbols have been found in regions as diverse as modern-day Turkey, Ireland, Greece, and India. There are various designs of labyrinth but what they all have in common is a winding spiral path which leads to a central area. There is one starting point at the entrance and the goal is to reach the central area. Finding your way through a labyrinth involves many twists and turns, but it&rsquo;s not possible to get lost as there is only one single path.</span><br><span>In modern times, the word labyrinth has taken on a different meaning and is often used as a synonym for a maze. A maze is quite different as&nbsp;it is a kind of puzzle<strong>&nbsp;</strong>with an intricate network of paths. Mazes became fashionable in the 15th and 16th centuries in Europe, and can still be found in the gardens of great houses and palaces. The paths are usually surrounded by thick, high hedges so that it&rsquo;s not possible to see over them. Entering a maze usually involves getting lost a few times before&nbsp;using logic to work out the pattern<strong>&nbsp;</strong>and find your way to the centre and then out again. There are lots of dead ends and paths which lead you back to where you started.&nbsp;The word &lsquo;maze&rsquo; is believed to come from a Scandinavian word for a state of confusion. This is where the word &lsquo;amazing&rsquo; comes from.</span><br><span>Labyrinths, on the other hand, have a very different function. Although people now often refer to things they find complicated as labyrinths, this is not how they were seen in the past. the winding spiral of the labyrinth has been used for centuries as a metaphor for life&rsquo;s journey. It served as a spiritual reminder that there is purpose and meaning to our lives and helped to give people a sense of direction.&nbsp;Labyrinths are thought to encourage a feeling of calm and have been used as a meditation and prayer tool in many cultures over many centuries.</span><br><span>The earliest examples of the labyrinth spiral pattern have been found carved into stone, from Sardinia to Scandinavia, from Arizona to India to Africa. In Europe, these spiral carvings&nbsp;date from the late Bronze Age. The Native American Pima tribe wove baskets with a circular labyrinth design that depicted their own cosmology.&nbsp;In Ancient Greece, the labyrinth spiral was used on coins<strong>&nbsp;</strong>around four thousand years ago. Labyrinths made of mosaics were commonly found in bathhouses, villas and tombs throughout the Roman Empire.</span><br><span>In Northern Europe, there were actual physical labyrinths designed for walking on. These were cut into the turf or grass, usually in a circular pattern. The origin of these walking labyrinths remains unclear, but they were probably used for fertility rites which may date back thousands of years. Eleven examples of turf labyrinths survive today, including&nbsp;the largest one at Saffron Walden, England, which used to have a large tree in the middle of it.</span><br><span>&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&ndash;</span><br><span>More recently labyrinths have experienced something of a revival. Some believe that walking a labyrinth promotes healing and mindfulness, and there are those who believe in its emotional and&nbsp;physical benefits, which include slower breathing and a restored sense of balance and perspective. This idea has become so popular that labyrinths have been laid into the floors of spas, wellness centres and even prisons in recent years.</span><br><span>A pamphlet at Colorado Children&rsquo;s Hospital informs patients that &lsquo;walking a labyrinth can often calm people in the midst of a crisis&rsquo;. And apparently, it&rsquo;s not only patients who benefit. Many visitors find walking a labyrinth less stressful than sitting in a corridor or waiting room. Some doctors even walk the labyrinth during their breaks. In some hospitals, patients who can&rsquo;t walk can have&nbsp;a paper &lsquo;finger labyrinth&rsquo;<strong>&nbsp;</strong>brought to their bed. The science behind the theory is a little sketchy, but there are dozens of small-scale studies which support claims about the benefits of labyrinths. For example, one study found that walking a labyrinth provided &lsquo;short-term calming, relaxation, and&nbsp;relief from anxiety&rsquo; for Alzheimer&rsquo;s patients.</span><br><span>So, what is it about labyrinths that makes their appeal so universal? Well &hellip;</span>"},"answer_sheet":{"1":{"answer":["litter"],"explanation":"One of the regular ones is trying to keep the beach free of litter"},"2":{"answer":["dogs"],"explanation":"Is it OK to take dogs?"},"3":{"answer":["insects"],"explanation":"Good. And we have a programme of creating new habitats there. We’re just finished making and installing nesting boxes for birds to use, and next we’re going to work on encouraging insects"},"4":{"answer":["butterflies"],"explanation":"we’re also running a project to identify the different species of butterflies"},"5":{"answer":["wall"],"explanation":"Another job we’re doing at the reserve is replacing the wall"},"6":{"answer":["island"],"explanation":"that’s when the sands are dry enough for us to walk to the island without getting wet"},"7":{"answer":["boots"],"explanation":"And of course it’ll be wet walking across and back, so make sure your boots are waterproof"},"8":{"answer":["beginners"],"explanation":"Is it OK for beginners to take part?"},"9":{"answer":["spoons"],"explanation":"You’ll be starting with wooden spoons"},"10":{"answer":["35","thirty five"],"explanation":"There’s a charge of £35"},"11":{"answer":["9"],"explanation":"if there are more than nine people on either side of the boat, we’ll move some of you over"},"12":{"answer":["light green"],"explanation":"They used to be jet black, but our new ones now have these comfortable dark red seats and a light-green exterior"},"13":{"answer":["Lunch box 2"],"explanation":"Lunchbox 2 contains a cheddar cheese roll"},"14":{"answer":["hand it to a member of staff"],"explanation":"Jess, myself or Ray, our other guide, will collect it from you"},"15":{"answer":["why it was built"],"explanation":"It was built in 1838 to protect sailors as a number of shipwrecks had led to significant loss of life"},"16":{"answer":["who staffed it"],"explanation":"These workers were mainly prison convicts until the middle of that century when ordinary families willing to live in such circumstances took over"},"17":{"answer":["fur seals"],"explanation":"When we get to the rocky area inhabited by fur seals, we’ll stop and watch them swimming around the coast. They’re inquisitive creatures so don’t be surprised if one pops up right in front of you"},"18":{"answer":["dolphins"],"explanation":"Dolphins, on the other hand, can sometimes approach on their own or in groups as they ride the waves beside us"},"19":{"answer":["Someone will explain what is inside them"],"explanation":"we’ll be able to see the openings to the caves, and at that point we’ll talk to you about what lies beyond"},"20":{"answer":["They cannot be reached on foot"],"explanation":"They can only be approached by sea"},"21":{"answer":["make initial contact with suitable farms"],"explanation":"But finding the right sort of farm to apply to wasn’t easy"},"22":{"answer":["a sheep that was having difficult giving birth"],"explanation":"I was up most of one night helping a sheep deliver a lamb"},"23":{"answer":["were mainly reared for their meat"],"explanation":"So were they bred for their meat?"},"24":{"answer":["These should only be given if specially needed"],"explanation":"he didn’t give them as a matter of routine, just at times when the chickens seemed to particularly require them"},"25":{"answer":["She made a mistake when storing milk"],"explanation":"I got mixed up, and I poured some milk from the wrong cow in with the milk for humans, so the whole lot had to be thrown away"},"26":{"answer":["Some jobs could be done by the farmer rather than by a vet"],"explanation":"he said that actually some of the stuff the vets do, like minor operations, he’d be quite capable of doing himself"},"27":{"answer":["Tim found this easier than expected"],"explanation":"I’d thought it’d be hard, but actually I found it all quite straightforward"},"28":{"answer":["Tim was shocked at something he learned on this module"],"explanation":"there’s such limited checking into whether or not it’s contaminated? I mean in comparison with the checks on food for humans – I thought that was terrible"},"29":{"answer":["They were both surprised how little is known about some aspects of this"],"explanation":"The economies of so many countries depend on these, but scientists don’t know much about the diseases that affect them"},"30":{"answer":["Diana may do some further study on this"],"explanation":"I thought I might write my dissertation on something connected with that"},"31":{"answer":["puzzle"],"explanation":"A maze is quite different as it is a kind of puzzle with an intricate network of paths"},"32":{"answer":["logic"],"explanation":"Entering a maze usually involves getting lost a few times before using logic to work out the pattern and find your way to the centre and then out again"},"33":{"answer":["confusion"],"explanation":"The word ‘maze’ is believed to come from a Scandinavian word for a state of confusion"},"34":{"answer":["meditation"],"explanation":"Labyrinths are thought to encourage a feeling of calm and have been used as a meditation and prayer tool in many cultures over many centuries"},"35":{"answer":["stone"],"explanation":"The earliest examples of the labyrinth spiral pattern have been found carved into stone, from Sardinia to Scandinavia, from Arizona to India to Africa"},"36":{"answer":["coins"],"explanation":"In Ancient Greece, the labyrinth spiral was used on coins around four thousand years ago"},"37":{"answer":["tree"],"explanation":"Eleven examples of turf labyrinths survive today, including the largest one at Saffron Walden, England, which used to have a large tree in the middle of it"},"38":{"answer":["breathing"],"explanation":"there are those who believe in its emotional and physical benefits, which include slower breathing and a restored sense of balance and perspective"},"39":{"answer":["paper"],"explanation":"In some hospitals, patients who can’t walk can have a paper ‘finger labyrinth’ brought to their bed"},"40":{"answer":["anxiety"],"explanation":"For example, one study found that walking a labyrinth provided ‘short-term calming, relaxation, and relief from anxiety’ for Alzheimer’s patients"}}}}
+{
+    "name": "Cambridge IELTS 17 Academic Listening Test 1",
+    "id": "C_17_A_1_L",
+    "ielts_test_id": "C_17_A_1",
+    "type": "listening",
+    "image": "C_17_A_1_L",
+    "passages": [
+        {
+            "title": "Buckworth Conservation Group",
+            "audio": "C_17_A_1_L_1",
+            "image": "",
+            "start": 1,
+            "end": 10
+        },
+        {
+            "title": "Boat trip round Tasmania",
+            "audio": "C_17_A_1_L_2",
+            "image": "",
+            "start": 11,
+            "end": 20
+        },
+        {
+            "title": "Work experience for veterinary science students",
+            "audio": "C_17_A_1_L_3",
+            "image": "",
+            "start": 21,
+            "end": 30
+        },
+        {
+            "title": "Labyrinths",
+            "audio": "C_17_A_1_L_4",
+            "image": "",
+            "start": 31,
+            "end": 40
+        }
+    ],
+    "question_sections": [
+        {
+            "custom_instruction": "ONE WORD AND/OR A NUMBER",
+            "type": "sentence_completion",
+            "start": 1,
+            "end": 10
+        },
+        {
+            "type": "one_choice",
+            "start": 11,
+            "end": 14
+        },
+        {
+            "custom_instruction": "TWO",
+            "type": "multiple_choices",
+            "start": 15,
+            "end": 16
+        },
+        {
+            "custom_instruction": "TWO",
+            "type": "multiple_choices",
+            "start": 17,
+            "end": 18
+        },
+        {
+            "custom_instruction": "TWO",
+            "type": "multiple_choices",
+            "start": 19,
+            "end": 20
+        },
+        {
+            "type": "one_choice",
+            "start": 21,
+            "end": 26
+        },
+        {
+            "custom_instruction": "What opinion do the students give about each of the following modules on their veterinary science course?",
+            "type": "drop_information",
+            "start": 27,
+            "end": 30
+        },
+        {
+            "custom_instruction": "ONE WORD ONLY",
+            "type": "sentence_completion",
+            "start": 31,
+            "end": 40
+        }
+    ],
+    "questions": {
+        "1": {
+            "question": [
+                "<span><strong>Regular activities</strong></span><br><span>Beach</span><br><span>&nbsp; &nbsp;&bull; &nbsp; making sure the beach does not have </span>"
+            ]
+        },
+        "2": {
+            "question": [
+                "<span> on it</span><br><span>&nbsp; &nbsp;&bull; &nbsp; no </span>"
+            ]
+        },
+        "3": {
+            "question": [
+                "<span></span><br><span>Nature reserve</span><br><span>&nbsp; &nbsp;&bull; &nbsp; maintaining paths</span><br><span>&nbsp; &nbsp;&bull; &nbsp; nesting boxes for birds installed</span><br><span>&nbsp; &nbsp;&bull; &nbsp; next task is taking action to attract </span>"
+            ]
+        },
+        "4": {
+            "question": [
+                "<span>&nbsp;to the place</span><br><span>&nbsp; &nbsp;&bull; &nbsp; identifying types of </span>"
+            ]
+        },
+        "5": {
+            "question": [
+                "<span></span><br><span>&nbsp; &nbsp;&bull; &nbsp; building a new </span>"
+            ]
+        },
+        "6": {
+            "question": [
+                "<span></span><br><span><strong>Forthcoming events</strong></span><br><span>Saturday</span><br><span>&nbsp; &nbsp;&bull; &nbsp; meet at Dunsmore Beach car park</span><br><span>&nbsp; &nbsp;&bull; &nbsp; walk across the sands and reach the </span>"
+            ]
+        },
+        "7": {
+            "question": [
+                "<span></span><br><span>&nbsp; &nbsp;&bull; &nbsp; take a picnic</span><br><span>&nbsp; &nbsp;&bull; &nbsp; wear appropriate </span>"
+            ]
+        },
+        "8": {
+            "question": [
+                "<span></span><br><span>Woodwork session</span><br><span>&nbsp; &nbsp;&bull; &nbsp; suitable for </span>"
+            ]
+        },
+        "9": {
+            "question": [
+                "<span>&nbsp;to participate in</span><br><span>&nbsp; &nbsp;&bull; &nbsp; making </span>"
+            ]
+        },
+        "10": {
+            "question": [
+                "<span>&nbsp;out of wood</span><br><span>&nbsp; &nbsp;&bull; &nbsp; 17th, from 10 a.m. to 3 p.m.</span><br><span>&nbsp; &nbsp;&bull; &nbsp; cost of session (no camping): &pound; </span>",
+                "<span></span>"
+            ]
+        },
+        "11": {
+            "question": "<span>What is the maximum number of people who can stand on each side of the boat?</span>",
+            "options": [
+                "9",
+                "15",
+                "18"
+            ]
+        },
+        "12": {
+            "question": "<span>What colour are the tour boats?</span>",
+            "options": [
+                "dark red",
+                "jet black",
+                "light green"
+            ]
+        },
+        "13": {
+            "question": "<span>Which lunch box is suitable for someone who doesn&rsquo;t eat meat or fish?</span>",
+            "options": [
+                "Lunch box 1",
+                "Lunch box 2",
+                "Lunch box 3"
+            ]
+        },
+        "14": {
+            "question": "<span>What should people do with their litter?</span>",
+            "options": [
+                "take it home",
+                "hand it to a member of staff",
+                "put it in the bins provided on the boat"
+            ]
+        },
+        "15": {
+            "question": ""
+        },
+        "16": {
+            "question": "<span>Which&nbsp;<strong>TWO</strong>&nbsp;features of the lighthouse does Lou mention?</span>",
+            "options": [
+                "why it was built",
+                "who built it",
+                "how long it took to build",
+                "who staffed it",
+                "what it was built with"
+            ]
+        },
+        "17": {
+            "question": ""
+        },
+        "18": {
+            "question": "<span>Which&nbsp;<strong>TWO</strong>&nbsp;types of creature might come close to the boat?</span>",
+            "options": [
+                "sea eagles",
+                "fur seals",
+                "dolphins",
+                "whales",
+                "penguins"
+            ]
+        },
+        "19": {
+            "question": ""
+        },
+        "20": {
+            "question": "<span>Which&nbsp;<strong>TWO</strong>&nbsp;points does Lou make about the caves?</span>",
+            "options": [
+                "Only large tourist boats can visit them",
+                "The entrances to them are often blocked",
+                "It is too dangerous for individuals to go near them",
+                "Someone will explain what is inside them",
+                "They cannot be reached on foot"
+            ]
+        },
+        "21": {
+            "question": "<span>What problem did both Diana and Tim have when arranging their work experience?</span>",
+            "options": [
+                "make initial contact with suitable farms",
+                "organising transport to and from the farm",
+                "finding a placement for the required length of time"
+            ]
+        },
+        "22": {
+            "question": "<span>Tim was pleased to be able to help</span>",
+            "options": [
+                "a lamb that had a broken leg",
+                "a sheep that was having difficult giving birth",
+                "a newly born lamb that was having trouble feeding"
+            ]
+        },
+        "23": {
+            "question": "<span>Diana says the sheep on her farm</span>",
+            "options": [
+                "were of various different varieties",
+                "were mainly reared for their meat",
+                "had better quality wool than sheep on the hills"
+            ]
+        },
+        "24": {
+            "question": "<span>What did the students learn about adding supplements to chicken feed?</span>",
+            "options": [
+                "These should only be given if specially needed",
+                "It is worth paying extra for the most effective ones",
+                "The amount given at one time should be limited"
+            ]
+        },
+        "25": {
+            "question": "<span>What happened when Diana was working with dairy cows?</span>",
+            "options": [
+                "She identified some cows incorrectly",
+                "She accidentally threw some milk away",
+                "She made a mistake when storing milk"
+            ]
+        },
+        "26": {
+            "question": "<span>What did both farmers mention about vets and farming?</span>",
+            "options": [
+                "Vets are failing to cope with some aspects of animal health",
+                "There needs to be a fundamental change in the training of vets",
+                "Some jobs could be done by the farmer rather than by a vet"
+            ]
+        },
+        "27": {
+            "question": [
+                "<span><strong>Modules on Veterinary Science course</strong></span><br><span>Medical terminology </span>"
+            ]
+        },
+        "28": {
+            "question": [
+                "<span></span><br><span>Diet and nutrition </span>"
+            ]
+        },
+        "29": {
+            "question": [
+                "<span></span><br><span>Animal disease </span>"
+            ]
+        },
+        "30": {
+            "question": [
+                "<span></span><br><span>Wildlife medication </span>",
+                "<span></span>"
+            ],
+            "options": [
+                "Tim found this easier than expected",
+                "Tim thought this was not very clearly organised",
+                "Diana may do some further study on this",
+                "They both found the reading required for this was difficult",
+                "Tim was shocked at something he learned on this module",
+                "They were both surprised how little is known about some aspects of this"
+            ]
+        },
+        "31": {
+            "question": [
+                "<span><strong> Definition</strong></span><br><span>&nbsp; &nbsp;&bull; &nbsp; a winding spiral path leading to a central area</span><br><span><strong>Labyrinths compared with mazes</strong></span><br><span>&nbsp; &nbsp;&bull; &nbsp; Mazes are a type of </span>"
+            ]
+        },
+        "32": {
+            "question": [
+                "<span></span><br><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &ndash; &nbsp;</span>"
+            ]
+        },
+        "33": {
+            "question": [
+                "<span>&nbsp;is needed to navigate through a maze</span><br><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &ndash;&nbsp; the word &lsquo;maze&rsquo; is derived from a word meaning a feeling of </span>"
+            ]
+        },
+        "34": {
+            "question": [
+                "<span></span><br><span>&nbsp; &nbsp;&bull; &nbsp; Labyrinths represent a journey through life</span><br><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &ndash;&nbsp; they have frequently been used in </span>"
+            ]
+        },
+        "35": {
+            "question": [
+                "<span>&nbsp;and prayer</span><br><span><strong>Early examples of the labyrinth spiral</strong></span><br><span>&nbsp; &nbsp;&bull; &nbsp; Ancient carvings on </span>"
+            ]
+        },
+        "36": {
+            "question": [
+                "<span>&nbsp;have been found across many cultures</span><br><span>&nbsp; &nbsp;&bull; &nbsp; The Pima, a Native American tribe, wove the symbol on baskets</span><br><span>&nbsp; &nbsp;&bull; &nbsp; Ancient Greeks used the symbol on </span>"
+            ]
+        },
+        "37": {
+            "question": [
+                "<span></span><br><span><strong>Walking labyrinths</strong></span><br><span>&nbsp; &nbsp;&bull; &nbsp; The largest surviving example of a turf labyrinth once had a big </span>"
+            ]
+        },
+        "38": {
+            "question": [
+                "<span>&nbsp;at its centre</span><br><span><strong>Labyrinths nowadays</strong></span><br><span>&nbsp; &nbsp;&bull; &nbsp; Believed to have a beneficial impact on mental and physical health, e.g., walking a maze can reduce a person&rsquo;s </span>"
+            ]
+        },
+        "39": {
+            "question": [
+                "<span>&nbsp;rate</span><br><span>&nbsp; &nbsp;&bull; &nbsp; Used in medical and health and fitness settings and also prisons</span><br><span>&nbsp; &nbsp;&bull; &nbsp; Popular with patients, visitors and staff in hospitals</span><br><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &ndash;&nbsp; patients who can&rsquo;t walk can use &lsquo;finger labyrinths&rsquo; made from </span>"
+            ]
+        },
+        "40": {
+            "question": [
+                "<span></span><br><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &ndash;&nbsp; research has shown that Alzheimer&rsquo;s sufferers experience less </span>",
+                "<span></span>"
+            ]
+        }
+    },
+    "answers": {
+        "transcripts": {
+            "1": "<span>PETER:&nbsp;&nbsp;&nbsp; Hello?</span><br><span>JAN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Oh hello. My name&rsquo;s Jan. Are you the right person to talk to about the Buckworth Conservation Group?</span><br><span>PETER:&nbsp;&nbsp;&nbsp; Yes, I&rsquo;m Peter. I&rsquo;m the secretary.</span><br><span>JAN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Good. I&rsquo;ve just moved to this area, and I&rsquo;m interested in getting involved. I was in a similar group where I used to live. Could you tell me something about your activities, please?</span><br><span>PETER:&nbsp;&nbsp;&nbsp; Of course. Well, we have a mixture of regular activities and special events. One of the regular ones is trying to keep the beach free of litter. A few of us spend a couple of hours a month on it, and it&rsquo;s awful how much there is so clear. I wish people would be more responsible and take it home with them.</span><br><span>JAN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I totally agree. I&rsquo;d be happy to help with that. Is it OK to take dogs?</span><br><span>PETER:&nbsp;&nbsp;&nbsp; I&rsquo;m afraid not, as they&rsquo;re banned from the beach itself. You can take them along the cliffs, though. And children are welcome.</span><br><span>JAN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Right.</span><br><span>PETER:&nbsp;&nbsp;&nbsp; We also manage a nature reserve, and there&rsquo;s a lot to do there all year round. For example, because it&rsquo;s a popular place to visit, we spend a lot of time looking after the paths and making sure they&rsquo;re in good condition for walking.</span><br><span>JAN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I could certainly help with that.</span><br><span>PETER:&nbsp;&nbsp;&nbsp; Good. And we have a programme of creating new habitats there. We&rsquo;re just finished making and installing nesting boxes for birds to use, and next we&rsquo;re going to work on encouraging&nbsp;insects<strong>&nbsp;</strong>&ndash; they&rsquo;re important for the biodiversity of the reserve.</span><br><span>JAN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; They certainly are.</span><br><span>PETER:&nbsp;&nbsp;&nbsp; Oh, and we&rsquo;re also running a project to identify the different species of&nbsp;butterflies that visit the reserve. You might be interested in taking part in that.</span><br><span>JAN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sure. I was involved in something similar where I used to live, counting all the species of months. I&rsquo;d enjoy that.</span><br><span>PETER:&nbsp;&nbsp;&nbsp; Another job we&rsquo;re doing at the reserve is replacing the&nbsp;wall on the southern side, between the parking area and our woodshed. It was badly damaged in a storm last month.</span><br><span>JAN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; OK.</span><br><span>&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;-</span><br><span>PETER:&nbsp;&nbsp;&nbsp; Then as I said, we have a programme of events as well, both at the weekend, and during the week.</span><br><span>JAN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Right. I presume you have guided walks? I&rsquo;d like to get to know the local countryside, as I&rsquo;m new to the area.</span><br><span>PETER:&nbsp;&nbsp;&nbsp; Yes, we do. The next walk is to Ruston Island, a week on Saturday. We&rsquo;ll be meeting in the car park at Dunsmore Beach at low tide &ndash; that&rsquo;s when the sands are dry enough for us to walk to the&nbsp;island without getting wet.</span><br><span>JAN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sounds good.</span><br><span>PETER:&nbsp;&nbsp;&nbsp; The island&rsquo;s a great place to explore. It&rsquo;s quite small, and it&rsquo;s got a range of habitats. It&rsquo;s also an ideal location for seeing seals just off the coast, or even on the beach.</span><br><span>JAN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; OK. And is there anything we should bring, like a picnic, for instance?</span><br><span>PETER:&nbsp;&nbsp;&nbsp; Yes, do bring one, as it&rsquo;s a full-day walk. And of course it&rsquo;ll be wet walking across and back, so make sure your&nbsp;boots are waterproof.</span><br><span>JAN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I must buy a new pair &ndash; there&rsquo;s a hole in one of my current ones! Well, I&rsquo;d definitely like to come on the walk.</span><br><span>PETER:&nbsp;&nbsp;&nbsp; Great. Then later this month we&rsquo;re having a one-day woodwork session in Hopton Wood.</span><br><span>JAN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I&rsquo;ve never tried that before. Is it OK for&nbsp;beginners<strong>&nbsp;</strong>to take part?</span><br><span>PETER:&nbsp;&nbsp;&nbsp; Definitely. There&rsquo;ll be a couple of experts leading the session, and we keep the number of participants down, so you&rsquo;ll get as much help as you need.</span><br><span>JAN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Excellent! I&rsquo;d love to be able to make chairs.</span><br><span>PETER:&nbsp;&nbsp;&nbsp; That&rsquo;s probably too ambitious for one day! You&rsquo;ll be starting with wooden&nbsp;spoons, and of course learning how to use the tools. And anything you make is yours to take home with you.</span><br><span>JAN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; That sounds like fun. When is it?</span><br><span>PETER:&nbsp;&nbsp;&nbsp; It&rsquo;s on the 17th, from 10 a.m. until 3. There&rsquo;s a charge of &pound;35, including lunch, or &pound;40 if you want to camp in the wood.</span><br><span>JAN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I should think I&rsquo;ll come home the same day. Well, I&rsquo;d certainly like to join the group.</span>",
+            "2": "<span>So, hello everyone. My name&rsquo;s Lou Miller and I&rsquo;m going to be your tour guide today as we take this fantastic boat trip around the Tasmanian coast. Before we set off, I just want to tell you a few things about our journey.</span><br><span>Our boats aren&rsquo;t huge as you can see. We already have three staff members on board and on top of that, we can transport a further fifteen people &ndash; that&rsquo;s you &ndash; around the coastline. But please note&nbsp;if there are more than nine people on either side of the boat, we&rsquo;ll move some of you over, otherwise all eighteen of us will end up in the sea!</span><br><span>We&rsquo;ve recently upgraded all our boats. They used to be jet black, but our new ones now have these comfortable dark red seats and a&nbsp;light-green exterior<strong>&nbsp;</strong>in order to stand out from others and help promote our company. This gives our boats a rather unique appearance, don&rsquo;t you think?</span><br><span>We offer you a free lunchbox during the trip and we have three types. Lunchbox 1 contains ham and tomato sandwiches.&nbsp;Lunchbox 2 contains a cheddar cheese roll<strong>&nbsp;</strong>and Lunchbox 3 is salad-based and also contains eggs and tuna. All three lunchboxes also have a packet of crisps and chocolate bar inside. Please let staff know which lunchbox you prefer.</span><br><span>I&rsquo;m sure I don&rsquo;t have to ask you not to throw anything into the sea. We don&rsquo;t have any bins to put litter in, but&nbsp;Jess, myself or Ray, our other guide, will collect it from you<strong>&nbsp;</strong>after lunch and put it all in a large plastic sack.</span><br><span>&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&ndash;</span><br><span>The engine on the boat makes quite a lot of noise so before we head off, let me tell you a few things about what you&rsquo;re going to see.</span><br><span>This area is famous for its ancient lighthouse, which you&rsquo;ll see from the boat as we turn past the first little island. It was built in 1838&nbsp;to protect sailors as a number of shipwrecks had led to significant loss of life. The construction itself was complicated as some of the original drawings kept by the local council show. It sits right on top of the cliffs in a very isolated spot. In the nineteenth century there were many jobs there, such as polishing the brass lamps, chopping firewood and cleaning windows, that kept lighthouse keepers busy.&nbsp;These workers were mainly prison convicts until the middle of that century when ordinary families willing to live in such circumstances took over.</span><br><span>Some of you have asked me what creatures we can expect to see. I know everyone loves the penguins, but they&rsquo;re very shy and, unfortunately, tend to hide from passing boats, but you might see birds in the distance, such as sea eagles, flying around the cliff edges where they nest. When we get to the rocky area inhabited by&nbsp;fur seals, we&rsquo;ll stop and watch them swimming around the coast. They&rsquo;re inquisitive creatures so don&rsquo;t be surprised if one pops up right in front of you. Their predators, orca whales, hunt along the coastline too, but spotting one of these is rare.&nbsp;Dolphins, on the other hand, can sometimes approach on their own or in groups as they ride the waves beside us.</span><br><span>Lastly, I want to mention the caves. Tasmania is famous for its caves and the ones we&rsquo;ll pass by are so amazing that people are lost for words when they see them.&nbsp;They can only be approached by sea, but if you feel that you want to see more than we&rsquo;re able to show you, then you can take a kayak into the area on another day and one of our staff will give you more information on that. What we&rsquo;ll do is to go through a narrow channel, past some incredible rock formations and from there&nbsp;we&rsquo;ll be able to see the openings to the caves, and at that point we&rsquo;ll talk to you about what lies beyond.</span>",
+            "3": "<span>DIANA:&nbsp;&nbsp;&nbsp; So, Tim, we have to do a short summary of our work experience on a farm.</span><br><span>TIM:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Right. My farm was great, but&nbsp;arranging the work experience was hard. One problem was it was miles away and I don&rsquo;t drive. And also, I&rsquo;d really wanted a placement for a month, but I could only get one for two weeks.</span><br><span>DIANA:&nbsp;&nbsp;&nbsp; I was lucky, the farmer let me stay on the farm so I didn&rsquo;t have to travel. But&nbsp;finding the right sort of farm to apply to wasn&rsquo;t easy.</span><br><span>TIM:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; No, they don&rsquo;t seem to have websites, do they. I found mine through a friend of my mother&rsquo;s, but it wasn&rsquo;t easy.</span><br><span>DIANA:&nbsp;&nbsp;&nbsp; No.</span><br><span>TIM:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; My farm was mostly livestock, especially sheep. I really enjoyed helping out with them.&nbsp;I was up most of one night helping a sheep deliver a lamb &hellip;</span><br><span>DIANA:&nbsp;&nbsp;&nbsp; On your own?</span><br><span>TIM:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; No, the farmer was there, and he told me what to do. It wasn&rsquo;t a straightforward birth, but I managed. It was a great feeling to see the lamb stagger to its feet and start feeding almost straightaway, and to know that it was OK.</span><br><span>DIANA:&nbsp;&nbsp;&nbsp; Mm.</span><br><span>TIM:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Then another time a lamb had broken its leg, and they got the vet in to set it, and he talked me through what he was doing. That was really useful.</span><br><span>DIANA:&nbsp;&nbsp;&nbsp; Yes, my farm had sheep too. The farm was in a valley and they had a lowland breed called Suffolks, although the farmer said they&rsquo;d had other breeds in the past.</span><br><span>TIM:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;So were they bred for their meat?</span><br><span>DIANA:&nbsp;&nbsp;&nbsp;&nbsp;Mostly, yes. They&rsquo;re quite big and solid.</span><br><span>TIM:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; My farm was up in the hills and they had a different breed of sheep, they were Cheviots.</span><br><span>DIANA:&nbsp;&nbsp;&nbsp; Oh, I heard their wool&rsquo;s really sought after.</span><br><span>TIM:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Yes. It&rsquo;s very hardwearing and they use it for carpets.</span><br><span>DIANA:&nbsp;&nbsp;&nbsp; Right.</span><br><span>TIM:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I was interested in the amount of supplements they add to animals&rsquo; feed nowadays. Like, even the chickens got extra vitamins and electrolytes in their feed.</span><br><span>DIANA:&nbsp;&nbsp;&nbsp; Yes, I found that too. And they&rsquo;re not cheap. But my farmer said some are overpriced for what they are. And&nbsp;he didn&rsquo;t give them as a matter of routine, just at times when the chickens seemed to particularly require them.</span><br><span>TIM:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Yes, mine said the same. He said certain breeds of chickens might need more supplements than the others, but the cheap and expensive ones are all basically the same.</span><br><span>DIANA:&nbsp;&nbsp;&nbsp; Mm.</span><br><span>TIM:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; So did your farm have any other livestock, Diana?</span><br><span>DIANA:&nbsp;&nbsp;&nbsp; Yes, dairy cows. I made a really embarrassing mistake when I was working in the milk shed. Some cows had been treated with antibiotics, so their milk wasn&rsquo;t suitable for human consumption, and it had to be put in a separate container. But&nbsp;I got mixed up, and I poured some milk from the wrong cow in with the milk for humans, so the whole lot had to be thrown away. The farmer wasn&rsquo;t too happy with me.</span><br><span>TIM:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I asked my farmer how much he depended on the vet to deal with health problems. I&rsquo;d read reports that the livestock&rsquo;s health is being affected as farmers are under pressure to increase production. Well, he didn&rsquo;t agree with that, but he said that actually&nbsp;some of the stuff the vets do, like minor operations, he&rsquo;d be quite capable of doing himself.</span><br><span>DIANA:&nbsp;&nbsp;&nbsp;&nbsp;Yeah. My farmer said the same. But he reckons vets&rsquo; skills are still needed.</span><br><span>&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;-</span><br><span>DIANA:&nbsp;&nbsp;&nbsp; Now we&rsquo;ve got to give a bit of feedback about last term&rsquo;s modules &ndash; just short comments, apparently. Shall we do that now?</span><br><span>TIM:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; OK. So medical terminology.</span><br><span>DIANA:&nbsp;&nbsp;&nbsp; Well, my heart sank when I saw that, especially right at the beginning of the course. And I did struggle with it.</span><br><span>TIM:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I&rsquo;d thought it&rsquo;d be hard, but actually I found it all quite straightforward. What did you think about diet and nutrition?</span><br><span>DIANA:&nbsp;&nbsp;&nbsp; OK, I suppose.</span><br><span>TIM:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Do you remember what they told us about pet food and the fact that&nbsp;there&rsquo;s such limited checking into whether or not it&rsquo;s contaminated? I mean in comparison with the checks on food for humans &ndash; I thought that was terrible.</span><br><span>DIANA:&nbsp;&nbsp;&nbsp; Mm. I think the module that really impressed me was the animal disease one, when we looked at domesticated animals in different parts of the world, like camels and water buffalo and alpaca.&nbsp;The economies of so many countries depend on these, but scientists don&rsquo;t know much about the diseases that affect them.</span><br><span>TIM:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Yes,&nbsp;I thought they&rsquo;d know a lot about ways of controlling and eradicating those diseases, but that&rsquo;s not the case at all.</span><br><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I loved the wildlife medication unit. Things like helping birds that have been caught in oil spills. That&rsquo;s something I hadn&rsquo;t thought about before.</span><br><span>DIANA:&nbsp;&nbsp;&nbsp; Yeah,&nbsp;I thought I might write my dissertation on something connected with that.</span><br><span>TIM:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Right. So &hellip;</span>",
+            "4": "<span>Labyrinths have existed for well over 4,000 years. Labyrinths and labyrinthine symbols have been found in regions as diverse as modern-day Turkey, Ireland, Greece, and India. There are various designs of labyrinth but what they all have in common is a winding spiral path which leads to a central area. There is one starting point at the entrance and the goal is to reach the central area. Finding your way through a labyrinth involves many twists and turns, but it&rsquo;s not possible to get lost as there is only one single path.</span><br><span>In modern times, the word labyrinth has taken on a different meaning and is often used as a synonym for a maze. A maze is quite different as&nbsp;it is a kind of puzzle<strong>&nbsp;</strong>with an intricate network of paths. Mazes became fashionable in the 15th and 16th centuries in Europe, and can still be found in the gardens of great houses and palaces. The paths are usually surrounded by thick, high hedges so that it&rsquo;s not possible to see over them. Entering a maze usually involves getting lost a few times before&nbsp;using logic to work out the pattern<strong>&nbsp;</strong>and find your way to the centre and then out again. There are lots of dead ends and paths which lead you back to where you started.&nbsp;The word &lsquo;maze&rsquo; is believed to come from a Scandinavian word for a state of confusion. This is where the word &lsquo;amazing&rsquo; comes from.</span><br><span>Labyrinths, on the other hand, have a very different function. Although people now often refer to things they find complicated as labyrinths, this is not how they were seen in the past. the winding spiral of the labyrinth has been used for centuries as a metaphor for life&rsquo;s journey. It served as a spiritual reminder that there is purpose and meaning to our lives and helped to give people a sense of direction.&nbsp;Labyrinths are thought to encourage a feeling of calm and have been used as a meditation and prayer tool in many cultures over many centuries.</span><br><span>The earliest examples of the labyrinth spiral pattern have been found carved into stone, from Sardinia to Scandinavia, from Arizona to India to Africa. In Europe, these spiral carvings&nbsp;date from the late Bronze Age. The Native American Pima tribe wove baskets with a circular labyrinth design that depicted their own cosmology.&nbsp;In Ancient Greece, the labyrinth spiral was used on coins<strong>&nbsp;</strong>around four thousand years ago. Labyrinths made of mosaics were commonly found in bathhouses, villas and tombs throughout the Roman Empire.</span><br><span>In Northern Europe, there were actual physical labyrinths designed for walking on. These were cut into the turf or grass, usually in a circular pattern. The origin of these walking labyrinths remains unclear, but they were probably used for fertility rites which may date back thousands of years. Eleven examples of turf labyrinths survive today, including&nbsp;the largest one at Saffron Walden, England, which used to have a large tree in the middle of it.</span><br><span>&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&ndash;</span><br><span>More recently labyrinths have experienced something of a revival. Some believe that walking a labyrinth promotes healing and mindfulness, and there are those who believe in its emotional and&nbsp;physical benefits, which include slower breathing and a restored sense of balance and perspective. This idea has become so popular that labyrinths have been laid into the floors of spas, wellness centres and even prisons in recent years.</span><br><span>A pamphlet at Colorado Children&rsquo;s Hospital informs patients that &lsquo;walking a labyrinth can often calm people in the midst of a crisis&rsquo;. And apparently, it&rsquo;s not only patients who benefit. Many visitors find walking a labyrinth less stressful than sitting in a corridor or waiting room. Some doctors even walk the labyrinth during their breaks. In some hospitals, patients who can&rsquo;t walk can have&nbsp;a paper &lsquo;finger labyrinth&rsquo;<strong>&nbsp;</strong>brought to their bed. The science behind the theory is a little sketchy, but there are dozens of small-scale studies which support claims about the benefits of labyrinths. For example, one study found that walking a labyrinth provided &lsquo;short-term calming, relaxation, and&nbsp;relief from anxiety&rsquo; for Alzheimer&rsquo;s patients.</span><br><span>So, what is it about labyrinths that makes their appeal so universal? Well &hellip;</span>"
+        },
+        "answer_sheet": {
+            "1": {
+                "answer": [
+                    "litter"
+                ],
+                "explanation": "One of the regular ones is trying to keep the beach free of litter"
+            },
+            "2": {
+                "answer": [
+                    "dogs"
+                ],
+                "explanation": "Is it OK to take dogs?"
+            },
+            "3": {
+                "answer": [
+                    "insects"
+                ],
+                "explanation": "Good. And we have a programme of creating new habitats there. We’re just finished making and installing nesting boxes for birds to use, and next we’re going to work on encouraging insects"
+            },
+            "4": {
+                "answer": [
+                    "butterflies"
+                ],
+                "explanation": "we’re also running a project to identify the different species of butterflies"
+            },
+            "5": {
+                "answer": [
+                    "wall"
+                ],
+                "explanation": "Another job we’re doing at the reserve is replacing the wall"
+            },
+            "6": {
+                "answer": [
+                    "island"
+                ],
+                "explanation": "that’s when the sands are dry enough for us to walk to the island without getting wet"
+            },
+            "7": {
+                "answer": [
+                    "boots"
+                ],
+                "explanation": "And of course it’ll be wet walking across and back, so make sure your boots are waterproof"
+            },
+            "8": {
+                "answer": [
+                    "beginners"
+                ],
+                "explanation": "Is it OK for beginners to take part?"
+            },
+            "9": {
+                "answer": [
+                    "spoons"
+                ],
+                "explanation": "You’ll be starting with wooden spoons"
+            },
+            "10": {
+                "answer": [
+                    "35",
+                    "thirty five"
+                ],
+                "explanation": "There’s a charge of £35"
+            },
+            "11": {
+                "answer": [
+                    "9"
+                ],
+                "explanation": "if there are more than nine people on either side of the boat, we’ll move some of you over"
+            },
+            "12": {
+                "answer": [
+                    "light green"
+                ],
+                "explanation": "They used to be jet black, but our new ones now have these comfortable dark red seats and a light-green exterior"
+            },
+            "13": {
+                "answer": [
+                    "Lunch box 2"
+                ],
+                "explanation": "Lunchbox 2 contains a cheddar cheese roll"
+            },
+            "14": {
+                "answer": [
+                    "hand it to a member of staff"
+                ],
+                "explanation": "Jess, myself or Ray, our other guide, will collect it from you"
+            },
+            "15": {
+                "answer": [
+                    "why it was built"
+                ],
+                "explanation": "It was built in 1838 to protect sailors as a number of shipwrecks had led to significant loss of life"
+            },
+            "16": {
+                "answer": [
+                    "who staffed it"
+                ],
+                "explanation": "These workers were mainly prison convicts until the middle of that century when ordinary families willing to live in such circumstances took over"
+            },
+            "17": {
+                "answer": [
+                    "fur seals"
+                ],
+                "explanation": "When we get to the rocky area inhabited by fur seals, we’ll stop and watch them swimming around the coast. They’re inquisitive creatures so don’t be surprised if one pops up right in front of you"
+            },
+            "18": {
+                "answer": [
+                    "dolphins"
+                ],
+                "explanation": "Dolphins, on the other hand, can sometimes approach on their own or in groups as they ride the waves beside us"
+            },
+            "19": {
+                "answer": [
+                    "Someone will explain what is inside them"
+                ],
+                "explanation": "we’ll be able to see the openings to the caves, and at that point we’ll talk to you about what lies beyond"
+            },
+            "20": {
+                "answer": [
+                    "They cannot be reached on foot"
+                ],
+                "explanation": "They can only be approached by sea"
+            },
+            "21": {
+                "answer": [
+                    "make initial contact with suitable farms"
+                ],
+                "explanation": "But finding the right sort of farm to apply to wasn’t easy"
+            },
+            "22": {
+                "answer": [
+                    "a sheep that was having difficult giving birth"
+                ],
+                "explanation": "I was up most of one night helping a sheep deliver a lamb"
+            },
+            "23": {
+                "answer": [
+                    "were mainly reared for their meat"
+                ],
+                "explanation": "So were they bred for their meat?"
+            },
+            "24": {
+                "answer": [
+                    "These should only be given if specially needed"
+                ],
+                "explanation": "he didn’t give them as a matter of routine, just at times when the chickens seemed to particularly require them"
+            },
+            "25": {
+                "answer": [
+                    "She made a mistake when storing milk"
+                ],
+                "explanation": "I got mixed up, and I poured some milk from the wrong cow in with the milk for humans, so the whole lot had to be thrown away"
+            },
+            "26": {
+                "answer": [
+                    "Some jobs could be done by the farmer rather than by a vet"
+                ],
+                "explanation": "he said that actually some of the stuff the vets do, like minor operations, he’d be quite capable of doing himself"
+            },
+            "27": {
+                "answer": [
+                    "Tim found this easier than expected"
+                ],
+                "explanation": "I’d thought it’d be hard, but actually I found it all quite straightforward"
+            },
+            "28": {
+                "answer": [
+                    "Tim was shocked at something he learned on this module"
+                ],
+                "explanation": "there’s such limited checking into whether or not it’s contaminated? I mean in comparison with the checks on food for humans – I thought that was terrible"
+            },
+            "29": {
+                "answer": [
+                    "They were both surprised how little is known about some aspects of this"
+                ],
+                "explanation": "The economies of so many countries depend on these, but scientists don’t know much about the diseases that affect them"
+            },
+            "30": {
+                "answer": [
+                    "Diana may do some further study on this"
+                ],
+                "explanation": "I thought I might write my dissertation on something connected with that"
+            },
+            "31": {
+                "answer": [
+                    "puzzle"
+                ],
+                "explanation": "A maze is quite different as it is a kind of puzzle with an intricate network of paths"
+            },
+            "32": {
+                "answer": [
+                    "logic"
+                ],
+                "explanation": "Entering a maze usually involves getting lost a few times before using logic to work out the pattern and find your way to the centre and then out again"
+            },
+            "33": {
+                "answer": [
+                    "confusion"
+                ],
+                "explanation": "The word ‘maze’ is believed to come from a Scandinavian word for a state of confusion"
+            },
+            "34": {
+                "answer": [
+                    "meditation"
+                ],
+                "explanation": "Labyrinths are thought to encourage a feeling of calm and have been used as a meditation and prayer tool in many cultures over many centuries"
+            },
+            "35": {
+                "answer": [
+                    "stone"
+                ],
+                "explanation": "The earliest examples of the labyrinth spiral pattern have been found carved into stone, from Sardinia to Scandinavia, from Arizona to India to Africa"
+            },
+            "36": {
+                "answer": [
+                    "coins"
+                ],
+                "explanation": "In Ancient Greece, the labyrinth spiral was used on coins around four thousand years ago"
+            },
+            "37": {
+                "answer": [
+                    "tree"
+                ],
+                "explanation": "Eleven examples of turf labyrinths survive today, including the largest one at Saffron Walden, England, which used to have a large tree in the middle of it"
+            },
+            "38": {
+                "answer": [
+                    "breathing"
+                ],
+                "explanation": "there are those who believe in its emotional and physical benefits, which include slower breathing and a restored sense of balance and perspective"
+            },
+            "39": {
+                "answer": [
+                    "paper"
+                ],
+                "explanation": "In some hospitals, patients who can’t walk can have a paper ‘finger labyrinth’ brought to their bed"
+            },
+            "40": {
+                "answer": [
+                    "anxiety"
+                ],
+                "explanation": "For example, one study found that walking a labyrinth provided ‘short-term calming, relaxation, and relief from anxiety’ for Alzheimer’s patients"
+            }
+        }
+    }
+}

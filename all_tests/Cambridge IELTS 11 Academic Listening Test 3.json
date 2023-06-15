@@ -1,1 +1,616 @@
-{"name":"Cambridge IELTS 11 Academic Listening Test 3","id":"C_11_A_3_L","ielts_test_id":"C_11_A_3","type":"listening","image":"C_11_A_3_L","passages":[{"title":"Free activities in the Burnham area","audio":"C_11_A_3_L_1","image":"","start":1,"end":10},{"title":"Changes in Barford over the last 50 years","audio":"C_11_A_3_L_2","image":"","start":11,"end":20},{"title":"","audio":"C_11_A_3_L_3","image":"","start":21,"end":30},{"title":"ETHNOGRAPHY IN BUSINESS","audio":"C_11_A_3_L_4","image":"","start":31,"end":40}],"question_sections":[{"type":"one_choice","start":1,"end":6},{"custom_instruction":"ONE WORD ONLY","type":"sentence_completion","start":7,"end":10},{"type":"one_choice","start":11,"end":15},{"custom_instruction":"What is planned for each of the following facilities?","type":"drop_information","start":16,"end":20},{"custom_instruction":"ONE WORD ONLY","type":"table_completion","start":21,"end":26},{"custom_instruction":"Who is going to write each of the following parts of the report?","type":"matching_features","start":27,"end":30},{"custom_instruction":"ONE WORD ONLY","type":"sentence_completion","start":31,"end":40}],"questions":{"1":{"question":"<span>The &lsquo;Family Welcome&rsquo; event in the art gallery begins at</span>","options":["10 am","10.30 am","2 pm"]},"2":{"question":"<span>The film that is now shown in the &lsquo;Family Welcome&rsquo; event is about</span>","options":["sculpture","painting","ceramics"]},"3":{"question":"<span>When do most of the free concerts take place?</span>","options":["in the morning","at lunchtime","in the evening"]},"4":{"question":"<span>Where will the 4 pm concert of Latin American music take place?</span>","options":["in a museum","in a theatre","in a library"]},"5":{"question":"<span>The boat race begins at</span>","options":["Summer Pool","Charlesworth Bridge","Offord Marina"]},"6":{"question":"<span>One of the boat race teams</span>","options":["won a regional competition earlier this year","has represented the region in a national competition","has won several regional competitions"]},"7":{"question":["<h4><strong>Paxton Nature Reserve</strong></h4><br><span>&bull; Paxton is a good place for seeing rare </span>"]},"8":{"question":["<span> all year round.</span><br><span>&bull; This is a particularly good time for seeing certain unusual </span>"]},"9":{"question":["<span></span><br><span>&bull; Visitors will be able to learn about </span>"]},"10":{"question":["<span> and then collect some.</span><br><span>&bull; Part of the </span>","<span> has been made suitable for swimming.</span>"]},"11":{"question":"<span>In Shona&rsquo;s opinion, why do fewer people use buses in Barford these days?</span>","options":["The buses are old and uncomfortable","Fares have gone up too much","There are not so many bus routes"]},"12":{"question":"<span>What change in the road network is known to have benefited the town most?</span>","options":["the construction of a bypass","the development of cycle paths","the banning of cars from certain streets"]},"13":{"question":"<span>What is the problem affecting shopping in the town centre?</span>","options":["lack of parking spaces","lack of major retailers","lack of restaurants and cafés"]},"14":{"question":"<span>What does Shona say about medical facilities in Barford?</span>","options":["There is no hospital","New medical practices are planned","The number of dentists is too low"]},"15":{"question":"<span>The largest number of people are employed in</span>","options":["manufacturing","services","education"]},"16":{"question":["<span><strong>Facilities</strong></span><br><span>railway station car park </span>"]},"17":{"question":["<span></span><br><span>cinema </span>"]},"18":{"question":["<span></span><br><span>indoor market </span>"]},"19":{"question":["<span></span><br><span>library </span>"]},"20":{"question":["<span></span><br><span>nature reserve </span>","<span></span>"],"options":["It will move to a new location","It will have its opening hours extended","It will be refurbished","It will be used for a different purpose","It will have its opening hours reduced","It will have new management","It will be expanded"]},"21":{"question":[]},"22":{"question":[]},"23":{"question":[]},"24":{"question":[]},"25":{"question":[]},"26":{"question":[[{"content":"<span><strong>Subject of drawing</strong></span>"},{"content":"<span><strong>Change to be made</strong></span>"}],[{"content":["<span>A </span>","<span> surrounded by trees</span>"]},{"content":["<span>Add Malcolm and a </span>","<span>&nbsp;noticing him</span>"]}],[{"content":["<span>People who are </span>","<span>&nbsp;outside the forest</span>"]},{"content":["<span>Add Malcolm sitting on a tree trunk and </span>","<span></span>"]}],[{"content":["<span>Ice-skaters on </span>","<span>&nbsp;covered with ice</span>"]},{"content":["<span>Add a </span>","<span>&nbsp;for each person</span>"]}]]},"27":{"question":"<span>how they planned the project</span>"},"28":{"question":"<span>how they had ideas for their stories</span>"},"29":{"question":"<span>an interpretation of their stories</span>"},"30":{"question":"<span>comments on the illustrations</span>","options":["Helen only","Jeremy only","both Helen and Jeremy","neither Helen nor Jeremy"]},"31":{"question":["<span>Ethnography: research which explores human cultures</span><br><span>It can be used in business:</span><br><span>&bull; &nbsp; to investigate customer needs and </span>"]},"32":{"question":["<span></span><br><span>&bull; &nbsp; to help companies develop new designs</span><br><span><strong>Examples of ethnographic research in business</strong></span><br><span>Kitchen equipment</span><br><span>&bull; &nbsp; Researchers found that cooks could not easily see the </span>"]},"33":{"question":["<span>&nbsp;in measuring cups.</span><br><span>Cell phones</span><br><span>&bull; &nbsp; In Uganda, customers paid to use the cell phones of entrepreneurs.</span><br><span>&bull; &nbsp; These customers wanted to check the </span>"]},"34":{"question":["<span>&nbsp;used.</span><br><span>Computer companies</span><br><span>&bull; &nbsp; There was a need to develop </span>"]},"35":{"question":["<span>&nbsp;to improve communication between system administrators and colleagues.</span><br><span>Hospitals</span><br><span>&bull; &nbsp; Nurses needed to access information about </span>"]},"36":{"question":["<span>&nbsp;in different parts of the hospital.</span><br><span>Airlines</span><br><span>&bull; &nbsp; Respondents recorded information about their </span>"]},"37":{"question":["<span>&nbsp;while travelling.</span><br><span><strong>Principles of ethnographic research in business</strong></span><br><span>&bull; &nbsp; The researcher does not start off with a hypothesis.</span><br><span>&bull; &nbsp; Participants may be selected by criteria such as age, </span>"]},"38":{"question":["<span>&nbsp;or product used.</span><br><span>&bull; &nbsp; The participants must feel </span>"]},"39":{"question":["<span>&nbsp;about taking part in the research.</span><br><span>&bull; &nbsp; There is usually direct </span>"]},"40":{"question":["<span>&nbsp;of the participants.</span><br><span>&bull; &nbsp; The interview is guided by the participant.</span><br><span>&bull; &nbsp; A lot of time is needed for the </span>","<span>&nbsp;of the data.</span><br><span>&bull; &nbsp; Researchers look for a meaningful pattern in the data.</span>"]}},"answers":{"transcripts":{"1":"<span>MARTIN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Good morning. This is Burnham tourist, Martin speaking.</span><br><span>SUE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Oh, hello. I saw a poster about free things to do in the area, and it said people should phone you for information. I&rsquo;m coming to Burnham with my husband and two children for a few days on June the 27th, or possibly the 28th, and&nbsp;I&rsquo;d like some ideas for things to do on the 29th. (Example)</span><br><span>MARTIN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Yes, of course. OK. Then let&rsquo;s start with a couple of events especially for children. The art gallery is holding an event called &lsquo;Family Welcome&rsquo; that day, when there are activities and trails to use throughout the gallery.</span><br><span>SUE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; That sounds interesting. What time does it start?</span><br><span>MARTIN: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;The gallery opens at 10, and the &lsquo;Family Welcome&rsquo; event runs from 10.30 until 2 o&rsquo;clock. The gallery stays open until 5. And several times during the day,&nbsp;they&rsquo;re going to show a short film that the gallery has produced. It demonstrates how ceramics are made, and there&rsquo;ll be equipment and materials for children to have a go themselves. Last time they ran the event, there was a film about painting, which went down very well with the children, and they&rsquo;re now working on one about sculpture.</span><br><span>SUE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I like the sound of that. And what other events happen in Burnham?</span><br><span>MARTIN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Well, do you all enjoy listening to music?</span><br><span>SUE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Oh, yes.</span><br><span>MARTIN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Well there are several free concerts taking place at different times &ndash; one or two in the morning,&nbsp;the majority at lunchtime, and a couple in the evening. And they range from pop music to Latin American.</span><br><span>SUE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The Latin American could be fun. What time is that?</span><br><span>MARTIN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; It&rsquo;s being repeated several times, in different places. They&rsquo;re performing in the central library at 1 o&rsquo;clock, then at 4 it&rsquo;s in the City Museum, and in the evening, at 7.30, there&rsquo;s a longer concert, in the theatre.</span><br><span>SUE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Right. I&rsquo;ll suggest that to the rest of the family.</span><br><span>MARTIN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Something else you might be interested in is the boat race along the river.</span><br><span>SUE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Oh, yes, do tell me about that.</span><br><span>MARTIN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The race starts at Offord Marina, to the north of Burnham, and goes as far as Summer Pool. The best place to watch it from is Charlesworth Bridge, though that does get rather crowded.</span><br><span>SUE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; And who&rsquo;s taking part?</span><br><span>MARTIN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Well, local boat clubs, but the standard is very high.&nbsp;One of them came first in the West of England regional championship in May this year&nbsp;&ndash; it was the first time a team from Burnham has won. It means that next year they&rsquo;ll be representing the region in the national championship.</span><br><span>&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;</span><br><span>SUE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Now I&rsquo;ve heard something about Paxton Nature Reserve.&nbsp;It&rsquo;s a good place for spotting unusual birds, isn&rsquo;t it?</span><br><span>MARTIN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;That&rsquo;s right &ndash; throughout the year. There is a lake there, as well as a river, and they provide a very attractive habitat. So it&rsquo;s a good idea to bring binoculars if you have them.&nbsp;And just at the moment you can see various flowers that are pretty unusual&nbsp;&ndash; the soil at Paxton isn&rsquo;t very common. They&rsquo;re looking good right now.</span><br><span>SUE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Right. My husband will be particularly interested in that.</span><br><span>MARTIN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And there&rsquo;s going to be a talk and slide show about mushrooms &ndash; and you&rsquo;ll be able to go out and pick some afterwards and study the different varieties.</span><br><span>SUE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Uhuh. And is it possible for children to swim in the river?</span><br><span>MARTIN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Yes.&nbsp;Part of it has been fenced off to make it safe for children to swim in. It&rsquo;s very shallow, and there&rsquo;s a lifeguard on duty whenever it&rsquo;s open. The lake is too deep, so swimming isn&rsquo;t allowed there.</span><br><span>SUE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; OK, we must remember to bring their swimming things, in case we go to Paxton. How long does it take to get there by car from Burnham?</span><br><span>MARTIN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; About 20 minutes, but parking is very limited, so it&rsquo;s usually much easier to go by bus &ndash; and it takes about the same time.</span><br><span>SUE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Right. Well. I&rsquo;ll discuss the options with the rest of the family. Thanks very much for all your help.</span><br><span>MARTIN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; You&rsquo;re welcome.</span><br><span>SUE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Goodbye.</span><br><span>MARTIN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Bye.</span>","2":"<span>MAN:&nbsp; First of all, let me thank you all for coming to this public meeting, to discuss the future of our town. Our first speaker is Shona Ferguson, from Barford town council. Shone.</span><br><span>SHONA:&nbsp; Thank you. First I&rsquo;ll briefly give you some background information, then I&rsquo;ll be asking you for your comments on developments in the town.</span><br><span>Well, as you don&rsquo;t need me to tell you, Barford has changed a great deal in the last 50 years. These are some of the main changes.</span><br><span>Fifty years ago, buses linked virtually every part of the town and the neighbouring towns and villages. Most people used them frequently,&nbsp;but not now because the bus companies concentrate on just the routes that attract most passengers. So parts of the town are no longer served by buses. Even replacing old uncomfortable buses with smart new ones has had little impact on passenger numbers. It&rsquo;s sometimes said that bus fares are too high, but in relation to average incomes, fares are not much higher than they were 50 years ago.</span><br><span>Changes in the road network are affecting the town. The centre was recently closed to traffic on a trial basis, making it much safer to pedestrians. The impact of this is being measured.&nbsp;The new cycle paths separating bikes from cars in most main roads, are being used far more than was expected reducing traffic and improving air quality. And although the council&rsquo;s attempts to have a bypass constructed have failed, we haven&rsquo;t given up hope of persuading the government to change its mind.</span><br><span>Shopping in the town centre has changed over the years. Many of us can remember when the town was crowded with people going shopping. Numbers have been falling for several years, despite efforts to attract shoppers, for instance by opening new car parks. some people combine shopping with visits to the town&rsquo;s restaurants and caf&eacute;s. Most shops are small independent stores, which is good, but&nbsp;many people prefer to use supermarkets and department stores in nearby large towns, as there are so few well-known chain stores here.</span><br><span>Turning how to medical facilities, the town is served by family doctors in several medical practices &ndash; fewer than 50 years ago, but each catering for far more patients.&nbsp;Our hospital closed 15 years ago, which means journeys to other towns are unavoidable. On the other hand, there are more dentists than there used to be. Employment patterns have changed, along with almost everything else.&nbsp;The number of schools and colleges has increased making that the main employment sector. Services, such as website design and accountancy, have grown in importance, and surprisingly, perhaps, manufacturing hasn&rsquo;t seen the decline that has affected it in other parts of the country.</span><br><span>&mdash;&mdash;&mdash;&mdash;&mdash;-</span><br><span>Now I&rsquo;ll very quickly outline current plans for some of the town&rsquo;s facilities, before asking for your comments.</span><br><span>As you&rsquo;ll know if you regularly use the car park at the railway station, it&rsquo;s usually full. The railway company applied for permission to replace it with a multi-storey car park, but that was refused.&nbsp;Instead, the company has bought some adjoining land, and this will be used to increase the number of parking spaces.</span><br><span>The Grand, the old cinema in the high street will close at the end of the year, and reopen on a different site. You&rsquo;ve probably seen the building under construction. The plan is to have three screens with fewer seats, rather than just the one large auditorium in the old cinema.</span><br><span>I expect many of you shop in the indoor market. It&rsquo;s become more and more shabby-looking, and because of fears about safety, it was threatened with demolition.&nbsp;The good news is that it will close for sex weeks to be made safe and redecorated, and the improved building will open in July.</span><br><span>Lots of people use the library, including school and college students who go there to study.&nbsp;The council has managed to secure funding to keep the library open later into the evening, twice a week. We would like to enlarge the building in the not-too-distant future, but this is by no means definite.</span><br><span>There&rsquo;s no limit on access to the nature reserve on the edge of town, and this will continue be the case. What will change, though, is that the council will no longer be in charge of the area.&nbsp;Instead it will become the responsibility of a national body that administers most nature reserves in the country.</span><br><span>OK, now let me ask you &hellip;&nbsp;</span>","3":"<span>JEREMY:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hello, Helen. Sorry I&rsquo;m late.</span><br><span>HELEN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hi, Jeremy, no problem. Well we&rsquo;d better work out where we are on our project, I suppose.</span><br><span>JEREMY:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Yeah. I&rsquo;ve looked at the drawings you&rsquo;ve done for my story, &lsquo;The Forest&rsquo;, and I think they&rsquo;re brilliant &ndash; they really create the atmosphere I had in mind when I was writing it.</span><br><span>HELEN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I&rsquo;m glad you like them.</span><br><span>JEREMY:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; There are just a few suggestions I&rsquo;d like to make.</span><br><span>HELEN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Go ahead.</span><br><span>JEREMY:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Now, I&rsquo;m not sure about&nbsp;the drawing of the cave &ndash; it&rsquo;s got trees all around it, which is great, but the drawing&rsquo;s a bit too static, isn&rsquo;t it? I think it needs some action.</span><br><span>HELEN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Yes, there&rsquo;s nothing happening. Perhaps I should add the boy &ndash; Malcolm, isn&rsquo;t it? He would be walking up to it.</span><br><span>JEREMY:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yes, let&rsquo;s have Malcolm in the drawing. And what about putting in a tiger&nbsp;&ndash; the one that he makes friends with a bit later? Maybe it could be sitting under a tree washing itself.</span><br><span>HELEN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; And the tiger stops in the middle of what it&rsquo;s doing when it sees Malcolm walking past.</span><br><span>JEREMY:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; That&rsquo;s a good idea.</span><br><span>HELEN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; OK, I&rsquo;ll have a go at that.</span><br><span>JEREMY:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Then there&rsquo;s&nbsp;the drawing of the crowd of men and women dancing. They&rsquo;re just outside the forest, and there&rsquo;s a lot going on.</span><br><span>HELEN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; That&rsquo;s right, you wanted them to be watching a carnival procession, but I thought it would be too crowded. Do you think it works like this?</span><br><span>JEREMY:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Yes, I like what you&rsquo;ve done. The only thing is, could you add Malcolm to it, without changing what&rsquo;s already there.</span><br><span>HELEN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; What about having him sitting on the tree trunk on the right of the picture?</span><br><span>JEREMY:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Yes, that would be fine.</span><br><span>HELEN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; And do you want him watching the other people?</span><br><span>JEREMY:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; No, he&rsquo;s been left out of all the fun, so&nbsp;I&rsquo;d like him to be crying&nbsp;&ndash; that&rsquo;ll contrast nicely with the next picture, where he&rsquo;s laughing at the clowns in the carnival.</span><br><span>HELEN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Right, I&rsquo;ll do that.</span><br><span>JEREMY:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; And then the drawing of the people ice skating in the forest.</span><br><span>HELEN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I wasn&rsquo;t too happy with that one.&nbsp;Because they&rsquo;re supposed to be skating on grass aren&rsquo;t they?</span><br><span>JEREMY:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; That&rsquo;s right, and it&rsquo;s frozen over. At the moment it doesn&rsquo;t look quite right.</span><br><span>HELEN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mm, I see what you mean. I&rsquo;ll have another go at that.</span><br><span>JEREMY:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; And I like the wool hats they&rsquo;re wearing.&nbsp;Maybe you could give each of them a scarf as well.</span><br><span>HELEN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Yeah, that&rsquo;s easy enough. They can be streaming out behind the people to suggest they&rsquo;re skating really fast.</span><br><span>JEREMY:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mm, great. Well that&rsquo;s all on the drawings.</span><br><span>HELEN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Right. So you&rsquo;ve finished writing your story and I just need to finish illustrating it, and my story and your drawings are done.</span><br><span>&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&ndash;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><br><span>HELEN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; So the next thing is to decide what exactly we need to write about in the report that goes with the stories, and how we&rsquo;re going to divide the work.</span><br><span>JEREMY:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Right, Helen.</span><br><span>HELEN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; What do you think about including a section on how we planned the project as a whole, Jeremy? That&rsquo;s probably quite important.</span><br><span>JEREMY:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Yeah. Well,&nbsp;you&rsquo;ve had most of the good ideas so far. How do you feel about drafting something, then we can go through it together and discuss it?</span><br><span>HELEN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; OK, that seems reasonable. And I could include something on how we came up with the ideas for our two stories, couldn&rsquo;t I?</span><br><span>JEREMY:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Well, I&rsquo;ve started writing something about that, so why don&rsquo;t you do the same and we can include the two things.</span><br><span>HELEN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Right. So what about our interpretation of the stories? Do we need to write about what we think they show, like the value of helping other people, all that sort of thing?</span><br><span>JEREMY:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;That&rsquo;s going to come up later isn&rsquo;t it? I think everyone in the class is going to read each other&rsquo;s stories and come up with their own interpretations which we&rsquo;re going to discuss.</span><br><span>HELEN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Oh, I missed that. So it isn&rsquo;t going to be part of the report at all?</span><br><span>JEREMY:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; No. But we need to write about the illustrations, because they&rsquo;re an essential element of children&rsquo;s experience of reading the stories. It&rsquo;s probably easiest for you to write that section, as you know more about drawing than I do.</span><br><span>HELEN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Maybe, but I find it quite hard to write about.&nbsp;I&rsquo;d be happier if you did it.</span><br><span>JEREMY:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; OK. So when do you think &hellip;&nbsp;</span>","4":"<span>So what I&rsquo;m going to talk about to you today is something called Ethnography. This is a type of research aimed at exploring the way human cultures work. It was first developed for use in anthropology, and it&rsquo;s also been used in sociology and communication studies. So what&rsquo;s it got to do with business, you may ask. Well, businesses are finding that&nbsp;ethnography can offer them deeper insight into the possible needs of customers, either present or future, as well as providing valuable information about their attitudes towards existing products. And ethnography can also help companies to design new products or services that customers really want.</span><br><span>Let&rsquo;s look at some examples of how ethnographic research works in business. One team of researchers did a project for a company manufacturing kitchen equipment. They watched how cooks used measuring cups to measure out things like sugar and flour. They saw that the cooks had to check and recheck the contents, because&nbsp;although the measuring cups had numbers inside them, the cooks couldn&rsquo;t see these easily. So a new design of cup was developed to overcome this problem, and it was a top seller.</span><br><span>Another team of ethnographic researchers looked at how cell phones were used in Uganda, in Africa. They found that people who didn&rsquo;t have their own phones could pay to use the phones of local entrepreneurs. Because these customers paid in advance for their calls,&nbsp;they were eager to know how much time they&rsquo;d spent on the call so far. So the phone company designed phones for use globally with this added feature.</span><br><span>Ethnographic research has also been carried out in computer companies. In one company, IT systems administrators were observed for several weeks. It was found that a large amount of their work involved communicating with colleagues in order to solve problems, but that&nbsp;they didn&rsquo;t have a standard way of exchanging information from spreadsheets and so on. So the team came up with an idea for software that would help them to do this.</span><br><span>In another piece of research, a team observed and talked to nurses working in hospitals.&nbsp;This led to the recognition that the nurses needed to access the computer records of their patients, no matter where they were. This led to the development of a portable computer tablet that allowed the nurses to check records in locations throughout the hospital.</span><br><span>Occasionally, research can be done even in environments where the researchers can&rsquo;t be present. For example, in one project done for an airline,&nbsp;respondents used their smartphones to record information during airline trips, in a study aiming at tracking the emotions of passengers during a flight.</span><br><span>&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;</span><br><span>So what makes studies like these different from ordinary research? Let&rsquo;s look at some of the general principles behind ethnographic research in business. First of all, the researcher has to be completely open-minded &ndash; he or she hasn&rsquo;t thought up a hypothesis to be tested, as is the case in other types of research. Instead they wait for the participants in the research to inform them. As far as choosing the participants themselves is concerned, that&rsquo;s not really all that different from ordinary research &ndash; the criteria according to which the participants are chosen may be something as simple as the age bracket they fall into,&nbsp;or the researchers may select them according to their income, or they might try to find a set of people who all use a particular product, for example. But it&rsquo;s absolutely crucial to recruit the right people as participants. As well as the criteria I&rsquo;ve mentioned,&nbsp;they have to be comfortable talking about themselves and being watched as they go about their activities. Actually, most researchers say that people open up pretty easily, maybe because they&rsquo;re often in their own home of workplace.</span><br><span>So what makes this type of research special is that it&rsquo;s not just a matter of sending a questionnaire to the participants, instead&nbsp;the research is usually based on first-hand observation of what they are doing at the time. But that doesn&rsquo;t mean that the researcher never talks to the participants. However, unlike in traditional research, in this case it&rsquo;s the participant rather than the researchers who decides what direction the interview will follow. This means that there&rsquo;s less likelihood of the researcher imposing his or her own ideas on the participant.</span><br><span>But after they&rsquo;ve said goodbye to their participants and got back to their office, the researchers&rsquo; work isn&rsquo;t finished.&nbsp;Most researchers estimate that 70 to 80 per cent of their time is spent not on the collecting of data but on its analysis &ndash; looking at photos listening to recording and transcribing them and so on. The researchers may end up with hundreds of pages of notes. And to determine what&rsquo;s significant, they don&rsquo;t focus on the sensational things or the unusual things, instead they try to identify a pattern of some sort in all this data, and to discern the meaning behind it. This can result in some compelling insights that can in turn feed back to the whole design process.&nbsp;&nbsp;</span>"},"answer_sheet":{"1":{"answer":["10.30 am"],"explanation":"The gallery opens at 10, and the ‘Family Welcome’ event runs from 10.30 until 2 o’clock"},"2":{"answer":["ceramics"],"explanation":"they’re going to show a short film that the gallery has produced. It demonstrates how ceramics are made"},"3":{"answer":["at lunchtime"],"explanation":"Well there are several free concerts taking place at different times – one or two in the morning, the majority at lunchtime"},"4":{"answer":["in a museum"],"explanation":"They’re performing in the central library at 1 o’clock, then at 4 it’s in the City Museum"},"5":{"answer":["Offord Marina"],"explanation":"The race starts at Offord Marina, to the north of Burnham, and goes as far as Summer Pool."},"6":{"answer":["won a regional competition earlier this year"],"explanation":"One of them came first in the West of England regional championship in May this year"},"7":{"answer":["birds"],"explanation":"It’s a good place for spotting unusual birds, isn’t it?"},"8":{"answer":["flowers"],"explanation":"And just at the moment you can see various flowers that are pretty unusual"},"9":{"answer":["mushrooms"],"explanation":"And there’s going to be a talk and slide show about mushrooms – and you’ll be able to go out and pick some afterwards and study the different varieties."},"10":{"answer":["river"],"explanation":"Part of it has been fenced off to make it safe for children to swim in"},"11":{"answer":["There are not so many bus routes"],"explanation":"but not now because the bus companies concentrate on just the routes that attract most passengers. So parts of the town are no longer served by buses"},"12":{"answer":["the development of cycle paths"],"explanation":"The new cycle paths separating bikes from cars in most main roads, are being used far more than was expected reducing traffic and improving air quality"},"13":{"answer":["lack of major retailers"],"explanation":"many people prefer to use supermarkets and department stores in nearby large towns, as there are so few well-known chain stores here."},"14":{"answer":["There is no hospital"],"explanation":"Our hospital closed 15 years ago"},"15":{"answer":["education"],"explanation":"The number of schools and colleges has increased making that the main employment sector"},"16":{"answer":["It will be expanded"],"explanation":"Instead, the company has bought some adjoining land, and this will be used to increase the number of parking spaces."},"17":{"answer":["It will move to a new location"],"explanation":"The Grand, the old cinema in the high street will close at the end of the year, and reopen on a different site"},"18":{"answer":["It will be refurbished"],"explanation":"The good news is that it will close for sex weeks to be made safe and redecorated, and the improved building will open in July"},"19":{"answer":["It will have its opening hours extended"],"explanation":"The council has managed to secure funding to keep the library open later into the evening, twice a week"},"20":{"answer":["It will have new management"],"explanation":"Instead it will become the responsibility of a national body that administers most nature reserves in the country"},"21":{"answer":["cave"],"explanation":"Now, I’m not sure about the drawing of the cave – it’s got trees all around it"},"22":{"answer":["tiger"],"explanation":"Yes, let’s have Malcolm in the drawing. And what about putting in a tiger"},"23":{"answer":["dancing"],"explanation":"Then there’s the drawing of the crowd of men and women dancing. They’re just outside the forest"},"24":{"answer":["crying"],"explanation":"No, he’s been left out of all the fun, so I’d like him to be crying"},"25":{"answer":["grass"],"explanation":"Because they’re supposed to be skating on grass aren’t they?"},"26":{"answer":["scarf"],"explanation":"Maybe you could give each of them a scarf as well."},"27":{"answer":["Helen only"],"explanation":"you’ve had most of the good ideas so far. How do you feel about drafting something"},"28":{"answer":["both Helen and Jeremy"],"explanation":"Well, I’ve started writing something about that, so why don’t you do the same and we can include the two things."},"29":{"answer":["neither Helen nor Jeremy"],"explanation":"That’s going to come up later isn’t it? I think everyone in the class is going to read each other’s stories and come up with their own interpretations which we’re going to discuss."},"30":{"answer":["Jeremy only"],"explanation":"I’d be happier if you did it"},"31":{"answer":["attitude","attitudes"],"explanation":"ethnography can offer them deeper insight into the possible needs of customers, either present or future, as well as providing valuable information about their attitudes towards existing products"},"32":{"answer":["numbers"],"explanation":"although the measuring cups had numbers inside them, the cooks couldn’t see these easily"},"33":{"answer":["time","minutes"],"explanation":"they were eager to know how much time they’d spent on the call so far"},"34":{"answer":["software"],"explanation":"they didn’t have a standard way of exchanging information from spreadsheets and so on. So the team came up with an idea for software that would help them to do this"},"35":{"answer":["patients"],"explanation":"This led to the recognition that the nurses needed to access the computer records of their patients, no matter where they were"},"36":{"answer":["emotions","feelings"],"explanation":"respondents used their smartphones to record information during airline trips, in a study aiming at tracking the emotions of passengers during a flight"},"37":{"answer":["income"],"explanation":"or the researchers may select them according to their income"},"38":{"answer":["comfortable"],"explanation":"they have to be comfortable talking about themselves and being watched as they go about their activities"},"39":{"answer":["observation"],"explanation":"the research is usually based on first-hand observation of what they are doing at the time"},"40":{"answer":["analysis"],"explanation":"Most researchers estimate that 70 to 80 per cent of their time is spent not on the collecting of data but on its analysis – looking at photos listening to recording and transcribing them and so on"}}}}
+{
+    "name": "Cambridge IELTS 11 Academic Listening Test 3",
+    "id": "C_11_A_3_L",
+    "ielts_test_id": "C_11_A_3",
+    "type": "listening",
+    "image": "C_11_A_3_L",
+    "passages": [
+        {
+            "title": "Free activities in the Burnham area",
+            "audio": "C_11_A_3_L_1",
+            "image": "",
+            "start": 1,
+            "end": 10
+        },
+        {
+            "title": "Changes in Barford over the last 50 years",
+            "audio": "C_11_A_3_L_2",
+            "image": "",
+            "start": 11,
+            "end": 20
+        },
+        {
+            "title": "",
+            "audio": "C_11_A_3_L_3",
+            "image": "",
+            "start": 21,
+            "end": 30
+        },
+        {
+            "title": "ETHNOGRAPHY IN BUSINESS",
+            "audio": "C_11_A_3_L_4",
+            "image": "",
+            "start": 31,
+            "end": 40
+        }
+    ],
+    "question_sections": [
+        {
+            "type": "one_choice",
+            "start": 1,
+            "end": 6
+        },
+        {
+            "custom_instruction": "ONE WORD ONLY",
+            "type": "sentence_completion",
+            "start": 7,
+            "end": 10
+        },
+        {
+            "type": "one_choice",
+            "start": 11,
+            "end": 15
+        },
+        {
+            "custom_instruction": "What is planned for each of the following facilities?",
+            "type": "drop_information",
+            "start": 16,
+            "end": 20
+        },
+        {
+            "custom_instruction": "ONE WORD ONLY",
+            "type": "table_completion",
+            "start": 21,
+            "end": 26
+        },
+        {
+            "custom_instruction": "Who is going to write each of the following parts of the report?",
+            "type": "matching_features",
+            "start": 27,
+            "end": 30
+        },
+        {
+            "custom_instruction": "ONE WORD ONLY",
+            "type": "sentence_completion",
+            "start": 31,
+            "end": 40
+        }
+    ],
+    "questions": {
+        "1": {
+            "question": "<span>The &lsquo;Family Welcome&rsquo; event in the art gallery begins at</span>",
+            "options": [
+                "10 am",
+                "10.30 am",
+                "2 pm"
+            ]
+        },
+        "2": {
+            "question": "<span>The film that is now shown in the &lsquo;Family Welcome&rsquo; event is about</span>",
+            "options": [
+                "sculpture",
+                "painting",
+                "ceramics"
+            ]
+        },
+        "3": {
+            "question": "<span>When do most of the free concerts take place?</span>",
+            "options": [
+                "in the morning",
+                "at lunchtime",
+                "in the evening"
+            ]
+        },
+        "4": {
+            "question": "<span>Where will the 4 pm concert of Latin American music take place?</span>",
+            "options": [
+                "in a museum",
+                "in a theatre",
+                "in a library"
+            ]
+        },
+        "5": {
+            "question": "<span>The boat race begins at</span>",
+            "options": [
+                "Summer Pool",
+                "Charlesworth Bridge",
+                "Offord Marina"
+            ]
+        },
+        "6": {
+            "question": "<span>One of the boat race teams</span>",
+            "options": [
+                "won a regional competition earlier this year",
+                "has represented the region in a national competition",
+                "has won several regional competitions"
+            ]
+        },
+        "7": {
+            "question": [
+                "<h4><strong>Paxton Nature Reserve</strong></h4><br><span>&bull; Paxton is a good place for seeing rare </span>"
+            ]
+        },
+        "8": {
+            "question": [
+                "<span> all year round.</span><br><span>&bull; This is a particularly good time for seeing certain unusual </span>"
+            ]
+        },
+        "9": {
+            "question": [
+                "<span></span><br><span>&bull; Visitors will be able to learn about </span>"
+            ]
+        },
+        "10": {
+            "question": [
+                "<span> and then collect some.</span><br><span>&bull; Part of the </span>",
+                "<span> has been made suitable for swimming.</span>"
+            ]
+        },
+        "11": {
+            "question": "<span>In Shona&rsquo;s opinion, why do fewer people use buses in Barford these days?</span>",
+            "options": [
+                "The buses are old and uncomfortable",
+                "Fares have gone up too much",
+                "There are not so many bus routes"
+            ]
+        },
+        "12": {
+            "question": "<span>What change in the road network is known to have benefited the town most?</span>",
+            "options": [
+                "the construction of a bypass",
+                "the development of cycle paths",
+                "the banning of cars from certain streets"
+            ]
+        },
+        "13": {
+            "question": "<span>What is the problem affecting shopping in the town centre?</span>",
+            "options": [
+                "lack of parking spaces",
+                "lack of major retailers",
+                "lack of restaurants and cafés"
+            ]
+        },
+        "14": {
+            "question": "<span>What does Shona say about medical facilities in Barford?</span>",
+            "options": [
+                "There is no hospital",
+                "New medical practices are planned",
+                "The number of dentists is too low"
+            ]
+        },
+        "15": {
+            "question": "<span>The largest number of people are employed in</span>",
+            "options": [
+                "manufacturing",
+                "services",
+                "education"
+            ]
+        },
+        "16": {
+            "question": [
+                "<span><strong>Facilities</strong></span><br><span>railway station car park </span>"
+            ]
+        },
+        "17": {
+            "question": [
+                "<span></span><br><span>cinema </span>"
+            ]
+        },
+        "18": {
+            "question": [
+                "<span></span><br><span>indoor market </span>"
+            ]
+        },
+        "19": {
+            "question": [
+                "<span></span><br><span>library </span>"
+            ]
+        },
+        "20": {
+            "question": [
+                "<span></span><br><span>nature reserve </span>",
+                "<span></span>"
+            ],
+            "options": [
+                "It will move to a new location",
+                "It will have its opening hours extended",
+                "It will be refurbished",
+                "It will be used for a different purpose",
+                "It will have its opening hours reduced",
+                "It will have new management",
+                "It will be expanded"
+            ]
+        },
+        "21": {
+            "question": []
+        },
+        "22": {
+            "question": []
+        },
+        "23": {
+            "question": []
+        },
+        "24": {
+            "question": []
+        },
+        "25": {
+            "question": []
+        },
+        "26": {
+            "question": [
+                [
+                    {
+                        "content": "<span><strong>Subject of drawing</strong></span>"
+                    },
+                    {
+                        "content": "<span><strong>Change to be made</strong></span>"
+                    }
+                ],
+                [
+                    {
+                        "content": [
+                            "<span>A </span>",
+                            "<span> surrounded by trees</span>"
+                        ]
+                    },
+                    {
+                        "content": [
+                            "<span>Add Malcolm and a </span>",
+                            "<span>&nbsp;noticing him</span>"
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "content": [
+                            "<span>People who are </span>",
+                            "<span>&nbsp;outside the forest</span>"
+                        ]
+                    },
+                    {
+                        "content": [
+                            "<span>Add Malcolm sitting on a tree trunk and </span>",
+                            "<span></span>"
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "content": [
+                            "<span>Ice-skaters on </span>",
+                            "<span>&nbsp;covered with ice</span>"
+                        ]
+                    },
+                    {
+                        "content": [
+                            "<span>Add a </span>",
+                            "<span>&nbsp;for each person</span>"
+                        ]
+                    }
+                ]
+            ]
+        },
+        "27": {
+            "question": "<span>how they planned the project</span>"
+        },
+        "28": {
+            "question": "<span>how they had ideas for their stories</span>"
+        },
+        "29": {
+            "question": "<span>an interpretation of their stories</span>"
+        },
+        "30": {
+            "question": "<span>comments on the illustrations</span>",
+            "options": [
+                "Helen only",
+                "Jeremy only",
+                "both Helen and Jeremy",
+                "neither Helen nor Jeremy"
+            ]
+        },
+        "31": {
+            "question": [
+                "<span>Ethnography: research which explores human cultures</span><br><span>It can be used in business:</span><br><span>&bull; &nbsp; to investigate customer needs and </span>"
+            ]
+        },
+        "32": {
+            "question": [
+                "<span></span><br><span>&bull; &nbsp; to help companies develop new designs</span><br><span><strong>Examples of ethnographic research in business</strong></span><br><span>Kitchen equipment</span><br><span>&bull; &nbsp; Researchers found that cooks could not easily see the </span>"
+            ]
+        },
+        "33": {
+            "question": [
+                "<span>&nbsp;in measuring cups.</span><br><span>Cell phones</span><br><span>&bull; &nbsp; In Uganda, customers paid to use the cell phones of entrepreneurs.</span><br><span>&bull; &nbsp; These customers wanted to check the </span>"
+            ]
+        },
+        "34": {
+            "question": [
+                "<span>&nbsp;used.</span><br><span>Computer companies</span><br><span>&bull; &nbsp; There was a need to develop </span>"
+            ]
+        },
+        "35": {
+            "question": [
+                "<span>&nbsp;to improve communication between system administrators and colleagues.</span><br><span>Hospitals</span><br><span>&bull; &nbsp; Nurses needed to access information about </span>"
+            ]
+        },
+        "36": {
+            "question": [
+                "<span>&nbsp;in different parts of the hospital.</span><br><span>Airlines</span><br><span>&bull; &nbsp; Respondents recorded information about their </span>"
+            ]
+        },
+        "37": {
+            "question": [
+                "<span>&nbsp;while travelling.</span><br><span><strong>Principles of ethnographic research in business</strong></span><br><span>&bull; &nbsp; The researcher does not start off with a hypothesis.</span><br><span>&bull; &nbsp; Participants may be selected by criteria such as age, </span>"
+            ]
+        },
+        "38": {
+            "question": [
+                "<span>&nbsp;or product used.</span><br><span>&bull; &nbsp; The participants must feel </span>"
+            ]
+        },
+        "39": {
+            "question": [
+                "<span>&nbsp;about taking part in the research.</span><br><span>&bull; &nbsp; There is usually direct </span>"
+            ]
+        },
+        "40": {
+            "question": [
+                "<span>&nbsp;of the participants.</span><br><span>&bull; &nbsp; The interview is guided by the participant.</span><br><span>&bull; &nbsp; A lot of time is needed for the </span>",
+                "<span>&nbsp;of the data.</span><br><span>&bull; &nbsp; Researchers look for a meaningful pattern in the data.</span>"
+            ]
+        }
+    },
+    "answers": {
+        "transcripts": {
+            "1": "<span>MARTIN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Good morning. This is Burnham tourist, Martin speaking.</span><br><span>SUE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Oh, hello. I saw a poster about free things to do in the area, and it said people should phone you for information. I&rsquo;m coming to Burnham with my husband and two children for a few days on June the 27th, or possibly the 28th, and&nbsp;I&rsquo;d like some ideas for things to do on the 29th. (Example)</span><br><span>MARTIN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Yes, of course. OK. Then let&rsquo;s start with a couple of events especially for children. The art gallery is holding an event called &lsquo;Family Welcome&rsquo; that day, when there are activities and trails to use throughout the gallery.</span><br><span>SUE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; That sounds interesting. What time does it start?</span><br><span>MARTIN: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;The gallery opens at 10, and the &lsquo;Family Welcome&rsquo; event runs from 10.30 until 2 o&rsquo;clock. The gallery stays open until 5. And several times during the day,&nbsp;they&rsquo;re going to show a short film that the gallery has produced. It demonstrates how ceramics are made, and there&rsquo;ll be equipment and materials for children to have a go themselves. Last time they ran the event, there was a film about painting, which went down very well with the children, and they&rsquo;re now working on one about sculpture.</span><br><span>SUE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I like the sound of that. And what other events happen in Burnham?</span><br><span>MARTIN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Well, do you all enjoy listening to music?</span><br><span>SUE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Oh, yes.</span><br><span>MARTIN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Well there are several free concerts taking place at different times &ndash; one or two in the morning,&nbsp;the majority at lunchtime, and a couple in the evening. And they range from pop music to Latin American.</span><br><span>SUE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The Latin American could be fun. What time is that?</span><br><span>MARTIN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; It&rsquo;s being repeated several times, in different places. They&rsquo;re performing in the central library at 1 o&rsquo;clock, then at 4 it&rsquo;s in the City Museum, and in the evening, at 7.30, there&rsquo;s a longer concert, in the theatre.</span><br><span>SUE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Right. I&rsquo;ll suggest that to the rest of the family.</span><br><span>MARTIN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Something else you might be interested in is the boat race along the river.</span><br><span>SUE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Oh, yes, do tell me about that.</span><br><span>MARTIN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The race starts at Offord Marina, to the north of Burnham, and goes as far as Summer Pool. The best place to watch it from is Charlesworth Bridge, though that does get rather crowded.</span><br><span>SUE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; And who&rsquo;s taking part?</span><br><span>MARTIN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Well, local boat clubs, but the standard is very high.&nbsp;One of them came first in the West of England regional championship in May this year&nbsp;&ndash; it was the first time a team from Burnham has won. It means that next year they&rsquo;ll be representing the region in the national championship.</span><br><span>&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;</span><br><span>SUE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Now I&rsquo;ve heard something about Paxton Nature Reserve.&nbsp;It&rsquo;s a good place for spotting unusual birds, isn&rsquo;t it?</span><br><span>MARTIN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;That&rsquo;s right &ndash; throughout the year. There is a lake there, as well as a river, and they provide a very attractive habitat. So it&rsquo;s a good idea to bring binoculars if you have them.&nbsp;And just at the moment you can see various flowers that are pretty unusual&nbsp;&ndash; the soil at Paxton isn&rsquo;t very common. They&rsquo;re looking good right now.</span><br><span>SUE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Right. My husband will be particularly interested in that.</span><br><span>MARTIN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And there&rsquo;s going to be a talk and slide show about mushrooms &ndash; and you&rsquo;ll be able to go out and pick some afterwards and study the different varieties.</span><br><span>SUE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Uhuh. And is it possible for children to swim in the river?</span><br><span>MARTIN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Yes.&nbsp;Part of it has been fenced off to make it safe for children to swim in. It&rsquo;s very shallow, and there&rsquo;s a lifeguard on duty whenever it&rsquo;s open. The lake is too deep, so swimming isn&rsquo;t allowed there.</span><br><span>SUE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; OK, we must remember to bring their swimming things, in case we go to Paxton. How long does it take to get there by car from Burnham?</span><br><span>MARTIN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; About 20 minutes, but parking is very limited, so it&rsquo;s usually much easier to go by bus &ndash; and it takes about the same time.</span><br><span>SUE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Right. Well. I&rsquo;ll discuss the options with the rest of the family. Thanks very much for all your help.</span><br><span>MARTIN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; You&rsquo;re welcome.</span><br><span>SUE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Goodbye.</span><br><span>MARTIN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Bye.</span>",
+            "2": "<span>MAN:&nbsp; First of all, let me thank you all for coming to this public meeting, to discuss the future of our town. Our first speaker is Shona Ferguson, from Barford town council. Shone.</span><br><span>SHONA:&nbsp; Thank you. First I&rsquo;ll briefly give you some background information, then I&rsquo;ll be asking you for your comments on developments in the town.</span><br><span>Well, as you don&rsquo;t need me to tell you, Barford has changed a great deal in the last 50 years. These are some of the main changes.</span><br><span>Fifty years ago, buses linked virtually every part of the town and the neighbouring towns and villages. Most people used them frequently,&nbsp;but not now because the bus companies concentrate on just the routes that attract most passengers. So parts of the town are no longer served by buses. Even replacing old uncomfortable buses with smart new ones has had little impact on passenger numbers. It&rsquo;s sometimes said that bus fares are too high, but in relation to average incomes, fares are not much higher than they were 50 years ago.</span><br><span>Changes in the road network are affecting the town. The centre was recently closed to traffic on a trial basis, making it much safer to pedestrians. The impact of this is being measured.&nbsp;The new cycle paths separating bikes from cars in most main roads, are being used far more than was expected reducing traffic and improving air quality. And although the council&rsquo;s attempts to have a bypass constructed have failed, we haven&rsquo;t given up hope of persuading the government to change its mind.</span><br><span>Shopping in the town centre has changed over the years. Many of us can remember when the town was crowded with people going shopping. Numbers have been falling for several years, despite efforts to attract shoppers, for instance by opening new car parks. some people combine shopping with visits to the town&rsquo;s restaurants and caf&eacute;s. Most shops are small independent stores, which is good, but&nbsp;many people prefer to use supermarkets and department stores in nearby large towns, as there are so few well-known chain stores here.</span><br><span>Turning how to medical facilities, the town is served by family doctors in several medical practices &ndash; fewer than 50 years ago, but each catering for far more patients.&nbsp;Our hospital closed 15 years ago, which means journeys to other towns are unavoidable. On the other hand, there are more dentists than there used to be. Employment patterns have changed, along with almost everything else.&nbsp;The number of schools and colleges has increased making that the main employment sector. Services, such as website design and accountancy, have grown in importance, and surprisingly, perhaps, manufacturing hasn&rsquo;t seen the decline that has affected it in other parts of the country.</span><br><span>&mdash;&mdash;&mdash;&mdash;&mdash;-</span><br><span>Now I&rsquo;ll very quickly outline current plans for some of the town&rsquo;s facilities, before asking for your comments.</span><br><span>As you&rsquo;ll know if you regularly use the car park at the railway station, it&rsquo;s usually full. The railway company applied for permission to replace it with a multi-storey car park, but that was refused.&nbsp;Instead, the company has bought some adjoining land, and this will be used to increase the number of parking spaces.</span><br><span>The Grand, the old cinema in the high street will close at the end of the year, and reopen on a different site. You&rsquo;ve probably seen the building under construction. The plan is to have three screens with fewer seats, rather than just the one large auditorium in the old cinema.</span><br><span>I expect many of you shop in the indoor market. It&rsquo;s become more and more shabby-looking, and because of fears about safety, it was threatened with demolition.&nbsp;The good news is that it will close for sex weeks to be made safe and redecorated, and the improved building will open in July.</span><br><span>Lots of people use the library, including school and college students who go there to study.&nbsp;The council has managed to secure funding to keep the library open later into the evening, twice a week. We would like to enlarge the building in the not-too-distant future, but this is by no means definite.</span><br><span>There&rsquo;s no limit on access to the nature reserve on the edge of town, and this will continue be the case. What will change, though, is that the council will no longer be in charge of the area.&nbsp;Instead it will become the responsibility of a national body that administers most nature reserves in the country.</span><br><span>OK, now let me ask you &hellip;&nbsp;</span>",
+            "3": "<span>JEREMY:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hello, Helen. Sorry I&rsquo;m late.</span><br><span>HELEN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hi, Jeremy, no problem. Well we&rsquo;d better work out where we are on our project, I suppose.</span><br><span>JEREMY:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Yeah. I&rsquo;ve looked at the drawings you&rsquo;ve done for my story, &lsquo;The Forest&rsquo;, and I think they&rsquo;re brilliant &ndash; they really create the atmosphere I had in mind when I was writing it.</span><br><span>HELEN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I&rsquo;m glad you like them.</span><br><span>JEREMY:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; There are just a few suggestions I&rsquo;d like to make.</span><br><span>HELEN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Go ahead.</span><br><span>JEREMY:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Now, I&rsquo;m not sure about&nbsp;the drawing of the cave &ndash; it&rsquo;s got trees all around it, which is great, but the drawing&rsquo;s a bit too static, isn&rsquo;t it? I think it needs some action.</span><br><span>HELEN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Yes, there&rsquo;s nothing happening. Perhaps I should add the boy &ndash; Malcolm, isn&rsquo;t it? He would be walking up to it.</span><br><span>JEREMY:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yes, let&rsquo;s have Malcolm in the drawing. And what about putting in a tiger&nbsp;&ndash; the one that he makes friends with a bit later? Maybe it could be sitting under a tree washing itself.</span><br><span>HELEN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; And the tiger stops in the middle of what it&rsquo;s doing when it sees Malcolm walking past.</span><br><span>JEREMY:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; That&rsquo;s a good idea.</span><br><span>HELEN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; OK, I&rsquo;ll have a go at that.</span><br><span>JEREMY:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Then there&rsquo;s&nbsp;the drawing of the crowd of men and women dancing. They&rsquo;re just outside the forest, and there&rsquo;s a lot going on.</span><br><span>HELEN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; That&rsquo;s right, you wanted them to be watching a carnival procession, but I thought it would be too crowded. Do you think it works like this?</span><br><span>JEREMY:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Yes, I like what you&rsquo;ve done. The only thing is, could you add Malcolm to it, without changing what&rsquo;s already there.</span><br><span>HELEN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; What about having him sitting on the tree trunk on the right of the picture?</span><br><span>JEREMY:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Yes, that would be fine.</span><br><span>HELEN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; And do you want him watching the other people?</span><br><span>JEREMY:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; No, he&rsquo;s been left out of all the fun, so&nbsp;I&rsquo;d like him to be crying&nbsp;&ndash; that&rsquo;ll contrast nicely with the next picture, where he&rsquo;s laughing at the clowns in the carnival.</span><br><span>HELEN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Right, I&rsquo;ll do that.</span><br><span>JEREMY:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; And then the drawing of the people ice skating in the forest.</span><br><span>HELEN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I wasn&rsquo;t too happy with that one.&nbsp;Because they&rsquo;re supposed to be skating on grass aren&rsquo;t they?</span><br><span>JEREMY:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; That&rsquo;s right, and it&rsquo;s frozen over. At the moment it doesn&rsquo;t look quite right.</span><br><span>HELEN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mm, I see what you mean. I&rsquo;ll have another go at that.</span><br><span>JEREMY:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; And I like the wool hats they&rsquo;re wearing.&nbsp;Maybe you could give each of them a scarf as well.</span><br><span>HELEN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Yeah, that&rsquo;s easy enough. They can be streaming out behind the people to suggest they&rsquo;re skating really fast.</span><br><span>JEREMY:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mm, great. Well that&rsquo;s all on the drawings.</span><br><span>HELEN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Right. So you&rsquo;ve finished writing your story and I just need to finish illustrating it, and my story and your drawings are done.</span><br><span>&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&ndash;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><br><span>HELEN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; So the next thing is to decide what exactly we need to write about in the report that goes with the stories, and how we&rsquo;re going to divide the work.</span><br><span>JEREMY:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Right, Helen.</span><br><span>HELEN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; What do you think about including a section on how we planned the project as a whole, Jeremy? That&rsquo;s probably quite important.</span><br><span>JEREMY:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Yeah. Well,&nbsp;you&rsquo;ve had most of the good ideas so far. How do you feel about drafting something, then we can go through it together and discuss it?</span><br><span>HELEN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; OK, that seems reasonable. And I could include something on how we came up with the ideas for our two stories, couldn&rsquo;t I?</span><br><span>JEREMY:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Well, I&rsquo;ve started writing something about that, so why don&rsquo;t you do the same and we can include the two things.</span><br><span>HELEN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Right. So what about our interpretation of the stories? Do we need to write about what we think they show, like the value of helping other people, all that sort of thing?</span><br><span>JEREMY:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;That&rsquo;s going to come up later isn&rsquo;t it? I think everyone in the class is going to read each other&rsquo;s stories and come up with their own interpretations which we&rsquo;re going to discuss.</span><br><span>HELEN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Oh, I missed that. So it isn&rsquo;t going to be part of the report at all?</span><br><span>JEREMY:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; No. But we need to write about the illustrations, because they&rsquo;re an essential element of children&rsquo;s experience of reading the stories. It&rsquo;s probably easiest for you to write that section, as you know more about drawing than I do.</span><br><span>HELEN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Maybe, but I find it quite hard to write about.&nbsp;I&rsquo;d be happier if you did it.</span><br><span>JEREMY:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; OK. So when do you think &hellip;&nbsp;</span>",
+            "4": "<span>So what I&rsquo;m going to talk about to you today is something called Ethnography. This is a type of research aimed at exploring the way human cultures work. It was first developed for use in anthropology, and it&rsquo;s also been used in sociology and communication studies. So what&rsquo;s it got to do with business, you may ask. Well, businesses are finding that&nbsp;ethnography can offer them deeper insight into the possible needs of customers, either present or future, as well as providing valuable information about their attitudes towards existing products. And ethnography can also help companies to design new products or services that customers really want.</span><br><span>Let&rsquo;s look at some examples of how ethnographic research works in business. One team of researchers did a project for a company manufacturing kitchen equipment. They watched how cooks used measuring cups to measure out things like sugar and flour. They saw that the cooks had to check and recheck the contents, because&nbsp;although the measuring cups had numbers inside them, the cooks couldn&rsquo;t see these easily. So a new design of cup was developed to overcome this problem, and it was a top seller.</span><br><span>Another team of ethnographic researchers looked at how cell phones were used in Uganda, in Africa. They found that people who didn&rsquo;t have their own phones could pay to use the phones of local entrepreneurs. Because these customers paid in advance for their calls,&nbsp;they were eager to know how much time they&rsquo;d spent on the call so far. So the phone company designed phones for use globally with this added feature.</span><br><span>Ethnographic research has also been carried out in computer companies. In one company, IT systems administrators were observed for several weeks. It was found that a large amount of their work involved communicating with colleagues in order to solve problems, but that&nbsp;they didn&rsquo;t have a standard way of exchanging information from spreadsheets and so on. So the team came up with an idea for software that would help them to do this.</span><br><span>In another piece of research, a team observed and talked to nurses working in hospitals.&nbsp;This led to the recognition that the nurses needed to access the computer records of their patients, no matter where they were. This led to the development of a portable computer tablet that allowed the nurses to check records in locations throughout the hospital.</span><br><span>Occasionally, research can be done even in environments where the researchers can&rsquo;t be present. For example, in one project done for an airline,&nbsp;respondents used their smartphones to record information during airline trips, in a study aiming at tracking the emotions of passengers during a flight.</span><br><span>&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;</span><br><span>So what makes studies like these different from ordinary research? Let&rsquo;s look at some of the general principles behind ethnographic research in business. First of all, the researcher has to be completely open-minded &ndash; he or she hasn&rsquo;t thought up a hypothesis to be tested, as is the case in other types of research. Instead they wait for the participants in the research to inform them. As far as choosing the participants themselves is concerned, that&rsquo;s not really all that different from ordinary research &ndash; the criteria according to which the participants are chosen may be something as simple as the age bracket they fall into,&nbsp;or the researchers may select them according to their income, or they might try to find a set of people who all use a particular product, for example. But it&rsquo;s absolutely crucial to recruit the right people as participants. As well as the criteria I&rsquo;ve mentioned,&nbsp;they have to be comfortable talking about themselves and being watched as they go about their activities. Actually, most researchers say that people open up pretty easily, maybe because they&rsquo;re often in their own home of workplace.</span><br><span>So what makes this type of research special is that it&rsquo;s not just a matter of sending a questionnaire to the participants, instead&nbsp;the research is usually based on first-hand observation of what they are doing at the time. But that doesn&rsquo;t mean that the researcher never talks to the participants. However, unlike in traditional research, in this case it&rsquo;s the participant rather than the researchers who decides what direction the interview will follow. This means that there&rsquo;s less likelihood of the researcher imposing his or her own ideas on the participant.</span><br><span>But after they&rsquo;ve said goodbye to their participants and got back to their office, the researchers&rsquo; work isn&rsquo;t finished.&nbsp;Most researchers estimate that 70 to 80 per cent of their time is spent not on the collecting of data but on its analysis &ndash; looking at photos listening to recording and transcribing them and so on. The researchers may end up with hundreds of pages of notes. And to determine what&rsquo;s significant, they don&rsquo;t focus on the sensational things or the unusual things, instead they try to identify a pattern of some sort in all this data, and to discern the meaning behind it. This can result in some compelling insights that can in turn feed back to the whole design process.&nbsp;&nbsp;</span>"
+        },
+        "answer_sheet": {
+            "1": {
+                "answer": [
+                    "10.30 am"
+                ],
+                "explanation": "The gallery opens at 10, and the ‘Family Welcome’ event runs from 10.30 until 2 o’clock"
+            },
+            "2": {
+                "answer": [
+                    "ceramics"
+                ],
+                "explanation": "they’re going to show a short film that the gallery has produced. It demonstrates how ceramics are made"
+            },
+            "3": {
+                "answer": [
+                    "at lunchtime"
+                ],
+                "explanation": "Well there are several free concerts taking place at different times – one or two in the morning, the majority at lunchtime"
+            },
+            "4": {
+                "answer": [
+                    "in a museum"
+                ],
+                "explanation": "They’re performing in the central library at 1 o’clock, then at 4 it’s in the City Museum"
+            },
+            "5": {
+                "answer": [
+                    "Offord Marina"
+                ],
+                "explanation": "The race starts at Offord Marina, to the north of Burnham, and goes as far as Summer Pool."
+            },
+            "6": {
+                "answer": [
+                    "won a regional competition earlier this year"
+                ],
+                "explanation": "One of them came first in the West of England regional championship in May this year"
+            },
+            "7": {
+                "answer": [
+                    "birds"
+                ],
+                "explanation": "It’s a good place for spotting unusual birds, isn’t it?"
+            },
+            "8": {
+                "answer": [
+                    "flowers"
+                ],
+                "explanation": "And just at the moment you can see various flowers that are pretty unusual"
+            },
+            "9": {
+                "answer": [
+                    "mushrooms"
+                ],
+                "explanation": "And there’s going to be a talk and slide show about mushrooms – and you’ll be able to go out and pick some afterwards and study the different varieties."
+            },
+            "10": {
+                "answer": [
+                    "river"
+                ],
+                "explanation": "Part of it has been fenced off to make it safe for children to swim in"
+            },
+            "11": {
+                "answer": [
+                    "There are not so many bus routes"
+                ],
+                "explanation": "but not now because the bus companies concentrate on just the routes that attract most passengers. So parts of the town are no longer served by buses"
+            },
+            "12": {
+                "answer": [
+                    "the development of cycle paths"
+                ],
+                "explanation": "The new cycle paths separating bikes from cars in most main roads, are being used far more than was expected reducing traffic and improving air quality"
+            },
+            "13": {
+                "answer": [
+                    "lack of major retailers"
+                ],
+                "explanation": "many people prefer to use supermarkets and department stores in nearby large towns, as there are so few well-known chain stores here."
+            },
+            "14": {
+                "answer": [
+                    "There is no hospital"
+                ],
+                "explanation": "Our hospital closed 15 years ago"
+            },
+            "15": {
+                "answer": [
+                    "education"
+                ],
+                "explanation": "The number of schools and colleges has increased making that the main employment sector"
+            },
+            "16": {
+                "answer": [
+                    "It will be expanded"
+                ],
+                "explanation": "Instead, the company has bought some adjoining land, and this will be used to increase the number of parking spaces."
+            },
+            "17": {
+                "answer": [
+                    "It will move to a new location"
+                ],
+                "explanation": "The Grand, the old cinema in the high street will close at the end of the year, and reopen on a different site"
+            },
+            "18": {
+                "answer": [
+                    "It will be refurbished"
+                ],
+                "explanation": "The good news is that it will close for sex weeks to be made safe and redecorated, and the improved building will open in July"
+            },
+            "19": {
+                "answer": [
+                    "It will have its opening hours extended"
+                ],
+                "explanation": "The council has managed to secure funding to keep the library open later into the evening, twice a week"
+            },
+            "20": {
+                "answer": [
+                    "It will have new management"
+                ],
+                "explanation": "Instead it will become the responsibility of a national body that administers most nature reserves in the country"
+            },
+            "21": {
+                "answer": [
+                    "cave"
+                ],
+                "explanation": "Now, I’m not sure about the drawing of the cave – it’s got trees all around it"
+            },
+            "22": {
+                "answer": [
+                    "tiger"
+                ],
+                "explanation": "Yes, let’s have Malcolm in the drawing. And what about putting in a tiger"
+            },
+            "23": {
+                "answer": [
+                    "dancing"
+                ],
+                "explanation": "Then there’s the drawing of the crowd of men and women dancing. They’re just outside the forest"
+            },
+            "24": {
+                "answer": [
+                    "crying"
+                ],
+                "explanation": "No, he’s been left out of all the fun, so I’d like him to be crying"
+            },
+            "25": {
+                "answer": [
+                    "grass"
+                ],
+                "explanation": "Because they’re supposed to be skating on grass aren’t they?"
+            },
+            "26": {
+                "answer": [
+                    "scarf"
+                ],
+                "explanation": "Maybe you could give each of them a scarf as well."
+            },
+            "27": {
+                "answer": [
+                    "Helen only"
+                ],
+                "explanation": "you’ve had most of the good ideas so far. How do you feel about drafting something"
+            },
+            "28": {
+                "answer": [
+                    "both Helen and Jeremy"
+                ],
+                "explanation": "Well, I’ve started writing something about that, so why don’t you do the same and we can include the two things."
+            },
+            "29": {
+                "answer": [
+                    "neither Helen nor Jeremy"
+                ],
+                "explanation": "That’s going to come up later isn’t it? I think everyone in the class is going to read each other’s stories and come up with their own interpretations which we’re going to discuss."
+            },
+            "30": {
+                "answer": [
+                    "Jeremy only"
+                ],
+                "explanation": "I’d be happier if you did it"
+            },
+            "31": {
+                "answer": [
+                    "attitude",
+                    "attitudes"
+                ],
+                "explanation": "ethnography can offer them deeper insight into the possible needs of customers, either present or future, as well as providing valuable information about their attitudes towards existing products"
+            },
+            "32": {
+                "answer": [
+                    "numbers"
+                ],
+                "explanation": "although the measuring cups had numbers inside them, the cooks couldn’t see these easily"
+            },
+            "33": {
+                "answer": [
+                    "time",
+                    "minutes"
+                ],
+                "explanation": "they were eager to know how much time they’d spent on the call so far"
+            },
+            "34": {
+                "answer": [
+                    "software"
+                ],
+                "explanation": "they didn’t have a standard way of exchanging information from spreadsheets and so on. So the team came up with an idea for software that would help them to do this"
+            },
+            "35": {
+                "answer": [
+                    "patients"
+                ],
+                "explanation": "This led to the recognition that the nurses needed to access the computer records of their patients, no matter where they were"
+            },
+            "36": {
+                "answer": [
+                    "emotions",
+                    "feelings"
+                ],
+                "explanation": "respondents used their smartphones to record information during airline trips, in a study aiming at tracking the emotions of passengers during a flight"
+            },
+            "37": {
+                "answer": [
+                    "income"
+                ],
+                "explanation": "or the researchers may select them according to their income"
+            },
+            "38": {
+                "answer": [
+                    "comfortable"
+                ],
+                "explanation": "they have to be comfortable talking about themselves and being watched as they go about their activities"
+            },
+            "39": {
+                "answer": [
+                    "observation"
+                ],
+                "explanation": "the research is usually based on first-hand observation of what they are doing at the time"
+            },
+            "40": {
+                "answer": [
+                    "analysis"
+                ],
+                "explanation": "Most researchers estimate that 70 to 80 per cent of their time is spent not on the collecting of data but on its analysis – looking at photos listening to recording and transcribing them and so on"
+            }
+        }
+    }
+}

@@ -1,1 +1,41 @@
-{"name":"Cambridge IELTS 17 Academic Speaking Test 4","id":"C_17_A_4_S","ielts_test_id":"C_17_A_4","type":"speaking","image":"C_17_A_4_S","passages":[{"title":"Maps","questions":["<span>Do you think it&rsquo;s better to use a paper map or a map on your phone? [Why?]</span>","<span>When was the last time you needed to use a map? [Why/Why not?]</span>","<span>If you visit a new city, do you always use a map to find your way around? [Why/Why not?]</span>","<span>In general, do you find it easy to read maps? [Why/Why not?]</span>"],"start":1,"end":1},{"title":"Describe an occasion","questions":["<span>Describe an occasion when you had to do something in a hurry.</span><br><span>You should say:</span><br><span>&nbsp; &nbsp;what you had to do</span><br><span>&nbsp; &nbsp;why you had to do this in a hurry</span><br><span>&nbsp; &nbsp;how well you did this</span><br><span>and explain how you felt about having to do this in a hurry.</span>"],"start":2,"end":2},{"title":"Arriving late & Managing study time","questions":["<span>Do you think it&rsquo;s OK to arrive late when meeting a friend?</span>","<span>What should happen to people who arrive late for work?</span>","<span>Can you suggest how people can make sure they don&rsquo;t arrive late?</span>","<span>Is it better to study for long periods or in shorter blocks of time?</span>","<span>What are the likely effects of students not managing their study time well?</span>","<span>How important is it for students to have enough leisure time?</span>"],"start":3,"end":3}]}
+{
+    "name": "Cambridge IELTS 17 Academic Speaking Test 4",
+    "id": "C_17_A_4_S",
+    "ielts_test_id": "C_17_A_4",
+    "type": "speaking",
+    "image": "C_17_A_4_S",
+    "passages": [
+        {
+            "title": "Maps",
+            "questions": [
+                "<span>Do you think it&rsquo;s better to use a paper map or a map on your phone? [Why?]</span>",
+                "<span>When was the last time you needed to use a map? [Why/Why not?]</span>",
+                "<span>If you visit a new city, do you always use a map to find your way around? [Why/Why not?]</span>",
+                "<span>In general, do you find it easy to read maps? [Why/Why not?]</span>"
+            ],
+            "start": 1,
+            "end": 1
+        },
+        {
+            "title": "Describe an occasion",
+            "questions": [
+                "<span>Describe an occasion when you had to do something in a hurry.</span><br><span>You should say:</span><br><span>&nbsp; &nbsp;what you had to do</span><br><span>&nbsp; &nbsp;why you had to do this in a hurry</span><br><span>&nbsp; &nbsp;how well you did this</span><br><span>and explain how you felt about having to do this in a hurry.</span>"
+            ],
+            "start": 2,
+            "end": 2
+        },
+        {
+            "title": "Arriving late & Managing study time",
+            "questions": [
+                "<span>Do you think it&rsquo;s OK to arrive late when meeting a friend?</span>",
+                "<span>What should happen to people who arrive late for work?</span>",
+                "<span>Can you suggest how people can make sure they don&rsquo;t arrive late?</span>",
+                "<span>Is it better to study for long periods or in shorter blocks of time?</span>",
+                "<span>What are the likely effects of students not managing their study time well?</span>",
+                "<span>How important is it for students to have enough leisure time?</span>"
+            ],
+            "start": 3,
+            "end": 3
+        }
+    ]
+}
